@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 14 日消息，据中国台湾地区媒体《电子时报》今天报道，随着 Vera Rubin 进入量产爬坡期，英伟达正提前启动重大迭代产品研发。目前已有消息称，英伟达正在将研发与供应链资源推向下一代 GPU 产品“Feynman”。\n\n据悉，Rubin 以多颗小芯片与高带宽内存（HBM）整合为主，而 Feynman 则将朝向 3D 小芯片、SoIC（小尺寸集成电路）及共封装光学（IT之家注：CPO）发展。\n\n业界消息指出，Feynman 平台预计将使用台积电 2nm 制程升级版的 A16 制程，并提高 SoIC 3D 堆叠技术导入，搭配定制 HBM 和 CPO。\n\n英伟达已经是台积电先进制程工艺的最大客户。英伟达快速迭代产品架构，也将让台积电新技术快速推进。\n\n供应链表示，台积电 SoIC 可将 SoC 切分成小芯片，支持 Chip-on-Wafer（CoW）和 Wafer-on-Wafer（WoW），通过晶粒垂直堆叠缩短信号传输距离，提高带宽并降低延迟和功耗。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-14T11:30:56.954Z",
+    "publishedAt": "2026-08-14T12:29:58.919Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
