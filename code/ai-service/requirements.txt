@@ -1,0 +1,11 @@
+# GlobalInsight AI 微服务依赖
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pydantic==2.9.0
+httpx==0.27.0
+python-dotenv==1.0.1
+# 可选：生产环境使用以下库进行真实 AI 推理
+# openai==1.50.0
+# transformers==4.45.0
+# torch==2.4.0
+# textblob==0.18.0

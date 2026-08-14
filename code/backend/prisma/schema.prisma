@@ -1,0 +1,115 @@
+// GlobalInsight 数据模型 — 参考规划书 §4
+// 生成命令: npx prisma generate
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ─── 核心：文章 ───
+model Article {
+  id          String   @id @default(cuid())
+  title       String
+  url         String   @unique
+  source      String   // 数据源名称: newsapi / hackernews / reddit / devto
+  sourceId    String?  // 外部数据源中的原始 ID
+  category    String   // business / ai / technology / science / general
+  summary     String?  // AI 生成的摘要
+  content     String?  // 完整内容（仅存储摘要级别，规避版权）
+  imageUrl    String?
+  authorName  String?
+  publishedAt DateTime
+  fetchedAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  sentiment   Float?   // 情感分数 -1 ~ 1
+  tags        String   @default("[]") // 关键词标签 JSON 数组字符串
+  viewCount   Int      @default(0)
+
+  bookmarks     Bookmark[]
+  subscriptions Subscription[]
+
+  @@index([category, publishedAt(sort: Desc)])
+  @@index([source])
+  @@index([publishedAt(sort: Desc)])
+  @@index([tags])
+  @@map("articles")
+}
+
+// ─── 用户 ───
+model User {
+  id            String   @id @default(cuid())
+  email         String?  @unique
+  name          String?
+  image         String?
+  role          String   @default("user") // user / admin
+  preferences   Json?    // 偏好设置 JSON
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  bookmarks     Bookmark[]
+  subscriptions Subscription[]
+
+  @@map("users")
+}
+
+// ─── 收藏 ───
+model Bookmark {
+  id        String   @id @default(cuid())
+  userId    String
+  articleId String
+  createdAt DateTime @default(now())
+
+  user    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  article Article @relation(fields: [articleId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, articleId])
+  @@map("bookmarks")
+}
+
+// ─── 订阅关键词 ───
+model Subscription {
+  id        String   @id @default(cuid())
+  userId    String
+  keyword   String   // 订阅关键词
+  category  String?  // 订阅分类
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  articleId String?
+  article   Article? @relation(fields: [articleId], references: [id])
+
+  @@map("subscriptions")
+}
+
+// ─── 数据源状态 ───
+model Source {
+  id        String    @id @default(cuid())
+  name      String    @unique // newsapi / hackernews / reddit / devto
+  baseUrl   String?
+  status    String    @default("active") // active / error / paused
+  lastFetch DateTime?
+  errorMsg  String?
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  @@map("sources")
+}
+
+// ─── 采集日志 ───
+model FetchLog {
+  id        String   @id @default(cuid())
+  source    String   // 数据源名称
+  status    String   // success / error
+  articleCount Int   @default(0)
+  errorMsg  String?
+  duration  Int?     // 耗时(ms)
+  createdAt DateTime @default(now())
+
+  @@index([source, createdAt(sort: Desc)])
+  @@map("fetch_logs")
+}

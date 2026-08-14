@@ -1,0 +1,93 @@
+# GlobalInsight 开发环境 Docker Compose
+# 启动: docker compose up -d
+# 停止: docker compose down
+
+version: "3.8"
+
+services:
+  # ─── PostgreSQL 数据库 ───
+  postgres:
+    image: postgres:16-alpine
+    container_name: globalinsight-postgres
+    environment:
+      POSTGRES_DB: globalinsight
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # ─── Redis 缓存与队列 ───
+  redis:
+    image: redis:7-alpine
+    container_name: globalinsight-redis
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  # ─── Elasticsearch 搜索 ───
+  elasticsearch:
+    image: elasticsearch:8.10.0
+    container_name: globalinsight-es
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+
+  # ─── AI 微服务 (Python FastAPI) ───
+  ai-service:
+    build:
+      context: ./ai-service
+      dockerfile: Dockerfile
+    container_name: globalinsight-ai
+    ports:
+      - "8000:8000"
+    environment:
+      - AI_DEBUG=true
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  # ─── 后端主服务 (Node.js Express) ───
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: globalinsight-backend
+    ports:
+      - "4000:4000"
+    environment:
+      - NODE_ENV=development
+      - DATABASE_URL=postgresql://postgres:postgres@postgres:5432/globalinsight?schema=public
+      - REDIS_URL=redis://redis:6379
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+      - AI_SERVICE_URL=http://ai-service:8000
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      ai-service:
+        condition: service_started
+    command: sh -c "npx prisma db push && npx tsx src/index.ts"
+
+volumes:
+  pgdata:
+  esdata:

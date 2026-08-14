@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>hello，world — 商业 · AI</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* ---------- 新闻列表 ---------- */
+    .news-list{margin:0 0 50px;padding:0;list-style:none;border-top:1px solid var(--line)}
+    .news-item{padding:18px 0;border-bottom:1px solid var(--line);cursor:pointer;transition:padding-left .2s ease}
+    .news-item:hover{padding-left:10px}
+    .news-item:hover .news-title{color:var(--red)}
+    .ai .news-item:hover .news-title{color:var(--red)}
+    .news-title{font-size:17px;font-weight:600;line-height:1.5;margin:0 0 6px;transition:color .2s ease}
+    .news-meta{font-size:11px;color:#9a8276;letter-spacing:.06em;display:flex;gap:14px;align-items:center}
+    .news-meta .src{font-weight:700;color:var(--orange)}
+    .ai .news-meta .src{color:var(--red)}
+    .news-summary{font-size:14px;color:#6b5d52;line-height:1.6;margin:6px 0 0}
+    .news-empty{padding:30px 0;color:#9a8276;font-size:14px}
+    .news-loading{padding:30px 0;color:#9a8276;font-size:14px}
+
+    /* ---------- 刷新按钮 ---------- */
+    .refresh-bar{display:flex;align-items:center;gap:16px;margin:0 0 24px}
+    .refresh-btn{background:var(--ink);color:var(--paper);border:none;padding:9px 18px;font-size:11px;font-weight:700;letter-spacing:.12em;cursor:pointer;border-radius:2px;transition:opacity .2s}
+    .refresh-btn:disabled{opacity:.5;cursor:wait}
+    .refresh-info{font-size:11px;color:#9a8276;letter-spacing:.06em}
+
+    /* ---------- 文章详情弹窗 ---------- */
+    .modal-overlay{position:fixed;inset:0;background:rgba(32,19,15,.55);backdrop-filter:blur(4px);display:none;align-items:flex-start;justify-content:center;z-index:1000;padding:5vh 20px;overflow-y:auto}
+    .modal-overlay.open{display:flex}
+    .modal-box{position:relative;background:var(--paper);max-width:760px;width:100%;border-radius:6px;overflow:hidden;box-shadow:0 24px 80px rgba(32,19,15,.35)}
+    .modal-close{position:absolute;top:14px;right:14px;z-index:20;background:var(--ink);color:var(--paper);border:none;width:36px;height:36px;border-radius:50%;cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+    .modal-close:hover{background:var(--red)}
+    .modal-body{padding:48px 56px 56px;max-height:90vh;overflow-y:auto}
+    .modal-loading{padding:60px 0;text-align:center;color:#9a8276;font-size:14px}
+    .modal-kicker{font-size:11px;font-weight:800;letter-spacing:.2em;color:var(--orange);margin:0 0 14px}
+    .modal-body h1{font-size:30px;line-height:1.25;letter-spacing:-.02em;margin:0 0 18px;font-weight:800}
+    .modal-meta{font-size:12px;color:#9a8276;letter-spacing:.05em;margin:0 0 28px;padding-bottom:18px;border-bottom:1px solid var(--line)}
+    .modal-summary{font-size:16px;color:#6b5d52;line-height:1.7;margin:0 0 28px;font-style:italic}
+    .modal-content{font-size:16px;line-height:1.85;color:var(--ink)}
+    .modal-content p{margin:0 0 18px}
+    .modal-content img{max-width:100%;height:auto;border-radius:4px;margin:14px 0}
+    .modal-tags{display:flex;gap:8px;flex-wrap:wrap;margin:28px 0 0;padding-top:24px;border-top:1px solid var(--line)}
+    .modal-tags span{font-size:11px;color:#9a8276;border:1px solid var(--line);padding:4px 10px;border-radius:2px;letter-spacing:.05em}
+    .modal-source-link{display:inline-block;margin-top:24px;color:var(--ink);font-size:13px;font-weight:700;text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:6px}
+    .modal-source-link:hover{color:var(--red);border-color:var(--red)}
+
+    @media (max-width:700px){
+      .modal-body{padding:32px 24px 40px}
+      .modal-body h1{font-size:24px}
+    }
+  </style>
+</head>
+<body>
+  <main class="page" id="top">
+    <nav class="nav">
+      <span class="brand">HW / 01</span>
+      <span class="nav-note">BUSINESS · AI</span>
+    </nav>
+
+    <section class="hero" aria-labelledby="hero-title">
+      <p class="kicker">A SMALL START FOR BIG IDEAS</p>
+      <h1 id="hero-title">hello，<span>world</span></h1>
+      <p class="hero-copy">用商业的视角发现机会，<br>用 AI 的方式把它变成现实。</p>
+      <a class="scroll-cue" href="#business"><span>SCROLL TO EXPLORE</span><b>↓</b></a>
+    </section>
+
+    <div class="rule"></div>
+
+    <section class="panel business" id="business">
+      <div class="panel-index">01 / 02</div>
+      <div class="panel-content">
+        <p class="kicker">BUSINESS</p>
+        <h2>商业</h2>
+        <p>把复杂的市场信号，整理成清晰、可执行的下一步。</p>
+        <div class="refresh-bar">
+          <button class="refresh-btn" id="refreshBusiness" type="button">刷新商业</button>
+          <span class="refresh-info" id="businessInfo"></span>
+        </div>
+        <ul class="news-list" id="businessNews">
+          <li class="news-loading">正在加载商业新闻…</li>
+        </ul>
+        <a class="text-link" href="#ai">探索 AI 视角 <span>↗</span></a>
+      </div>
+      <div class="accent-shape shape-red" aria-hidden="true"></div>
+    </section>
+
+    <div class="rule"></div>
+
+    <section class="panel ai" id="ai">
+      <div class="panel-index">02 / 02</div>
+      <div class="panel-content">
+        <p class="kicker">ARTIFICIAL INTELLIGENCE</p>
+        <h2>AI</h2>
+        <p>让工具更懂人，让每一次创作都更接近你想要的结果。</p>
+        <div class="refresh-bar">
+          <button class="refresh-btn" id="refreshAi" type="button">刷新 AI</button>
+          <span class="refresh-info" id="aiInfo"></span>
+        </div>
+        <ul class="news-list" id="aiNews">
+          <li class="news-loading">正在加载 AI 新闻…</li>
+        </ul>
+        <a class="text-link" href="#top">回到顶部 <span>↗</span></a>
+      </div>
+      <div class="accent-shape shape-yellow" aria-hidden="true"></div>
+    </section>
+
+    <footer><span>HELLO，WORLD</span><span>© 2026</span></footer>
+  </main>
+
+  <!-- 文章详情弹窗 -->
+  <div class="modal-overlay" id="articleModal">
+    <div class="modal-box">
+      <button class="modal-close" type="button" id="modalCloseBtn" aria-label="关闭">&times;</button>
+      <div class="modal-body" id="modalBody">
+        <div class="modal-loading">加载中…</div>
+      </div>
+    </div>
+  </div>
+
+<script>
+  // ============ 配置 ============
+  // GitHub Pages 项目站点部署：使用相对路径，自动适配子路径
+  // 数据源为 GitHub Actions 定时生成的静态 JSON 文件
+  const DATA_DIR = 'data';
+
+  // ============ 静态 JSON 请求函数 ============
+  // 加时间戳破缓存，确保拿到最新数据
+  function fetchJson(path) {
+    const sep = path.includes('?') ? '&' : '?';
+    return fetch(`${path}${sep}t=${Date.now()}`).then(r => r.json());
+  }
+
+  // ============ 模态框逻辑 ============
+  const modal = document.getElementById('articleModal');
+  const modalBody = document.getElementById('modalBody');
+
+  function renderArticle(a) {
+    let tags = [];
+    try { tags = JSON.parse(a.tags || '[]'); } catch {}
+    const pubDate = new Date(a.publishedAt);
+    const hours = Math.floor((Date.now() - pubDate.getTime()) / 3600000);
+    const timeStr = hours > 24 ? Math.floor(hours / 24) + ' 天前'
+                   : hours > 0 ? hours + ' 小时前'
+                   : '刚刚';
+
+    modalBody.innerHTML = `
+      <div class="modal-kicker">${a.category || a.source || 'NEWS'}</div>
+      <h1>${a.title}</h1>
+      <div class="modal-meta">来源：${a.source} · ${a.authorName ? '作者：' + a.authorName + ' · ' : ''}${timeStr} · 浏览 ${a.viewCount || 0} 次</div>
+      ${a.imageUrl ? `<img src="${a.imageUrl}" alt="" />` : ''}
+      ${a.summary ? `<div class="modal-summary">${a.summary}</div>` : ''}
+      <div class="modal-content">${a.content || '（暂无正文，请查看原文）'}</div>
+      ${tags.length ? `<div class="modal-tags">${tags.map(t => `<span>${t}</span>`).join('')}</div>` : ''}
+      <a class="modal-source-link" href="${a.url}" target="_blank" rel="noopener">查看原文 →</a>
+    `;
+  }
+
+  function openModal(articleId) {
+    modal.classList.add('open');
+    modalBody.innerHTML = '<div class="modal-loading">加载中…</div>';
+    document.body.style.overflow = 'hidden';
+    // 读取静态文章详情 JSON（已包含正文，无需再调 /content 接口）
+    fetchJson(`${DATA_DIR}/articles/${articleId}.json`)
+      .then(json => {
+        if (json.success && json.data) {
+          renderArticle(json.data);
+        } else {
+          modalBody.innerHTML = '<div class="modal-loading">文章加载失败</div>';
+        }
+      })
+      .catch(() => {
+        modalBody.innerHTML = '<div class="modal-loading">网络错误</div>';
+      });
+  }
+
+  function closeModal() {
+    modal.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  // 点击遮罩区域关闭
+  modal.addEventListener('click', e => {
+    if (e.target === modal) closeModal();
+  });
+  // 点击 × 按钮关闭
+  document.getElementById('modalCloseBtn').addEventListener('click', closeModal);
+  // ESC 键关闭
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && modal.classList.contains('open')) closeModal();
+  });
+
+  // ============ 新闻列表渲染 ============
+  function renderNewsList(containerId, items) {
+    const el = document.getElementById(containerId);
+    if (!el) return;
+    if (!items || items.length === 0) {
+      el.innerHTML = '<li class="news-empty">暂无相关新闻</li>';
+      return;
+    }
+    el.innerHTML = items.slice(0, 10).map(a => {
+      const pub = a.publishedAt ? new Date(a.publishedAt) : null;
+      const hours = pub ? Math.floor((Date.now() - pub.getTime()) / 3600000) : 0;
+      const timeStr = pub ? (hours > 24 ? Math.floor(hours / 24) + '天前' : hours > 0 ? hours + '小时前' : '刚刚') : '';
+      return `
+        <li class="news-item" data-id="${a.id}">
+          <h3 class="news-title">${a.title}</h3>
+          ${a.summary ? `<p class="news-summary">${a.summary.slice(0, 100)}${a.summary.length > 100 ? '…' : ''}</p>` : ''}
+          <div class="news-meta">
+            <span class="src">${a.source}</span>
+            <span>${timeStr}</span>
+          </div>
+        </li>
+      `;
+    }).join('');
+    // 绑定点击事件
+    el.querySelectorAll('.news-item').forEach(li => {
+      const id = li.dataset.id;
+      li.addEventListener('click', () => openModal(id));
+    });
+  }
+
+  // ============ 分类策略：按 category + 关键词分组 ============
+  const AI_KEYWORDS = /ai|人工智能|gpt|大模型|llm|机器学习|深度学习|deepseek|openai|claude|gemini|机器人|智能驾驶|自动驾驶|芯片|半导体|算力|算法|神经|量子|宇树|智元|大疆|特斯拉.*autopilot|模型训练|aigc|sora|midjourney|stable.?diffusion/i;
+  const BIZ_KEYWORDS = /股[民市价]|股市|经济|金融|商业|投资|财报|ipo|利率|汇率|油价|工资|房价|楼市|消费|出口|进口|关税|gdp|央行|通胀|财经|创投|融资|上市|基金|债券|a股|美股|港股|牛市|熊市|涨幅|跌幅|停牌|复牌|增持|减持|弃购|中签|缴款|最低工资|降息|加息|印花税/i;
+
+  function categorize(items) {
+    const business = [];
+    const ai = [];
+    for (const a of items) {
+      const cat = (a.category || '').toLowerCase();
+      const title = a.title || '';
+      if (cat === 'business') {
+        business.push(a);
+      } else if (cat === 'ai' || cat === 'technology') {
+        ai.push(a);
+      } else if (cat === 'general' || !cat) {
+        // general 类：根据标题关键词二次判断
+        if (AI_KEYWORDS.test(title)) {
+          ai.push(a);
+        } else if (BIZ_KEYWORDS.test(title)) {
+          business.push(a);
+        }
+        // 未命中关键词的不显示，避免噪音
+      }
+    }
+    return { business, ai };
+  }
+
+  // ============ 加载新闻 ============
+  async function loadNews() {
+    try {
+      // 读取静态 JSON 列表（由 GitHub Actions 定时生成）
+      const json = await fetchJson(`${DATA_DIR}/news.json`);
+      if (json.success && json.data && json.data.length > 0) {
+        const { business, ai } = categorize(json.data);
+        renderNewsList('businessNews', business);
+        renderNewsList('aiNews', ai);
+        document.getElementById('businessInfo').textContent = `${business.length} 条商业新闻`;
+        document.getElementById('aiInfo').textContent = `${ai.length} 条 AI 新闻`;
+      } else {
+        document.getElementById('businessNews').innerHTML = '<li class="news-empty">暂无商业新闻</li>';
+        document.getElementById('aiNews').innerHTML = '<li class="news-empty">暂无 AI 新闻</li>';
+      }
+    } catch (err) {
+      console.error('加载新闻失败', err);
+      document.getElementById('businessNews').innerHTML = '<li class="news-empty">数据未生成，请稍后再访问</li>';
+      document.getElementById('aiNews').innerHTML = '<li class="news-empty">数据未生成，请稍后再访问</li>';
+    }
+  }
+
+  // ============ 刷新按钮 ============
+  // 静态站点不能触发后端采集，只能重新拉取最新 JSON
+  async function refresh(category) {
+    const btn = category === 'business'
+      ? document.getElementById('refreshBusiness')
+      : document.getElementById('refreshAi');
+    btn.disabled = true;
+    btn.textContent = '刷新中…';
+    try {
+      await loadNews();
+    } catch (err) {
+      console.error('刷新失败', err);
+    }
+    btn.disabled = false;
+    btn.textContent = category === 'business' ? '刷新商业' : '刷新 AI';
+  }
+
+  document.getElementById('refreshBusiness').addEventListener('click', () => refresh('business'));
+  document.getElementById('refreshAi').addEventListener('click', () => refresh('ai'));
+
+  // ============ 启动 ============
+  loadNews();
+</script>
+</body>
+</html>

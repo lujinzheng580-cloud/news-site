@@ -1,0 +1,84 @@
+# 静态新闻采集 — 定时跑 fetch-static.ts 生成 JSON 数据文件
+# 部署到 GitHub Pages 项目站点后，前端从 data/*.json 读取数据
+#
+# 触发方式：
+#   1. 定时（每小时整点）
+#   2. 手动触发（GitHub Actions 页面点击 "Run workflow"）
+#   3. push 到 main 分支时（首次初始化数据）
+
+name: Fetch News Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时整点
+  workflow_dispatch: {}  # 支持手动触发
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-news.yml'
+      - 'code/backend/scripts/fetch-static.ts'
+      - 'code/backend/src/services/news/**'
+
+# 同一时间只允许一个采集任务运行
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+# 给予工作流写入仓库的权限（用于提交 JSON 数据）
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    name: 采集新闻数据
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: code/backend/package-lock.json
+
+      - name: 安装依赖
+        working-directory: code/backend
+        run: npm ci
+
+      - name: 运行采集脚本
+        working-directory: code/backend
+        run: npx tsx scripts/fetch-static.ts
+
+      - name: 检查是否有变更
+        id: changes
+        run: |
+          git add data/ || true
+          if git diff --cached --quiet data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "无数据变更"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "检测到数据变更"
+          fi
+
+      - name: 提交并推送
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(news): 自动更新静态新闻数据
+
+          生成时间: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          触发: ${{ github.event_name }}"
+          git push
+
+      - name: 输出摘要
+        run: |
+          echo "=== 采集摘要 ==="
+          echo "文章数: $(jq '.data | length' data/news.json)"
+          echo "详情文件数: $(ls data/articles/ | wc -l)"
+          echo "生成时间: $(jq -r '.generatedAt' data/news.json)"
