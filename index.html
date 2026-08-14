@@ -257,8 +257,10 @@
         const { business, ai } = categorize(json.data);
         renderNewsList('businessNews', business);
         renderNewsList('aiNews', ai);
-        document.getElementById('businessInfo').textContent = `${business.length} 条商业新闻`;
-        document.getElementById('aiInfo').textContent = `${ai.length} 条 AI 新闻`;
+        const updatedAt = new Date(json.generatedAt);
+        const timeStr = updatedAt.toLocaleString('zh-CN', { hour12: false });
+        document.getElementById('businessInfo').textContent = `${business.length} 条 · 数据时间 ${timeStr}`;
+        document.getElementById('aiInfo').textContent = `${ai.length} 条 · 数据时间 ${timeStr}`;
       } else {
         document.getElementById('businessNews').innerHTML = '<li class="news-empty">暂无商业新闻</li>';
         document.getElementById('aiNews').innerHTML = '<li class="news-empty">暂无 AI 新闻</li>';
@@ -271,20 +273,26 @@
   }
 
   // ============ 刷新按钮 ============
-  // 静态站点不能触发后端采集，只能重新拉取最新 JSON
+  // 静态站点只能重新拉取已部署的 JSON（GitHub Actions 每 15 分钟自动采集）
   async function refresh(category) {
     const btn = category === 'business'
       ? document.getElementById('refreshBusiness')
       : document.getElementById('refreshAi');
+    const info = category === 'business'
+      ? document.getElementById('businessInfo')
+      : document.getElementById('aiInfo');
     btn.disabled = true;
+    const oldText = btn.textContent;
     btn.textContent = '刷新中…';
+    info.textContent = '正在重新读取数据…';
     try {
       await loadNews();
     } catch (err) {
       console.error('刷新失败', err);
+      info.textContent = '刷新失败：' + (err.message || err);
     }
     btn.disabled = false;
-    btn.textContent = category === 'business' ? '刷新商业' : '刷新 AI';
+    btn.textContent = oldText;
   }
 
   document.getElementById('refreshBusiness').addEventListener('click', () => refresh('business'));
