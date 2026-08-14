@@ -48,6 +48,7 @@ export async function fetchBaidu(): Promise<NewsItem[]> {
         id: c.rawUrl,
         title: c.word,
         url: c.rawUrl,
+        description: c.desc || '',
         extra: c.desc ? { hover: c.desc } : undefined,
       });
     }

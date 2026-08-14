@@ -9,7 +9,7 @@
 //   news-site/data/articles/<id>.json — 每篇文章详情（含正文）
 
 import { createHash } from 'crypto';
-import { mkdir, writeFile } from 'fs/promises';
+import { mkdir, writeFile, readdir, unlink } from 'fs/promises';
 import { join } from 'path';
 
 import { fetchIthome } from '../src/services/news/sources/ithome';
@@ -21,8 +21,8 @@ import { fetchAndExtract } from '../src/services/news/content-extractor.service'
 // ─── 配置 ───
 const OUTPUT_DIR = join(__dirname, '../../../data');
 const ARTICLES_DIR = join(OUTPUT_DIR, 'articles');
-const MAX_ARTICLES = 60; // 总文章数上限
-const MAX_CONTENT_FETCH = 20; // 抓取正文的最大数量（避免超时）
+const MAX_ARTICLES = 60;
+const MAX_CONTENT_FETCH = 60;
 const CONTENT_TIMEOUT = 8000;
 
 // ─── 生成稳定 ID（基于 URL 的短哈希） ───
@@ -103,11 +103,12 @@ async function main() {
   const limited = unique.slice(0, MAX_ARTICLES);
   console.log(`[limit] 截取前 ${limited.length} 条`);
 
-  // 5. 转换为 Article 格式
-  const articles: Article[] = limited.map((item) => {
+  // 5. 转换为 Article 格式（保留原始 URL，不解析 baidu 搜索链接）
+  const articles: Article[] = [];
+  for (const item of limited) {
     const id = generateId(item.url);
     const category = classifyByTitle(item.title);
-    return {
+    articles.push({
       id,
       title: item.title,
       url: item.url,
@@ -115,7 +116,7 @@ async function main() {
       sourceId: item.id,
       category,
       summary: item.description || (item.extra?.hover as string) || '',
-      content: '', // 稍后填充
+      content: '',
       imageUrl: item.image || '',
       authorName: '',
       publishedAt: item.pubDate
@@ -123,24 +124,35 @@ async function main() {
         : new Date().toISOString(),
       tags: JSON.stringify([item.source].filter(Boolean)),
       viewCount: 0,
-    };
-  });
+    });
+  }
 
   // 6. 为前 N 篇抓取正文
   console.log(`\n[content] 开始为前 ${Math.min(MAX_CONTENT_FETCH, articles.length)} 篇抓取正文...`);
   let contentCount = 0;
   for (let i = 0; i < Math.min(MAX_CONTENT_FETCH, articles.length); i++) {
     const a = articles[i];
+    // baidu URL 无法提取正文（搜索页/验证码页），直接用 summary 兜底
+    if (/baidu\.com/.test(a.url)) {
+      a.content = a.summary || '';
+      console.log(`[content] ${i + 1}/${MAX_CONTENT_FETCH} ⏭ ${a.title.slice(0, 30)}... (baidu搜索页，使用摘要)`);
+      continue;
+    }
     try {
       const extracted = await fetchAndExtract(a.url, CONTENT_TIMEOUT);
       a.content = extracted.content;
       if (extracted.author) a.authorName = extracted.author;
-      contentCount++;
-      console.log(`[content] ${i + 1}/${MAX_CONTENT_FETCH} ✓ ${a.title.slice(0, 30)}...`);
+      // 抓取成功但正文为空时，用 summary 兜底
+      if (!a.content || a.content.trim().length === 0) {
+        a.content = a.summary || '';
+        console.log(`[content] ${i + 1}/${MAX_CONTENT_FETCH} ⏭ ${a.title.slice(0, 30)}... (正文为空，使用摘要)`);
+      } else {
+        contentCount++;
+        console.log(`[content] ${i + 1}/${MAX_CONTENT_FETCH} ✓ ${a.title.slice(0, 30)}...`);
+      }
     } catch (err: any) {
       console.warn(`[content] ${i + 1}/${MAX_CONTENT_FETCH} ✗ ${a.title.slice(0, 30)}... — ${err.message}`);
-      // 正文抓取失败，用 summary 作为兜底
-      a.content = a.summary || '（正文抓取失败，请查看原文）';
+      a.content = a.summary || '';
     }
   }
   console.log(`[content] 正文抓取完成: ${contentCount}/${Math.min(MAX_CONTENT_FETCH, articles.length)} 成功`);
@@ -148,6 +160,19 @@ async function main() {
   // 7. 写入文件
   console.log(`\n[write] 写入 JSON 文件...`);
   await mkdir(ARTICLES_DIR, { recursive: true });
+
+  // 7.0 清理旧的文章详情文件
+  try {
+    const oldFiles = await readdir(ARTICLES_DIR);
+    for (const f of oldFiles) {
+      if (f.endsWith('.json')) {
+        await unlink(join(ARTICLES_DIR, f));
+      }
+    }
+    console.log(`[write] 清理旧文件 ${oldFiles.length} 个`);
+  } catch {
+    // 目录不存在，忽略
+  }
 
   // 7.1 写入文章列表
   const newsList = articles.map((a) => ({

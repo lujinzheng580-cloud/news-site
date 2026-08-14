@@ -151,7 +151,7 @@
       <div class="modal-meta">来源：${a.source} · ${a.authorName ? '作者：' + a.authorName + ' · ' : ''}${timeStr} · 浏览 ${a.viewCount || 0} 次</div>
       ${a.imageUrl ? `<img src="${a.imageUrl}" alt="" />` : ''}
       ${a.summary ? `<div class="modal-summary">${a.summary}</div>` : ''}
-      <div class="modal-content">${a.content || '（暂无正文，请查看原文）'}</div>
+      <div class="modal-content">${a.content || a.summary || '内容暂未抓取，请查看原文链接'}</div>
       ${tags.length ? `<div class="modal-tags">${tags.map(t => `<span>${t}</span>`).join('')}</div>` : ''}
       <a class="modal-source-link" href="${a.url}" target="_blank" rel="noopener">查看原文 →</a>
     `;

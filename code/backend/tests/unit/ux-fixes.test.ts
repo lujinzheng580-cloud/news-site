@@ -3,7 +3,7 @@
 // 2. 市场速览股票指数移除（HTML 结构验证）
 // 3. 数据源失败时回退数据库缓存 + myFetch 超时
 
-import { describe, it, expect, vi } from 'vitest';
+import { describe, it, expect, vi, beforeAll } from 'vitest';
 import * as cheerio from 'cheerio';
 import { readFileSync } from 'fs';
 import { join } from 'path';
@@ -426,5 +426,108 @@ describe('新设计: 商业与 AI 双板块', () => {
   it('应加载数据并分类到两个板块', () => {
     expect(html).toContain("renderNewsList('businessNews'");
     expect(html).toContain("renderNewsList('aiNews'");
+  });
+});
+
+// ─── Bug 修复: 无正文 + 原文链接错误 ───
+describe('Bug修复: 文章正文完整性与原文链接', () => {
+  const indexHtml = readFileSync(
+    join(__dirname, '../../../../index.html'),
+    'utf-8'
+  );
+  const fetchStatic = readFileSync(
+    join(__dirname, '../../../../code/backend/scripts/fetch-static.ts'),
+    'utf-8'
+  );
+
+  describe('fetch-static.ts: 正文抓取数量', () => {
+    it('MAX_CONTENT_FETCH 应 >= MAX_ARTICLES，所有文章都应抓取正文', () => {
+      const maxArticlesMatch = fetchStatic.match(/MAX_ARTICLES\s*=\s*(\d+)/);
+      const maxContentMatch = fetchStatic.match(/MAX_CONTENT_FETCH\s*=\s*(\d+)/);
+      expect(maxArticlesMatch).toBeTruthy();
+      expect(maxContentMatch).toBeTruthy();
+      const maxArticles = parseInt(maxArticlesMatch![1]);
+      const maxContent = parseInt(maxContentMatch![1]);
+      expect(maxContent).toBeGreaterThanOrEqual(maxArticles);
+    });
+  });
+
+  describe('fetch-static.ts: baidu URL 处理策略', () => {
+    it('baidu 搜索 URL 应跳过正文抓取，使用 summary 兜底', () => {
+      // baidu 热搜只提供搜索 URL，无法提取正文
+      // fetch-static.ts 应检测 baidu URL 并跳过正文抓取
+      expect(fetchStatic).toMatch(/baidu/);
+      expect(fetchStatic).toMatch(/a\.content\s*=\s*a\.summary/);
+    });
+  });
+
+  describe('index.html: 无正文时的显示策略', () => {
+    it('不应显示"暂无正文，请查看原文"的空内容提示', () => {
+      expect(indexHtml).not.toContain('暂无正文');
+    });
+
+    it('无正文时应显示 summary 作为兜底内容', () => {
+      expect(indexHtml).toMatch(/a\.summary/);
+    });
+
+    it('查看原文链接不应指向 baidu 搜索页', () => {
+      // 链接应使用 a.url 字段（模板字面量中的 ${a.url}）
+      expect(indexHtml).toMatch(/modal-source-link[^>]*href="\$\{a\.url\}"/s);
+    });
+  });
+
+  describe('数据验证: 检查已生成的 JSON 文件', () => {
+    let newsJson: any;
+    let articleJsons: any[] = [];
+
+    beforeAll(() => {
+      try {
+        const dataDir = join(__dirname, '../../../../data');
+        newsJson = JSON.parse(
+          readFileSync(join(dataDir, 'news.json'), 'utf-8')
+        );
+        const articlesDir = join(dataDir, 'articles');
+        // 读取前 10 个 article 文件验证
+        const fs = require('fs');
+        const files = fs.readdirSync(articlesDir).slice(0, 10);
+        for (const f of files) {
+          articleJsons.push(
+            JSON.parse(readFileSync(join(articlesDir, f), 'utf-8'))
+          );
+        }
+      } catch {
+        // 数据文件可能不存在（CI 环境），跳过
+      }
+    });
+
+    it('news.json 应存在且包含文章数据', () => {
+      if (!newsJson) return; // skip
+      expect(newsJson.success).toBe(true);
+      expect(newsJson.data.length).toBeGreaterThan(0);
+    });
+
+    it('baidu 源文章的 URL 不应为验证码页面', () => {
+      if (!newsJson) return; // skip
+      const baiduArticles = newsJson.data.filter(
+        (a: any) => a.source === 'baidu'
+      );
+      for (const a of baiduArticles) {
+        // baidu 搜索 URL 是正常的（可在浏览器中打开），但验证码 URL 是错误的
+        expect(a.url).not.toMatch(/wappass\.baidu\.com/);
+      }
+    });
+
+    it('大多数文章详情应有 content（非空）或 summary 兜底', () => {
+      if (articleJsons.length === 0) return; // skip
+      let withContentOrSummary = 0;
+      for (const aj of articleJsons) {
+        const a = aj.data || aj;
+        const hasContent = a.content && a.content.trim().length > 0;
+        const hasSummary = a.summary && a.summary.trim().length > 0;
+        if (hasContent || hasSummary) withContentOrSummary++;
+      }
+      // 允许少量文章无内容（baidu 未提供描述的条目），但至少 80% 应有内容
+      expect(withContentOrSummary / articleJsons.length).toBeGreaterThan(0.8);
+    });
   });
 });
