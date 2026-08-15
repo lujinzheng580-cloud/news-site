@@ -2,6 +2,534 @@
   "success": true,
   "data": [
     {
+      "id": "b9526904490c",
+      "title": "春风动力 450MT 罗马尼亚冠军版即将预售，售价 30580 元",
+      "url": "https://www.ithome.com/0/990/112.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.013Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4d8f4e5db121",
+      "title": "岚图追光 S 正式上市：华为乾崑智驾四激光方案加持，限时 22.39 万-27.39 万元",
+      "url": "https://www.ithome.com/0/990/113.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.012Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1eb9d771f01d",
+      "title": "比尔 · 盖茨小女儿创业品牌 Phia 被指欺诈，业内律师称类似行为面临最高 20 年监禁",
+      "url": "https://www.ithome.com/0/990/114.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.012Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8ac7309f2f39",
+      "title": "智能体成“逃课神器”？部分美国学生用 AI 代替自己完成整门网络课程",
+      "url": "https://www.ithome.com/0/990/115.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.012Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "69465b8438aa",
+      "title": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头",
+      "url": "https://www.ithome.com/0/990/119.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.012Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4c89a84f5b7b",
+      "title": "惠普推出全新 OmniBook 5 笔记本：16 寸 OLED 屏幕，至高酷睿 Ultra 9 386H 处理器",
+      "url": "https://www.ithome.com/0/990/120.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.011Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "21697da77478",
+      "title": "纽博格林赛道百年纪念将至，保时捷将推限量 100 台特别版 911 GT3",
+      "url": "https://www.ithome.com/0/990/123.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.011Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c8a5ecc83cd6",
+      "title": "群联谈存储短缺：NAND 新增产能最快需 4 年，供应紧张或持续多年",
+      "url": "https://www.ithome.com/0/990/129.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.011Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0433a0bd59f7",
+      "title": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔",
+      "url": "https://www.ithome.com/0/990/135.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.011Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0a724879b7dd",
+      "title": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统",
+      "url": "https://www.ithome.com/0/990/138.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.011Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3460e4d8b898",
+      "title": "业界首个：KaihongOS 桌面版（x86）正式适配并预装原生 VS Code，开箱即用",
+      "url": "https://www.ithome.com/0/990/147.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.010Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7b8eee0dc139",
+      "title": "英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持",
+      "url": "https://www.ithome.com/0/990/154.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.010Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a73985e9ff6d",
+      "title": "微信小程序组件框架升级：glass-easel 带来更多特性及更优性能",
+      "url": "https://www.ithome.com/0/990/155.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.010Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c1c403e67f4d",
+      "title": "OpenAI 奥尔特曼：大学读四年可能有点久，两年就够了",
+      "url": "https://www.ithome.com/0/990/156.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.010Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "234a5705384e",
+      "title": "全球两大支付巨头合并？消息称 Stripe 正洽谈收购 PayPal",
+      "url": "https://www.ithome.com/0/990/158.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0f4be4b28f2a",
+      "title": "索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好",
+      "url": "https://www.ithome.com/0/990/159.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "337a8e6c231c",
+      "title": "任天堂《塞尔达传说》40 周年限定 Switch 2 Pro 手柄更多谍照曝光",
+      "url": "https://www.ithome.com/0/990/160.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ab38aec4711d",
+      "title": "为避免被 Meta“变态眼镜”拍到，人们纷纷设法反制",
+      "url": "https://www.ithome.com/0/990/162.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0e3a8fbd539c",
+      "title": "首发 79 元：酷态科 6 号车充「伸缩线」发布，双口 77W MAX 输出",
+      "url": "https://www.ithome.com/0/990/163.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0304eeb597ed",
+      "title": "番茄小说作者“去世”三年后“复活”：读者斥其消费感情，平台介入调查",
+      "url": "https://www.ithome.com/0/990/164.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "926adb3563f6",
+      "title": "前捷豹路虎首席创意官格里 · 麦戈文：当年的品牌重塑被误解了，根本没想搞“觉醒主义”",
+      "url": "https://www.ithome.com/0/990/165.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "abf984a1d230",
+      "title": "微软 Edge 已支持从 Google 账户导入 Chrome 数据功能，覆盖书签、密码、历史记录和其他浏览器数据",
+      "url": "https://www.ithome.com/0/990/166.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7906d36d8e2d",
+      "title": "英特尔副总裁称 PC 市场已两极分化，未来高低端平台或采用不同插槽",
+      "url": "https://www.ithome.com/0/990/167.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c51600c486c5",
+      "title": "沃尔沃推出“安全教练”应用：能分析你的驾驶行为并打分，降低事故风险",
+      "url": "https://www.ithome.com/0/990/168.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.007Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9b5ac7ccad3c",
+      "title": "迪士尼真人版《魔发奇缘》定档 2028 年 3 月 31 日，D23 首发预告曝光",
+      "url": "https://www.ithome.com/0/990/169.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.007Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2c3df0e13c3b",
+      "title": "波音 757 万米高空上演网络钓鱼：达美航空遭遇虚假 Wi-Fi 攻击，FBI 已介入调查",
+      "url": "https://www.ithome.com/0/990/170.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.007Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8ea70f9a118a",
+      "title": "三星电子 2026 上半年 DRAM 市场份额逼近 40%，智能手机市占率 22%",
+      "url": "https://www.ithome.com/0/990/171.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.007Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d3f0b8f78809",
+      "title": "谷歌安卓负责人萨米尔 · 萨马特畅想未来：只要说清想做什么，系统就能替你完成",
+      "url": "https://www.ithome.com/0/990/172.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "eaa7d9e21153",
+      "title": "最强敞篷野马登场：福特推出 Mustang Dark Horse SC 敞篷版，最大 795 马力",
+      "url": "https://www.ithome.com/0/990/173.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5722e70dc95d",
+      "title": "美国考虑应特朗普喜好重新设计航母：电磁弹射改回蒸汽弹射 + 舰岛迁移，80 多年来首次新建第五座海军造船厂",
+      "url": "https://www.ithome.com/0/990/174.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f65e856e4430",
+      "title": "小米 Poco F9 系列手机曝光：基于 REDMI K100 Pro/Pro Max 打造",
+      "url": "https://www.ithome.com/0/990/175.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5d67002f0d46",
+      "title": "伯克希尔 · 哈撒韦大幅增持 Alphabet：持仓扩大 83%，价值近 380 亿美元",
+      "url": "https://www.ithome.com/0/990/176.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e176e91b12ca",
+      "title": "极摩客 EVO-X5 迷你主机现身 Geekbench：锐龙 AI Max+ Pro 495 处理器",
+      "url": "https://www.ithome.com/0/990/177.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.005Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "633c61b86d9a",
+      "title": "PVC 变废为宝：科学家将塑料转化为聚 α-烯烃，三小时产出润滑油",
+      "url": "https://www.ithome.com/0/990/178.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.005Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "14535a0b9071",
+      "title": "1.228 亿股，英伟达成 SpaceX 第六大股东",
+      "url": "https://www.ithome.com/0/990/179.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.005Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7ee2cb8ad674",
+      "title": "玩家利用矿机 BC-250 主板，低成本组装“Steam Machine”",
+      "url": "https://www.ithome.com/0/990/180.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.004Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8142d7a2149d",
+      "title": "菲尔兹奖得主马丁 · 海尔：AI 数学推演已达博士水平，中国基础科学投入令人印象深刻",
+      "url": "https://www.ithome.com/0/990/181.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.004Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5b307bca021c",
+      "title": "VR 游戏发行商称 Steam Frame 头显发售“就在眼前”，但具体日期还没有着落",
+      "url": "https://www.ithome.com/0/990/182.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.004Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5404de76186b",
+      "title": "中国科学家研制出低噪声高灵敏磁传感器：1 赫兹下灵敏度达 15.7 纳特斯拉，较传统铁磁材料提升近一个数量级",
+      "url": "https://www.ithome.com/0/990/183.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.003Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b26aabe8181c",
+      "title": "另类 AI：前谷歌员工打造“聊天机器人”ChatTJB，不过背后全是真人回复",
+      "url": "https://www.ithome.com/0/990/184.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.003Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4f71bd1ee53d",
+      "title": "GNOME 51 Beta 版桌面环境发布，带来全新指纹管理界面、模糊效果调节等更新",
+      "url": "https://www.ithome.com/0/990/185.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.003Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c7b38b926687",
+      "title": "泰国成立专门机构，重点管控数据中心对电力、水资源及环境的影响",
+      "url": "https://www.ithome.com/0/990/186.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.002Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7caa6a8796df",
+      "title": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌",
+      "url": "https://www.ithome.com/0/990/187.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.002Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "23d9a731db65",
+      "title": "《辛普森一家》创作者称，类似《GTA》的《辛普森：横冲直撞》游戏有望回归",
+      "url": "https://www.ithome.com/0/990/188.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.002Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b2ef7d648d38",
+      "title": "柏能集团警告：AI 热潮加剧供应紧张，显卡短缺或推高 PC 价格",
+      "url": "https://www.ithome.com/0/990/189.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.001Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "dd8085ce8818",
+      "title": "AI 编曲控制台 Suno Studio 2.0 发布：新增 MIDI 支持、效果插件",
+      "url": "https://www.ithome.com/0/990/190.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.001Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2fe47efde7e9",
+      "title": "2019 款英特尔 MacBook Pro 运行 Windows 严重发热？苹果用户为其适配 48Hz 刷新率，让显卡功耗降低近八成同时大幅降温",
+      "url": "https://www.ithome.com/0/990/191.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.000Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f8fd11885343",
+      "title": "《玩具总动员 3》Xbox 360 版下月将从商店下架，为现代化重制版让路",
+      "url": "https://www.ithome.com/0/990/192.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T21:58:48.000Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
       "id": "6376dc716abd",
       "title": "纪念江泽民同志诞辰100周年大会",
       "url": "https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A",
@@ -9,7 +537,7 @@
       "category": "general",
       "summary": "纪念江泽民同志诞辰100周年大会将于8月17日上午10时在人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平将出席大会并发表重要讲话。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -20,7 +548,7 @@
       "category": "ai",
       "summary": "日本政府正在打造一个服务右翼政治立场的生成式AI业务辅助系统——“源内”，2025年已在数字厅内试点启用，2026年向约18万名政府职员开放，2025财年补充预算专门拨款44亿日元支持其建设。该系统接入美国Anthropic公司的Claude系列大模型，而这家企业明确将中国列为“敌对国家”。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -31,7 +559,7 @@
       "category": "general",
       "summary": "今年夏天最火的旅游关键词是什么？答案一定是“China Travel”。埃隆・马斯克都忍不住在社交平台上“安利”中国游，国家移民管理局数据显示：今年上半年入境外国人达2291.4万人次，同比增长20.4%。他们最爱去哪些城市？这些城市藏着哪些让人走不动道的宝藏？一起来看看。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -42,7 +570,7 @@
       "category": "general",
       "summary": "近日，许昌胖东来生活广场即将闭店，附近开店的老板流着泪说舍不得，并表示有胖东来大家才知道许昌。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -53,7 +581,7 @@
       "category": "general",
       "summary": "从学术角度看，诺兰的《奥德赛》气质过于现代化。但从电影技术角度看，诺兰的《奥德赛》达到了顶峰。他非常符合那句玩笑话：全球导演水平下降100倍，只有我保持不变。在诺兰面前，影视寒冬仿佛失效了。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -64,7 +592,7 @@
       "category": "general",
       "summary": "8月14日晚，苏州吴中区太湖旁一小区因暴雨湖水倒灌致车库被淹。该小区一业主称，当晚自己发现车库进水情况，第一时间就在业主群进行通知，但还是有部分业主没来得及下去移车。15日，小区物业管家表示，现在小区车库正在进行抽水，水位已经下降，但不清楚什么时候能够清理完成。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -75,7 +603,7 @@
       "category": "general",
       "summary": "15日播出的《披荆斩棘2026》中，杜华评价王传君时表示：王传君是一位很有个性的演员，演坏人不像演的。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -86,7 +614,7 @@
       "category": "general",
       "summary": "北京时间8月15日，WTT欧洲大满贯瑞典站女双决赛，张本美和/早田希娜3-1战胜杜凯琹/吴咏琳夺得冠军。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -97,7 +625,7 @@
       "category": "general",
       "summary": "8月15日，《披荆斩棘2026》初舞台上，小沈阳再唱经典曲目《我只是个传说》，全开麦演唱爆发力拉满，撕掉固有喜剧标签，全力释放歌手实力。亮眼红发搭配利落寸头的新造型大胆出圈，扑面而来满满的“东北樱木花道”既视感。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -108,7 +636,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -119,18 +647,7 @@
       "category": "general",
       "summary": "刷手机总被各类消息牵着走？我们为什么总是容易相信谣言？让我们与来自未来的观测员一起识别谣言套路，掌握三步自检法，轻松分辨不实信息。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "46b27f794214",
-      "title": "官方通报智残人员被拉去做眼部手术",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%99%BA%E6%AE%8B%E4%BA%BA%E5%91%98%E8%A2%AB%E6%8B%89%E5%8E%BB%E5%81%9A%E7%9C%BC%E9%83%A8%E6%89%8B%E6%9C%AF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -141,416 +658,9 @@
       "category": "general",
       "summary": "山东梁山凭借完善的产业链和专业化运营，成为全国最大的二手商用车出口基地，车辆销往110多个国家，2025年出口量超1.3万辆。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "3026f7a1563d",
-      "title": "今年已有多人被蝉鸣“震聋”",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%89%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%9D%89%E9%B8%A3%E2%80%9C%E9%9C%87%E8%81%8B%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近期，不少网友纷纷发帖，今年的蝉鸣比往年更密集、更响亮，持续不断的聒噪声响萦绕终日。更值得警惕的是，已有多名市民因长期置身蝉鸣环境，出现听力受损症状。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "4da29f69e438",
-      "title": "张本智和4比0大勒布伦",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4%E6%AF%940%E5%A4%A7%E5%8B%92%E5%B8%83%E4%BC%A6",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月15日，WTT欧洲大满贯瑞典站男单1/4决赛，张本智和4比0战胜艾利克斯·勒布伦晋级。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "59c2bb5c3217",
-      "title": "台风都走了 为何雨还下个不停",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E9%83%BD%E8%B5%B0%E4%BA%86+%E4%B8%BA%E4%BD%95%E9%9B%A8%E8%BF%98%E4%B8%8B%E4%B8%AA%E4%B8%8D%E5%81%9C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "针对市民疑惑已停止编号的台风“白海豚”仅存残余环流却仍能带来强降雨的问题，气象层面给出三点核心解释：一是其庞大低压区仍持续接收西南、东南季风的充足水汽补给；二是高空槽与切变线形成配合，提供强劲抬升动力大幅提升降水效率；叠加前期土壤含水量饱和、河湖水位偏高，同等雨量下更易引发内涝，进一步加大防汛压力。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c8231028ae66",
-      "title": "《披荆斩棘》初舞台观众现场喊黑幕",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B%E5%88%9D%E8%88%9E%E5%8F%B0%E8%A7%82%E4%BC%97%E7%8E%B0%E5%9C%BA%E5%96%8A%E9%BB%91%E5%B9%95",
-      "source": "baidu",
-      "category": "general",
-      "summary": "《披荆斩棘》初舞台，刘畊宏赢了姚琛，台下观众大喊黑幕，吓得节目组关掉观众席收音。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c82c4303000c",
-      "title": "张睿 中国内地郭富城",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%9D%BF+%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E9%83%AD%E5%AF%8C%E5%9F%8E",
-      "source": "baidu",
-      "category": "general",
-      "summary": "15日晚播出的《披荆斩棘2026》中，张睿一开口突然感觉青春回来了，不愧被称为“中国内地郭富城”。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c5836a4994bb",
-      "title": "王传君终于原谅《爱情公寓》了",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，王传君主动提起关谷神奇！被网友吐槽：终于原谅爱情公寓了。据悉，他曾吐槽关谷神奇这个角色像傻子。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "98bcd7f95f43",
-      "title": "成都“彩虹糖辣椒”单株售价20元",
-      "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E2%80%9C%E5%BD%A9%E8%99%B9%E7%B3%96%E8%BE%A3%E6%A4%92%E2%80%9D%E5%8D%95%E6%A0%AA%E5%94%AE%E4%BB%B720%E5%85%83",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "194ed419de35",
-      "title": "《欢迎来龙餐馆》票房破7亿",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月11日起，由文牧野执导，沈腾、蒋奇明领衔主演的电影《欢迎来龙餐馆》在全国公映。据网络平台数据，截至8月15日18时20分，电影《欢迎来龙餐馆》票房突破7亿元。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "d258700db11d",
-      "title": "陈若轩曾辉 低山臭水遇知音",
-      "url": "https://www.baidu.com/s?wd=%E9%99%88%E8%8B%A5%E8%BD%A9%E6%9B%BE%E8%BE%89+%E4%BD%8E%E5%B1%B1%E8%87%AD%E6%B0%B4%E9%81%87%E7%9F%A5%E9%9F%B3",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月15日，《披荆斩棘2026》初舞台上，陈若轩和曾辉俩帅哥本来长得都还行，结果一开口给人听得两眼一抹黑，俩人的跑调程度完全是低山臭水遇知音。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "03f9bf12ad67",
-      "title": "广西老表徒手抓三米多长蟒蛇",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%80%81%E8%A1%A8%E5%BE%92%E6%89%8B%E6%8A%93%E4%B8%89%E7%B1%B3%E5%A4%9A%E9%95%BF%E8%9F%92%E8%9B%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月14日，广西钦州市钦北区平吉镇出现一条长约三米、重达九十多斤的蟒蛇。目击者通知村民稳住局面后‌立即向消防求助‌，最终由‌村民配合消防员‌经过半小时成功抓捕。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "41283debf391",
-      "title": "小沈阳回应“铁岭王嘉尔”",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E9%93%81%E5%B2%AD%E7%8E%8B%E5%98%89%E5%B0%94%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "小沈阳被网友调侃是“铁岭王嘉尔”，他的回应尽显高情商，直言收到这个称呼十分荣幸又开心，还开玩笑打趣大家别这么“糟践”帅哥，引得全场笑声不断。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "4c1522ed7977",
-      "title": "关灯侧躺刷手机 毁眼睛",
-      "url": "https://www.baidu.com/s?wd=%E5%85%B3%E7%81%AF%E4%BE%A7%E8%BA%BA%E5%88%B7%E6%89%8B%E6%9C%BA+%E6%AF%81%E7%9C%BC%E7%9D%9B",
-      "source": "baidu",
-      "category": "general",
-      "summary": "关灯侧躺刷手机，正在悄悄毁掉你的眼睛：黑暗条件下看手机，眼睛为了获取更多光，瞳孔散大导致眼压升高，会患上青光眼；侧躺看手机会导致眼球变形，或者角膜形变。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f39dd4373b85",
-      "title": "C罗若离婚 乔治娜每月将获77万",
-      "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E8%8B%A5%E7%A6%BB%E5%A9%9A+%E4%B9%94%E6%B2%BB%E5%A8%9C%E6%AF%8F%E6%9C%88%E5%B0%86%E8%8E%B777%E4%B8%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，据葡萄牙媒体报道，C罗与乔治娜的民事登记文件显示，双方选择夫妻财产分离制，婚前及婚后财产完全独立，离婚也不会进行财产分割。据《马卡报》报道，依据协议条款，若两人分手，乔治娜将获得每月8.5万英镑的巨额津贴（约合77万元人民币）。该协议是在他们的女儿阿拉娜出生后达成的，目的是保障乔治娜和孩子们的经济安全。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "71c7a2de2006",
-      "title": "小沈阳再唱《我只是个传说》",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%86%8D%E5%94%B1%E3%80%8A%E6%88%91%E5%8F%AA%E6%98%AF%E4%B8%AA%E4%BC%A0%E8%AF%B4%E3%80%8B",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f3ce3c018db9",
-      "title": "战后五年阿富汗现状如何",
-      "url": "https://www.baidu.com/s?wd=%E6%88%98%E5%90%8E%E4%BA%94%E5%B9%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6b88b2dfa931",
-      "title": "中使馆通报留学生在摩洛哥遭伤害",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E9%80%9A%E6%8A%A5%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%91%A9%E6%B4%9B%E5%93%A5%E9%81%AD%E4%BC%A4%E5%AE%B3",
-      "source": "baidu",
-      "category": "general",
-      "summary": "当地时间2026年8月14日中午，驻摩洛哥使馆通报一起中国留学生在摩案件情况。14日晚，摩警方向中使馆报称，涉案的摩洛哥籍犯罪嫌疑人已被警方逮捕，案件正在进一步审理中。目前，相关留学生身体情况稳定。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "d98f1a83332b",
-      "title": "邵兵儿子初舞台破音",
-      "url": "https://www.baidu.com/s?wd=%E9%82%B5%E5%85%B5%E5%84%BF%E5%AD%90%E5%88%9D%E8%88%9E%E5%8F%B0%E7%A0%B4%E9%9F%B3",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，邵兵儿子邵子恒初登《披荆斩棘的哥哥》舞台破音，但用颜值和舞蹈拯救了舞台。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "9fc7b461fb58",
-      "title": "浙江长兴突发山洪泥石流致1死3失联",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E9%95%BF%E5%85%B4%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B41%E6%AD%BB3%E5%A4%B1%E8%81%94",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8a94c294a002",
-      "title": "智元内部管理：20余个天才被神秘隔离",
-      "url": "https://www.baidu.com/s?wd=%E6%99%BA%E5%85%83%E5%86%85%E9%83%A8%E7%AE%A1%E7%90%86%EF%BC%9A20%E4%BD%99%E4%B8%AA%E5%A4%A9%E6%89%8D%E8%A2%AB%E7%A5%9E%E7%A7%98%E9%9A%94%E7%A6%BB",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，智元机器人内部管理曝光，为保护研发创造性，将20余位天赋突出、拒绝学术灌水的顶尖技术人才，单独组建成从0到1核心攻坚团队，完全避开细碎落地事务，全力攻关前沿技术，其余工程类人才组成落地团队承接细节打磨工作，两套团队动态流通、考核维度差异化划分，依托该机制智元季度产出效率可达谷歌全年水平。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f8205b90b355",
-      "title": "“原来这都有卖”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%9F%E6%9D%A5%E8%BF%99%E9%83%BD%E6%9C%89%E5%8D%96%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "现在，社交平台经常能刷到大家抛出各种各样细碎的生活小问题。一条条求助帖子发出去，底下总有网友直接甩来解决方案。最近，有这样一条帖子火了。评论区瞬间变成了大型种草现场，大家忍不住惊叹：原来这都有卖！",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "79d8896d15ff",
-      "title": "入境游增长28% 南京凭什么圈粉全球",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A5%E5%A2%83%E6%B8%B8%E5%A2%9E%E9%95%BF28%25+%E5%8D%97%E4%BA%AC%E5%87%AD%E4%BB%80%E4%B9%88%E5%9C%88%E7%B2%89%E5%85%A8%E7%90%83",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "97bda56ce543",
-      "title": "余文乐快和背景融为一体了",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%96%87%E4%B9%90%E5%BF%AB%E5%92%8C%E8%83%8C%E6%99%AF%E8%9E%8D%E4%B8%BA%E4%B8%80%E4%BD%93%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "原来糙汉和翩翩公子的差别是这样的！8月15日《披荆斩棘2026》直播现场，余文乐和曹骏站在一起，肤色差距大到一眼就能看见：余文乐肤色偏深，几乎快要和深色舞台背景融为一体；曹骏皮肤白皙透亮，一身银白古风造型，活脱脱一位温润翩翩公子。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "212bc2fe656c",
-      "title": "AI女主发美瞳广告称戴着舒服引质疑",
-      "url": "https://www.baidu.com/s?wd=AI%E5%A5%B3%E4%B8%BB%E5%8F%91%E7%BE%8E%E7%9E%B3%E5%B9%BF%E5%91%8A%E7%A7%B0%E6%88%B4%E7%9D%80%E8%88%92%E6%9C%8D%E5%BC%95%E8%B4%A8%E7%96%91",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "近日，AI短剧《被裁掉的女孩》女主角“方桃子”在其社交账号发布美瞳广告视频。“方桃子”以第一人称口播该美瞳“戴了一天都很舒服”，以剧情种草的形式推广产品，引发网友热议。此次争议的关键点在于，广告载体角色与拟人化体验表达之间的错位。AI数字人本身不具备独立法律人格，无法成为广告代言人，更无法替代消费者去真实“感受”。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6d7549e9a63a",
-      "title": "夜晚白影“星链”般闪现 目击者发声",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9C%E6%99%9A%E7%99%BD%E5%BD%B1%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%88%AC%E9%97%AA%E7%8E%B0+%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f4f54e9c2f0d",
-      "title": "国际人士批评日本歪曲历史",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%BA%BA%E5%A3%AB%E6%89%B9%E8%AF%84%E6%97%A5%E6%9C%AC%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ec5a30046814",
-      "title": "武汉空战英烈后人唱英雄歌",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E7%A9%BA%E6%88%98%E8%8B%B1%E7%83%88%E5%90%8E%E4%BA%BA%E5%94%B1%E8%8B%B1%E9%9B%84%E6%AD%8C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "df5a978ac9df",
-      "title": "“NBA第一深情”杜兰特长文致敬威少",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9CNBA%E7%AC%AC%E4%B8%80%E6%B7%B1%E6%83%85%E2%80%9D%E6%9D%9C%E5%85%B0%E7%89%B9%E9%95%BF%E6%96%87%E8%87%B4%E6%95%AC%E5%A8%81%E5%B0%91",
-      "source": "baidu",
-      "category": "general",
-      "summary": "北京时间8月14日，当今NBA“首席键盘侠”、全联盟“最有文采的包工头”、俄城“第一深情”凯文·杜兰特发布长文，致敬一天前宣布退役的前队友拉塞尔·威斯布鲁克。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "bdcf01aa451c",
-      "title": "OpenAI遭遇最剧烈高层震荡",
-      "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E6%9C%80%E5%89%A7%E7%83%88%E9%AB%98%E5%B1%82%E9%9C%87%E8%8D%A1",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "据CNBC网站14日报道，OpenAI正遭遇成立以来最剧烈的高层震荡。13日，入职不满一年的首席营收官丹尼斯·德雷瑟宣布离职；两天前，任职八年的元老级高管、首席运营官布拉德·莱特卡普宣布“开启新事业”。加上7月因健康原因退居二线的应用业务首席执行官菲吉·西莫，在短短一个月内，OpenAI已经历三次核心管理层人事变动。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8e3e39df0e11",
-      "title": "游客亲历印尼强震：酒店墙体震穿大洞",
-      "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E5%8D%B0%E5%B0%BC%E5%BC%BA%E9%9C%87%EF%BC%9A%E9%85%92%E5%BA%97%E5%A2%99%E4%BD%93%E9%9C%87%E7%A9%BF%E5%A4%A7%E6%B4%9E",
-      "source": "baidu",
-      "category": "general",
-      "summary": "北京时间8月15日5时58分，印尼弗洛勒斯岛附近海域发生7.7级地震。浙江游客亲历：酒店墙体震穿大洞，众人紧急转移避险。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a4bacd484e47",
-      "title": "吴艳妮13秒06拿下预赛第1",
-      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E8%89%B3%E5%A6%AE13%E7%A7%9206%E6%8B%BF%E4%B8%8B%E9%A2%84%E8%B5%9B%E7%AC%AC1",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月15日，2026年全国田径锦标赛在浙江衢州继续进行。女子100米栏预赛中，吴艳妮以13秒06的成绩排名第一，以明显优势锁定决赛席位。该项目决赛将在16日晚20点50分进行。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "d234a66fc197",
-      "title": "一个49人的上市公司等待沈腾“救援”",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA49%E4%BA%BA%E7%9A%84%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%AD%89%E5%BE%85%E6%B2%88%E8%85%BE%E2%80%9C%E6%95%91%E6%8F%B4%E2%80%9D",
-      "source": "baidu",
-      "category": "business",
-      "summary": "8月10日起，北京文化因参投沈腾主演的新片《欢迎来龙餐馆》收获三连板，3个交易日累计涨约33%，市值站上40亿元。这家公司曾接连押中《战狼2》《流浪地球》等超级爆款，如今全公司仅余49名员工，市值较2016年峰值已蒸发超八成。公司发布公告称，参投新片占比很低，这笔投资预计不会对当期业绩产生重大影响。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "4431a207276a",
-      "title": "王曼昱晋级WTT瑞典大满贯女单四强",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7WTT%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "在15日进行的世界乒乓球职业大联盟（WTT）欧洲大满贯赛瑞典站女单四分之一决赛中，头号种子、中国队选手王曼昱以4:1击败中国台北队选手彭郁涵，晋级四强。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a5f2e5c8c3b4",
-      "title": "“龙餐馆”其实不在中东在山东",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BE%99%E9%A4%90%E9%A6%86%E2%80%9D%E5%85%B6%E5%AE%9E%E4%B8%8D%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%9C%A8%E5%B1%B1%E4%B8%9C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月11日，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》全国上映。许多观众不知道的是，影片核心场景“龙餐馆”及其所在的“中东城镇”，并非在境外取景，而是在位于山东青岛西海岸新区的东方影都影视产业园（简称东方影都）内拍摄的。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "14a53cc2704f",
-      "title": "中国男篮不敌乌拉圭",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%B9%8C%E6%8B%89%E5%9C%AD",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月15日晚，中国男篮在佛山与乌拉圭男篮进行了三天内的第二场热身赛，结果以72比91大比分落败，两场比赛两队各胜一场。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ff0c43bf58a7",
-      "title": "中国驻日使馆：敦促日方深刻反省",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%EF%BC%9A%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月15日，驻日本大使馆发言人就日方涉靖国神社消极动向答记者问：日方领导人和政客对靖国神社顶礼膜拜，公然站在历史正义和人类良知的对立面，严重挑战二战胜利成果和战后国际秩序。中方对此表示强烈愤慨、严厉谴责，已向日方提出严正交涉、强烈抗议。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ab04ad731ff3",
-      "title": "旺旺 重大经营危机",
-      "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA+%E9%87%8D%E5%A4%A7%E7%BB%8F%E8%90%A5%E5%8D%B1%E6%9C%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，旺旺集团董事长蔡衍明在内部信中，罕见将2026财年首季度业绩失守定性为重大经营危机。旺仔牛奶的高糖属性、米果产品的传统口味，在健康消费浪潮下逐渐落伍，丧失主流市场竞争力。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1d8cd96ada6c",
-      "title": "印尼7.7级地震3名中国游客受轻伤",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%873%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%97%E8%BD%BB%E4%BC%A4",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月15日，总台记者从中国驻登巴萨总领馆获悉，在印尼发生的7.7级地震中，有3名中国游客受轻伤，目前均无大碍。据了解，其中一名中国游客在地震发生后紧急避险过程中，因慌乱不慎头部撞到墙壁。另外两名游客是腰部扭伤。目前，3名游客伤势均较轻。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T21:37:20.689Z",
+      "publishedAt": "2026-08-15T21:58:48.525Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-15T21:37:20.698Z"
+  "generatedAt": "2026-08-15T21:58:49.328Z"
 }
