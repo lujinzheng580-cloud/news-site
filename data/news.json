@@ -2,50 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "fea9410fdd7f",
-      "title": "微软 OneNote 网页版下月起不再支持 Loop 组件，建议用户改用 Windows 版",
-      "url": "https://www.ithome.com/0/990/063.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.632Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "68ce9ce94c31",
-      "title": "12999 元起 TCL C10M 真壁纸 SQD-Mini LED 电视发布：3.99cm 机身，100% BT.2020 全局高色域",
-      "url": "https://www.ithome.com/0/990/065.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "25f2fd00666a",
-      "title": "7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务",
-      "url": "https://www.ithome.com/0/990/066.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4c804c151630",
-      "title": "全球程序员都在浪费 token 白送钱，Anthropic 分享 Claude Code 六大省钱技巧",
-      "url": "https://www.ithome.com/0/990/072.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "53e00afa167d",
       "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
       "url": "https://www.ithome.com/0/990/074.htm",
@@ -53,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.631Z",
+      "publishedAt": "2026-08-15T14:41:59.196Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -64,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.630Z",
+      "publishedAt": "2026-08-15T14:41:59.195Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -75,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.630Z",
+      "publishedAt": "2026-08-15T14:41:59.195Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -86,7 +42,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.630Z",
+      "publishedAt": "2026-08-15T14:41:59.195Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.630Z",
+      "publishedAt": "2026-08-15T14:41:59.195Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.629Z",
+      "publishedAt": "2026-08-15T14:41:59.194Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.629Z",
+      "publishedAt": "2026-08-15T14:41:59.194Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.629Z",
+      "publishedAt": "2026-08-15T14:41:59.194Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.629Z",
+      "publishedAt": "2026-08-15T14:41:59.194Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.629Z",
+      "publishedAt": "2026-08-15T14:41:59.194Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +119,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.629Z",
+      "publishedAt": "2026-08-15T14:41:59.193Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.628Z",
+      "publishedAt": "2026-08-15T14:41:59.193Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +141,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.628Z",
+      "publishedAt": "2026-08-15T14:41:59.193Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +152,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.628Z",
+      "publishedAt": "2026-08-15T14:41:59.193Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +163,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.628Z",
+      "publishedAt": "2026-08-15T14:41:59.193Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.627Z",
+      "publishedAt": "2026-08-15T14:41:59.192Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.627Z",
+      "publishedAt": "2026-08-15T14:41:59.192Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.627Z",
+      "publishedAt": "2026-08-15T14:41:59.192Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.627Z",
+      "publishedAt": "2026-08-15T14:41:59.192Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.627Z",
+      "publishedAt": "2026-08-15T14:41:59.191Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +229,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.626Z",
+      "publishedAt": "2026-08-15T14:41:59.191Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.626Z",
+      "publishedAt": "2026-08-15T14:41:59.191Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +251,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.626Z",
+      "publishedAt": "2026-08-15T14:41:59.191Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +262,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.626Z",
+      "publishedAt": "2026-08-15T14:41:59.190Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +273,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.625Z",
+      "publishedAt": "2026-08-15T14:41:59.190Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.625Z",
+      "publishedAt": "2026-08-15T14:41:59.190Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.625Z",
+      "publishedAt": "2026-08-15T14:41:59.190Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.624Z",
+      "publishedAt": "2026-08-15T14:41:59.190Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.624Z",
+      "publishedAt": "2026-08-15T14:41:59.189Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +328,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.624Z",
+      "publishedAt": "2026-08-15T14:41:59.189Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +339,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.623Z",
+      "publishedAt": "2026-08-15T14:41:59.189Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +350,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.623Z",
+      "publishedAt": "2026-08-15T14:41:59.188Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +361,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.623Z",
+      "publishedAt": "2026-08-15T14:41:59.188Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +372,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.622Z",
+      "publishedAt": "2026-08-15T14:41:59.188Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +383,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.622Z",
+      "publishedAt": "2026-08-15T14:41:59.188Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +394,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.622Z",
+      "publishedAt": "2026-08-15T14:41:59.187Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +405,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.621Z",
+      "publishedAt": "2026-08-15T14:41:59.187Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +416,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.621Z",
+      "publishedAt": "2026-08-15T14:41:59.187Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +427,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.621Z",
+      "publishedAt": "2026-08-15T14:41:59.186Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +438,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.620Z",
+      "publishedAt": "2026-08-15T14:41:59.186Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +449,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.620Z",
+      "publishedAt": "2026-08-15T14:41:59.186Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +460,62 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:53.619Z",
+      "publishedAt": "2026-08-15T14:41:59.185Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "633c61b86d9a",
+      "title": "PVC 变废为宝：科学家将塑料转化为聚 α-烯烃，三小时产出润滑油",
+      "url": "https://www.ithome.com/0/990/178.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.185Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "14535a0b9071",
+      "title": "1.228 亿股，英伟达成 SpaceX 第六大股东",
+      "url": "https://www.ithome.com/0/990/179.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.185Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7ee2cb8ad674",
+      "title": "玩家利用矿机 BC-250 主板，低成本组装“Steam Machine”",
+      "url": "https://www.ithome.com/0/990/180.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.184Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8142d7a2149d",
+      "title": "菲尔兹奖得主马丁 · 海尔：AI 数学推演已达博士水平，中国基础科学投入令人印象深刻",
+      "url": "https://www.ithome.com/0/990/181.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.184Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5b307bca021c",
+      "title": "VR 游戏发行商称 Steam Frame 头显发售“就在眼前”，但具体日期还没有着落",
+      "url": "https://www.ithome.com/0/990/182.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.183Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,18 +526,18 @@
       "category": "general",
       "summary": "纪念江泽民同志诞辰100周年大会将于8月17日上午10时在人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平将出席大会并发表重要讲话。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "186e48ad998e",
-      "title": "秸秆禁烧不再“一刀切”",
-      "url": "https://www.baidu.com/s?wd=%E7%A7%B8%E7%A7%86%E7%A6%81%E7%83%A7%E4%B8%8D%E5%86%8D%E2%80%9C%E4%B8%80%E5%88%80%E5%88%87%E2%80%9D",
+      "id": "bb7be9fbf11d",
+      "title": "年轻人流行起夜间“拼蟹”",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B5%81%E8%A1%8C%E8%B5%B7%E5%A4%9C%E9%97%B4%E2%80%9C%E6%8B%BC%E8%9F%B9%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "农村地区秋收后秸秆如何处理一直受到社会关注。8月15日起正式实施的《中华人民共和国生态环境法典》明确提出，秸秆禁烧不再“一刀切”。",
+      "summary": "近日，因市场内梭子蟹以大分量整筐批发为主，不适合单人家庭单独购买，催生了年轻人线上约伴、线下组团拼单的新玩法。这股“拼蟹”风潮在社交平台持续走红，不仅吸引大量本地年轻人组队尝鲜，更成为外地游客特意调整行程打卡的特色文旅体验，打破传统观光模式，沉浸式体验宁波本土滨海市井食俗，也推动本土海鲜文化和新潮文旅消费双向赋能。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -537,18 +548,7 @@
       "category": "general",
       "summary": "今年夏天最火的旅游关键词是什么？答案一定是“China Travel”。埃隆・马斯克都忍不住在社交平台上“安利”中国游，国家移民管理局数据显示：今年上半年入境外国人达2291.4万人次，同比增长20.4%。他们最爱去哪些城市？这些城市藏着哪些让人走不动道的宝藏？一起来看看。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a214c060832c",
-      "title": "港星的含金量还在上升",
-      "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E6%98%9F%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "余文乐《披哥》初舞台赢了曹骏，粤语献唱惊艳全场，网友锐评：港星的含金量还在上升。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -559,29 +559,18 @@
       "category": "general",
       "summary": "近日，华中师范大学的大一新生小李晒出了自己和另一名新生小彭的出生年月和录取信息，配文“全省仅招两人的专业，我们同年同月同日生”，感慨缘分的奇妙，称其为命中注定。据悉，华中师范大学的汉语言文学国家拔尖学生培养基地班在川仅招录两名历史类考生，这两名考生便是小彭和小李。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "8e957b68d113",
-      "title": "男童走失4天找回 父亲设宴200桌答谢",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B14%E5%A4%A9%E6%89%BE%E5%9B%9E+%E7%88%B6%E4%BA%B2%E8%AE%BE%E5%AE%B4200%E6%A1%8C%E7%AD%94%E8%B0%A2",
+      "id": "4c1522ed7977",
+      "title": "关灯侧躺刷手机 毁眼睛",
+      "url": "https://www.baidu.com/s?wd=%E5%85%B3%E7%81%AF%E4%BE%A7%E8%BA%BA%E5%88%B7%E6%89%8B%E6%9C%BA+%E6%AF%81%E7%9C%BC%E7%9D%9B",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，贵州凯里4岁自闭症男童文浩走失4天后平安找回，家人准备了5头猪、200桌流水席答谢。文浩爸爸表示，除了备好的5头猪外，流水席等相关开销预算两三万元，“跟我儿子平安回来相比，这点钱我一点都不心疼”。他称办席只为回馈大家的热心帮助，不担心来的人多，反倒怕没人来，“人多热闹，希望大家都来，不然这么多猪怎么吃得完啊”。",
+      "summary": "关灯侧躺刷手机，正在悄悄毁掉你的眼睛：黑暗条件下看手机，眼睛为了获取更多光，瞳孔散大导致眼压升高，会患上青光眼；侧躺看手机会导致眼球变形，或者角膜形变。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f3b9ac58c13b",
-      "title": "河南周口117米溃口成功合龙",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3117%E7%B1%B3%E6%BA%83%E5%8F%A3%E6%88%90%E5%8A%9F%E5%90%88%E9%BE%99",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -592,7 +581,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "c5836a4994bb",
+      "title": "王传君终于原谅《爱情公寓》了",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，王传君主动提起关谷神奇！被网友吐槽：终于原谅爱情公寓了。据悉，他曾吐槽关谷神奇这个角色像傻子。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,51 +603,7 @@
       "category": "general",
       "summary": "四川眉山丹棱县顺龙乡柏木村因‌33对双胞胎‌被称为“双胞胎村”，全村1996人双胎发生率约‌5%‌，远超普通人群1%-2%的标准。专家认为‌遗传因素‌是最可能的成因，土壤含硒或特殊水源等猜测无科学依据。‌‌",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "3c0d2dbfae52",
-      "title": "男子彩票中598万 没告诉妻儿父母",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，陕西西安灞桥区一位化名‌刘先生‌的彩民中得双色球‌598万元‌大奖，但他选择对妻子、孩子及父母‌全员保密‌。他表示，中奖后未告知任何家人，害怕影响到他们正常的工作、生活和学习，希望独自消化这份喜悦，避免给家人添不必要的麻烦。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "d5edad1c1baf",
-      "title": "我们为什么总是容易相信谣言",
-      "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80",
-      "source": "baidu",
-      "category": "general",
-      "summary": "刷手机总被各类消息牵着走？我们为什么总是容易相信谣言？让我们与来自未来的观测员一起识别谣言套路，掌握三步自检法，轻松分辨不实信息。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "341dc855cd51",
-      "title": "30岁男子患抑郁症被母亲送进特训营",
-      "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%80%81%E8%BF%9B%E7%89%B9%E8%AE%AD%E8%90%A5",
-      "source": "baidu",
-      "category": "general",
-      "summary": "30岁的星尘本科毕业后因患抑郁症辞职，被母亲轻信赋苗教育“治抑郁”的宣传，配合机构人员强行从江西带往重庆这家宣称戒网瘾、治抑郁的封闭式特训营。后续经媒体曝光，当地多部门进驻处置，机构被责令停办整改、遣散学员，星尘被接出后母子和解落泪。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "eb3bb1eaa162",
-      "title": "什么是“984.5高校”",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "什么是“984.5高校”？“984.5高校”并非官方认证，而是民间对南方科技大学、深圳理工大学、西湖大学、福耀科技大学等一类新型研究型大学的戏称。它们没有“985工程”的头衔，投档分数在不少省份却已处于985高校的中上水平。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +614,53 @@
       "category": "general",
       "summary": "近日，旺旺集团董事长蔡衍明在内部信中，罕见将2026财年首季度业绩失守定性为重大经营危机。旺仔牛奶的高糖属性、米果产品的传统口味，在健康消费浪潮下逐渐落伍，丧失主流市场竞争力。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T14:00:54.352Z",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "f3b9ac58c13b",
+      "title": "河南周口117米溃口成功合龙",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3117%E7%B1%B3%E6%BA%83%E5%8F%A3%E6%88%90%E5%8A%9F%E5%90%88%E9%BE%99",
+      "source": "baidu",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d5edad1c1baf",
+      "title": "我们为什么总是容易相信谣言",
+      "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80",
+      "source": "baidu",
+      "category": "general",
+      "summary": "刷手机总被各类消息牵着走？我们为什么总是容易相信谣言？让我们与来自未来的观测员一起识别谣言套路，掌握三步自检法，轻松分辨不实信息。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "8e957b68d113",
+      "title": "男童走失4天找回 父亲设宴200桌答谢",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B14%E5%A4%A9%E6%89%BE%E5%9B%9E+%E7%88%B6%E4%BA%B2%E8%AE%BE%E5%AE%B4200%E6%A1%8C%E7%AD%94%E8%B0%A2",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，贵州凯里4岁自闭症男童文浩走失4天后平安找回，家人准备了5头猪、200桌流水席答谢。文浩爸爸表示，除了备好的5头猪外，流水席等相关开销预算两三万元，“跟我儿子平安回来相比，这点钱我一点都不心疼”。他称办席只为回馈大家的热心帮助，不担心来的人多，反倒怕没人来，“人多热闹，希望大家都来，不然这么多猪怎么吃得完啊”。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "341dc855cd51",
+      "title": "30岁男子患抑郁症被母亲送进特训营",
+      "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%80%81%E8%BF%9B%E7%89%B9%E8%AE%AD%E8%90%A5",
+      "source": "baidu",
+      "category": "general",
+      "summary": "30岁的星尘本科毕业后因患抑郁症辞职，被母亲轻信赋苗教育“治抑郁”的宣传，配合机构人员强行从江西带往重庆这家宣称戒网瘾、治抑郁的封闭式特训营。后续经媒体曝光，当地多部门进驻处置，机构被责令停办整改、遣散学员，星尘被接出后母子和解落泪。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T14:41:59.492Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-15T14:00:56.973Z"
+  "generatedAt": "2026-08-15T14:42:00.304Z"
 }

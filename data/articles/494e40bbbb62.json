@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 15 日消息，KDE Plasma 开发者今天发布新一期《This Week in Plasma》博文，透露 Plasma 6.8 桌面环境的新变化。\n\n据介绍，Plasma 6.8 本次将解决以往远程桌面会话无法双向共享剪贴板的问题。IT之家附该问题此前的引发原因如下：\n\n目前只有 PortalSession 会将本地剪贴板转发给客户端，PlasmaScreencastV1Session 的 setClipboardData () 实际上没有执行任何操作，而且没有监听本地剪贴板变化。\n\nPortalSession 还存在未使用的 ignoreNextSystemClipboardChange 字段，该字段虽然已经添加，却从未真正接入功能，因此将客户端剪贴板应用到本地后，可能会立即被当成新的本地复制操作再次发送出去。\n\nKDE 开发者决定在 Plasma 6.8 中修复上述问题，接入此前缺失的字段，以实现真正的双向复制粘贴。\n\n此外，KDE Plasma 6.8 预计将在 10 月中旬发布。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-15T14:00:53.629Z",
+    "publishedAt": "2026-08-15T14:41:59.194Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
