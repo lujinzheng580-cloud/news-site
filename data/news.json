@@ -2,39 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "541bb8d84e68",
-      "title": "漫威《复仇者联盟 5：毁灭之日》全新预告发布，2026 年 12 月全球献映",
-      "url": "https://www.ithome.com/0/990/030.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.078Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "33b78110033d",
-      "title": "消息称英特尔 Razor Lake-AX 处理器沿用 Nova Lake 核心组合，不支持超频",
-      "url": "https://www.ithome.com/0/990/031.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.078Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e1f7f0c1b68d",
-      "title": "全新深蓝 G318 官宣搭载华为乾崑 ADS 5 Pro，拥有 27 个传感器融合感知系统",
-      "url": "https://www.ithome.com/0/990/032.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.078Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "f6bd38db143f",
       "title": "限 1963 辆：兰博基尼全球首秀 V12 混动超跑 Revuelto SV，零百加速 2.4 秒、1065 马力",
       "url": "https://www.ithome.com/0/990/033.htm",
@@ -42,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.078Z",
+      "publishedAt": "2026-08-15T10:02:22.076Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -53,7 +20,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.078Z",
+      "publishedAt": "2026-08-15T10:02:22.075Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -64,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.077Z",
+      "publishedAt": "2026-08-15T10:02:22.075Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -75,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.077Z",
+      "publishedAt": "2026-08-15T10:02:22.075Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -86,7 +53,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.077Z",
+      "publishedAt": "2026-08-15T10:02:22.075Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.077Z",
+      "publishedAt": "2026-08-15T10:02:22.075Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.077Z",
+      "publishedAt": "2026-08-15T10:02:22.074Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.077Z",
+      "publishedAt": "2026-08-15T10:02:22.074Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.077Z",
+      "publishedAt": "2026-08-15T10:02:22.074Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.076Z",
+      "publishedAt": "2026-08-15T10:02:22.074Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.076Z",
+      "publishedAt": "2026-08-15T10:02:22.074Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.076Z",
+      "publishedAt": "2026-08-15T10:02:22.073Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.076Z",
+      "publishedAt": "2026-08-15T10:02:22.073Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +152,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.076Z",
+      "publishedAt": "2026-08-15T10:02:22.073Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +163,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.075Z",
+      "publishedAt": "2026-08-15T10:02:22.073Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.075Z",
+      "publishedAt": "2026-08-15T10:02:22.072Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.075Z",
+      "publishedAt": "2026-08-15T10:02:22.072Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.075Z",
+      "publishedAt": "2026-08-15T10:02:22.072Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.075Z",
+      "publishedAt": "2026-08-15T10:02:22.072Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.074Z",
+      "publishedAt": "2026-08-15T10:02:22.072Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +229,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.074Z",
+      "publishedAt": "2026-08-15T10:02:22.071Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +240,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.074Z",
+      "publishedAt": "2026-08-15T10:02:22.071Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.074Z",
+      "publishedAt": "2026-08-15T10:02:22.071Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.074Z",
+      "publishedAt": "2026-08-15T10:02:22.071Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +273,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.073Z",
+      "publishedAt": "2026-08-15T10:02:22.071Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +284,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.073Z",
+      "publishedAt": "2026-08-15T10:02:22.070Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +295,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.073Z",
+      "publishedAt": "2026-08-15T10:02:22.070Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.073Z",
+      "publishedAt": "2026-08-15T10:02:22.070Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.072Z",
+      "publishedAt": "2026-08-15T10:02:22.070Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +328,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.072Z",
+      "publishedAt": "2026-08-15T10:02:22.069Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +339,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.072Z",
+      "publishedAt": "2026-08-15T10:02:22.069Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +350,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.072Z",
+      "publishedAt": "2026-08-15T10:02:22.069Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +361,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.071Z",
+      "publishedAt": "2026-08-15T10:02:22.068Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +372,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.071Z",
+      "publishedAt": "2026-08-15T10:02:22.068Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +383,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.071Z",
+      "publishedAt": "2026-08-15T10:02:22.068Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +394,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.071Z",
+      "publishedAt": "2026-08-15T10:02:22.067Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +405,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.070Z",
+      "publishedAt": "2026-08-15T10:02:22.067Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +416,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.070Z",
+      "publishedAt": "2026-08-15T10:02:22.067Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +427,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.070Z",
+      "publishedAt": "2026-08-15T10:02:22.066Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +438,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.069Z",
+      "publishedAt": "2026-08-15T10:02:22.066Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +449,29 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.069Z",
+      "publishedAt": "2026-08-15T10:02:22.066Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "21697da77478",
+      "title": "纽博格林赛道百年纪念将至，保时捷将推限量 100 台特别版 911 GT3",
+      "url": "https://www.ithome.com/0/990/123.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T10:02:22.065Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c8a5ecc83cd6",
+      "title": "群联谈存储短缺：NAND 新增产能最快需 4 年，供应紧张或持续多年",
+      "url": "https://www.ithome.com/0/990/129.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T10:02:22.064Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +482,7 @@
       "category": "general",
       "summary": "近日，旺旺集团董事长蔡衍明在内部信中，罕见将2026财年首季度业绩失守定性为重大经营危机。旺仔牛奶的高糖属性、米果产品的传统口味，在健康消费浪潮下逐渐落伍，丧失主流市场竞争力。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -504,7 +493,7 @@
       "category": "general",
       "summary": "今天，一部叫《牛来》的“糙片”，成为国内电影院线最出圈的存在。普通观众最不解的地方，集中在影片的过审逻辑。观感如此粗糙的作品，为何能顺利拿到龙标、登陆院线。一线院线发行人员也坦言自己的直观困惑：“24年的龙标，那就是内容层面过了，内容层面不违法乱纪也就算了，公映证也有，就是说第二道技术层面也没问题，就很匪夷所思。”",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -515,18 +504,7 @@
       "category": "general",
       "summary": "1945年8月15日，日本宣布无条件投降。同年9月2日，日本政府代表签署投降书。历经14年浴血奋战，中国人民终于迎来了胜利。在这些无声的黑白照片里，藏着出生在和平年代的我们未曾经历的烽火，铭刻着我们绝不能忘却的伤痛。每一次重温历史，不是为延续仇恨，而是为了记住和平，从来不是理所当然。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "2677bca056e3",
-      "title": "手机为什么越卖越贵了",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近两年，普通人最直观的消费感受，莫过于手机越来越贵了。本轮手机涨价最直接、最硬核的导火索，是全球存储芯片的供需失衡。这背后，改写整个供应链格局的变量，是爆发式增长的AI产业。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -537,29 +515,18 @@
       "category": "general",
       "summary": "已致20人遇难！印尼7.7级强震后又发生111次余震，中国游客：海面出现巨大漩涡致船只侧翻，有人逃离酒店时撞得头破血流。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "955cb0bbad88",
-      "title": "谁“杀死”了驾校",
-      "url": "https://www.baidu.com/s?wd=%E8%B0%81%E2%80%9C%E6%9D%80%E6%AD%BB%E2%80%9D%E4%BA%86%E9%A9%BE%E6%A0%A1",
+      "id": "c79fbd95a799",
+      "title": "船厂爆炸牺牲消防员朋友圈：拼什么命",
+      "url": "https://www.baidu.com/s?wd=%E8%88%B9%E5%8E%82%E7%88%86%E7%82%B8%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E6%9C%8B%E5%8F%8B%E5%9C%88%EF%BC%9A%E6%8B%BC%E4%BB%80%E4%B9%88%E5%91%BD",
       "source": "baidu",
       "category": "general",
-      "summary": "最近，市场监管总局把一些驾校见不得人的“小动作”摊到了台面上，点名批评并开展治理。但这背后藏着一个行业供需失衡导致的生存困局。有数据显示，全国超过2.1万家驾培机构中，超八成驾校不盈利，产能利用率平均仅28.6%。越来越多的“00后”不再急于考取驾照。驾校门庭冷落的背后，是出行逻辑正在被彻底颠覆。",
+      "summary": "福建一船厂爆炸致消防员池坷杰牺牲，他曾发朋友圈“拼什么命呀”。好友回忆：他儿时就性格内向。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "be67f7d7f291",
-      "title": "《疯狂动物城3》官宣",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E3%80%8B%E5%AE%98%E5%AE%A3",
-      "source": "baidu",
-      "category": "general",
-      "summary": "动画电影《疯狂动物城3》官宣开始制作，准备好进入鸟类世界。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -570,7 +537,18 @@
       "category": "general",
       "summary": "8月15日凌晨，胖东来创始人于东来在社交平台发文称：好的环境、好的制度、好的文化。胖东来第一批刑释人员进入岗位以后，没有一个离开，都稳定开心地工作和健康地生活着。这就是充满着尊重、尊严、公平、友善、正义和爱的文化的力量！就在8月14日，胖东来在社交平台称计划招聘100名退伍军人和20名刑释人员，还设立专属报名投递通道。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "be67f7d7f291",
+      "title": "《疯狂动物城3》官宣",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E3%80%8B%E5%AE%98%E5%AE%A3",
+      "source": "baidu",
+      "category": "general",
+      "summary": "动画电影《疯狂动物城3》官宣开始制作，准备好进入鸟类世界。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,29 +559,7 @@
       "category": "general",
       "summary": "近日，陕西西安灞桥区一位化名‌刘先生‌的彩民中得双色球‌598万元‌大奖，但他选择对妻子、孩子及父母‌全员保密‌。他表示，中奖后未告知任何家人，害怕影响到他们正常的工作、生活和学习，希望独自消化这份喜悦，避免给家人添不必要的麻烦。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "132340ab14dc",
-      "title": "《牛来》导演：时间会证明一切",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%97%B6%E9%97%B4%E4%BC%9A%E8%AF%81%E6%98%8E%E4%B8%80%E5%88%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "2026年暑期档动画电影《牛来》因画面粗糙、两人团队制作，上映9天累计票房仅7169元，创年度院线动画票房最低纪录，却因“烂到极致”意外走红。该片2021年立项、2024年获公映许可。导演发视频庆祝票房破10万，称“时间会证明一切”。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.387Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "d5edad1c1baf",
-      "title": "我们为什么总是容易相信谣言",
-      "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80",
-      "source": "baidu",
-      "category": "general",
-      "summary": "刷手机总被各类消息牵着走？我们为什么总是容易相信谣言？让我们与来自未来的观测员一起识别谣言套路，掌握三步自检法，轻松分辨不实信息。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.388Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,7 +570,40 @@
       "category": "general",
       "summary": "一名比利时学生暑期在一啤酒厂建筑工地打工，挖下水道时发现了一个隐藏的黄金库，估价900万欧元。据报道，这个金库囤积了包括金币、金块和有编号的金条，被认为是19世纪末时任该啤酒厂老板别墅地窖的私藏。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.388Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "132340ab14dc",
+      "title": "《牛来》导演：时间会证明一切",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%AF%BC%E6%BC%94%EF%BC%9A%E6%97%B6%E9%97%B4%E4%BC%9A%E8%AF%81%E6%98%8E%E4%B8%80%E5%88%87",
+      "source": "baidu",
+      "category": "general",
+      "summary": "2026年暑期档动画电影《牛来》因画面粗糙、两人团队制作，上映9天累计票房仅7169元，创年度院线动画票房最低纪录，却因“烂到极致”意外走红。该片2021年立项、2024年获公映许可。导演发视频庆祝票房破10万，称“时间会证明一切”。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d5edad1c1baf",
+      "title": "我们为什么总是容易相信谣言",
+      "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80",
+      "source": "baidu",
+      "category": "general",
+      "summary": "刷手机总被各类消息牵着走？我们为什么总是容易相信谣言？让我们与来自未来的观测员一起识别谣言套路，掌握三步自检法，轻松分辨不实信息。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "27a3e86da564",
+      "title": "中方：这个人一贯攻击抹黑中国",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%BF%99%E4%B8%AA%E4%BA%BA%E4%B8%80%E8%B4%AF%E6%94%BB%E5%87%BB%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月14日，外交部发言人郭嘉昆答记者问，回应菲律宾国防部长指责中国利用针对菲律宾人员的行动：中国移民管理机构依法履职并保障涉案人员合法权益，不针对特定国家。菲律宾国防部长曾亲自带武装部队抓扣中国公民，这个人一贯攻击抹黑中国，破坏的不仅是中菲双边关系，也将损害菲律宾国家和人民的利益。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,18 +614,18 @@
       "category": "general",
       "summary": "8月15日，电影《牛来》综合票房破50万，观影人次破万。8月5日首映票房仅3420元，15日单日票房激增至26.1万。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.388Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "a2b6fca7dca5",
-      "title": "谢霆锋王菲 情侣手镯",
-      "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E9%9C%86%E9%94%8B%E7%8E%8B%E8%8F%B2+%E6%83%85%E4%BE%A3%E6%89%8B%E9%95%AF",
+      "id": "955cb0bbad88",
+      "title": "谁“杀死”了驾校",
+      "url": "https://www.baidu.com/s?wd=%E8%B0%81%E2%80%9C%E6%9D%80%E6%AD%BB%E2%80%9D%E4%BA%86%E9%A9%BE%E6%A0%A1",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，谢霆锋直播时疑似戴着和王菲同款的情侣手镯，似乎是26年前的定情同款手镯。",
+      "summary": "最近，市场监管总局把一些驾校见不得人的“小动作”摊到了台面上，点名批评并开展治理。但这背后藏着一个行业供需失衡导致的生存困局。有数据显示，全国超过2.1万家驾培机构中，超八成驾校不盈利，产能利用率平均仅28.6%。越来越多的“00后”不再急于考取驾照。驾校门庭冷落的背后，是出行逻辑正在被彻底颠覆。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.388Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -647,7 +636,7 @@
       "category": "general",
       "summary": "8月15日报道，动画电影《牛来》反向爆火，票房怒破5万，日排片猛增。《牛来》因建模粗糙、画面崩坏、剧情空洞被观众吐槽，创下今年院线动画电影票房最低纪录，却因此意外出圈。网友：上坟烧的牛都比这个建模好。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.388Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +647,20 @@
       "category": "general",
       "summary": "宇树科技即将上市，让美国人形机器人公司K-Scale Labs（以下简称K-Scale）的创始人本杰明·博尔特（Benjamin Bolte）意难平。K-Scale创始团队反思，美国创业者和投资者过于重视AI而忽视硬件，美国缺乏相关供应链，是他们失败的原因。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T09:43:30.388Z",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "21f8bcd7cddb",
+      "title": "外国女子倒车落下山崖 女儿不幸身亡",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%80%92%E8%BD%A6%E8%90%BD%E4%B8%8B%E5%B1%B1%E5%B4%96+%E5%A5%B3%E5%84%BF%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1",
+      "source": "baidu",
+      "category": "general",
+      "summary": "当地时间8月13日，一名巴勒斯坦母亲在拉姆安拉驾车倒车时突然加速，车辆坠落山崖，导致其17岁女儿不幸身亡，母亲身受重伤。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T10:02:22.878Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-15T09:43:31.277Z"
+  "generatedAt": "2026-08-15T10:02:25.946Z"
 }
