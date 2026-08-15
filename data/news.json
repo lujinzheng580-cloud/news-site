@@ -2,72 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "71bbfad26213",
-      "title": "微软 Win11/Win10 版 Word 加入文本定位链接，协作跳转不必手动滚动",
-      "url": "https://www.ithome.com/0/990/007.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.302Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8ebc86e6ae00",
-      "title": "上汽大众公布 2026 成都车展阵容，ID.ERA 家族四车同台亮相",
-      "url": "https://www.ithome.com/0/990/008.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.302Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "308bb45b94a9",
-      "title": "三星 One UI 9.5 系统截图曝光：控件新增背景阴影，拨号界面引入搜索功能",
-      "url": "https://www.ithome.com/0/990/009.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.302Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "510f494e7ffd",
-      "title": "vivo OriginOS 7 系统交互可打断升级，支持全新「首帧交互可打断」技术",
-      "url": "https://www.ithome.com/0/990/010.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.301Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3b7d84936998",
-      "title": "1 至 7 月全国铁路发送旅客 28 亿人次同比增长 4.1%，创历史同期新高",
-      "url": "https://www.ithome.com/0/990/012.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.301Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fb26579c80b8",
-      "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
-      "url": "https://www.ithome.com/0/990/013.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.301Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "93e4ab110698",
       "title": "亿咖通：Flyme Auto 系统 7 月装机 135,201 辆，目前累计装机量超 328 万",
       "url": "https://www.ithome.com/0/990/014.htm",
@@ -75,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.301Z",
+      "publishedAt": "2026-08-15T07:45:59.484Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -86,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.301Z",
+      "publishedAt": "2026-08-15T07:45:59.484Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.300Z",
+      "publishedAt": "2026-08-15T07:45:59.484Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.300Z",
+      "publishedAt": "2026-08-15T07:45:59.484Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.300Z",
+      "publishedAt": "2026-08-15T07:45:59.483Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.300Z",
+      "publishedAt": "2026-08-15T07:45:59.483Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.300Z",
+      "publishedAt": "2026-08-15T07:45:59.483Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.299Z",
+      "publishedAt": "2026-08-15T07:45:59.483Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.299Z",
+      "publishedAt": "2026-08-15T07:45:59.482Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.299Z",
+      "publishedAt": "2026-08-15T07:45:59.482Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.299Z",
+      "publishedAt": "2026-08-15T07:45:59.482Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +130,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.299Z",
+      "publishedAt": "2026-08-15T07:45:59.482Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +141,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.298Z",
+      "publishedAt": "2026-08-15T07:45:59.482Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.298Z",
+      "publishedAt": "2026-08-15T07:45:59.481Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +163,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.298Z",
+      "publishedAt": "2026-08-15T07:45:59.481Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +174,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.298Z",
+      "publishedAt": "2026-08-15T07:45:59.481Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.297Z",
+      "publishedAt": "2026-08-15T07:45:59.481Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +196,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.297Z",
+      "publishedAt": "2026-08-15T07:45:59.480Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.297Z",
+      "publishedAt": "2026-08-15T07:45:59.480Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.297Z",
+      "publishedAt": "2026-08-15T07:45:59.480Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +229,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.297Z",
+      "publishedAt": "2026-08-15T07:45:59.480Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.296Z",
+      "publishedAt": "2026-08-15T07:45:59.479Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +251,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.296Z",
+      "publishedAt": "2026-08-15T07:45:59.479Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.296Z",
+      "publishedAt": "2026-08-15T07:45:59.479Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.295Z",
+      "publishedAt": "2026-08-15T07:45:59.479Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.295Z",
+      "publishedAt": "2026-08-15T07:45:59.478Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.295Z",
+      "publishedAt": "2026-08-15T07:45:59.478Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.294Z",
+      "publishedAt": "2026-08-15T07:45:59.478Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.294Z",
+      "publishedAt": "2026-08-15T07:45:59.478Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +328,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.294Z",
+      "publishedAt": "2026-08-15T07:45:59.477Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +339,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.293Z",
+      "publishedAt": "2026-08-15T07:45:59.477Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +350,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.293Z",
+      "publishedAt": "2026-08-15T07:45:59.477Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +361,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.293Z",
+      "publishedAt": "2026-08-15T07:45:59.476Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +372,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.292Z",
+      "publishedAt": "2026-08-15T07:45:59.476Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +383,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.292Z",
+      "publishedAt": "2026-08-15T07:45:59.476Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +394,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.291Z",
+      "publishedAt": "2026-08-15T07:45:59.475Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,18 +405,117 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.290Z",
+      "publishedAt": "2026-08-15T07:45:59.475Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "a295f4797b9c",
-      "title": "胖东来首批刑释职工30人无一离职",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C",
+      "id": "6ab83a36cad6",
+      "title": "Anthropic 宣布为 Claude 生成文本加入水印后，部分用户担心“留痕”选择退订",
+      "url": "https://www.ithome.com/0/990/062.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:45:59.475Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fea9410fdd7f",
+      "title": "微软 OneNote 网页版下月起不再支持 Loop 组件，建议用户改用 Windows 版",
+      "url": "https://www.ithome.com/0/990/063.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:45:59.474Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "68ce9ce94c31",
+      "title": "12999 元起 TCL C10M 真壁纸 SQD-Mini LED 电视发布：3.99cm 机身，100% BT.2020 全局高色域",
+      "url": "https://www.ithome.com/0/990/065.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:45:59.474Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "25f2fd00666a",
+      "title": "7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务",
+      "url": "https://www.ithome.com/0/990/066.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:45:59.473Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4c804c151630",
+      "title": "全球程序员都在浪费 token 白送钱，Anthropic 分享 Claude Code 六大省钱技巧",
+      "url": "https://www.ithome.com/0/990/072.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:45:59.473Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "53e00afa167d",
+      "title": "首次实现运营盈利：曝 Anthropic 2026Q2 营收破 115 亿美元，同比增长逾 14 倍",
+      "url": "https://www.ithome.com/0/990/074.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:45:59.472Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a8fe729304fb",
+      "title": "60后妈妈与儿子纯手搓5年做出《牛来》",
+      "url": "https://www.baidu.com/s?wd=60%E5%90%8E%E5%A6%88%E5%A6%88%E4%B8%8E%E5%84%BF%E5%AD%90%E7%BA%AF%E6%89%8B%E6%90%935%E5%B9%B4%E5%81%9A%E5%87%BA%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B",
       "source": "baidu",
       "category": "general",
-      "summary": "8月15日凌晨，胖东来创始人于东来在社交平台发文称：好的环境、好的制度、好的文化。胖东来第一批刑释人员进入岗位以后，没有一个离开，都稳定开心地工作和健康地生活着。这就是充满着尊重、尊严、公平、友善、正义和爱的文化的力量！就在8月14日，胖东来在社交平台称计划招聘100名退伍军人和20名刑释人员，还设立专属报名投递通道。",
+      "summary": "近日，动画《牛来》因制作粗糙反向出圈。这部作品由导演和其60后母亲亲力亲为完成，没有外部投资，母子二人耗时5年，全程手搓制作，母亲出钱出力还参与配音，帮儿子完成创作梦想。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "028a50fcfa6d",
+      "title": "《牛来》火到韩国了",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，动画电影《牛来》因制作粗糙、上映9天票房仅七千余元被群嘲，却意外引爆全民猎奇围观，排片从个位数猛增至600场，票房一路突破10万元。目前，《牛来》的热度已经传到韩国，周安信火速安利影片：“谁不想急头白脸的看一场《牛来》呢？”",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "b10e654d595e",
+      "title": "为什么我们要不断重温这段历史",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%A6%81%E4%B8%8D%E6%96%AD%E9%87%8D%E6%B8%A9%E8%BF%99%E6%AE%B5%E5%8E%86%E5%8F%B2",
+      "source": "baidu",
+      "category": "general",
+      "summary": "1945年8月15日，日本宣布无条件投降。同年9月2日，日本政府代表签署投降书。历经14年浴血奋战，中国人民终于迎来了胜利。在这些无声的黑白照片里，藏着出生在和平年代的我们未曾经历的烽火，铭刻着我们绝不能忘却的伤痛。每一次重温历史，不是为延续仇恨，而是为了记住和平，从来不是理所当然。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "cfd9c61c460e",
+      "title": "旅行社为啥不受欢迎了",
+      "url": "https://www.baidu.com/s?wd=%E6%97%85%E8%A1%8C%E7%A4%BE%E4%B8%BA%E5%95%A5%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，旅行社因互联网消解信息差红利而逐渐不受欢迎。OTA平台与社交媒体使预订与规划透明高效，网约车等让自由行更顺畅。加之部分低价团靠强制消费盈利破坏体验，传统旅行社亟需向精细个性化转型。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -493,40 +526,7 @@
       "category": "general",
       "summary": "8月15日是日本战败投降日，日本首相高市早苗向靖国神社供奉祭祀费，还有个别内阁成员参拜靖国神社。外交部发言人就此答记者问，强调中方强烈谴责日方涉靖国神社消极动向，已向日方提出严正交涉、强烈抗议。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1293b7ab29d7",
-      "title": "勿忘历史 吾辈自强",
-      "url": "https://www.baidu.com/s?wd=%E5%8B%BF%E5%BF%98%E5%8E%86%E5%8F%B2+%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "81年前的今天，日本电台播出裕仁天皇宣读的《终战诏书》，日本宣布无条件投降。如今，山河重振，国泰民安。伟大的抗战精神永远激励我们奋勇向前。铭记，为了来之不易的胜利！前行，带着不能忘却的纪念！告慰先烈！吾辈自强！",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a8fe729304fb",
-      "title": "60后妈妈与儿子纯手搓5年做出《牛来》",
-      "url": "https://www.baidu.com/s?wd=60%E5%90%8E%E5%A6%88%E5%A6%88%E4%B8%8E%E5%84%BF%E5%AD%90%E7%BA%AF%E6%89%8B%E6%90%935%E5%B9%B4%E5%81%9A%E5%87%BA%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，动画《牛来》因制作粗糙反向出圈。这部作品由导演和其60后母亲亲力亲为完成，没有外部投资，母子二人耗时5年，全程手搓制作，母亲出钱出力还参与配音，帮儿子完成创作梦想。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "b1380f2581bd",
-      "title": "年轻人为什么喜欢“手洗一辆车”",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E2%80%9C%E6%89%8B%E6%B4%97%E4%B8%80%E8%BE%86%E8%BD%A6%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，自助洗车成为年轻人新型解压方式。这一现象源于洗车具有极强的可视化变化与控场感，机械动作能让大脑进入留白状态，且零社交负担与低成本的私密空间更适配当代生活节奏，帮助年轻人找回内心秩序。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -537,18 +537,7 @@
       "category": "general",
       "summary": "最近，市场监管总局把一些驾校见不得人的“小动作”摊到了台面上，点名批评并开展治理。但这背后藏着一个行业供需失衡导致的生存困局。有数据显示，全国超过2.1万家驾培机构中，超八成驾校不盈利，产能利用率平均仅28.6%。越来越多的“00后”不再急于考取驾照。驾校门庭冷落的背后，是出行逻辑正在被彻底颠覆。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f7dd744bcbe8",
-      "title": "《牛来》票房飙涨977% 影院紧急加场",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "零宣发国产国风动画《牛来》8月5日低调上映，初期票房仅7705元，画质粗糙的观感引发全网热议。不少网友调侃观影、花式玩梗，超高话题度直接带动观影热潮，火热人气倒逼市场加码，全国多地影院紧急加排补档。截至目前，《牛来》累计票房已攀升至8.3万元，整体涨幅高达977%。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -559,7 +548,18 @@
       "category": "general",
       "summary": "不在城里“卷”了，一部分年轻人回村“卷”起了自建房。如今，年轻一代已经是新的农村建房主力，随之而来的变化是，近几年的乡村自建房越来越不像“农房”，有法式、欧式，还有复古风、极简风，看上去更像是民宿、咖啡馆，有的甚至像美术馆。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "b1380f2581bd",
+      "title": "年轻人为什么喜欢“手洗一辆车”",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E2%80%9C%E6%89%8B%E6%B4%97%E4%B8%80%E8%BE%86%E8%BD%A6%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，自助洗车成为年轻人新型解压方式。这一现象源于洗车具有极强的可视化变化与控场感，机械动作能让大脑进入留白状态，且零社交负担与低成本的私密空间更适配当代生活节奏，帮助年轻人找回内心秩序。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -570,40 +570,7 @@
       "category": "general",
       "summary": "近日，电影《欢迎来龙餐馆》票房突破5亿元。因海外战事，剧组放弃境外拍摄，选择在青岛东方影都搭建超10万平方米的中东实景，复刻200多栋建筑与细节。这展现了我国电影工业化的高水平与强大落地能力。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.993Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "aa6e981cb80c",
-      "title": "宝宝从餐椅跌落 老人不敢告知父母",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E4%BB%8E%E9%A4%90%E6%A4%85%E8%B7%8C%E8%90%BD+%E8%80%81%E4%BA%BA%E4%B8%8D%E6%95%A2%E5%91%8A%E7%9F%A5%E7%88%B6%E6%AF%8D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，西安一宝宝因未系安全带从儿童餐椅跌落，导致头部摔伤。家中老人因慌乱未第一时间告知家长，父母三天后发现孩子头部鼓包紧急送医，确诊头骨骨折。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "588fa090eb9e",
-      "title": "电车充电辐射危害健康系谣言",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%BD%A6%E5%85%85%E7%94%B5%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，专家辟谣电车充电辐射危害健康的说法，指出电动汽车产生的是电磁辐射，正规车辆在快充状态下的电磁辐射水平不足国标限值的10%，远低于安全标准。此外，快充伤电池、不同品牌充电桩损害电池、“劣质电”致自燃等说法也属谣言。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "9ab848558e22",
-      "title": "35岁男子第二性征没发育尴尬看儿科",
-      "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E7%AC%AC%E4%BA%8C%E6%80%A7%E5%BE%81%E6%B2%A1%E5%8F%91%E8%82%B2%E5%B0%B4%E5%B0%AC%E7%9C%8B%E5%84%BF%E7%A7%91",
-      "source": "baidu",
-      "category": "general",
-      "summary": "浙江杭州35岁男子因身高明显偏矮、声音似少年且第二性征迟迟未发育，尴尬来到浙大一院儿科就诊。检查发现其生长激素严重缺乏，骨骺尚未闭合，经过两年治疗后身高还长了几厘米。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,7 +581,18 @@
       "category": "general",
       "summary": "近日，动画电影《牛来》因粗糙至极的建模与崩坏画质爆火出圈。虽然口碑崩盘创下票房新低，但其逆天品质竟激发了观众的猎奇与逆反心理，致使排片与票房逆势暴涨，网友纷纷调侃这部电影确实够牛。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d5edad1c1baf",
+      "title": "我们为什么总是容易相信谣言",
+      "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80",
+      "source": "baidu",
+      "category": "general",
+      "summary": "刷手机总被各类消息牵着走？我们为什么总是容易相信谣言？让我们与来自未来的观测员一起识别谣言套路，掌握三步自检法，轻松分辨不实信息。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,29 +603,7 @@
       "category": "general",
       "summary": "近日，面对少子老龄化趋势，多地将争夺有稳定养老金与跨省流动能力的老年人提升至省级战略。城市通过气候、规则及产业链驱动竞争，但医疗配套等短板仍制约消费释放，亟待从截留消费向创造服务价值转变。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "e6e22b9caa01",
-      "title": "妈妈带儿子录取通知书给同事看却弄丢",
-      "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E5%84%BF%E5%AD%90%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E7%BB%99%E5%90%8C%E4%BA%8B%E7%9C%8B%E5%8D%B4%E5%BC%84%E4%B8%A2",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，浙江王女士骑电动车携带儿子的录取通知书前往单位与同事分享时，文件被风吹落，后被环卫工张现龙捡到并妥善保管。经民警调取监控协助，通知书3小时内完璧归赵，王女士向张现龙赠送锦旗致谢。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "e8c79720c2e7",
-      "title": "现实版“葫芦娃救爷爷”",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%AE%9E%E7%89%88%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E6%95%91%E7%88%B7%E7%88%B7%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，身着葫芦娃服饰的外卖小哥毛赵贵在送单途中遇到一位街头摔倒的老人。他当即暂停接单，蹲下询问伤情、递上糖果并帮忙报警，全程细心陪护。眼看订单即将超时，他才转身继续投入送单工作。网友评论：现实版“葫芦娃救爷爷”。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +614,53 @@
       "category": "general",
       "summary": "8月14日《披荆斩棘2026》初见面直播中，邱心志作为“送考人”亮相，为参赛哥哥张睿加油助阵。邱心志曾在新版《还珠格格》中饰演乾隆皇帝，张睿则饰演永琪（五阿哥），时隔多年因节目再续前缘。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T07:02:22.994Z",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a295f4797b9c",
+      "title": "胖东来首批刑释职工30人无一离职",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月15日凌晨，胖东来创始人于东来在社交平台发文称：好的环境、好的制度、好的文化。胖东来第一批刑释人员进入岗位以后，没有一个离开，都稳定开心地工作和健康地生活着。这就是充满着尊重、尊严、公平、友善、正义和爱的文化的力量！就在8月14日，胖东来在社交平台称计划招聘100名退伍军人和20名刑释人员，还设立专属报名投递通道。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "e8c79720c2e7",
+      "title": "现实版“葫芦娃救爷爷”",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%AE%9E%E7%89%88%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E6%95%91%E7%88%B7%E7%88%B7%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，身着葫芦娃服饰的外卖小哥毛赵贵在送单途中遇到一位街头摔倒的老人。他当即暂停接单，蹲下询问伤情、递上糖果并帮忙报警，全程细心陪护。眼看订单即将超时，他才转身继续投入送单工作。网友评论：现实版“葫芦娃救爷爷”。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "2677bca056e3",
+      "title": "手机为什么越卖越贵了",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近两年，普通人最直观的消费感受，莫过于手机越来越贵了。本轮手机涨价最直接、最硬核的导火索，是全球存储芯片的供需失衡。这背后，改写整个供应链格局的变量，是爆发式增长的AI产业。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "6000e95c3541",
+      "title": "李连杰谈女儿心理问题",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月14日，李连杰在一段视频中罕见地谈及了小女儿Jada的心理健康问题。这位功夫巨星透露，女儿七岁时就表现出心理方面的病症。他坦言：其实心理疾病是一种很普遍的现象，但是发生在自己身边时仍然感到束手无策。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T07:46:00.113Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-15T07:02:25.887Z"
+  "generatedAt": "2026-08-15T07:46:03.189Z"
 }
