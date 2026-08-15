@@ -2,83 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "21697da77478",
-      "title": "纽博格林赛道百年纪念将至，保时捷将推限量 100 台特别版 911 GT3",
-      "url": "https://www.ithome.com/0/990/123.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.523Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c8a5ecc83cd6",
-      "title": "群联谈存储短缺：NAND 新增产能最快需 4 年，供应紧张或持续多年",
-      "url": "https://www.ithome.com/0/990/129.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.523Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0433a0bd59f7",
-      "title": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔",
-      "url": "https://www.ithome.com/0/990/135.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.523Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0a724879b7dd",
-      "title": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统",
-      "url": "https://www.ithome.com/0/990/138.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.523Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3460e4d8b898",
-      "title": "业界首个：KaihongOS 桌面版（x86）正式适配并预装原生 VS Code，开箱即用",
-      "url": "https://www.ithome.com/0/990/147.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.522Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7b8eee0dc139",
-      "title": "英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持",
-      "url": "https://www.ithome.com/0/990/154.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.522Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a73985e9ff6d",
-      "title": "微信小程序组件框架升级：glass-easel 带来更多特性及更优性能",
-      "url": "https://www.ithome.com/0/990/155.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.522Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "c1c403e67f4d",
       "title": "OpenAI 奥尔特曼：大学读四年可能有点久，两年就够了",
       "url": "https://www.ithome.com/0/990/156.htm",
@@ -86,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.522Z",
+      "publishedAt": "2026-08-15T23:30:40.472Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +20,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.521Z",
+      "publishedAt": "2026-08-15T23:30:40.472Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.521Z",
+      "publishedAt": "2026-08-15T23:30:40.472Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.521Z",
+      "publishedAt": "2026-08-15T23:30:40.471Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.521Z",
+      "publishedAt": "2026-08-15T23:30:40.471Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.520Z",
+      "publishedAt": "2026-08-15T23:30:40.471Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.520Z",
+      "publishedAt": "2026-08-15T23:30:40.471Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.520Z",
+      "publishedAt": "2026-08-15T23:30:40.470Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.520Z",
+      "publishedAt": "2026-08-15T23:30:40.470Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.520Z",
+      "publishedAt": "2026-08-15T23:30:40.470Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.519Z",
+      "publishedAt": "2026-08-15T23:30:40.470Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.519Z",
+      "publishedAt": "2026-08-15T23:30:40.470Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.519Z",
+      "publishedAt": "2026-08-15T23:30:40.469Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.519Z",
+      "publishedAt": "2026-08-15T23:30:40.469Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.519Z",
+      "publishedAt": "2026-08-15T23:30:40.469Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.518Z",
+      "publishedAt": "2026-08-15T23:30:40.469Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.518Z",
+      "publishedAt": "2026-08-15T23:30:40.469Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +196,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.518Z",
+      "publishedAt": "2026-08-15T23:30:40.469Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.518Z",
+      "publishedAt": "2026-08-15T23:30:40.468Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +218,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.517Z",
+      "publishedAt": "2026-08-15T23:30:40.468Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.517Z",
+      "publishedAt": "2026-08-15T23:30:40.468Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.517Z",
+      "publishedAt": "2026-08-15T23:30:40.468Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.517Z",
+      "publishedAt": "2026-08-15T23:30:40.467Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +262,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.517Z",
+      "publishedAt": "2026-08-15T23:30:40.467Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.516Z",
+      "publishedAt": "2026-08-15T23:30:40.467Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.516Z",
+      "publishedAt": "2026-08-15T23:30:40.466Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +295,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.516Z",
+      "publishedAt": "2026-08-15T23:30:40.466Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.515Z",
+      "publishedAt": "2026-08-15T23:30:40.466Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.515Z",
+      "publishedAt": "2026-08-15T23:30:40.466Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +328,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.515Z",
+      "publishedAt": "2026-08-15T23:30:40.466Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +339,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.515Z",
+      "publishedAt": "2026-08-15T23:30:40.465Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +350,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.514Z",
+      "publishedAt": "2026-08-15T23:30:40.465Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +361,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.514Z",
+      "publishedAt": "2026-08-15T23:30:40.465Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +372,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.513Z",
+      "publishedAt": "2026-08-15T23:30:40.465Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +383,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.513Z",
+      "publishedAt": "2026-08-15T23:30:40.464Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +394,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.513Z",
+      "publishedAt": "2026-08-15T23:30:40.464Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +405,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.512Z",
+      "publishedAt": "2026-08-15T23:30:40.464Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +416,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.512Z",
+      "publishedAt": "2026-08-15T23:30:40.463Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +427,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.511Z",
+      "publishedAt": "2026-08-15T23:30:40.463Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,7 +438,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.511Z",
+      "publishedAt": "2026-08-15T23:30:40.463Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -526,7 +449,84 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:09.510Z",
+      "publishedAt": "2026-08-15T23:30:40.462Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "194e1b5a1b38",
+      "title": "大众中国推出自研全场景辅助驾驶，预计 Q3 起搭载三家合资企业",
+      "url": "https://www.ithome.com/0/990/199.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:40.462Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bfa171f33605",
+      "title": "兰博基尼：目前暂无重新推出手动变速箱车型的计划",
+      "url": "https://www.ithome.com/0/990/200.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:40.462Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e1bf3674d5da",
+      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
+      "url": "https://www.ithome.com/0/990/201.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:40.462Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a6833806f017",
+      "title": "开发者为《我的世界》Java 版推出 Jellyfin 媒体库模组，允许玩家们一同欣赏媒体库内容",
+      "url": "https://www.ithome.com/0/990/202.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:40.461Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "32ca2674b810",
+      "title": "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元",
+      "url": "https://www.ithome.com/0/990/203.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:40.461Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "70bd6d29ecc8",
+      "title": "玩家将桌面从木质换成金属后，笔记本电脑温度最多降低了 15 摄氏度",
+      "url": "https://www.ithome.com/0/990/204.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:40.460Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4584779637a6",
+      "title": "三星 Galaxy S26 FE 第三方手机壳渲染图曝光，直观展示机身外观设计",
+      "url": "https://www.ithome.com/0/990/205.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:40.460Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -537,84 +537,7 @@
       "category": "general",
       "summary": "纪念江泽民同志诞辰100周年大会将于8月17日上午10时在人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平将出席大会并发表重要讲话。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "7a69540bcd6c",
-      "title": "美国大模型帮日本对AI进行投毒",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "日本政府正在打造一个服务右翼政治立场的生成式AI业务辅助系统——“源内”，2025年已在数字厅内试点启用，2026年向约18万名政府职员开放，2025财年补充预算专门拨款44亿日元支持其建设。该系统接入美国Anthropic公司的Claude系列大模型，而这家企业明确将中国列为“敌对国家”。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a63685c8c14e",
-      "title": "今年外国人最爱逛哪里",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9C%80%E7%88%B1%E9%80%9B%E5%93%AA%E9%87%8C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "今年夏天最火的旅游关键词是什么？答案一定是“China Travel”。埃隆・马斯克都忍不住在社交平台上“安利”中国游，国家移民管理局数据显示：今年上半年入境外国人达2291.4万人次，同比增长20.4%。他们最爱去哪些城市？这些城市藏着哪些让人走不动道的宝藏？一起来看看。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "4773aa5a0554",
-      "title": "许昌胖东来附近老板流泪说舍不得",
-      "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E6%98%8C%E8%83%96%E4%B8%9C%E6%9D%A5%E9%99%84%E8%BF%91%E8%80%81%E6%9D%BF%E6%B5%81%E6%B3%AA%E8%AF%B4%E8%88%8D%E4%B8%8D%E5%BE%97",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，许昌胖东来生活广场即将闭店，附近开店的老板流着泪说舍不得，并表示有胖东来大家才知道许昌。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "96885ce01114",
-      "title": "诺兰又把全世界骗进电影院了",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%85%B0%E5%8F%88%E6%8A%8A%E5%85%A8%E4%B8%96%E7%95%8C%E9%AA%97%E8%BF%9B%E7%94%B5%E5%BD%B1%E9%99%A2%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "从学术角度看，诺兰的《奥德赛》气质过于现代化。但从电影技术角度看，诺兰的《奥德赛》达到了顶峰。他非常符合那句玩笑话：全球导演水平下降100倍，只有我保持不变。在诺兰面前，影视寒冬仿佛失效了。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "9621ba791045",
-      "title": "苏州暴雨太湖水倒灌 小区车库被淹",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%A4%AA%E6%B9%96%E6%B0%B4%E5%80%92%E7%81%8C+%E5%B0%8F%E5%8C%BA%E8%BD%A6%E5%BA%93%E8%A2%AB%E6%B7%B9",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月14日晚，苏州吴中区太湖旁一小区因暴雨湖水倒灌致车库被淹。该小区一业主称，当晚自己发现车库进水情况，第一时间就在业主群进行通知，但还是有部分业主没来得及下去移车。15日，小区物业管家表示，现在小区车库正在进行抽水，水位已经下降，但不清楚什么时候能够清理完成。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "349da8483590",
-      "title": "杜华：王传君坏人不像演的",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E5%8D%8E%EF%BC%9A%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%9D%8F%E4%BA%BA%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84",
-      "source": "baidu",
-      "category": "general",
-      "summary": "15日播出的《披荆斩棘2026》中，杜华评价王传君时表示：王传君是一位很有个性的演员，演坏人不像演的。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "196cc79f0913",
-      "title": "张本美和早田希娜瑞典大满贯夺冠",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A4%BA%E5%86%A0",
-      "source": "baidu",
-      "category": "general",
-      "summary": "北京时间8月15日，WTT欧洲大满贯瑞典站女双决赛，张本美和/早田希娜3-1战胜杜凯琹/吴咏琳夺得冠军。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,7 +548,84 @@
       "category": "general",
       "summary": "山东梁山凭借完善的产业链和专业化运营，成为全国最大的二手商用车出口基地，车辆销往110多个国家，2025年出口量超1.3万辆。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a63685c8c14e",
+      "title": "今年外国人最爱逛哪里",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9C%80%E7%88%B1%E9%80%9B%E5%93%AA%E9%87%8C",
+      "source": "baidu",
+      "category": "general",
+      "summary": "今年夏天最火的旅游关键词是什么？答案一定是“China Travel”。埃隆・马斯克都忍不住在社交平台上“安利”中国游，国家移民管理局数据显示：今年上半年入境外国人达2291.4万人次，同比增长20.4%。他们最爱去哪些城市？这些城市藏着哪些让人走不动道的宝藏？一起来看看。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "3026f7a1563d",
+      "title": "今年已有多人被蝉鸣“震聋”",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%89%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%9D%89%E9%B8%A3%E2%80%9C%E9%9C%87%E8%81%8B%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近期，不少网友纷纷发帖，今年的蝉鸣比往年更密集、更响亮，持续不断的聒噪声响萦绕终日。更值得警惕的是，已有多名市民因长期置身蝉鸣环境，出现听力受损症状。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a5f2e5c8c3b4",
+      "title": "“龙餐馆”其实不在中东在山东",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BE%99%E9%A4%90%E9%A6%86%E2%80%9D%E5%85%B6%E5%AE%9E%E4%B8%8D%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%9C%A8%E5%B1%B1%E4%B8%9C",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月11日，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》全国上映。许多观众不知道的是，影片核心场景“龙餐馆”及其所在的“中东城镇”，并非在境外取景，而是在位于山东青岛西海岸新区的东方影都影视产业园（简称东方影都）内拍摄的。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "4773aa5a0554",
+      "title": "许昌胖东来附近老板流泪说舍不得",
+      "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E6%98%8C%E8%83%96%E4%B8%9C%E6%9D%A5%E9%99%84%E8%BF%91%E8%80%81%E6%9D%BF%E6%B5%81%E6%B3%AA%E8%AF%B4%E8%88%8D%E4%B8%8D%E5%BE%97",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，许昌胖东来生活广场即将闭店，附近开店的老板流着泪说舍不得，并表示有胖东来大家才知道许昌。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "349da8483590",
+      "title": "杜华：王传君坏人不像演的",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E5%8D%8E%EF%BC%9A%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%9D%8F%E4%BA%BA%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84",
+      "source": "baidu",
+      "category": "general",
+      "summary": "15日播出的《披荆斩棘2026》中，杜华评价王传君时表示：王传君是一位很有个性的演员，演坏人不像演的。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "9621ba791045",
+      "title": "苏州暴雨太湖水倒灌 小区车库被淹",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%A4%AA%E6%B9%96%E6%B0%B4%E5%80%92%E7%81%8C+%E5%B0%8F%E5%8C%BA%E8%BD%A6%E5%BA%93%E8%A2%AB%E6%B7%B9",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月14日晚，苏州吴中区太湖旁一小区因暴雨湖水倒灌致车库被淹。该小区一业主称，当晚自己发现车库进水情况，第一时间就在业主群进行通知，但还是有部分业主没来得及下去移车。15日，小区物业管家表示，现在小区车库正在进行抽水，水位已经下降，但不清楚什么时候能够清理完成。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "196cc79f0913",
+      "title": "张本美和早田希娜瑞典大满贯夺冠",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A4%BA%E5%86%A0",
+      "source": "baidu",
+      "category": "general",
+      "summary": "北京时间8月15日，WTT欧洲大满贯瑞典站女双决赛，张本美和/早田希娜3-1战胜杜凯琹/吴咏琳夺得冠军。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,7 +636,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -647,20 +647,20 @@
       "category": "general",
       "summary": "刷手机总被各类消息牵着走？我们为什么总是容易相信谣言？让我们与来自未来的观测员一起识别谣言套路，掌握三步自检法，轻松分辨不实信息。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c82c4303000c",
-      "title": "张睿 中国内地郭富城",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%9D%BF+%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E9%83%AD%E5%AF%8C%E5%9F%8E",
+      "id": "96885ce01114",
+      "title": "诺兰又把全世界骗进电影院了",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%85%B0%E5%8F%88%E6%8A%8A%E5%85%A8%E4%B8%96%E7%95%8C%E9%AA%97%E8%BF%9B%E7%94%B5%E5%BD%B1%E9%99%A2%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "15日晚播出的《披荆斩棘2026》中，张睿一开口突然感觉青春回来了，不愧被称为“中国内地郭富城”。",
+      "summary": "从学术角度看，诺兰的《奥德赛》气质过于现代化。但从电影技术角度看，诺兰的《奥德赛》达到了顶峰。他非常符合那句玩笑话：全球导演水平下降100倍，只有我保持不变。在诺兰面前，影视寒冬仿佛失效了。",
       "imageUrl": "",
-      "publishedAt": "2026-08-15T23:00:10.175Z",
+      "publishedAt": "2026-08-15T23:30:41.220Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-15T23:00:14.322Z"
+  "generatedAt": "2026-08-15T23:30:42.199Z"
 }
