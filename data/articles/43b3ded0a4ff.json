@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 16 日消息，小红书 8 月 14 日正式发布 dots3-note preview 开源大模型。华为官方昨日宣布，昇腾 Atlas 800 A3、Atlas 900 A3 SuperPoD 超节点已完成 dots3-note preview 的全量适配，并基于 vLLM Ascend 开源推理引擎提供完整的部署与推理能力。\n\n据介绍，作为 dots3 系列的首个版本，dots3-note preview 开源大模型以 280B 总参数量、16B 激活参数量构建能力底座，同时具备文本、视觉、语音全模态感知理解能力。官方表示，该模型在推理、Agent 及多模态感知等能力上进行了全面优化，在多项任务上取得了比肩国内外更大尺寸优秀模型的效果：\n\n另外，华为官方表示，在该模型发布当天，昇腾完成 0 Day 推理部署适配与性能优化，在完整保留模型文本、视觉、语音一体化全模态理解能力的前提下，实现了稳定运行与生成效率提升，为长程复杂任务场景智能落地提供算力支撑。\n\n基于 vLLM Ascend 推理框架，完成 dots3-note preview 文本、图片、音频全模态能力的端到端适配，打通视觉编码器、音频特征提取与 LLM 主干推理的全链路，完整保留模型原生多模态理解与交互能力，支持图文、音文、视频等多模态输入场景的稳定推理。\n\nFlashComm 通信优化：针对 AllReduce 后 RMSNorm、Dynamic Quant、MLA QKV 降维等列向无关算子的冗余计算问题，通过数学等价变换将 AllReduce 拆解为 ReduceScatter+AllGather，把列向独立算子前移至两阶段通信之间执行，彻底消除多卡间的重复计算，有效降低推理时延。\n\nFUSED_MC2 通算融合：启用 MoE 层 dispatch_ffn_combine 融合算子，将原本“dispatch、gmm1、swiglu、gmm2、combine”等通信的多段独立 Kernel 合并为单一大算子，通过减少 Kernel Launch 次数、通信与计算深度流水、中间张量不落盘等手段，显著提升 MoE 推理吞吐。\n\n针对增量推理阶段 TPOT（单 Token 生成耗时）这一吞吐核心瓶颈，在 vLLM Ascend 中原生适配 dots3-note preview 的 MTP 投机解码能力，通过单次前向并行生成多 Token 候选并校验复用，大幅减少解码前向次数，有效降低 TPOT、提升整体生成效率，更好满足高并发在线业务的低时延诉求。\n\ndots3-note preview 昇腾部署指导：https://docs.vllm.ai/projects/ascend/en/latest/tutorials/models/Dots3-Note.html\n\ndots3-note preview 模型权重：https://huggingface.co/dots-studio/dots3-note-prev\n\n小红书官方技术 blog：https://studio.dots.ai/dots/dots3-zh.html\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-16T05:34:31.590Z",
+    "publishedAt": "2026-08-16T06:03:36.618Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
