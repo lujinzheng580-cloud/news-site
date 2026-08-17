@@ -2,138 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "6781f8bafd19",
-      "title": "Discord 调高免费用户单文件上传容量限制：10MB → 20MB",
-      "url": "https://www.ithome.com/0/990/578.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.043Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a2a5619f634a",
-      "title": "支持澳大利亚青少年社交媒体禁令的报告存在多处引用错误，机构承认使用了 ChatGPT 编辑",
-      "url": "https://www.ithome.com/0/990/579.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.043Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2cbaf8d6d054",
-      "title": "宏碁非凡 Go Air \"Wildcat Lake\" 轻薄本预约：酷睿 5 320，12GB + 512GB",
-      "url": "https://www.ithome.com/0/990/580.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.043Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a746859bc60c",
-      "title": "我国在稀土检测关键技术领域取得重要进展，助力企业提高产品纯度",
-      "url": "https://www.ithome.com/0/990/582.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.043Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c33ac2425d18",
-      "title": "活久见，死人大脑也能控制机械手弹钢琴",
-      "url": "https://www.ithome.com/0/990/583.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.042Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2e92021240e3",
-      "title": "宏碁暗影骑士 · 龙 8 Pro 游戏本上架：9955HX3D + 5070 Ti",
-      "url": "https://www.ithome.com/0/990/584.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.042Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "14de84e39b73",
-      "title": "吉利汽车 2026 财年半年报归母净利润 90.91 亿元，同比下降 2%",
-      "url": "https://www.ithome.com/0/990/585.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.042Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d235b00cd271",
-      "title": "黑客组织 ShinyHunters 入侵服饰品牌 Carhartt，50GB 员工及客户资料外泄",
-      "url": "https://www.ithome.com/0/990/586.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.042Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1c9ba978b3ce",
-      "title": "AI 视频生成平台 Higgsfield 从高盛、英特尔等处融资 4 亿美元，估值达 54 亿美元",
-      "url": "https://www.ithome.com/0/990/588.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.041Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d966e5f3beb9",
-      "title": "华为余承东：全新一代问界 M9 下定用户有 30% 是鸿蒙智行老朋友增换购，Ultimate 占比 30%",
-      "url": "https://www.ithome.com/0/990/589.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.041Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "569a0943ebe4",
-      "title": "从手机霸主到汽车幕后，黑莓公司熬了 15 年翻身",
-      "url": "https://www.ithome.com/0/990/590.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.041Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "024c426ef91b",
-      "title": "中移集成中标遭宁夏联通投诉，中标结果无效",
-      "url": "https://www.ithome.com/0/990/592.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.041Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "72fe70c60da1",
       "title": "小米 SU7 系列交付突破 50 万台，用时 28.5 个月",
       "url": "https://www.ithome.com/0/990/593.htm",
@@ -141,7 +9,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.041Z",
+      "publishedAt": "2026-08-17T09:03:23.673Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +20,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.040Z",
+      "publishedAt": "2026-08-17T09:03:23.673Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.040Z",
+      "publishedAt": "2026-08-17T09:03:23.673Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.040Z",
+      "publishedAt": "2026-08-17T09:03:23.672Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.040Z",
+      "publishedAt": "2026-08-17T09:03:23.672Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.039Z",
+      "publishedAt": "2026-08-17T09:03:23.672Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.039Z",
+      "publishedAt": "2026-08-17T09:03:23.672Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +86,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.039Z",
+      "publishedAt": "2026-08-17T09:03:23.671Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +97,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.039Z",
+      "publishedAt": "2026-08-17T09:03:23.671Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.039Z",
+      "publishedAt": "2026-08-17T09:03:23.671Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.038Z",
+      "publishedAt": "2026-08-17T09:03:23.671Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +130,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.038Z",
+      "publishedAt": "2026-08-17T09:03:23.671Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.038Z",
+      "publishedAt": "2026-08-17T09:03:23.671Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +152,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.038Z",
+      "publishedAt": "2026-08-17T09:03:23.670Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.038Z",
+      "publishedAt": "2026-08-17T09:03:23.670Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.037Z",
+      "publishedAt": "2026-08-17T09:03:23.670Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.037Z",
+      "publishedAt": "2026-08-17T09:03:23.670Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.037Z",
+      "publishedAt": "2026-08-17T09:03:23.670Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.036Z",
+      "publishedAt": "2026-08-17T09:03:23.670Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.036Z",
+      "publishedAt": "2026-08-17T09:03:23.669Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.036Z",
+      "publishedAt": "2026-08-17T09:03:23.669Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +240,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.036Z",
+      "publishedAt": "2026-08-17T09:03:23.669Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +251,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.035Z",
+      "publishedAt": "2026-08-17T09:03:23.669Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +262,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.035Z",
+      "publishedAt": "2026-08-17T09:03:23.669Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.034Z",
+      "publishedAt": "2026-08-17T09:03:23.668Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.034Z",
+      "publishedAt": "2026-08-17T09:03:23.668Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.034Z",
+      "publishedAt": "2026-08-17T09:03:23.668Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +306,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.034Z",
+      "publishedAt": "2026-08-17T09:03:23.668Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +317,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.033Z",
+      "publishedAt": "2026-08-17T09:03:23.668Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +328,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.033Z",
+      "publishedAt": "2026-08-17T09:03:23.667Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +339,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.032Z",
+      "publishedAt": "2026-08-17T09:03:23.667Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,62 +350,205 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.032Z",
+      "publishedAt": "2026-08-17T09:03:23.667Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "1e58ae40c486",
-      "title": "名校父母劝692.5分女儿读中本贯通",
-      "url": "https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E7%88%B6%E6%AF%8D%E5%8A%9D692.5%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A",
-      "source": "baidu",
-      "category": "general",
-      "summary": "王斯羽中考取得692.5分，凭借这个分数她本可以稳稳进入杨浦高级中学，但她最终选择报考上海港湾学校贯通上海海事大学的物流工程专业。王斯羽的母亲毕业于名校，就职“大厂”，父亲同样出身知名院校。最先提出中本贯通这条路线并且全力推动女儿认真考量的，正是她的父亲。",
+      "id": "0d92a76f4756",
+      "title": "AI 大模型周榜：Anthropic 多款模型密集入榜，国产 kimi-k3-max 稳定头部",
+      "url": "https://www.ithome.com/0/990/681.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-17T09:03:23.666Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "db2d26ed6edd",
-      "title": "这个钥匙扣价值105万元",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E9%92%A5%E5%8C%99%E6%89%A3%E4%BB%B7%E5%80%BC105%E4%B8%87%E5%85%83",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，家住江苏阜宁的袁女士手机黑屏、按键失灵，完全不受控制，105万元即将转出之际，民警朱淑慧用一根取卡针成功止损。事后，朱淑慧解释，“遇到手机被远程操控的紧急情况，拔卡断网是最快的办法，为了第一时间拿到取卡针，我定制了反诈钥匙扣，将取卡针挂在上面，所有队员人手一个，随身携带。”",
+      "id": "cff89c7e6353",
+      "title": "英特尔 Nova Lake-S 桌面处理器成功点亮：最高 28 核，有望支持 AVX-512",
+      "url": "https://www.ithome.com/0/990/684.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-17T09:03:23.666Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "51059aab22be",
-      "title": "老外被中式美学硬控的N个瞬间",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%A1%AC%E6%8E%A7%E7%9A%84N%E4%B8%AA%E7%9E%AC%E9%97%B4",
-      "source": "baidu",
+      "id": "3bd40f16ce17",
+      "title": "传音控股 2026 年上半年归母净利润 17.73 亿元，同比增长 46.22%",
+      "url": "https://www.ithome.com/0/990/685.htm",
+      "source": "ithome",
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:23.666Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "92be7b27dabb",
+      "title": "极夜预告 DeskOne P1 充电 & 扩展坞，同时供电能力近 1000W",
+      "url": "https://www.ithome.com/0/990/686.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.666Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e3303a41c0e4",
+      "title": "赵长江详解智界 RX 汽车 250km/h 高环变道挑战难点，称还有更多操控惊喜",
+      "url": "https://www.ithome.com/0/990/687.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.666Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9f679301fb77",
+      "title": "韩国多地出台中小学限用智能手机措施",
+      "url": "https://www.ithome.com/0/990/688.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.665Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "931bfd5b4c4b",
+      "title": "银昕工作站机箱 ALTA T2 上市，10999 元",
+      "url": "https://www.ithome.com/0/990/691.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.665Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3cdf397261ba",
+      "title": "豆包“工作任务”模式功能上新，支持手机远程操作电脑",
+      "url": "https://www.ithome.com/0/990/699.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.665Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6c0046de452b",
+      "title": "吉利汽车宣布管理层调整：李书福转任荣誉主席，安聪慧出任董事会主席",
+      "url": "https://www.ithome.com/0/990/710.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.664Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "219d14f43ad9",
+      "title": "电信终端产业协会倡议推行手机整机、配件分离销售模式，统一配件标准",
+      "url": "https://www.ithome.com/0/990/711.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.664Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0903f16367e2",
+      "title": "周鸿祎发布全员信：360 要用 AI“重新创业”",
+      "url": "https://www.ithome.com/0/990/715.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.664Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6b9a56131578",
+      "title": "备战 2028：AIDA64 测试版提供对 AMD \"Zen 7\" 服务器处理器初步支持",
+      "url": "https://www.ithome.com/0/990/717.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.663Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d2af366c0484",
+      "title": "小米 17Pro 系列背屏小游戏「银河弹射队」上线，主打消磨碎片时间",
+      "url": "https://www.ithome.com/0/990/718.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:23.663Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9b137a92728d",
+      "title": "物业费“降价潮”来了吗",
+      "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B9%E2%80%9C%E9%99%8D%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86%E5%90%97",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，“物业费降价”引发关注。最猛的当属中山合生帝景城，短短几个月连降两次，降幅达33.6%。6月以来，广州增城区集中清理超标准物业收费，整治“高价收费、低配服务”乱象，涉及小区近20个。除广东外，全国多个城市也对物业费收取标准进行了调整。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "23a3a130b9f6",
-      "title": "浙江宣传谈“预制娃”",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%E8%B0%88%E2%80%9C%E9%A2%84%E5%88%B6%E5%A8%83%E2%80%9D",
+      "id": "3cd33a2a38fd",
+      "title": "全球最大全电动飞机完成首飞",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%85%A8%E7%94%B5%E5%8A%A8%E9%A3%9E%E6%9C%BA%E5%AE%8C%E6%88%90%E9%A6%96%E9%A3%9E",
       "source": "baidu",
       "category": "general",
-      "summary": "这个暑期，“预制娃”一词火了，借用“预制菜”的概念，形容孩子利用假期提前学完下学期课程，等着开学对已学知识进行复习检验。“预制娃”是个新词，但其实说的依然是超前学习的现象。浙江宣传谈“预制娃”：孩子成长不该被贴这么多标签。",
+      "summary": "当地时间8月12日，瑞典Heart Aerospace公司宣布其X1演示机在美国纽约州普拉茨堡国际机场完成首次载人飞行。这架全球最大全电动飞机翼展32米，起飞重量11.34吨，试飞持续27分钟，全电池系统输出功率超1兆瓦，全程电费约5美元。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "5dae55c830e0",
-      "title": "弟弟举报哥哥顶替上大学 2人系双胞胎",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%BE%E6%8A%A5%E5%93%A5%E5%93%A5%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6+2%E4%BA%BA%E7%B3%BB%E5%8F%8C%E8%83%9E%E8%83%8E",
+      "id": "984295249b67",
+      "title": "暴雨天留心4个风险点",
+      "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%A4%A9%E7%95%99%E5%BF%834%E4%B8%AA%E9%A3%8E%E9%99%A9%E7%82%B9",
       "source": "baidu",
       "category": "general",
-      "summary": "2018年，湖南唐氏两兄弟因借名买房纠纷引发弟弟唐一达举报哥哥唐时达冒用其名字就读湘潭大学一事，引发持续关注。该案将于2026年8月18日在湖南省湘潭市岳塘区法院开庭审理。两人母亲肖女士发声：两人系双胞胎，分别考取大学。",
+      "summary": "当前我国仍处在主汛期，汛期安全不容忽视。暴雨天，留心4个风险点：本地无降雨不代表安全，洪水可能因上游泄洪突然抵达；住在高层不代表没风险，需警惕雨水倒灌；积水看着浅不代表真的浅，水下可能有路坑和井盖缺失、强吸水力的排水井口；雨停不代表险情结束，雨后才是坍塌、滑坡、倒伏事故高发期。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a509853b57fc",
+      "title": "刷来刷去都是同一张脸 平台出手了",
+      "url": "https://www.baidu.com/s?wd=%E5%88%B7%E6%9D%A5%E5%88%B7%E5%8E%BB%E9%83%BD%E6%98%AF%E5%90%8C%E4%B8%80%E5%BC%A0%E8%84%B8+%E5%B9%B3%E5%8F%B0%E5%87%BA%E6%89%8B%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "如今，不少AI短剧出现角色面孔高度雷同，“一套脸谱演百部剧”的诡异现象。对此，红果短剧近日发布公告，明确AI剧角色创作应避免雷同，杜绝“千篇一律”，并透露平台近期将启动高频AI脸、同质化及素材违规治理专项。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "9c0da8a526b8",
+      "title": "巴中警方：谁的3999.577万 快来认领",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E4%B8%AD%E8%AD%A6%E6%96%B9%EF%BC%9A%E8%B0%81%E7%9A%843999.577%E4%B8%87+%E5%BF%AB%E6%9D%A5%E8%AE%A4%E9%A2%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月17日，巴中警方发布3999.577万元涉案资金认领公告，引发关注。警方表示，该笔资金存放于涉案账户，正寻找合法所有人，公告期限至2027年2月14日，逾期无人认领或无法证明权属的，资金及孳息将上缴国库。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -548,51 +559,51 @@
       "category": "general",
       "summary": "14岁的孩子说，学习不好“大不了去送外卖”。父亲没有反驳，而是带着孩子扎进了外卖骑手的队伍。近1个月的体验，并没等来“吃顿苦就爱上读书”的反转，却意外修复了亲子关系。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "9e85d7727580",
-      "title": "《龙餐馆》原型：美国士兵常打酱油喝",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%8E%9F%E5%9E%8B%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B8%B8%E6%89%93%E9%85%B1%E6%B2%B9%E5%96%9D",
+      "id": "a84815e87c0f",
+      "title": "李书福辞任吉利汽车董事会主席",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%B9%A6%E7%A6%8F%E8%BE%9E%E4%BB%BB%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，电影《欢迎来龙餐馆》正在热映，故事原型表示：美国士兵经常打酱油喝，做的美式中餐中国人根本吃不惯。",
+      "summary": "8月17日，吉利汽车控股有限公司在港交所公告，宣布公司管理层架构变动，自8月18日起生效：李书福辞任董事会主席及执行董事职务，获任为公司终身荣誉主席。安聪慧获任公司董事会主席，李东辉辞任董事会副主席职务，继续担任公司执行董事。桂生悦辞任行政总裁职务，获任公司董事会副主席，继续担任公司执行董事。淦家阅获任行政总裁。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "7373a909a4d0",
-      "title": "胖东来被涨租逼走却从不涨商户租",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%A2%AB%E6%B6%A8%E7%A7%9F%E9%80%BC%E8%B5%B0%E5%8D%B4%E4%BB%8E%E4%B8%8D%E6%B6%A8%E5%95%86%E6%88%B7%E7%A7%9F",
+      "id": "1e58ae40c486",
+      "title": "名校父母劝692.5分女儿读中本贯通",
+      "url": "https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E7%88%B6%E6%AF%8D%E5%8A%9D692.5%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A",
       "source": "baidu",
       "category": "general",
-      "summary": "8月7日，胖东来创始人于东来在一场直播中对外宣布，已经运营24年的许昌胖东来生活广场，租约到期后将于2026年12月底永久闭店，不再续租。此后，闭店事件持续引发关注。8月16日，广场内厂商代表告诉记者，胖东来从未涨过入驻商户的房租。",
+      "summary": "王斯羽中考取得692.5分，凭借这个分数她本可以稳稳进入杨浦高级中学，但她最终选择报考上海港湾学校贯通上海海事大学的物流工程专业。王斯羽的母亲毕业于名校，就职“大厂”，父亲同样出身知名院校。最先提出中本贯通这条路线并且全力推动女儿认真考量的，正是她的父亲。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "bd7045fd26d8",
-      "title": "霍启刚晒照分享儿子参加军事夏令营",
-      "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E6%99%92%E7%85%A7%E5%88%86%E4%BA%AB%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E5%86%9B%E4%BA%8B%E5%A4%8F%E4%BB%A4%E8%90%A5",
+      "id": "0f9b6caa7963",
+      "title": "宋清辉多次诋毁胖东来被判赔30万",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%8B%E6%B8%85%E8%BE%89%E5%A4%9A%E6%AC%A1%E8%AF%8B%E6%AF%81%E8%83%96%E4%B8%9C%E6%9D%A5%E8%A2%AB%E5%88%A4%E8%B5%9430%E4%B8%87",
       "source": "baidu",
       "category": "general",
-      "summary": "8月16日，霍启刚晒照分享，正读初一的儿子参与香港青少年军事夏令营。他表示孩子从小对军事兴趣浓厚，参加夏令营后整个人变得成熟坚强，作为父母内心十分为孩子感到骄傲。",
+      "summary": "8月17日，胖东来商贸集团法务部公布“关于侵权行为的处理公示（十三）”，其中包括与经济学家宋清辉的名誉权纠纷，据胖东来公示的信息，一审判决其赔偿胖东来30万元，并登报道歉。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "9cef429e909d",
-      "title": "警方回应三亚一沙滩出现大量图钉",
-      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E4%B8%80%E6%B2%99%E6%BB%A9%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E5%9B%BE%E9%92%89",
+      "id": "ebb841a07cfe",
+      "title": "宇树科技发布“超人”",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83%E2%80%9C%E8%B6%85%E4%BA%BA%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "8月16日，网上出现视频反映，海南三亚一沙滩上发现大量图钉，怀疑是有人故意放置。8月17日上午，三亚湾缤纷海岸旅游开发有限公司工作人员回应，沙滩上确实发现图钉，目前已清理。三亚市三亚湾派出所工作人员表示，已接到报警，目前正在调查。",
+      "summary": "8月17日，宇树科技发布“超人”：原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度。全新整机刚用3个多月研发出来，未来几个月还有很大的完善空间。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,51 +614,7 @@
       "category": "general",
       "summary": "近日，网传消息称“7月底南京秦淮区培训机构失火、造成39人死亡”。经南京消防核查：今年以来南京未发生相关火情。",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "2ccdcbd1306f",
-      "title": "18岁姑娘身体突然“崩”了 医生提醒",
-      "url": "https://www.baidu.com/s?wd=18%E5%B2%81%E5%A7%91%E5%A8%98%E8%BA%AB%E4%BD%93%E7%AA%81%E7%84%B6%E2%80%9C%E5%B4%A9%E2%80%9D%E4%BA%86+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92",
-      "source": "baidu",
-      "category": "general",
-      "summary": "日前，18岁姑娘小李（化名）刚踏入大学校园，却因严重心律失常，不得不接受心脏微创手术。检查结果让人震惊：心脏每天乱跳超30000次。一个令人忧心的趋势正在显现：前来就诊的心律失常患者里，十七八岁的高中生、大学生查出严重心律失常的案例，正变得愈发常见。医生提醒：这种情况别忍。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "7a7ab9ebda5f",
-      "title": "居民存款7月又少了6300亿",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E5%AD%98%E6%AC%BE7%E6%9C%88%E5%8F%88%E5%B0%91%E4%BA%866300%E4%BA%BF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "日前央行披露的金融数据显示，7月人民币存款仅增加300亿元，同比少增4700亿元。其中，非银存款因去年同期高基数等影响，同比少增1.03万亿元，居民存款则净减少6300亿元，同比少减4800亿元。有机构认为，受7月资本市场偏弱的影响，居民存款向非银存款转移的力度减弱，“存款搬家”继续放缓。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f31a11c34722",
-      "title": "王菲俩女儿罕见同框",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%8F%B2%E4%BF%A9%E5%A5%B3%E5%84%BF%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月17日，娱记曝光王菲俩女儿同框视频。李嫣与窦靖童一同外出，李嫣戴眼镜白到发光，身形清瘦酷似妈妈。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "b3c43f300799",
-      "title": "TI三支中国战队全军覆没",
-      "url": "https://www.baidu.com/s?wd=TI%E4%B8%89%E6%94%AF%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9F%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1",
-      "source": "baidu",
-      "category": "general",
-      "summary": "随着Team Resilience在《DOTA2》国际邀请赛TI15最终淘汰轮中以1比2不敌Team Spirit，再加上Vici Gaming被Team Falcons零封出局，本届赛事三支中国赛区参赛战队TR、VG、XG已全部遭到淘汰，无缘八强及后续主赛事阶段。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +625,42 @@
       "category": "general",
       "summary": "近日，浙江温州一名‌父亲‌酒后熟睡时不慎翻身压住婴儿头部，婴儿通过‌剧烈挣扎‌自行脱困。家人表示因父亲工作疲劳导致沉睡，目前已安排分床睡眠。‌‌",
       "imageUrl": "",
-      "publishedAt": "2026-08-17T08:02:39.688Z",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "9cef429e909d",
+      "title": "警方回应三亚一沙滩出现大量图钉",
+      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%89%E4%BA%9A%E4%B8%80%E6%B2%99%E6%BB%A9%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E5%9B%BE%E9%92%89",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月16日，网上出现视频反映，海南三亚一沙滩上发现大量图钉，怀疑是有人故意放置。8月17日上午，三亚湾缤纷海岸旅游开发有限公司工作人员回应，沙滩上确实发现图钉，目前已清理。三亚市三亚湾派出所工作人员表示，已接到报警，目前正在调查。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "db2d26ed6edd",
+      "title": "这个钥匙扣价值105万元",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E9%92%A5%E5%8C%99%E6%89%A3%E4%BB%B7%E5%80%BC105%E4%B8%87%E5%85%83",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，家住江苏阜宁的袁女士手机黑屏、按键失灵，完全不受控制，105万元即将转出之际，民警朱淑慧用一根取卡针成功止损。事后，朱淑慧解释，“遇到手机被远程操控的紧急情况，拔卡断网是最快的办法，为了第一时间拿到取卡针，我定制了反诈钥匙扣，将取卡针挂在上面，所有队员人手一个，随身携带。”",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "f31a11c34722",
+      "title": "王菲俩女儿罕见同框",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%8F%B2%E4%BF%A9%E5%A5%B3%E5%84%BF%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月17日，娱记曝光王菲俩女儿同框视频。李嫣与窦靖童一同外出，李嫣戴眼镜白到发光，身形清瘦酷似妈妈。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T09:03:24.268Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-17T08:02:41.339Z"
+  "generatedAt": "2026-08-17T09:03:28.387Z"
 }
