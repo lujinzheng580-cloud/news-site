@@ -2,270 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "ab3e8fb9d40e",
-      "title": "莫言：AI 只能在前人作品上拼凑，再好也写不出《岳阳楼记》《滕王阁序》",
-      "url": "https://www.ithome.com/0/990/381.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.661Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d8499c079008",
-      "title": "联想来酷推出酷睿 5-320 商务小主机“酷 311”：6.7L 机身，售 3599 元",
-      "url": "https://www.ithome.com/0/990/383.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.661Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a6e25cef3971",
-      "title": "新盟推出 98% 配列三模机械键盘 C101：可选猫耳键帽，299 元起",
-      "url": "https://www.ithome.com/0/990/384.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.660Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8be378ff5cca",
-      "title": "荣耀MagicOS 11 系统支持自动整理通知，使用端侧 AI",
-      "url": "https://www.ithome.com/0/990/386.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.660Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7fd2c5d780e5",
-      "title": "莫迪：未来 7~8 年将有 5~8 座半导体工厂在印度投运",
-      "url": "https://www.ithome.com/0/990/387.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.660Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c18857f73db0",
-      "title": "英特尔副总裁确认 Nova Lake 处理器平台率先登陆桌面端",
-      "url": "https://www.ithome.com/0/990/388.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.660Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2efd9992a668",
-      "title": "人形机器人运动会赛前冲刺备战“家政赛”：30 分钟内完成收纳叠衣等多项任务，AI 大模型助力持续学习",
-      "url": "https://www.ithome.com/0/990/389.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.659Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a3c001b94059",
-      "title": "广达与霍尼韦尔旗下 Quantinuum 达成合作，共同开发新一代量子计算机",
-      "url": "https://www.ithome.com/0/990/390.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.659Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2c3f2923e7d5",
-      "title": "比亚迪全新海鸥内饰曝光：大尺寸中控屏 + 无线充电面板，95kW 电机 + 可选激光雷达",
-      "url": "https://www.ithome.com/0/990/392.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.659Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c2970d2a9f7c",
-      "title": "特斯拉美国推出 Model Y 座椅下储物托盘：售价 40 美元，利用前排闲置空间存放小物品",
-      "url": "https://www.ithome.com/0/990/393.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.659Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "94431cec8f99",
-      "title": "中消协：近期 AI 客服相关投诉显著增多",
-      "url": "https://www.ithome.com/0/990/394.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.658Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5cfae9e85792",
-      "title": "段永平基金二季度持仓总市值 191 亿美元：大幅增持拼多多、减持苹果和英伟达，重新买入阿里",
-      "url": "https://www.ithome.com/0/990/395.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.658Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a08b99199418",
-      "title": "开罗游戏暑期捆绑包上线 Steam，国区 14.4 元起",
-      "url": "https://www.ithome.com/0/990/396.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.658Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f9ab590254b9",
-      "title": "雷克沙 PexarBolt Ultra 扩展坞亮相：雷电 5、NVMe 插槽、5 寸触屏，479 美元",
-      "url": "https://www.ithome.com/0/990/397.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.658Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e3554174ba0f",
-      "title": "斯坦福调查显示：84% 中国受访者对 AI 感到兴奋，美国比例仅为 38%",
-      "url": "https://www.ithome.com/0/990/398.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.658Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b481e96e1d72",
-      "title": "奇瑞捷豹路虎神行者 8 预售订单突破 1 万台，售价 33.99 万元起",
-      "url": "https://www.ithome.com/0/990/399.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.657Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "316cdeac7323",
-      "title": "创客把 2.9MB 歌曲压缩至 21KB，用 8 个二维码打印到纸上保存",
-      "url": "https://www.ithome.com/0/990/400.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.657Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5370f50e16e3",
-      "title": "三星 One UI 9.5 系统相机界面曝光，优化弹出菜单圆角和模糊效果",
-      "url": "https://www.ithome.com/0/990/401.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.657Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a1c3cc0e6f29",
-      "title": "美国建造时间最长的航母“肯尼迪”号完成验收海试：最快 2027 年交付，项目总投资超 130 亿美元",
-      "url": "https://www.ithome.com/0/990/402.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.657Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a4d6313defab",
-      "title": "三星首款 24.5 英寸 OLED 高刷面板被曝 Q4 登场，360/560Hz 刷新率",
-      "url": "https://www.ithome.com/0/990/403.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.656Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7080115c24b3",
-      "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
-      "url": "https://www.ithome.com/0/990/404.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.656Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "9f47ea73f41f",
-      "title": "上线仅半年多，字节旗下付费小说 App“红烛故事”正式关停",
-      "url": "https://www.ithome.com/0/990/405.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.656Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a2278b605abe",
-      "title": "筹备 IPO 之际，消息称 OpenAI 已解散旗下风险防范团队",
-      "url": "https://www.ithome.com/0/990/406.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.656Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "881de9b0f747",
-      "title": "HMD 2760 Flip 4G 翻盖机曝光：搭载安卓 13 Go 系统、展锐 T310 处理器",
-      "url": "https://www.ithome.com/0/990/407.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.655Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "bedbb405691a",
       "title": "告别老旧硬件：Linux 内核将 TSC 设为 x86 处理器硬性要求",
       "url": "https://www.ithome.com/0/990/408.htm",
@@ -273,7 +9,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.655Z",
+      "publishedAt": "2026-08-17T01:50:37.535Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.655Z",
+      "publishedAt": "2026-08-17T01:50:37.535Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.655Z",
+      "publishedAt": "2026-08-17T01:50:37.535Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +42,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.654Z",
+      "publishedAt": "2026-08-17T01:50:37.534Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.654Z",
+      "publishedAt": "2026-08-17T01:50:37.534Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.654Z",
+      "publishedAt": "2026-08-17T01:50:37.534Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +75,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.654Z",
+      "publishedAt": "2026-08-17T01:50:37.534Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +86,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.653Z",
+      "publishedAt": "2026-08-17T01:50:37.534Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.653Z",
+      "publishedAt": "2026-08-17T01:50:37.533Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +108,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.653Z",
+      "publishedAt": "2026-08-17T01:50:37.533Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.652Z",
+      "publishedAt": "2026-08-17T01:50:37.533Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +130,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.652Z",
+      "publishedAt": "2026-08-17T01:50:37.533Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +141,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.652Z",
+      "publishedAt": "2026-08-17T01:50:37.533Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +152,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.652Z",
+      "publishedAt": "2026-08-17T01:50:37.532Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.651Z",
+      "publishedAt": "2026-08-17T01:50:37.532Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +174,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.651Z",
+      "publishedAt": "2026-08-17T01:50:37.532Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.651Z",
+      "publishedAt": "2026-08-17T01:50:37.532Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.650Z",
+      "publishedAt": "2026-08-17T01:50:37.532Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.650Z",
+      "publishedAt": "2026-08-17T01:50:37.531Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +218,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.649Z",
+      "publishedAt": "2026-08-17T01:50:37.531Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.649Z",
+      "publishedAt": "2026-08-17T01:50:37.531Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +240,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.648Z",
+      "publishedAt": "2026-08-17T01:50:37.531Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,29 +251,293 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:10.648Z",
+      "publishedAt": "2026-08-17T01:50:37.530Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "54ad2e2afb1b",
-      "title": "加油新规11月起正式实施",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%B2%B9%E6%96%B0%E8%A7%8411%E6%9C%88%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD",
+      "id": "d484a44444e8",
+      "title": "消息称驾校行业供给过剩态势严峻，行业龙头开始引入“VR+AI”等特色培训模式",
+      "url": "https://www.ithome.com/0/990/431.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.530Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4da48dbd7960",
+      "title": "小米“米家无雾加湿器 3 1500mL/h”开启众筹，首发价 899 元",
+      "url": "https://www.ithome.com/0/990/432.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.530Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9a1823b19215",
+      "title": "零售商 Play Asia 透露：《影之刃零》将推出实体光盘版",
+      "url": "https://www.ithome.com/0/990/433.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.530Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7925a944ada9",
+      "title": "公安机关网安部门破获 3 起影视领域舆情敲诈案件，犯罪团伙操控自媒体捏造并发布大量负面信息",
+      "url": "https://www.ithome.com/0/990/434.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.530Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "882866517e4e",
+      "title": "给评测主的免费激活码遭黑灰产低价倒卖，开发商 Dicehit Games 称“玩盗版也比买灰色市场 Key 好”",
+      "url": "https://www.ithome.com/0/990/435.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.529Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "34eb0b1dc654",
+      "title": "开源修图软件 GIMP 3.4 将默认采用新项目文件格式，并优化 PSD 支持",
+      "url": "https://www.ithome.com/0/990/437.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.529Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9c89c62759a5",
+      "title": "保量不保价：消息称服务器 BMC SoC 龙头信骅首度签署长期供货协议",
+      "url": "https://www.ithome.com/0/990/438.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.529Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "074f9810c10c",
+      "title": "王莆中聊美团 AI 变革：全员“养虾运动”曾日耗千万，干扰真实经营",
+      "url": "https://www.ithome.com/0/990/439.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.529Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7c7e2e6ee613",
+      "title": "长征十二号占位仅两天半，海南商发二号发射工位再创保障新纪录",
+      "url": "https://www.ithome.com/0/990/440.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.528Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "deaba31c0a8b",
+      "title": "亚马逊修改使用条款，再度禁止用户发起集体诉讼",
+      "url": "https://www.ithome.com/0/990/441.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.528Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "446fdd4334f3",
+      "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
+      "url": "https://www.ithome.com/0/990/442.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.528Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fc05cd4507d9",
+      "title": "国产单机动作游戏《湮灭之潮》放出实机演示，女主面部重做引发玩家争议",
+      "url": "https://www.ithome.com/0/990/443.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.528Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "260794854b80",
+      "title": "Faker 和 Uzi 之后，拳头游戏宣布 Caps 成为英雄联盟名人堂第三位成员",
+      "url": "https://www.ithome.com/0/990/444.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.527Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "225bd8d3618b",
+      "title": "蓝宝石公布 NITRO+ 氮动 RX 9070 XT 16G V26 无畏巡回定制版显卡",
+      "url": "https://www.ithome.com/0/990/446.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.527Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d874884078fc",
+      "title": "《王国之心 4》加长实机预告公布，玩家可操控米奇、唐老鸭、高飞",
+      "url": "https://www.ithome.com/0/990/448.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.527Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d70ab6ee5759",
+      "title": "鸿蒙智行尚界 Z7/Z7T 暑期 OTA 推送：升级漫游巡航、调光天幕自动调节等功能",
+      "url": "https://www.ithome.com/0/990/449.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.526Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4430e7f2dfc4",
+      "title": "华硕在台推出莓果粉限定配色 Vivobook S14，随附 Hello Kitty 礼包",
+      "url": "https://www.ithome.com/0/990/450.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.526Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ccecdc019be1",
+      "title": "预售 25.98 万元，小鹏 G9L 大五座 SUV 展车到店",
+      "url": "https://www.ithome.com/0/990/451.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.526Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "94f146d33507",
+      "title": "网易《逆水寒：新世界》全新雨林版本官宣 8 月 28 日上线，迎来首个全新地图",
+      "url": "https://www.ithome.com/0/990/452.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.525Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "89aecea70805",
+      "title": "一年跑 4 万公里后，特斯拉 Model Y 电池容量剩下约 91%",
+      "url": "https://www.ithome.com/0/990/453.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.525Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f02ae621559a",
+      "title": "小米米家多头筋膜枪 3 开售：3 款按摩头、25kg 推力，369 元",
+      "url": "https://www.ithome.com/0/990/454.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.525Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "566ce87bf678",
+      "title": "比亚迪方程豹官宣钛 7 DM 长续航版，发布会定档 8 月 18 日",
+      "url": "https://www.ithome.com/0/990/461.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.524Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cb760826304d",
+      "title": "AOC 带来圆偏光版 AG276UZ 显示器：27\" UHD 240Hz 双模 Fast IPS",
+      "url": "https://www.ithome.com/0/990/477.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.523Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1089d7c1d34a",
+      "title": "HMD 102 4G Pro 功能机曝光：升级 30 万像素摄像头、支持双卡双待 LTE 通信",
+      "url": "https://www.ithome.com/0/990/478.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-17T01:50:37.523Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3de5eec81fc1",
+      "title": "央视曝光后 云南连夜通报",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%91%E5%8D%97%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，国家税务总局印发《关于在成品油零售领域全面推广“交易即开票”有关事项的公告》，明确自2026年11月1日起，在全国成品油零售加油站全面推广“交易即开票”，实现加油交易与发票开具无缝衔接。",
+      "summary": "8月16日晚，央视曝光暑期游乱象。其中，云南昆明、西双版纳等地一些旅游行程丰富、标注纯玩无购物、无自费的跟团游产品，频频出现消费纠纷。旅游实际行程与商家宣传严重不符，隐性购物、强制消费、临时加价等问题时有发生。当晚，云南官方通报称已组织有关州市对涉事的旅行社、导游、购物场所开展调查。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c3d5d522af15",
-      "title": "昔日空城满血复活 曾亏损超10亿",
-      "url": "https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E7%A9%BA%E5%9F%8E%E6%BB%A1%E8%A1%80%E5%A4%8D%E6%B4%BB+%E6%9B%BE%E4%BA%8F%E6%8D%9F%E8%B6%8510%E4%BA%BF",
+      "id": "7a7ab9ebda5f",
+      "title": "居民存款7月又少了6300亿",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E5%AD%98%E6%AC%BE7%E6%9C%88%E5%8F%88%E5%B0%91%E4%BA%866300%E4%BA%BF",
       "source": "baidu",
       "category": "general",
-      "summary": "曾被央媒点名、成为全国“人造空城”典型的大庸古城，由张家界、芒果超媒、电广传媒合资的张家界芒果文旅完成全域提质改造后，于7月10日焕新复业。截至8月13日，项目客流突破100万人次，营收超1500万元。该项目总投资24.43亿，2021至2024年持续亏损超10亿，此前曾出现大面积商铺空置、核心演艺项目停摆的惨淡状况。",
+      "summary": "日前央行披露的金融数据显示，7月人民币存款仅增加300亿元，同比少增4700亿元。其中，非银存款因去年同期高基数等影响，同比少增1.03万亿元，居民存款则净减少6300亿元，同比少减4800亿元。有机构认为，受7月资本市场偏弱的影响，居民存款向非银存款转移的力度减弱，“存款搬家”继续放缓。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -548,29 +548,29 @@
       "category": "general",
       "summary": "中国为何让外国游客流连忘返？中国旅游研究院院长戴斌与《国际锐评》交流表示：中国历史悠久、地大物博，能提供多元旅游供给，外国游客来一次难以“读透”；而不断刷新的现代生活体验、持续升级的便利化政策、安全稳定的社会环境以及中国人的开放友好，都对外国游客形成强大吸引力——多来几次，方能深入触摸一个真实、立体、全面的中国。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f20200bb2223",
-      "title": "王曼昱瑞典大满贯女单夺冠",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0",
+      "id": "70b705a5400f",
+      "title": "“台风过后推开门 我差点哭出来”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%90%8E%E6%8E%A8%E5%BC%80%E9%97%A8+%E6%88%91%E5%B7%AE%E7%82%B9%E5%93%AD%E5%87%BA%E6%9D%A5%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "北京时间8月17日凌晨，本赛季第三站WTT大满贯赛事——WTT欧洲大满贯瑞典站在马尔默收官。女单决赛中，王曼昱4-2战胜王艺迪，夺得女单冠军，王艺迪获得亚军。国乒本站比赛收获女单和混双两项冠军。",
+      "summary": "“推开门那一刻，我差点哭出来！”近日，受台风“白海豚”影响，浙江台州路桥区金清镇下梁村发生海水倒灌，刘女士租用的门店地势较低，本将面临大额损失，却因房东的暖心举动安然无恙。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "67b200f3c44b",
-      "title": "央视调查明代古城墙“拆旧建新”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%98%8E%E4%BB%A3%E5%8F%A4%E5%9F%8E%E5%A2%99%E2%80%9C%E6%8B%86%E6%97%A7%E5%BB%BA%E6%96%B0%E2%80%9D",
+      "id": "6e6bd92a375d",
+      "title": "内马尔握手遭无视",
+      "url": "https://www.baidu.com/s?wd=%E5%86%85%E9%A9%AC%E5%B0%94%E6%8F%A1%E6%89%8B%E9%81%AD%E6%97%A0%E8%A7%86",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，山西吕梁市中阳县一段明代古城墙被“拆旧建新”，并挂上了“凤凰山风景区”的牌匾，受到广泛关注。特别是拆下来的古城墙地基条石和城墙砖，被“按照废弃物倾倒”引发热议。这段城墙为何可以“拆旧建新”？它是否被列入文物保护名录？背后又有怎样的缘由？总台记者近日前往中阳县进行了调查。",
+      "summary": "巴甲联赛第23轮，桑托斯3-0客场大胜瓦斯科达伽马。赛前内马尔主动握手，却遭遇对方球员蒂亚戈·门德斯无视。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,51 +581,51 @@
       "category": "general",
       "summary": "近日，央视记者卧底低价旅游团，曝光背后乱象。999元六天五晚的云南低价游，四分之一时间被购物门店占据，导游、销售、旅游管家轮番逼迫游客消费。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "5cc825af80ac",
-      "title": "17岁少年确诊胃癌一个半月后离世",
-      "url": "https://www.baidu.com/s?wd=17%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E4%B8%80%E4%B8%AA%E5%8D%8A%E6%9C%88%E5%90%8E%E7%A6%BB%E4%B8%96",
+      "id": "eb7171598cff",
+      "title": "男子执意醉驾身亡 好友拦不住被判赔",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%A7%E6%84%8F%E9%86%89%E9%A9%BE%E8%BA%AB%E4%BA%A1+%E5%A5%BD%E5%8F%8B%E6%8B%A6%E4%B8%8D%E4%BD%8F%E8%A2%AB%E5%88%A4%E8%B5%94",
       "source": "baidu",
       "category": "general",
-      "summary": "17岁少年因长期腹痛、黑便就诊，被确诊为晚期‌胃体印戒细胞癌‌，癌细胞已转移且因严重贫血无法治疗，从确诊到离世仅‌一个半月‌。医生指出，年轻人胃癌易被忽视，需重视定期体检。‌‌",
+      "summary": "日前，男子张某与好友连喝三场酒不听劝阻执意醉驾身亡。事后，张某家属将刘某、骆某等5名聚餐者起诉至法院。8月11日，安徽省滁州市中级人民法院公布二审判决，维持一审原判：张某自担90%责任，刘某、骆某未能采取有效措施制止，分别承担6%、4%赔偿责任，共计赔偿11万余元。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "4e5f9a581afd",
-      "title": "C罗称可能正经历生涯最后一年",
-      "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%AD%A3%E7%BB%8F%E5%8E%86%E7%94%9F%E6%B6%AF%E6%9C%80%E5%90%8E%E4%B8%80%E5%B9%B4",
+      "id": "dcf799c05704",
+      "title": "它是水果界的维C天花板",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%83%E6%98%AF%E6%B0%B4%E6%9E%9C%E7%95%8C%E7%9A%84%E7%BB%B4C%E5%A4%A9%E8%8A%B1%E6%9D%BF",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，41岁的C罗接受专访时透露，2026/27赛季“很可能是他职业生涯的最后一年”，他希望用一段辉煌的传奇为自己的绿茵生涯收尾，已规划好退役后的生活，未来不排除再要孩子。",
+      "summary": "刺梨是云贵高原特有的野生水果，被誉为“维C之王”。刺梨的维生素C含量和其他水果压根不在一个数量级上。和苹果、梨、桃、李、杏的维生素C含量相比，动辄高出数百倍——是苹果的860多倍；即便是和猕猴桃、鲜枣、橙子、柠檬相比，刺梨维生素C含量也高出数十倍——是橙子的78倍！",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "89990477ee07",
-      "title": "满江 叔圈天菜上新了",
-      "url": "https://www.baidu.com/s?wd=%E6%BB%A1%E6%B1%9F+%E5%8F%94%E5%9C%88%E5%A4%A9%E8%8F%9C%E4%B8%8A%E6%96%B0%E4%BA%86",
+      "id": "f275282903ea",
+      "title": "有人要求政府联系某明星给自己过生日",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E8%81%94%E7%B3%BB%E6%9F%90%E6%98%8E%E6%98%9F%E7%BB%99%E8%87%AA%E5%B7%B1%E8%BF%87%E7%94%9F%E6%97%A5",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，在综艺《披荆斩棘2026》上，满江初舞台《黑暗中的舞蹈》好高级，法拉利老了还是法拉利。",
+      "summary": "近日，一则爆料引发热议：有市民竟打12345，投诉夜间月光过亮影响睡觉。更荒诞的是，孩子高考失利，家长竟要求重新组织考试。还有人要求政府联系明星给自己过生日！滥用公共资源，本质上就是挤占他人的救命通道！别让自己的异想天开，拦住了别人的急难愁盼！",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "cd40764462e9",
-      "title": "阿森纳3-0曼城夺社区盾杯冠军",
-      "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A3%AE%E7%BA%B33-0%E6%9B%BC%E5%9F%8E%E5%A4%BA%E7%A4%BE%E5%8C%BA%E7%9B%BE%E6%9D%AF%E5%86%A0%E5%86%9B",
+      "id": "6765f52dd0fb",
+      "title": "DeepSeek调价生效 涨幅最高达1100%",
+      "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
       "source": "baidu",
       "category": "general",
-      "summary": "北京时间8月16日，26/27赛季英格兰社区盾杯在卡迪夫千禧球场正式打响。本场对决由上赛季英超冠军阿森纳迎战足总杯冠军曼城，两大英超豪门展开新赛季首冠之争。最终，阿森纳凭借极致的攻防效率，以3-0零封曼城，成功斩获新赛季社区盾冠军。",
+      "summary": "近日，深度求索官方宣布对DeepSeek API价格进行更新调整，采用峰谷定价，空闲时段价格为高峰时段价格的一半。高峰时段为北京时间9:00-12:00、14:00-18:00(其余为空闲时段)。新价格于北京时间8月17日00:00开始生效。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,31 +636,31 @@
       "category": "ai",
       "summary": "南极冰川惊现黑色长尾生物？这样的视频你信了吗？近日网传“神秘黑色生物爬上南极冰墙”的视频系由AI生成。视频多处细节不符合物理世界规律。该视频源自发布超自然内容的X账号，系影像伪造。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "108b610dc4d9",
-      "title": "劣迹艺人那艺娜活动被当场叫停",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E9%82%A3%E8%89%BA%E5%A8%9C%E6%B4%BB%E5%8A%A8%E8%A2%AB%E5%BD%93%E5%9C%BA%E5%8F%AB%E5%81%9C",
+      "id": "ea09554aafc7",
+      "title": "罕见爆仓！华尔街巨头巨亏1000亿",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%95%E8%A7%81%E7%88%86%E4%BB%93%EF%BC%81%E5%8D%8E%E5%B0%94%E8%A1%97%E5%B7%A8%E5%A4%B4%E5%B7%A8%E4%BA%8F1000%E4%BA%BF",
       "source": "baidu",
       "category": "general",
-      "summary": "据媒体报道，知情人反映，近日，“劣迹艺人”那艺娜打着公益旗号，在河南沁阳参加线下公益活动，被有关部门立即叫停。“排场很大，比大牌明星出场还厉害，提前通知粉丝们等着她，陪她录像造势。”知情人小米说，“活动当天，那艺娜一进门就被文化执法人员给打击了，不允许劣迹艺人进场参加活动。”",
+      "summary": "美东时间8月15日，美媒报道显示，美国的高频交易做市商简街（Jane Street）今年7月录得约150亿美元（约合人民币1000亿元）亏损。对于简街而言，这是一场罕见的挫折。该公司表示，7月的亏损意味着其自2016年以来首次出现交易收入为负数的月份。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "3de5eec81fc1",
-      "title": "央视曝光后 云南连夜通报",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%91%E5%8D%97%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
+      "id": "58bff17ae5f1",
+      "title": "误订机票一小时内退票被扣5700元",
+      "url": "https://www.baidu.com/s?wd=%E8%AF%AF%E8%AE%A2%E6%9C%BA%E7%A5%A8%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E9%80%80%E7%A5%A8%E8%A2%AB%E6%89%A35700%E5%85%83",
       "source": "baidu",
       "category": "general",
-      "summary": "8月16日晚，央视曝光暑期游乱象。其中，云南昆明、西双版纳等地一些旅游行程丰富、标注纯玩无购物、无自费的跟团游产品，频频出现消费纠纷。旅游实际行程与商家宣传严重不符，隐性购物、强制消费、临时加价等问题时有发生。当晚，云南官方通报称已组织有关州市对涉事的旅行社、导游、购物场所开展调查。",
+      "summary": "据8月16日报道，海南冯女士计划6月17日带孩子出国，第三方平台订票时误将日期选成7月10日，总价6351元。下单不到一小时申请退票，离起飞尚早、航司和代理商尚未产生实际运营成本，却被答复“票款不予退还”。600元保险可退，5700多元机票本金全部没收。",
       "imageUrl": "",
-      "publishedAt": "2026-08-16T23:58:11.127Z",
+      "publishedAt": "2026-08-17T01:50:37.833Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-16T23:58:12.464Z"
+  "generatedAt": "2026-08-17T01:50:38.997Z"
 }
