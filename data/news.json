@@ -2,160 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "f9258748c28d",
-      "title": "谷歌悄悄上架 Desktop Camera 文件扫描应用，为 Googlebook 上市铺路",
-      "url": "https://www.ithome.com/0/990/988.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.622Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0bf5fb524f4a",
-      "title": "Signal65 报告：高通骁龙 X2 Elite Extreme 芯片多核比 AMD Ryzen AI 9 465 快 83%",
-      "url": "https://www.ithome.com/0/990/989.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.622Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "826f5c148a45",
-      "title": "伪造下单页面、诱导共享屏幕，总台揭秘免费探店、免费试吃诈骗链条",
-      "url": "https://www.ithome.com/0/990/994.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.622Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e9959516259f",
-      "title": "石头迷你洗烘一体机 Z1 Mini Pro 体验：当第二台洗衣机成为有娃家庭的新刚需",
-      "url": "https://www.ithome.com/0/990/995.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.621Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "462dc58b357b",
-      "title": "优派推出 Fast IPS 显示器 VX27G26-2K-10：27\" QHD 超频 340Hz",
-      "url": "https://www.ithome.com/0/990/996.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.621Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ef4fd737ccec",
-      "title": "汉王推出 6 英寸黑白墨水屏电纸书 N6 Pro：6.8mm 厚度 189g 重量、8192 级压感手写，2199 元",
-      "url": "https://www.ithome.com/0/990/998.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.621Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "111bb938a861",
-      "title": "国资持有充换电站 + 委托蔚来运营模式将全国推广，武汉率先全面落地",
-      "url": "https://www.ithome.com/0/990/999.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.621Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "9b8bfc2725a8",
-      "title": "三星 One UI 9 将原生支持设置 Motion Photos 为动态壁纸",
-      "url": "https://www.ithome.com/0/991/000.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.621Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "46bc9d3b2108",
-      "title": "神舟推出 2026 款战神 T9 笔记本：i7-14700HX + RTX5070 售 8999 元",
-      "url": "https://www.ithome.com/0/991/001.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.620Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4075c70c2495",
-      "title": "Pimax 小派为 Dream Air SE 头显推出 ProFit 面罩，带来更大可视视场",
-      "url": "https://www.ithome.com/0/991/006.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.620Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "34f4366e1cc3",
-      "title": "谷歌 Gboard 输入法酝酿快速插入功能：一键调取联系人 / 图片等 6 类内容",
-      "url": "https://www.ithome.com/0/991/009.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.620Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f0295fb1cbbe",
-      "title": "《影之刃零》PS5 版宣传片公布，支持自适应扳机、3D 音效、触觉反馈",
-      "url": "https://www.ithome.com/0/991/011.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.620Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "def1d3e5ea94",
-      "title": "科乐美官宣：苹果 Apple Arcade 独占游戏《恶魔城：魂之魔导书》即将停服",
-      "url": "https://www.ithome.com/0/991/013.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.620Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6df0e170b4fd",
-      "title": "雷鸟全新 iO 系列官宣 8 月 21 日发布：定位首款“人类增强 AI 眼镜”",
-      "url": "https://www.ithome.com/0/991/016.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.619Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "268ff4619fe6",
       "title": "安卓 17 测试版再现线索，谷歌 Pixel 10 等手机将支持双击锁屏",
       "url": "https://www.ithome.com/0/991/018.htm",
@@ -163,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.619Z",
+      "publishedAt": "2026-08-18T07:06:55.970Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.619Z",
+      "publishedAt": "2026-08-18T07:06:55.970Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.619Z",
+      "publishedAt": "2026-08-18T07:06:55.969Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.618Z",
+      "publishedAt": "2026-08-18T07:06:55.969Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.618Z",
+      "publishedAt": "2026-08-18T07:06:55.969Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.618Z",
+      "publishedAt": "2026-08-18T07:06:55.969Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.618Z",
+      "publishedAt": "2026-08-18T07:06:55.968Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.618Z",
+      "publishedAt": "2026-08-18T07:06:55.968Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +97,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.617Z",
+      "publishedAt": "2026-08-18T07:06:55.968Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.617Z",
+      "publishedAt": "2026-08-18T07:06:55.968Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.617Z",
+      "publishedAt": "2026-08-18T07:06:55.968Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.617Z",
+      "publishedAt": "2026-08-18T07:06:55.967Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +141,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.617Z",
+      "publishedAt": "2026-08-18T07:06:55.967Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.616Z",
+      "publishedAt": "2026-08-18T07:06:55.967Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.616Z",
+      "publishedAt": "2026-08-18T07:06:55.967Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.616Z",
+      "publishedAt": "2026-08-18T07:06:55.966Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.615Z",
+      "publishedAt": "2026-08-18T07:06:55.966Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +196,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.615Z",
+      "publishedAt": "2026-08-18T07:06:55.966Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +207,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.615Z",
+      "publishedAt": "2026-08-18T07:06:55.966Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.615Z",
+      "publishedAt": "2026-08-18T07:06:55.965Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +229,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.614Z",
+      "publishedAt": "2026-08-18T07:06:55.965Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.614Z",
+      "publishedAt": "2026-08-18T07:06:55.965Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +251,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.614Z",
+      "publishedAt": "2026-08-18T07:06:55.965Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +262,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.613Z",
+      "publishedAt": "2026-08-18T07:06:55.965Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +273,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.613Z",
+      "publishedAt": "2026-08-18T07:06:55.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.613Z",
+      "publishedAt": "2026-08-18T07:06:55.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.612Z",
+      "publishedAt": "2026-08-18T07:06:55.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.612Z",
+      "publishedAt": "2026-08-18T07:06:55.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,8 +317,173 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:09.611Z",
+      "publishedAt": "2026-08-18T07:06:55.963Z",
       "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a256ce1249ec",
+      "title": "A 股首日收益新纪录：年内最贵新股频准激光登陆科创板，中一签赚 55 万",
+      "url": "https://www.ithome.com/0/991/072.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.963Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "359f50864dc6",
+      "title": "豆包工作任务模式上新：可在虚拟桌面操作 Windows",
+      "url": "https://www.ithome.com/0/991/073.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.963Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a8c4c45d51b5",
+      "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
+      "url": "https://www.ithome.com/0/991/074.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.962Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0895f34057b3",
+      "title": "万灵竞记推出幻 M 镁合金鼠标：可选西安博物院联名款，899 元起",
+      "url": "https://www.ithome.com/0/991/075.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.962Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fcce89503450",
+      "title": "2026 年 7 月国内动力电池装车量 74.6GWh，同比增长 33.5%",
+      "url": "https://www.ithome.com/0/991/076.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.962Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "220b66dca045",
+      "title": "全球首个独立运营的生物集成服务器机架原型亮相",
+      "url": "https://www.ithome.com/0/991/078.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.961Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ec359d6b883f",
+      "title": "TrendForce：五大海外 NAND 闪存原厂 2026Q2 合计营收环比 +77%",
+      "url": "https://www.ithome.com/0/991/079.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.961Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ddd496523fc7",
+      "title": "小米 G25i 2026 游戏显示器海外发布，24.5 英寸 1080P 240Hz Fast IPS 面板",
+      "url": "https://www.ithome.com/0/991/080.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.961Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fc6376343c2d",
+      "title": "半价！全球最大 AI 聚合平台下调 OpenAI 最强 AI 模型 GPT-5.6 Sol 费用",
+      "url": "https://www.ithome.com/0/991/081.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.960Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "276bfd12f58b",
+      "title": "山灵预热 CD50 台式 CD 播放器：CS43198 DAC、双 SGM8262 运放",
+      "url": "https://www.ithome.com/0/991/083.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.960Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "84d9ad6b35fb",
+      "title": "消息称 OPPO Find X10 系列新机屏幕“加料”，支持目前行业最高规格 BT.2020 超广色域",
+      "url": "https://www.ithome.com/0/991/086.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.959Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fd54695a8bac",
+      "title": "无人配送企业 Serve 与外卖平台 Grubhub 达成合作，服务扩展至更多美国城市",
+      "url": "https://www.ithome.com/0/991/087.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.959Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5b21aa94ead4",
+      "title": "企业微信 5.0.10 开放 CLI 与 MCP，10 大办公模块可接入主流 Agent",
+      "url": "https://www.ithome.com/0/991/088.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.958Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1c3ae4472b90",
+      "title": "OpenAI 总裁布罗克曼：为抵御 AI 网络威胁，企业应尽快做好 10 件事",
+      "url": "https://www.ithome.com/0/991/089.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:55.958Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ec65c876e4f8",
+      "title": "朱镕基同志遗体在京火化",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96",
+      "source": "baidu",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.428Z",
+      "tags": "[\"baidu\"]"
     },
     {
       "id": "f85dbe556e38",
@@ -480,20 +491,9 @@
       "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "8月18日，为悼念朱镕基同志，首都天安门下半旗志哀。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "90545ecc862a",
-      "title": "国务院：及时谋划出台增量政策",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E5%8F%8A%E6%97%B6%E8%B0%8B%E5%88%92%E5%87%BA%E5%8F%B0%E5%A2%9E%E9%87%8F%E6%94%BF%E7%AD%96",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月17日，国务院总理李强主持召开国务院第十二次全体会议，强调扎实做好各项工作，努力完成全年经济社会发展目标任务，实现“十五五”良好开局。李强指出，锚定发展目标，充分发挥存量政策效能，及时谋划出台务实管用的增量政策，破除各种堵点卡点，推动经济持续向新向优向好发展。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.428Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -504,51 +504,18 @@
       "category": "general",
       "summary": "8月17日，国家发展改革委、国家能源局印发《石油天然气发展“十五五”规划》。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.428Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c9273a052da0",
-      "title": "又一新能源汽车公司成立",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B",
+      "id": "10190a2a2978",
+      "title": "微信重大更新 看看你用上了吗",
+      "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0+%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%94%A8%E4%B8%8A%E4%BA%86%E5%90%97",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，神龙汽车科技（武汉）有限公司完成工商注册，落户武汉经开区。该公司注册资本超81亿元，由东风汽车、Stellantis集团等六方联手打造，总投资超80亿元。公司业务涵盖汽车零部件研发、新能源整车销售等领域，将作为全新运营主体，专注布局新能源汽车业务。",
+      "summary": "近期，微信在其原生AI助手“小微”的灰度测试中，新增了3个高频场景的AI入口，这使得微信内的AI入口总数，达到了16个！目前，上述所有新增功能均处于灰度测试阶段，仅随机挑选的部分用户可见，最终是否全量上线还需等待官方正式版本。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "522ec7395fba",
-      "title": "受贿数额特别巨大 刘慧被公诉",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E5%88%98%E6%85%A7%E8%A2%AB%E5%85%AC%E8%AF%89",
-      "source": "baidu",
-      "category": "general",
-      "summary": "18日，记者从最高人民检察院获悉，十三届全国政协教科卫体委员会副主任刘慧涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对刘慧作出逮捕决定，并指定由山东省菏泽市人民检察院审查起诉。近日，菏泽市人民检察院已向菏泽市中级人民法院提起公诉。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "3d440c137987",
-      "title": "格力技工学校将招生 董明珠任校长",
-      "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E5%B0%86%E6%8B%9B%E7%94%9F+%E8%91%A3%E6%98%8E%E7%8F%A0%E4%BB%BB%E6%A0%A1%E9%95%BF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月18日，据格力文化消息，经珠海市人力资源和社会保障局批准，由格力电器创办的珠海市格力技工学校近日正式获得招生资格，招生代码为9800242，将于近期正式启动首届招生。格力电器董事长董明珠亲自担任学校校长。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "9ccd536123af",
-      "title": "闪过念头就刷到广告 是手机在偷听吗",
-      "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
-      "source": "baidu",
-      "category": "general",
-      "summary": "刚和朋友聊起某样商品，打开手机，广告推荐就跳出来了。类似的体验许多人都有过，不少人会怀疑：是不是被手机“偷听”聊天了？不少第三方机构对此进行过调研，结果显示，从经济成本、技术难度、法律风险来看，“偷听”并不如大家想象的容易实现，对商家来说成本和风险远大于收益。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.428Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -559,40 +526,18 @@
       "category": "general",
       "summary": "8月16日，新疆库车市公安局两名辅警买吾兰江·买买提、怕合尔丁·喀迪尔为救援落水孩子，被山洪冲走，经全力搜救，不幸牺牲。其中，怕合尔丁·喀迪尔刚参加公安工作仅1个月，牺牲时年仅22岁。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.428Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c9df262844a3",
-      "title": "重要规划发布！新风口要来了",
-      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E8%A6%81%E8%A7%84%E5%88%92%E5%8F%91%E5%B8%83%EF%BC%81%E6%96%B0%E9%A3%8E%E5%8F%A3%E8%A6%81%E6%9D%A5%E4%BA%86",
+      "id": "542b40461789",
+      "title": "台风天逆行成中国三蹦子最硬核广告",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E9%80%86%E8%A1%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E4%B8%89%E8%B9%A6%E5%AD%90%E6%9C%80%E7%A1%AC%E6%A0%B8%E5%B9%BF%E5%91%8A",
       "source": "baidu",
       "category": "general",
-      "summary": "国家发改委、能源局发布油气“十五五”规划，锚定能源安全与绿色低碳两大目标，明确2030年油气供应、管网建设指标。在加大油气增储上产同时，推进输氢管道等基建，攻关氢能技术，推动油气与新能源融合，助力石油消费达峰。",
+      "summary": "江苏嗯哇科技有限公司总经理张刘康带领企业开拓菲律宾电动“三蹦子”市场。为打消当地客户对车辆漏电的担忧，他特意在台风天上路实测，展示产品防水能力。此举收获菲律宾消费者信任，该公司也成长为当地规模最大的电动车供应商。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "10190a2a2978",
-      "title": "微信重大更新 看看你用上了吗",
-      "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0+%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%94%A8%E4%B8%8A%E4%BA%86%E5%90%97",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "926b8ae13c82",
-      "title": "编造智驾事故 多人因涉企谣言被罚",
-      "url": "https://www.baidu.com/s?wd=%E7%BC%96%E9%80%A0%E6%99%BA%E9%A9%BE%E4%BA%8B%E6%95%85+%E5%A4%9A%E4%BA%BA%E5%9B%A0%E6%B6%89%E4%BC%81%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-      "source": "baidu",
-      "category": "general",
-      "summary": "公安机关开展 “净网—2026” 专项行动，打击诋毁企业网络谣言，今日公布14起典型案例，多名网民被处罚。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.428Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,7 +548,95 @@
       "category": "general",
       "summary": "国家海洋环境预报中心模型最新预测显示：今春以来在赤道中东太平洋持续异常增暖的海温，关键区的峰值将接近3.5℃，比6月的模型预测值更高。这意味着，厄尔尼诺还在持续发展，并可能刷新历史极值。超强厄尔尼诺，意味着什么？一名与海洋打了20多年交道的预报员带你了解。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.428Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "1791a79c1e5a",
+      "title": "折叠“三蹦子” 欧洲售价近2万人民币",
+      "url": "https://www.baidu.com/s?wd=%E6%8A%98%E5%8F%A0%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D+%E6%AC%A7%E6%B4%B2%E5%94%AE%E4%BB%B7%E8%BF%912%E4%B8%87%E4%BA%BA%E6%B0%91%E5%B8%81",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，在江苏无锡创业的法国人塞德里克生产一款折叠式“三蹦子”，这款产品售价近2万元人民币，在欧美大型商超销售。无锡锡山区被誉为“中国电动车之乡”，拥有深厚的产业基础和完善的产业链、供应链。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "3f41bc9f6d70",
+      "title": "AI剧上卫视 能否端出“硬菜”",
+      "url": "https://www.baidu.com/s?wd=AI%E5%89%A7%E4%B8%8A%E5%8D%AB%E8%A7%86+%E8%83%BD%E5%90%A6%E7%AB%AF%E5%87%BA%E2%80%9C%E7%A1%AC%E8%8F%9C%E2%80%9D",
+      "source": "baidu",
+      "category": "ai",
+      "summary": "近日，AI剧集《桃花潭记》登陆卫视引发热议。AI剧集从小屏走向大屏，变的不仅是屏幕尺寸，也是品质门槛。观众期待“AI+卫视”能带来全新视听体验的“硬菜”，而非尚欠火候的“试吃”。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "c1f181d58ed9",
+      "title": "“短短几秒 怎么看着笑着就哭了”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9F%AD%E7%9F%AD%E5%87%A0%E7%A7%92+%E6%80%8E%E4%B9%88%E7%9C%8B%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月17日，吉林长春一位姥爷送别外孙女的视频刷屏网络，列车马上就要开走，姥爷在站台奔跑追车送别。那句“表面是逗外孙女，其实是舍不得女儿”的评论，让无数网友瞬间破防。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "926b8ae13c82",
+      "title": "编造智驾事故 多人因涉企谣言被罚",
+      "url": "https://www.baidu.com/s?wd=%E7%BC%96%E9%80%A0%E6%99%BA%E9%A9%BE%E4%BA%8B%E6%95%85+%E5%A4%9A%E4%BA%BA%E5%9B%A0%E6%B6%89%E4%BC%81%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+      "source": "baidu",
+      "category": "general",
+      "summary": "公安机关开展 “净网—2026” 专项行动，打击诋毁企业网络谣言，今日公布14起典型案例，多名网民被处罚。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "7d6572634a3d",
+      "title": "A股收盘：沪指探底回升翻红",
+      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%8E%A2%E5%BA%95%E5%9B%9E%E5%8D%87%E7%BF%BB%E7%BA%A2",
+      "source": "baidu",
+      "category": "business",
+      "summary": "8月18日，三大指数涨跌不一，沪指探底回升。沪深两市成交额2.4万亿，较上一个交易日放量133亿。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "c9273a052da0",
+      "title": "又一新能源汽车公司成立",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，神龙汽车科技（武汉）有限公司完成工商注册，落户武汉经开区。该公司注册资本超81亿元，由东风汽车、Stellantis集团等六方联手打造，总投资超80亿元。公司业务涵盖汽车零部件研发、新能源整车销售等领域，将作为全新运营主体，专注布局新能源汽车业务。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d4fa04d6e185",
+      "title": "3孩非亲生女方认为男方理应养孩子",
+      "url": "https://www.baidu.com/s?wd=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月17日，“结婚8年3女非亲生”离婚案在陕西省汉中市南郑区人民法院开庭，将择期宣判。女方态度强硬，认为男方抚养孩子理所应当，仅愿每个孩子补偿一万元。双方就离婚、抚养权达成一致，但在抚养费返还、精神损害赔偿金额上分歧较大。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "35b2f2d92155",
+      "title": "公路上惊现“三车连体” 这能上路吗",
+      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%B7%AF%E4%B8%8A%E6%83%8A%E7%8E%B0%E2%80%9C%E4%B8%89%E8%BD%A6%E8%BF%9E%E4%BD%93%E2%80%9D+%E8%BF%99%E8%83%BD%E4%B8%8A%E8%B7%AF%E5%90%97",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，天津一公路上出现“三车连体”的奇特场面，相关画面引发网友热议。不少网友对此景象感到惊奇，纷纷发出疑问，好奇如此连接的车辆是否具备合法上路行驶的条件。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,53 +647,20 @@
       "category": "general",
       "summary": "8月18日9点，唐时达诉湘潭大学撤销学历行政纠纷案，在湖南省湘潭市岳塘区人民法院开庭审理。历经七年行政诉讼，本次开庭是在湘潭大学2025年11月第二次撤销唐时达学历后，其再次起诉。弟弟唐一达母亲肖女士表示：“唐一达小时候很听话的，长大工作后就不听话了，他很飘了。”",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "b94f70f4f0a1",
-      "title": "港股AI大模型双雄重挫逾13%",
-      "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%8C%E9%9B%84%E9%87%8D%E6%8C%AB%E9%80%BE13%25",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "8月18日，港股AI大模型双雄智谱(02513.HK)和MINIMAX-W(00100.HK)双双遭遇重挫，跌幅均超过13%。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a2163fc99da1",
-      "title": "云南华宁小船侧翻致5人遇难",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%8D%8E%E5%AE%81%E5%B0%8F%E8%88%B9%E4%BE%A7%E7%BF%BB%E8%87%B45%E4%BA%BA%E9%81%87%E9%9A%BE",
+      "id": "7a967a644fb4",
+      "title": "杭州涉事高管曾是高考状元清华毕业",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%B6%89%E4%BA%8B%E9%AB%98%E7%AE%A1%E6%9B%BE%E6%98%AF%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A",
       "source": "baidu",
       "category": "general",
-      "summary": "8月18日，据云南省玉溪市华宁县人民政府新闻办公室通报，8月12日发生在华宁县盘溪镇南盘江水域的村民自用小船侧翻事件，经全力搜救和鉴定确认，其余3名失联人员全部搜寻到，已无生命体征，事件共造成5人遇难。目前，善后工作正在有序开展。",
+      "summary": "近日，招商蛇口浙江公司总经理赵海峰在杭州一场饭局活动中，涉嫌伤害同桌一名女性。警方接到报案后，将赵海峰带走调查。有消息显示，目前赵海峰已被警方刑事拘留。据悉，该涉案人员曾毕业于清华大学，是江苏启东高考状元。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "7df44d342082",
-      "title": "印度教授发中国街景称被印媒骗惨了",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%95%99%E6%8E%88%E5%8F%91%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF%E7%A7%B0%E8%A2%AB%E5%8D%B0%E5%AA%92%E9%AA%97%E6%83%A8%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月16日，印度理工学院孟买分校教授拉杰什瓦里·伊耶博士在社交平台发布中国城市街景视频，配文称亲身到访后才发现被‌印度媒体和政府长期误导‌，视频中街道繁华整洁，与印度现状形成强烈对比。‌‌",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "edab5ab16c8a",
-      "title": "A股年内最贵新股上市 大涨超500%",
-      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E8%B4%B5%E6%96%B0%E8%82%A1%E4%B8%8A%E5%B8%82+%E5%A4%A7%E6%B6%A8%E8%B6%85500%25",
-      "source": "baidu",
-      "category": "business",
-      "summary": "8月18日，新股N频准在上海证券交易所科创板上市，开盘大涨488.61%，报1100元/股。按开盘价计算，投资者中一签（500股）浮盈约45.66万元，创新股首日收益历史纪录。本次频准激光公开发行人民币普通股1000万股，占发行后总股本的25%，发行价格为186.88元/股，是A股今年以来发行价最高的新股。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T06:04:10.067Z",
+      "publishedAt": "2026-08-18T07:06:56.429Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-18T06:04:13.055Z"
+  "generatedAt": "2026-08-18T07:07:01.421Z"
 }
