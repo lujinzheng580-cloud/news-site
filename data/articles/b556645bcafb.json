@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 18 日消息，安全研究人员 Nightmare Eclipse 在 8 月 13 日发文，透露微软 Microsoft Defender 存在一项名为 ShieldBreak 的零日漏洞，该漏洞源于微软此前修复 RoguePlanet 漏洞（CVE-2026-50656）时修补不完整，可令任意 Windows 账户获得 SYSTEM 权限，从而完全控制设备本身。\n\n对此，微软发文，确认相应问题存在于 Microsoft Defender 所使用的恶意软件防护引擎 Microsoft Malware Protection Engine 中，目前其正在着手进行修复。\n\nIT之家获悉，ShieldBreak 与今年 6 月曝光的 Defender 漏洞 Rogue Planet（CVE-2026-50656，CVSS 7.8）有关。CVE-2026-50656 是一个权限提升漏洞，攻击者可利用该漏洞以 SYSTEM 权限运行 Shell，并在 Windows 系统上执行任意代码。\n\n尽管微软已于 7 月发布安全更新声称“修复 Rogue Planet 漏洞”，然而 Nightmare Eclipse 此前透露，微软实际上并未彻底修复 Rogue Planet，相应概念验证（PoC）在经过修改后，仍可以在已经安装安全更新的 Windows 设备上运行。\n\n虽然 ShieldBreak 和 Rogue Planet 都以 Microsoft Defender 为攻击目标，但两者的实现方式并不相同。Rogue Planet 是通过改变 Defender 的文件操作路径实施攻击，而 ShieldBreak 则利用 API 回调执行的时间窗口，在 Defender 扫描文件时替换其实际读取的内容。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-18T05:35:50.659Z",
+    "publishedAt": "2026-08-18T06:04:09.615Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
