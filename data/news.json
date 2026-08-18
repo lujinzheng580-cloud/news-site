@@ -2,215 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "1c9dfdd018ec",
-      "title": "Mini 推出 Rooftop Editions 特别版车型，基于 Cooper S 打造",
-      "url": "https://www.ithome.com/0/990/878.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.320Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4bc335db4e8a",
-      "title": "苹果新版“外部支付佣金方案”遭 Epic 驳回，App Store 支付渠道诉讼仍在继续",
-      "url": "https://www.ithome.com/0/990/879.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.320Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "be089c91339a",
-      "title": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra",
-      "url": "https://www.ithome.com/0/990/880.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.319Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "021fafef0546",
-      "title": "Spotify 上线“播放列表备注”功能，用户可为播客节目、有声书添加文字说明",
-      "url": "https://www.ithome.com/0/990/881.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.319Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1d959b6fe02a",
-      "title": "Nothing 子品牌 CMF 放出耳机新品预告，或为 CMF Buds 3",
-      "url": "https://www.ithome.com/0/990/882.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.319Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "10fcab232963",
-      "title": "代码显示谷歌计划调整 Google Messages“置顶聊天”功能：可快速显示消息内容",
-      "url": "https://www.ithome.com/0/990/883.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.319Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a6f1768c605d",
-      "title": "美国 2 名女子起诉苹果公司，称 AirTag 反跟踪警报未能提供有效保护",
-      "url": "https://www.ithome.com/0/990/884.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.318Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6c209e4f0f77",
-      "title": "Model S/X 停产后，特斯拉拍卖过剩零部件",
-      "url": "https://www.ithome.com/0/990/885.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.318Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "27e43b004b4d",
-      "title": "幸运用户捡到可正常工作的英伟达 RTX 2080 SUPER 显卡，更换导热硅脂和导热垫后待机温度约 35℃",
-      "url": "https://www.ithome.com/0/990/886.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.318Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ad6813064a9c",
-      "title": "消息称 Anthropic“年化营收”飙升，7 月底已突破 650 亿美元",
-      "url": "https://www.ithome.com/0/990/887.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.318Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d399b122211f",
-      "title": "全球最大视频网站 YouTube 官宣下周统一观看次数口径：普通视频无需观看约 30 秒",
-      "url": "https://www.ithome.com/0/990/888.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.317Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0aac59888c95",
-      "title": "开源多媒体框架 FFmpeg 优化 H.265/HEVC 视频编码能力，实现性能“基本追平 H.264”",
-      "url": "https://www.ithome.com/0/990/889.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.317Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "02662fb5a077",
-      "title": "英伟达将为 OpenAI 俄亥俄州数据中心提供最高 1050 亿美元担保",
-      "url": "https://www.ithome.com/0/990/890.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.317Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "28c4f0250fc6",
-      "title": "IT早报 0818：阿里出售游戏业务灵犀互娱；李书福辞任吉利汽车董事会主席；小米 SU7 系列 28.5 个月交付突破 50 万台；岚图邵明峰回应追光 S 撞脸小米 YU7...",
-      "url": "https://www.ithome.com/0/990/891.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.317Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "58a2985cbd31",
-      "title": "Mastercard 万事达银行卡全球支付网络短暂故障，澳大利亚受影响最严重",
-      "url": "https://www.ithome.com/0/990/892.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.317Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "10009252ec11",
-      "title": "消息称联想划定 Copilot+ PC 门槛：16GB 内存起，8GB 机型被归为 Non-Copilot",
-      "url": "https://www.ithome.com/0/990/893.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.316Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8257f7555fc8",
-      "title": "深挖 macOS Tahoe 26.7 RC 代码：大量苹果未发布产品代号浮出水面",
-      "url": "https://www.ithome.com/0/990/894.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.316Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "11a3b8659152",
-      "title": "编造智驾事故、AI 生成假车祸视频，多人因编造涉企谣言被罚",
-      "url": "https://www.ithome.com/0/990/895.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.316Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c326885f48c2",
-      "title": "Mac 版 AirBuddy 3 发布：增强苹果 AirPods 管理，带来 150+ 项改动",
-      "url": "https://www.ithome.com/0/990/896.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.316Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "7d6e63a068ca",
       "title": "剑指苹果 MacBook Neo：联想 IdeaPad Vibe 笔记本规格曝光",
       "url": "https://www.ithome.com/0/990/897.htm",
@@ -218,7 +9,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.315Z",
+      "publishedAt": "2026-08-18T03:02:32.935Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.315Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.315Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.315Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.314Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.314Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.314Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.314Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +97,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.313Z",
+      "publishedAt": "2026-08-18T03:02:32.934Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.313Z",
+      "publishedAt": "2026-08-18T03:02:32.933Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.313Z",
+      "publishedAt": "2026-08-18T03:02:32.933Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +130,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.313Z",
+      "publishedAt": "2026-08-18T03:02:32.933Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.313Z",
+      "publishedAt": "2026-08-18T03:02:32.933Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +152,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.312Z",
+      "publishedAt": "2026-08-18T03:02:32.933Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.312Z",
+      "publishedAt": "2026-08-18T03:02:32.933Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +174,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.312Z",
+      "publishedAt": "2026-08-18T03:02:32.933Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.311Z",
+      "publishedAt": "2026-08-18T03:02:32.932Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.311Z",
+      "publishedAt": "2026-08-18T03:02:32.932Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.310Z",
+      "publishedAt": "2026-08-18T03:02:32.932Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +218,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.310Z",
+      "publishedAt": "2026-08-18T03:02:32.932Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +229,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.310Z",
+      "publishedAt": "2026-08-18T03:02:32.932Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.310Z",
+      "publishedAt": "2026-08-18T03:02:32.931Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +251,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.309Z",
+      "publishedAt": "2026-08-18T03:02:32.931Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.309Z",
+      "publishedAt": "2026-08-18T03:02:32.931Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.308Z",
+      "publishedAt": "2026-08-18T03:02:32.931Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +284,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.308Z",
+      "publishedAt": "2026-08-18T03:02:32.930Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +295,205 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.307Z",
+      "publishedAt": "2026-08-18T03:02:32.930Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "41c18cda5e9e",
+      "title": "华硕 GPU Tweak III 获 v2.1.8.0 稳定版更新，为兼容显卡带来自动安全关机",
+      "url": "https://www.ithome.com/0/990/938.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.930Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2b4c8bfcdcac",
+      "title": "Counterpoint：未来五年超 1.3 亿颗先进封装 AI 芯片出货，英特尔挑战台积电",
+      "url": "https://www.ithome.com/0/990/924.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.930Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "086c6dfd34c7",
+      "title": "Steam 开启 2026 年度“弹球、弹珠机与保龄球游戏节”促销活动，《BALL x PIT》6.6 折后 38.28 元等",
+      "url": "https://www.ithome.com/0/990/946.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.930Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "81fb673a9b0b",
+      "title": "需求超预期：华硕 RTX Spark 笔记本 ProArt P16/P14 首批配额售罄",
+      "url": "https://www.ithome.com/0/990/952.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.930Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bd400461b5de",
+      "title": "零跑汽车登陆阿根廷市场，B10、C10 增程版打头阵",
+      "url": "https://www.ithome.com/0/990/969.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.929Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9aff806baef3",
+      "title": "酷态科推出 CP 模块风扇 Plus“夹式延长线套装”：底座支持夹 / 立两用，109 元",
+      "url": "https://www.ithome.com/0/990/972.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.929Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c02dc771b9ad",
+      "title": "海南文昌商业航天发射场 1、2 号工位实现常态化运营，卫星超级工厂进入试生产",
+      "url": "https://www.ithome.com/0/990/973.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.929Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b278a28eae7e",
+      "title": "致态 Ti600s 固态硬盘发售：新一代 Xtacking 4.0 QLC，随机写入提升 114%",
+      "url": "https://www.ithome.com/0/990/981.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.929Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f9258748c28d",
+      "title": "谷歌悄悄上架 Desktop Camera 文件扫描应用，为 Googlebook 上市铺路",
+      "url": "https://www.ithome.com/0/990/988.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.928Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0bf5fb524f4a",
+      "title": "Signal65 报告：高通骁龙 X2 Elite Extreme 芯片多核比 AMD Ryzen AI 9 465 快 83%",
+      "url": "https://www.ithome.com/0/990/989.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.928Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "826f5c148a45",
+      "title": "伪造下单页面、诱导共享屏幕，总台揭秘免费探店、免费试吃诈骗链条",
+      "url": "https://www.ithome.com/0/990/994.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.928Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e9959516259f",
+      "title": "石头迷你洗烘一体机 Z1 Mini Pro 体验：当第二台洗衣机成为有娃家庭的新刚需",
+      "url": "https://www.ithome.com/0/990/995.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.928Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "462dc58b357b",
+      "title": "优派推出 Fast IPS 显示器 VX27G26-2K-10：27\" QHD 超频 340Hz",
+      "url": "https://www.ithome.com/0/990/996.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.927Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ef4fd737ccec",
+      "title": "汉王推出 6 英寸黑白墨水屏电纸书 N6 Pro：6.8mm 厚度 189g 重量、8192 级压感手写，2199 元",
+      "url": "https://www.ithome.com/0/990/998.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.927Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "111bb938a861",
+      "title": "国资持有充换电站 + 委托蔚来运营模式将全国推广，武汉率先全面落地",
+      "url": "https://www.ithome.com/0/990/999.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.926Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9b8bfc2725a8",
+      "title": "三星 One UI 9 将原生支持设置 Motion Photos 为动态壁纸",
+      "url": "https://www.ithome.com/0/991/000.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.926Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "46bc9d3b2108",
+      "title": "神舟推出 2026 款战神 T9 笔记本：i7-14700HX + RTX5070 售 8999 元",
+      "url": "https://www.ithome.com/0/991/001.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.926Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4075c70c2495",
+      "title": "Pimax 小派为 Dream Air SE 头显推出 ProFit 面罩，带来更大可视视场",
+      "url": "https://www.ithome.com/0/991/006.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:32.925Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,18 +504,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "7401642ee394",
-      "title": "法拉利首款电车破纪录拍出约2.7亿元",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E5%88%A9%E9%A6%96%E6%AC%BE%E7%94%B5%E8%BD%A6%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%8B%8D%E5%87%BA%E7%BA%A62.7%E4%BA%BF%E5%85%83",
+      "id": "522ec7395fba",
+      "title": "受贿数额特别巨大 刘慧被公诉",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E5%88%98%E6%85%A7%E8%A2%AB%E5%85%AC%E8%AF%89",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，在蒙特雷汽车周活动现场，编号“0号底盘”，也就是首台量产版法拉利Luce在RM苏富比2026年蒙特雷拍卖会上以4000万美元（约合人民币2.7亿元）的拍卖成交价刷新纪录，成为史上成交价最高的新车。",
+      "summary": "18日，记者从最高人民检察院获悉，十三届全国政协教科卫体委员会副主任刘慧涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对刘慧作出逮捕决定，并指定由山东省菏泽市人民检察院审查起诉。近日，菏泽市人民检察院已向菏泽市中级人民法院提起公诉。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -537,51 +526,7 @@
       "category": "general",
       "summary": "8月17日，国家发展改革委、国家能源局印发《石油天然气发展“十五五”规划》。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1192aced01e1",
-      "title": "寒武纪员工大红包将到账 人均557万",
-      "url": "https://www.baidu.com/s?wd=%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%91%98%E5%B7%A5%E5%A4%A7%E7%BA%A2%E5%8C%85%E5%B0%86%E5%88%B0%E8%B4%A6+%E4%BA%BA%E5%9D%87557%E4%B8%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，寒武纪公告，公司完成了2023年限制性股票激励计划预留授予部分第一个归属期的股份登记工作。根据公告，本次归属的激励对象人数为124人。本次限制性股票归属数量为59.76万股。以寒武纪17日收盘价1156元/股估算，59.76万股股票价值合计6.9亿元，对应每人平均股票价值557.15万元。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "9939d5abf91a",
-      "title": "中国斯诺克迎来爆发期",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E8%BF%8E%E6%9D%A5%E7%88%86%E5%8F%91%E6%9C%9F",
-      "source": "baidu",
-      "category": "general",
-      "summary": "16日晚，2026世界斯诺克中国公开赛决赛在山西太原滨河体育中心上演，赛场内座无虚席，掌声伴随精彩的进球不时响起。这是斯诺克中国公开赛自2019年后时隔6年重回世界斯诺克巡回赛赛历。120.5万英镑（1英镑约合人民币9.16元）的总奖金、世界排名前16的顶尖选手齐聚、赛场内外火热的氛围，都在宣告其国内斯诺克赛事的“顶流”地位。而这，也是近年来中国斯诺克快速崛起的一个缩影。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "da38a5f3c22a",
-      "title": "榴莲价格彻底崩了",
-      "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，榴莲价格持续下跌，多地金枕榴莲售价降至19.9元一斤，批发价甚至跌破15元。随着东南亚产区集中进入丰产期，加上进口来源增多、物流成本下降，榴莲价格彻底崩了。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "9ccd536123af",
-      "title": "闪过念头就刷到广告 是手机在偷听吗",
-      "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
-      "source": "baidu",
-      "category": "general",
-      "summary": "刚和朋友聊起某样商品，打开手机，广告推荐就跳出来了。类似的体验许多人都有过，不少人会怀疑：是不是被手机“偷听”聊天了？不少第三方机构对此进行过调研，结果显示，从经济成本、技术难度、法律风险来看，“偷听”并不如大家想象的容易实现，对商家来说成本和风险远大于收益。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -592,18 +537,40 @@
       "category": "general",
       "summary": "立秋以后，受秋燥影响，体内津液容易被耗损，自然就会出现口干咽干、皮肤干、大便干这些表现。如果喝水方式不对，不但补不进津液，反而会刺激脾胃，增加身体负担。专家提醒，喝白开水有4个常见误区，快来看看你中了几个：猛灌水；喝冰水、凉水；渴了才喝；没定量。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "1bb4698ea7f7",
-      "title": "中方回应100余名中国公民在巴被拘留",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94100%E4%BD%99%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E8%A2%AB%E6%8B%98%E7%95%99",
+      "id": "92878fe86a47",
+      "title": "市场监管局干部当了两周外卖骑手",
+      "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E5%B1%80%E5%B9%B2%E9%83%A8%E5%BD%93%E4%BA%86%E4%B8%A4%E5%91%A8%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B",
       "source": "baidu",
       "category": "general",
-      "summary": "8月17日，有记者提及巴基斯坦媒体称100余名中国公民在当地经营“非法呼叫中心”被拘。外交部发言人林剑回应称，中国政府一贯严厉打击电诈犯罪，要求海外中国公民严格遵守当地法律法规，不从事违法犯罪活动。同时，中国积极开展打击电诈国际合作，已启动成立国际打击电信网络诈骗联盟，期待各方与中方携手共同打击犯罪。",
+      "summary": "山东滨州市场监管局选派10名年轻干部，以普通骑手身份体验两周外卖配送工作。干部实地跑单，发现幽灵外卖、小区标识不清、骑手通行难题等145个隐蔽问题。当地实行当日建账销号整改，联动多部门协同治理，还吸纳骑手当食品安全监督员。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "edab5ab16c8a",
+      "title": "A股年内最贵新股上市 大涨超500%",
+      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E8%B4%B5%E6%96%B0%E8%82%A1%E4%B8%8A%E5%B8%82+%E5%A4%A7%E6%B6%A8%E8%B6%85500%25",
+      "source": "baidu",
+      "category": "business",
+      "summary": "8月18日，新股N频准在上海证券交易所科创板上市，开盘大涨488.61%，报1100元/股。按开盘价计算，投资者中一签（500股）浮盈约45.66万元，创新股首日收益历史纪录。本次频准激光公开发行人民币普通股1000万股，占发行后总股本的25%，发行价格为186.88元/股，是A股今年以来发行价最高的新股。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "9ccd536123af",
+      "title": "闪过念头就刷到广告 是手机在偷听吗",
+      "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
+      "source": "baidu",
+      "category": "general",
+      "summary": "刚和朋友聊起某样商品，打开手机，广告推荐就跳出来了。类似的体验许多人都有过，不少人会怀疑：是不是被手机“偷听”聊天了？不少第三方机构对此进行过调研，结果显示，从经济成本、技术难度、法律风险来看，“偷听”并不如大家想象的容易实现，对商家来说成本和风险远大于收益。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,7 +581,29 @@
       "category": "general",
       "summary": "据报道，美国海军一艘导弹驱逐舰上月于南海出现严重设备故障，舰内厨房、卫浴、供水系统全部瘫痪，舰上官兵生活保障受严重影响，该舰动力丧失时长达到四天。7月28日，该舰被拖船送往菲律宾苏比克湾维修。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "7401642ee394",
+      "title": "法拉利首款电车破纪录拍出约2.7亿元",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E5%88%A9%E9%A6%96%E6%AC%BE%E7%94%B5%E8%BD%A6%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%8B%8D%E5%87%BA%E7%BA%A62.7%E4%BA%BF%E5%85%83",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，在蒙特雷汽车周活动现场，编号“0号底盘”，也就是首台量产版法拉利Luce在RM苏富比2026年蒙特雷拍卖会上以4000万美元（约合人民币2.7亿元）的拍卖成交价刷新纪录，成为史上成交价最高的新车。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "866642b88797",
+      "title": "糖尿病等158个病种入选“同病同付”",
+      "url": "https://www.baidu.com/s?wd=%E7%B3%96%E5%B0%BF%E7%97%85%E7%AD%89158%E4%B8%AA%E7%97%85%E7%A7%8D%E5%85%A5%E9%80%89%E2%80%9C%E5%90%8C%E7%97%85%E5%90%8C%E4%BB%98%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "17日，国家医保局、国家卫生健康委等部门透露，在即将印发的DRG/DIP3.0版分组方案中，首次推荐设置高血压、糖尿病等158个基层病种。其中，DRG基层病种31个，DIP基层病种127个。未来，各地将在同一医保统筹区内，对基层病种探索实行“同病同付”。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,7 +614,7 @@
       "category": "general",
       "summary": "近日有网民称：“青岛大学新校徽被指像旭日旗，校方紧急撤下”，引发关注。经查，该信息纯属造谣，网传校徽图样并非青岛大学校徽。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,7 +625,7 @@
       "category": "general",
       "summary": "近日，贵阳一女子想在理发店烫大波浪，结果烫成“钢丝球”。随后，女子向门店索赔3000元，门店竟删除电子订单，拒绝提供纸质凭证。店长怒呛：哪条法律规定烫坏了要赔钱？",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -647,7 +636,18 @@
       "category": "general",
       "summary": "据媒体援引知情人士的话称，特斯拉正筹备Cybercab对外正式投放，最早将于本月就在美国得克萨斯州奥斯汀市启动落地部署。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "1192aced01e1",
+      "title": "寒武纪员工大红包将到账 人均557万",
+      "url": "https://www.baidu.com/s?wd=%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%91%98%E5%B7%A5%E5%A4%A7%E7%BA%A2%E5%8C%85%E5%B0%86%E5%88%B0%E8%B4%A6+%E4%BA%BA%E5%9D%87557%E4%B8%87",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，寒武纪公告，公司完成了2023年限制性股票激励计划预留授予部分第一个归属期的股份登记工作。根据公告，本次归属的激励对象人数为124人。本次限制性股票归属数量为59.76万股。以寒武纪17日收盘价1156元/股估算，59.76万股股票价值合计6.9亿元，对应每人平均股票价值557.15万元。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +658,9 @@
       "category": "general",
       "summary": "2017年，两兄弟因房产产生纠纷，弟弟向湘潭大学举报哥哥冒名顶替其上大学。随后，湘潭大学撤销唐向东学历的决定引发长达七年的多轮行政诉讼。湖南高院曾以程序违法撤销校方原撤销学历决定，责令重作。日前，湘潭大学重新调查后再次撤销哥哥本科学历。哥哥不服起诉，案件于8月18日开庭。",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T01:52:47.717Z",
+      "publishedAt": "2026-08-18T03:02:33.559Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-18T01:52:49.379Z"
+  "generatedAt": "2026-08-18T03:02:36.511Z"
 }
