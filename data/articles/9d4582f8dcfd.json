@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9d4582f8dcfd",
+    "title": "今日七夕",
+    "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E4%B8%83%E5%A4%95",
+    "source": "baidu",
+    "sourceId": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E4%B8%83%E5%A4%95",
+    "category": "general",
+    "summary": "",
+    "content": "",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-18T23:05:47.719Z",
+    "tags": "[\"baidu\"]",
+    "viewCount": 0
+  }
+}
