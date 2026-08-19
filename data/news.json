@@ -2,72 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "c0ca86e7aab5",
-      "title": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
-      "url": "https://www.ithome.com/0/991/736.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.902Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d7d5dc61727b",
-      "title": "微博 2026 财年上半年归母净利润 1.02 亿美元，同比下降 56.12%",
-      "url": "https://www.ithome.com/0/991/741.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.902Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b9ec6dfa9fa0",
-      "title": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
-      "url": "https://www.ithome.com/0/991/744.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.902Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "320d3498cf8b",
-      "title": "小米新一代人形机器人亮相 2026 世界机器人博览会，8 月 20 日起展台将对普通观众开放",
-      "url": "https://www.ithome.com/0/991/747.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.902Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "49fb68867a24",
-      "title": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
-      "url": "https://www.ithome.com/0/991/748.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.902Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e137735614d0",
-      "title": "重回四位数命名？英特尔酷睿 Ultra 9 4950K 处理器曝光，28 核型号预计 2027 年初首发",
-      "url": "https://www.ithome.com/0/991/768.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.902Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "76adeb91678d",
       "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
       "url": "https://www.ithome.com/0/991/770.htm",
@@ -75,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.902Z",
+      "publishedAt": "2026-08-19T14:00:30.869Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -86,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.869Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.869Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.868Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +53,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.868Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.868Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.868Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.867Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.867Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.901Z",
+      "publishedAt": "2026-08-19T14:00:30.867Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.900Z",
+      "publishedAt": "2026-08-19T14:00:30.867Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +130,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.900Z",
+      "publishedAt": "2026-08-19T14:00:30.866Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.900Z",
+      "publishedAt": "2026-08-19T14:00:30.866Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.900Z",
+      "publishedAt": "2026-08-19T14:00:30.866Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.899Z",
+      "publishedAt": "2026-08-19T14:00:30.866Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.899Z",
+      "publishedAt": "2026-08-19T14:00:30.865Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.899Z",
+      "publishedAt": "2026-08-19T14:00:30.865Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +196,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.899Z",
+      "publishedAt": "2026-08-19T14:00:30.865Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +207,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.899Z",
+      "publishedAt": "2026-08-19T14:00:30.865Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.899Z",
+      "publishedAt": "2026-08-19T14:00:30.864Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.899Z",
+      "publishedAt": "2026-08-19T14:00:30.864Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +240,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.898Z",
+      "publishedAt": "2026-08-19T14:00:30.864Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.898Z",
+      "publishedAt": "2026-08-19T14:00:30.863Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.898Z",
+      "publishedAt": "2026-08-19T14:00:30.863Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.898Z",
+      "publishedAt": "2026-08-19T14:00:30.863Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +284,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.897Z",
+      "publishedAt": "2026-08-19T14:00:30.863Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.897Z",
+      "publishedAt": "2026-08-19T14:00:30.862Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.897Z",
+      "publishedAt": "2026-08-19T14:00:30.862Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +317,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.897Z",
+      "publishedAt": "2026-08-19T14:00:30.862Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +328,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.896Z",
+      "publishedAt": "2026-08-19T14:00:30.861Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +339,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.896Z",
+      "publishedAt": "2026-08-19T14:00:30.861Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +350,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.896Z",
+      "publishedAt": "2026-08-19T14:00:30.861Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +361,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.895Z",
+      "publishedAt": "2026-08-19T14:00:30.860Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +372,84 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:46.895Z",
+      "publishedAt": "2026-08-19T14:00:30.860Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "91d9e67874e2",
+      "title": "全新捷途山海 L7 PLUS 上市：顶配搭载激光雷达，超级置换价 10.99 万-15.99 万元",
+      "url": "https://www.ithome.com/0/991/837.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:30.859Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e1ed05ca0da3",
+      "title": "荣耀自研机器人闪电和元气仔官宣参加第二届人形机器人运动会",
+      "url": "https://www.ithome.com/0/991/838.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:30.859Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0dff53918157",
+      "title": "索尼 Guerrilla 被曝重启《地平线：猎人集结》项目，因玩家反馈不佳被迫转型",
+      "url": "https://www.ithome.com/0/991/839.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:30.859Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a2223962b227",
+      "title": "iQOO 产品经理邢程回应 Z11S 机型定价：在当前环境下，这个价格很有诚意",
+      "url": "https://www.ithome.com/0/991/840.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:30.858Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "906c45eeeea1",
+      "title": "“AI 教母”李飞飞：身为科技从业者，应把“AI 能带来什么好处”讲得更清楚",
+      "url": "https://www.ithome.com/0/991/841.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:30.858Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ee4b389d93c2",
+      "title": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决",
+      "url": "https://www.ithome.com/0/991/842.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:30.857Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5168bbdd848a",
+      "title": "2026 七夕档总票房突破 2.71 亿，《欢迎来龙餐馆》成档期冠军",
+      "url": "https://www.ithome.com/0/991/843.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:30.856Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,84 +460,7 @@
       "category": "general",
       "summary": "北京时间8月19日，全球市场迎来黑色星期三。隔夜美股三大股指全线收跌，日经225指数收跌3.16%，韩国综指收跌5.80%，A股方面，三大指数低开低走。有分析认为，本轮市场调整或由美债收益率飙升引起。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ff6035c8208d",
-      "title": "多地宣布：调整最低工资标准",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B0%83%E6%95%B4%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近期，多地宣布今年起上调最低工资标准。日前，广东省人民政府印发《关于调整我省最低工资标准的通知》，决定从2026年9月1日起调整提高月最低工资标准和非全日制小时最低工资标准。山西也从10月1日起提高最低工资标准。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "b6dc79098525",
-      "title": "公积金新政来了 有哪些利好",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86+%E6%9C%89%E5%93%AA%E4%BA%9B%E5%88%A9%E5%A5%BD",
-      "source": "baidu",
-      "category": "general",
-      "summary": "新版《住房公积金管理条例》将于2026年9月20日起施行。这项涉及1.76亿缴存人、10.9万亿元资金的制度变革，到底改了什么？细细梳理本次修改的内容，改动主要集中在三个方面。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "40a12e4a895f",
-      "title": "总台七夕晚会",
-      "url": "https://www.baidu.com/s?wd=%E6%80%BB%E5%8F%B0%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月19日，《今夕颂——2026中央广播电视总台七夕晚会》以“桥”为核心意象，以全民共创为核心亮点，融合千年七夕传统节俗与当代生活图景，徐徐铺展一幅兼具烟火温度与家国情怀的中国式浪漫长卷。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "935340ffca6e",
-      "title": "暗访组当场质问：这个门怎么跑",
-      "url": "https://www.baidu.com/s?wd=%E6%9A%97%E8%AE%BF%E7%BB%84%E5%BD%93%E5%9C%BA%E8%B4%A8%E9%97%AE%EF%BC%9A%E8%BF%99%E4%B8%AA%E9%97%A8%E6%80%8E%E4%B9%88%E8%B7%91",
-      "source": "baidu",
-      "category": "general",
-      "summary": "“你这么多人干活，要是发生火情，这个门怎么跑？”7月中旬，多部门组织开展劳动密集型企业消防安全专项暗访检查。在浙江省绍兴柯桥暮语霖纺织厂，暗访组发现车间只有一个安全出口。车间里数十名工人正在忙碌，一旦起火所有人不仅必须挤向同一个出口，如果出口附近发生火情工人们几乎无法逃生。面对询问，企业负责人没有回答。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "fdf633abd58c",
-      "title": "笔试前13名全淘汰 倒数5名全逆袭",
-      "url": "https://www.baidu.com/s?wd=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，“佛山市季华中学物理教师岗位公开招聘中笔试成绩前13名全部落选，后5名全部进入体检名单”等相关情况，引起社会各界关注。19日，佛山市联合调查组发布情况通报，此次招聘存在将考生毕业院校知名度作为重要筛选条件、内部评议等违规行为，已进行追责。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "fd737d20516e",
-      "title": "男子反抗暴力强拆致死被判无罪",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%8D%E6%8A%97%E6%9A%B4%E5%8A%9B%E5%BC%BA%E6%8B%86%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "2023年，十余名人员持械非法闯入张恒父母家中强拆，双方对峙后发生冲突，致强拆参与者石某身亡。8月7日，法院认定张恒反击属于正当防卫，依法判决其无罪，同时驳回死者家属民事索赔诉求，涉案十名强拆人员此前已获刑。8月18日，陕西西咸新区资村非法强拆致人死亡案一审判决正式生效。当事人律师：全国首个判例。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "5fa906b6ff22",
-      "title": "“价格屠夫”梁文锋“收刀”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月17日，DeepSeek的最新涨价方案正式落地。事实上，在此次涨价之前，DeepSeek一直被外界视为大模型行业的“价格屠夫”。有分析认为，此次DeepSeek一反常态涨价，或与当前算力资源日益紧张的情况有关。而DeepSeek的价格转向，也标志着国产大模型正由价格竞争回归价值竞争。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -537,51 +471,29 @@
       "category": "general",
       "summary": "两尊唐代石狮被人夜间盗走，公安部门悬赏100万元征集破案线索。被盗石狮系唐帝王陵墓园门狮，是全国重点文物保护对象。石狮被盗地点位于陕西省咸阳市礼泉县昭陵乡索山村北的武将山上。两尊石狮均为石灰岩质，高约1.5米，长约1.3米，胸宽约0.8米，每尊重约2吨。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "38e46038234e",
-      "title": "明星七夕节集体秀恩爱",
-      "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%83%E5%A4%95%E8%8A%82%E9%9B%86%E4%BD%93%E7%A7%80%E6%81%A9%E7%88%B1",
+      "id": "b6dc79098525",
+      "title": "公积金新政来了 有哪些利好",
+      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86+%E6%9C%89%E5%93%AA%E4%BA%9B%E5%88%A9%E5%A5%BD",
       "source": "baidu",
       "category": "general",
-      "summary": "8月19日七夕节，不少明星纷纷秀恩爱，杜海涛沈梦辰甜蜜约会，金莎孙丞潇搞怪互动，“狗粮”多到吃不完。",
+      "summary": "新版《住房公积金管理条例》将于2026年9月20日起施行。这项涉及1.76亿缴存人、10.9万亿元资金的制度变革，到底改了什么？细细梳理本次修改的内容，改动主要集中在三个方面。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "97b152aae683",
-      "title": "“台风吹落风力发电机的桨叶”不实",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%90%BD%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA%E7%9A%84%E6%A1%A8%E5%8F%B6%E2%80%9D%E4%B8%8D%E5%AE%9E",
+      "id": "ff6035c8208d",
+      "title": "多地宣布：调整最低工资标准",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B0%83%E6%95%B4%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，有网民称：“台风将风力发电机桨叶吹掉”，引发关注。经当地部门核实，系风电场自行拆除风机，并非台风吹落桨叶，网传内容不实。",
+      "summary": "近期，多地宣布今年起上调最低工资标准。日前，广东省人民政府印发《关于调整我省最低工资标准的通知》，决定从2026年9月1日起调整提高月最低工资标准和非全日制小时最低工资标准。山西也从10月1日起提高最低工资标准。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ad5485baacf8",
-      "title": "何炅因年龄大被密室拒绝",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%A4%A7%E8%A2%AB%E5%AF%86%E5%AE%A4%E6%8B%92%E7%BB%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，何炅在一档综艺中分享有趣经历。他坦言自己从未玩过剧本杀，密室体验过几次，后来却被场馆拒之门外。何炅透露限制原因：不少密室门店规定45岁以上不能入场。“我觉得不应该，要是我去玩，实在不行我当场做18个蹲起！”",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "10e3dbf8e366",
-      "title": "暴雨后大爷拿鱼叉抓鱼叉中十斤大鱼",
-      "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%A4%A7%E7%88%B7%E6%8B%BF%E9%B1%BC%E5%8F%89%E6%8A%93%E9%B1%BC%E5%8F%89%E4%B8%AD%E5%8D%81%E6%96%A4%E5%A4%A7%E9%B1%BC",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，安徽滁州，暴雨后河道发洪水，一位大爷拿鱼叉刚到河边就精准叉中一条十斤米级翘嘴。拍摄者称，这是在水库上游河道，下大雨发洪水后大鱼游上去甩籽，当时看见大爷拿鱼叉过来也没见过这种捕鱼方式，就随手拍了下来。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -592,29 +504,51 @@
       "category": "general",
       "summary": "近日，上海市市场监管局发布公告，上海柚家科技有限公司召回旗下1500件柚家厨房纸巾，因为该批次纸巾丙烯酰胺含量过高，可能对消费者的身体健康造成伤害，消费者应立即停止使用。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "3c4607f11d0a",
-      "title": "歌手毕夏首谈丈夫张恒远离世",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%AF%95%E5%A4%8F%E9%A6%96%E8%B0%88%E4%B8%88%E5%A4%AB%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96",
+      "id": "fdf633abd58c",
+      "title": "笔试前13名全淘汰 倒数5名全逆袭",
+      "url": "https://www.baidu.com/s?wd=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，毕夏在访谈中首次谈及丈夫张恒远离世，称看着他一点点枯萎下去：“我说，老公，你已经很棒了。就轻轻摸摸他的头，抓着他的手，说，如果你太疼、实在太遭罪的话，你就走吧。最后的最后，他只留了一滴泪给我。”2023年6月，张恒远因黑色素瘤病逝，年仅36岁。",
+      "summary": "近日，“佛山市季华中学物理教师岗位公开招聘中笔试成绩前13名全部落选，后5名全部进入体检名单”等相关情况，引起社会各界关注。19日，佛山市联合调查组发布情况通报，此次招聘存在将考生毕业院校知名度作为重要筛选条件、内部评议等违规行为，已进行追责。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "6bb78f1f272e",
-      "title": "44岁Selina接娃放学大变样",
-      "url": "https://www.baidu.com/s?wd=44%E5%B2%81Selina%E6%8E%A5%E5%A8%83%E6%94%BE%E5%AD%A6%E5%A4%A7%E5%8F%98%E6%A0%B7",
+      "id": "1e2b02e92cb4",
+      "title": "石家庄居民楼坍塌致3死",
+      "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B1%85%E6%B0%91%E6%A5%BC%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB",
       "source": "baidu",
       "category": "general",
-      "summary": "44岁Selina近况曝光！近日，台媒目击Selina与圈外男友接儿子放学，一家三口互动十分温馨，Selina穿着简单，丝毫无明星架子，身材发福大变样。",
+      "summary": "河北省石家庄市新华区应急管理局发布情况通报 ：2026年8月19日5时42分，新华区某小区一四层居民楼一个单元的两户房屋发生部分坍塌。截至目前，现场搜救工作已结束，被困人员已救出。两户房屋共有住户4人，其中3人经送医抢救无效死亡，1人正在全力救治，生命体征平稳。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "10e3dbf8e366",
+      "title": "暴雨后大爷拿鱼叉抓鱼叉中十斤大鱼",
+      "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%A4%A7%E7%88%B7%E6%8B%BF%E9%B1%BC%E5%8F%89%E6%8A%93%E9%B1%BC%E5%8F%89%E4%B8%AD%E5%8D%81%E6%96%A4%E5%A4%A7%E9%B1%BC",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，安徽滁州，暴雨后河道发洪水，一位大爷拿鱼叉刚到河边就精准叉中一条十斤米级翘嘴。拍摄者称，这是在水库上游河道，下大雨发洪水后大鱼游上去甩籽，当时看见大爷拿鱼叉过来也没见过这种捕鱼方式，就随手拍了下来。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "5fa906b6ff22",
+      "title": "“价格屠夫”梁文锋“收刀”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月17日，DeepSeek的最新涨价方案正式落地。事实上，在此次涨价之前，DeepSeek一直被外界视为大模型行业的“价格屠夫”。有分析认为，此次DeepSeek一反常态涨价，或与当前算力资源日益紧张的情况有关。而DeepSeek的价格转向，也标志着国产大模型正由价格竞争回归价值竞争。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,7 +559,18 @@
       "category": "general",
       "summary": "8月19日晚，总台七夕晚会，任贤齐温柔献唱《我是一只鱼》，用熟悉的旋律把相守相伴唱进心里。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "97b152aae683",
+      "title": "“台风吹落风力发电机的桨叶”不实",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%90%BD%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA%E7%9A%84%E6%A1%A8%E5%8F%B6%E2%80%9D%E4%B8%8D%E5%AE%9E",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，有网民称：“台风将风力发电机桨叶吹掉”，引发关注。经当地部门核实，系风电场自行拆除风机，并非台风吹落桨叶，网传内容不实。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,31 +581,86 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "58b8677802e3",
-      "title": "博格巴巅峰身价1亿如今剩250万",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E6%A0%BC%E5%B7%B4%E5%B7%85%E5%B3%B0%E8%BA%AB%E4%BB%B71%E4%BA%BF%E5%A6%82%E4%BB%8A%E5%89%A9250%E4%B8%87",
+      "id": "38e46038234e",
+      "title": "明星七夕节集体秀恩爱",
+      "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%83%E5%A4%95%E8%8A%82%E9%9B%86%E4%BD%93%E7%A7%80%E6%81%A9%E7%88%B1",
       "source": "baidu",
       "category": "general",
-      "summary": "北京时间8月19日，法甲球队摩纳哥官方宣布，博格巴与球队解约。加盟仅1年，博格巴就离开摩纳哥，留下6次出场总计115分钟、0球0助攻的数据。33岁的博格巴再次无球可踢，令人唏嘘。最近四年，博格巴的身价从巅峰的1亿欧元，跌至目前的250万欧元。",
+      "summary": "8月19日七夕节，不少明星纷纷秀恩爱，杜海涛沈梦辰甜蜜约会，金莎孙丞潇搞怪互动，“狗粮”多到吃不完。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "652cf785bc27",
-      "title": "5万以下的燃油车 正在被遗忘",
-      "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98",
+      "id": "3c4607f11d0a",
+      "title": "歌手毕夏首谈丈夫张恒远离世",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%AF%95%E5%A4%8F%E9%A6%96%E8%B0%88%E4%B8%88%E5%A4%AB%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96",
       "source": "baidu",
       "category": "general",
-      "summary": "曾经，5万元以下的小车是很多中国家庭的第一辆车。这类微型燃油车，价格低、养车便宜、停车方便，未必有多少舒适性和驾驶质感，却足够完成“从无车到有车”的跨越。数据显示，2026年上半年，5万元以下车型累计销量仅约13万辆，同比下滑55%，卖不动的并不只是低价燃油车，而是整个5万元以下的新车市场。",
+      "summary": "近日，毕夏在访谈中首次谈及丈夫张恒远离世，称看着他一点点枯萎下去：“我说，老公，你已经很棒了。就轻轻摸摸他的头，抓着他的手，说，如果你太疼、实在太遭罪的话，你就走吧。最后的最后，他只留了一滴泪给我。”2023年6月，张恒远因黑色素瘤病逝，年仅36岁。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T13:11:47.639Z",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "c8707fcc7b7a",
+      "title": "美股三大指数高开 SK海力士涨近5%",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%BF%915%25",
+      "source": "baidu",
+      "category": "business",
+      "summary": "8月19日，美股三大指数集体高开，道琼斯指数涨0.37%，标普500指数涨0.41%，纳斯达克综合指数涨0.36%。医药股大涨，BioNTech SE涨超17%，默沙东涨超8%，诺瓦瓦克斯医药涨超6%。SK海力士涨近5%。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "f9bb6be6dbee",
+      "title": "女孩买空座放零食 大姐想坐遭拒",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B9%B0%E7%A9%BA%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F+%E5%A4%A7%E5%A7%90%E6%83%B3%E5%9D%90%E9%81%AD%E6%8B%92",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，两名女孩在高铁上购买同一排三张连座票，其中一张专门放置零食。一位持站票的大姐请求就座遭拒后联系乘务员，工作人员核实车票后表示‌座位使用权归购票者所有‌，需双方自行协商。‌‌",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "76d9a96d5c57",
+      "title": "金莎再唱《星月神话》",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E8%8E%8E%E5%86%8D%E5%94%B1%E3%80%8A%E6%98%9F%E6%9C%88%E7%A5%9E%E8%AF%9D%E3%80%8B",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月19日，总台七夕晚会现场，金莎再唱《星月神话》。舞台上，古韵新意相融相生，流转的光影伴着歌声，续写古往今来不变的浪漫爱意。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "ad5485baacf8",
+      "title": "何炅因年龄大被密室拒绝",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%A4%A7%E8%A2%AB%E5%AF%86%E5%AE%A4%E6%8B%92%E7%BB%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，何炅在一档综艺中分享有趣经历。他坦言自己从未玩过剧本杀，密室体验过几次，后来却被场馆拒之门外。何炅透露限制原因：不少密室门店规定45岁以上不能入场。“我觉得不应该，要是我去玩，实在不行我当场做18个蹲起！”",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a91b5ba22d03",
+      "title": "“AI剧像喂猪一样 实在吃不下了”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E5%89%A7%E5%83%8F%E5%96%82%E7%8C%AA%E4%B8%80%E6%A0%B7+%E5%AE%9E%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%E2%80%9D",
+      "source": "baidu",
+      "category": "ai",
+      "summary": "如今AI短剧彻底爆火，占据全网短剧大半份额，靠着低成本批量流水线疯狂产出。这类AI内容质感粗糙、毫无真情实感，被网友吐槽像 “喂猪的廉价饲料”，满是塑料味。AI内容泛滥挤压真人创作空间，市场逐渐两极分化：劣质AI内容满天飞，走心的真人精品反倒越来越稀缺。目前各地已出台规范管控AI内容，但AI席卷文娱已是大势所趋。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T14:00:31.174Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-19T13:11:49.898Z"
+  "generatedAt": "2026-08-19T14:00:31.946Z"
 }
