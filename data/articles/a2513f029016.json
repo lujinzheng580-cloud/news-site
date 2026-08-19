@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 19 日消息，据 Windows Latest 今日报道，微软正逐步削弱 Windows 经典媒体播放器 Windows Media Player 的功能。\n\nWindows 观察人士 Xeno Panther 发现，在 Win11 最新实验版中，旧版播放器的字幕控制选项已被阉割，用户尝试启用字幕时会被提示转向新版播放器。\n\n此次变化出现在 Windows 11 Experimental（Future Platforms）Build 29648.1000 中。\n\n在旧版媒体播放器中，如果你右击正在播放的内容，并将鼠标悬停在“歌词、字幕”和“副标题”上，则会出现三个选项“关闭”、“可用时打开”和“默认设置”，如今仅剩“可用时打开”。\n\n进一步尝试开启字幕后，播放器会弹出提示，称无法在 Windows Media Player 中启用字幕，并要求用户转向新版 Windows Media Player。\n\n微软目前没有将这一变化列入正式的 Media Player 更新说明，因此现阶段更适合视为实验性版本中的功能调整。\n\n同时，Windows Insider 的 Experimental（Future Platforms）版本本身也属于早期测试版本，其中部分功能可能最终不会进入正式版。\n\n微软实际上已经在新版 Media Player 中持续完善字幕功能。2026 年 6 月发布的 Media Player 11.2605.14.0 更新增加了自定义字幕功能，用户可以根据 Windows 的字幕设置调整字幕样式，同时能够直接从播放器进入相关系统设置。\n\n目前 Win11 仍可保留旧版 Windows Media Player，但微软将其定位为可选功能，并针对现代视频功能推荐使用新版 Media Player。\n\n微软官方支持页面显示，Windows 11 用户仍可通过“可选功能”安装 Windows Media Player，而对于 4K 等现代视频功能，微软推荐使用新版 Media Player。\n\n不过，新版播放器与旧版播放器之间仍存在一定差异。测试显示，旧版播放器启动视频的速度更快。此外，新版 Media Player 空闲状态下占用约 377 MB 内存，而旧版播放器仅为 103.4 MB，前者约为后者的 3.6 倍。\n\n另外，编解码器支持也是两者之间的主要区别之一。旧版 Media Player 可以直接播放 HEVC 视频，而新版 Media Player 还需要额外购买并安装 HEVC 视频拓展插件（或离线安装）。微软官方文档也说明，当媒体文件需要用户未安装的编解码器时，Media Player 会显示相应提示。\n\nIT之家注意到，旧版 Media Player 还保留了传统媒体库以及音频 CD 刻录等功能。与此同时，微软已经逐步减少对旧版播放器的维护，此前其用于向兼容设备同步音乐的“Sync”选项也已经消失。\n\n《微软更新 Win11 版计算器、记事本、时钟和媒体播放器应用》",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-19T16:05:07.364Z",
+    "publishedAt": "2026-08-19T16:49:01.067Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
