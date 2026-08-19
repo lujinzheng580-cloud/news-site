@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 19 日消息，科技媒体 phoronix 昨日（8 月 18 日）发布博文，报道称 Mesa 26.3-devel 已合并新补丁，通过为 DXVK 启用缓冲区压缩，部分游戏性能提升超过 5%。\n\nMesa 在 26.3-devel 中合并相关改进，为 ANV（英特尔开源 Vulkan 驱动）启用缓冲区压缩。该改动面向 DXVK（基于 Vulkan 的 Direct3D 转换层），覆盖通过 Vulkan 运行的 Direct3D 8、9、10、11 游戏，主要适用于 Valve 的 Steam Play。\n\nIT之家援引补丁内容，Intel Arc Battlemage 搭配 DXVK 运行《古墓丽影：暗影》时，性能提升 5.26%；运行《全面战争：战锤 3》时提升 4.6%；运行《全面战争：法老》时提升 2%。\n\n在 Intel Xe3 Panther Lake 平台上，《古墓丽影：暗影》性能提升 4.8%，《全面战争》系列游戏的提升幅度约为 2%。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-19T04:01:27.715Z",
+    "publishedAt": "2026-08-19T04:54:20.423Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
