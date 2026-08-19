@@ -2,336 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "63b4aa8fee0b",
-      "title": "Anthropic 推出 AI 文本水印后，各类去水印工具开始涌现",
-      "url": "https://www.ithome.com/0/991/384.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.301Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b7ee140d0eac",
-      "title": "苹果 tvOS 27 应用列表新增 Siri 条目，Apple TV 4K 将整合 Siri AI",
-      "url": "https://www.ithome.com/0/991/385.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.301Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0e5b5e865763",
-      "title": "通用汽车向维修机构发布新规：只能用全新原厂零部件修理车辆辅助驾驶系统",
-      "url": "https://www.ithome.com/0/991/386.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.301Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "17185ca6287f",
-      "title": "入侵 Hugging Face 事件后，OpenAI 放缓模型训练并加强安全监控",
-      "url": "https://www.ithome.com/0/991/387.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.300Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7f00f34f949e",
-      "title": "占比约 41%：苹果 Safari 26.6.1 修复 22 个漏洞，9 个通过 OpenAI Codex Security 发现",
-      "url": "https://www.ithome.com/0/991/388.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.300Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8d1c4585d344",
-      "title": "谷歌安卓开发者验证计划逐步落地，“高级绕过”模式首个版本开启分阶段推送",
-      "url": "https://www.ithome.com/0/991/389.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.300Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1db864b376f2",
-      "title": "欧洲央行警告 AI 投资过热：泡沫一旦破裂或冲击全球经济",
-      "url": "https://www.ithome.com/0/991/390.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.300Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2fdc9b0a71be",
-      "title": "开发者成功为 reMarkable Paper Pro 墨水屏电纸书刷入安卓 13，实现与原版 Linux 系统共存",
-      "url": "https://www.ithome.com/0/991/391.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.299Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a64112adc7d0",
-      "title": "特斯拉车主亲自动手：HW3 升级 HW4 硬件其实并不难",
-      "url": "https://www.ithome.com/0/991/392.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.299Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "089926fac502",
-      "title": "影响约 2 小时，苹果今天解决查找、照片、iCloud 日历等 9 项服务问题",
-      "url": "https://www.ithome.com/0/991/393.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.299Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ed5e57263f64",
-      "title": "数毛社评任天堂 Switch 2 版《上古卷轴 4：湮灭重制版》：锁 30 帧、某些场景画质比 XBOX Series S 好",
-      "url": "https://www.ithome.com/0/991/394.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.299Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7fe89eee4df9",
-      "title": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
-      "url": "https://www.ithome.com/0/991/395.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.299Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1d2fe036f7e7",
-      "title": "过去一年内 RAM 内存条套装涨幅惊人，部分 DDR5 产品涨幅超 800%",
-      "url": "https://www.ithome.com/0/991/396.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.298Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "05a7f23a1b0d",
-      "title": "小米推出“米家智能宠物饮水机 2 除菌版”：3L 储水容量、99% 除菌率，199 元",
-      "url": "https://www.ithome.com/0/991/397.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.298Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f824f8cd5204",
-      "title": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
-      "url": "https://www.ithome.com/0/991/398.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.298Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "dadb3806a407",
-      "title": "历经 24 天海上拖拽，SpaceX 星舰 40 号飞船抵达圣诞岛近海",
-      "url": "https://www.ithome.com/0/991/399.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.298Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c698ad171562",
-      "title": "报告称 2026 苹果 App Store 在美国佣金收入同比下降 18%",
-      "url": "https://www.ithome.com/0/991/400.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.298Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3eb348aa5ae1",
-      "title": "小米推出“米家智能吸油烟机 3 顶侧双吸”：至高 30 m³/min 吸力、防跑烟设计，2469 元",
-      "url": "https://www.ithome.com/0/991/401.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.297Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "02c8481fbf9b",
-      "title": "阿莫迪仅持股约 2%，消息称 Anthropic 计划授予创始人额外投票权",
-      "url": "https://www.ithome.com/0/991/402.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.297Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d979e84fc6f9",
-      "title": "雷神推出 ZERO98 机械键盘：1KHz 回报率、提供静音轴体可选，299 元",
-      "url": "https://www.ithome.com/0/991/403.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.297Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "376aada6e486",
-      "title": "AI 辅助撰写提案涌入美国国会：充斥细节错误，拖慢审核进度",
-      "url": "https://www.ithome.com/0/991/404.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.297Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "32211de9bafd",
-      "title": "零零科技 HOVERAir VERSA 无人机发布：模块化设计、可作为三轴云台相机使用，套装价 4570 港币起",
-      "url": "https://www.ithome.com/0/991/405.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.297Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7306717abaaf",
-      "title": "外媒用 Codex AI 开发 macOS 27 工具，提高菜单栏电量可读性",
-      "url": "https://www.ithome.com/0/991/407.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.296Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a51773122cc3",
-      "title": "神舟推出 2026 款战神 T7 笔记本电脑：i5-14450HX + RTX5050 规格售 6999 元",
-      "url": "https://www.ithome.com/0/991/408.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.296Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5aba7ffa7685",
-      "title": "联力 B4-mATX 机箱铁网版上架：支持 140mm ATX 电源、可选黑白双色，449 元起",
-      "url": "https://www.ithome.com/0/991/409.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.296Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2628ff0e63d1",
-      "title": "115 网盘上线 2026 年七夕限定活动：2999 元长期 VIP 套餐回归，但不再附赠存储空间",
-      "url": "https://www.ithome.com/0/991/410.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.295Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "124fbc6a6b70",
-      "title": "蓝箭航天：计划在半年内实施朱雀三号回收箭体复飞",
-      "url": "https://www.ithome.com/0/991/411.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.295Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b607ab29a1f5",
-      "title": "火狐 Firefox 154 发布：支持英伟达 GeForce NOW、可切换浏览器图标",
-      "url": "https://www.ithome.com/0/991/412.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.295Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "08b6655ee27e",
-      "title": "OpenAI 二季度营收 67 亿美元环比增 18%，被 Anthropic 营收反超且亏损持续扩大",
-      "url": "https://www.ithome.com/0/991/414.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.295Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e99c21b02262",
-      "title": "小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术",
-      "url": "https://www.ithome.com/0/991/415.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.294Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "0757b98a8f8f",
       "title": "微软 Win11 拟增强隐私控制：可细分控制 Win32 应用权限",
       "url": "https://www.ithome.com/0/991/416.htm",
@@ -339,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.294Z",
+      "publishedAt": "2026-08-19T03:04:50.784Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.294Z",
+      "publishedAt": "2026-08-19T03:04:50.784Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +31,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.294Z",
+      "publishedAt": "2026-08-19T03:04:50.784Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +42,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.293Z",
+      "publishedAt": "2026-08-19T03:04:50.783Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bf35873b2c17",
+      "title": "Steam 客户端 Beta / 预览版更新发布：修复游戏卸载后下载队列仍然残留的问题",
+      "url": "https://www.ithome.com/0/991/422.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.783Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +64,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.293Z",
+      "publishedAt": "2026-08-19T03:04:50.783Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.293Z",
+      "publishedAt": "2026-08-19T03:04:50.783Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.292Z",
+      "publishedAt": "2026-08-19T03:04:50.782Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +97,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.292Z",
+      "publishedAt": "2026-08-19T03:04:50.782Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +108,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.292Z",
+      "publishedAt": "2026-08-19T03:04:50.782Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.291Z",
+      "publishedAt": "2026-08-19T03:04:50.782Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.291Z",
+      "publishedAt": "2026-08-19T03:04:50.782Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.291Z",
+      "publishedAt": "2026-08-19T03:04:50.781Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +152,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.290Z",
+      "publishedAt": "2026-08-19T03:04:50.781Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.290Z",
+      "publishedAt": "2026-08-19T03:04:50.781Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +174,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.289Z",
+      "publishedAt": "2026-08-19T03:04:50.781Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,8 +185,316 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:10.289Z",
+      "publishedAt": "2026-08-19T03:04:50.780Z",
       "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "82ed7b0423b7",
+      "title": "因隐私担忧，美国移民与海关执法局禁止员工佩戴 Meta 智能眼镜",
+      "url": "https://www.ithome.com/0/991/437.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.780Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bf997fae859d",
+      "title": "三星最强平板 Galaxy Tab S12 Ultra 渲染图曝光：天玑 9500 芯片",
+      "url": "https://www.ithome.com/0/991/439.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.780Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a9a35be8728c",
+      "title": "国内首款塔架回收火箭，跃迁一号二级机架与贮箱后底联合静力试验成功",
+      "url": "https://www.ithome.com/0/991/440.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.780Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6ba82386aef4",
+      "title": "HMD 诺基亚 125 4G 2nd Edition 功能机曝光：2.4 英寸面板、30 万像素前后摄像头",
+      "url": "https://www.ithome.com/0/991/441.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.780Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "018824841697",
+      "title": "Win11 学院：如何在 Windows 11 26340.9212 预览版启用深色 AutoPlay 界面",
+      "url": "https://www.ithome.com/0/991/442.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.779Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2f9bbebd95ec",
+      "title": "宇树科技王兴兴身家超千亿元，成 90 后新首富",
+      "url": "https://www.ithome.com/0/991/443.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.779Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c2507dda2b9e",
+      "title": "小米 Xiaomi 蓝牙音箱磁吸版发售：重约 95g、可当手机支架，132 元",
+      "url": "https://www.ithome.com/0/991/445.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.779Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "85c56d7cfc29",
+      "title": "奇瑞全新艾瑞泽 7 官图发布，将于 8 月 21 日成都车展亮相",
+      "url": "https://www.ithome.com/0/991/446.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.779Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9945bee4ed7a",
+      "title": "小米米家轻享保温杯 2 开售：316L 不锈钢内胆，89 元",
+      "url": "https://www.ithome.com/0/991/447.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.778Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "81b54cf2ee2c",
+      "title": "消息称一加 16 首发新一代东方屏，行业首个支持全局 165Hz 超高刷",
+      "url": "https://www.ithome.com/0/991/449.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.778Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "33561e66cb2d",
+      "title": "华硕 PRO WS W890-SAGE 工作站主板国行上架，8999 元",
+      "url": "https://www.ithome.com/0/991/450.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.778Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1c06b681a61d",
+      "title": "罗技 G PRO X3 SUPERSTRIKE 鼠标泄露：HERO 2 48K 传感器，续航 +50%",
+      "url": "https://www.ithome.com/0/991/451.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.778Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0fd492a70d01",
+      "title": "Mesa 26.3 合并英特尔图形优化，《古墓丽影：暗影》游戏性能提升 5.26%",
+      "url": "https://www.ithome.com/0/991/453.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.777Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0f152f5f1a9d",
+      "title": "顺丰全新推出“顺丰即日”、“顺丰次晨”、“顺丰次日”快递服务，承诺超时即赔",
+      "url": "https://www.ithome.com/0/991/455.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.777Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c1f958040f10",
+      "title": "黑客组织 Cyberleek 曝光《GTA6》完整地图平面图，抗议游戏行业商业化套路",
+      "url": "https://www.ithome.com/0/991/456.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.777Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "95808b86e188",
+      "title": "be quiet! 发布 Dark Power Pro 14 IO 钛金数字电源，至高 1600W",
+      "url": "https://www.ithome.com/0/991/457.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.776Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "074d1eed4901",
+      "title": "雷神猎刃 60 游戏手柄 8 月 25 日预售，支持有线＋2.4G 双模 8KHz 轮询率",
+      "url": "https://www.ithome.com/0/991/459.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.776Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "26005d998a74",
+      "title": "每页给 6 美元，AI 公司 Handshake AI 高价收购工作文档",
+      "url": "https://www.ithome.com/0/991/464.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.776Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7c01e6126409",
+      "title": "OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题",
+      "url": "https://www.ithome.com/0/991/469.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.775Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e6d0eeaf1ddd",
+      "title": "蓝箭航天朱雀三号总指挥戴政披露遥一回收失败原因：着陆点火出现异常燃烧，坠落在着陆场坪边缘",
+      "url": "https://www.ithome.com/0/991/478.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.775Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a585b1eb49bd",
+      "title": "“AI 换脸”色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
+      "url": "https://www.ithome.com/0/991/482.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.775Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5db88f2c1d3e",
+      "title": "磐镭预告 WO5 304 \"Wildcat Lake\" 迷你主机：板载内存，双 M.2 SSD 槽",
+      "url": "https://www.ithome.com/0/991/484.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.774Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c9656fbb2b33",
+      "title": "Anthropic 预告 Claude Code 将整合 /design 命令",
+      "url": "https://www.ithome.com/0/991/488.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.774Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9a9a6edb8c22",
+      "title": "小米智能摄像机视频通话版 2 单机上架：3.97 英寸彩屏，众筹价 429 元",
+      "url": "https://www.ithome.com/0/991/501.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.773Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9f7c2e68e9fc",
+      "title": "2027 款广汽丰田凯美瑞上市：智能座舱大升级、小米生态接口，权益价 13.18 万起",
+      "url": "https://www.ithome.com/0/991/517.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.773Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bfcdbbaf3040",
+      "title": "前顽皮狗开发者透露初代《神秘海域》游戏设置“动态难度系统”原因：防止玩家过快通关",
+      "url": "https://www.ithome.com/0/991/518.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:50.772Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cb6b31f331dd",
+      "title": "王兴兴 90后新首富",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4+90%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月19日，宇树科技登陆科创板正式挂牌交易，开盘涨超500%，市值超3500亿元。宇树科技董事长王兴兴直接与间接合计持有公司股份比例约在30%上下，所持市值超千亿元，拿下“90后”首富称号。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "e0ea69f14d29",
+      "title": "蒙古不法分子擅闯中资营地侮辱员工",
+      "url": "https://www.baidu.com/s?wd=%E8%92%99%E5%8F%A4%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90%E6%93%85%E9%97%AF%E4%B8%AD%E8%B5%84%E8%90%A5%E5%9C%B0%E4%BE%AE%E8%BE%B1%E5%91%98%E5%B7%A5",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月14日，蒙古国苏赫巴托尔省不法分子擅闯中资“丰森能源”石油勘探营地，限制员工自由、破坏财物并公然侮辱中方员工。中国驻蒙使馆临时代办曹利8月18日约见蒙工矿部国务秘书，严正交涉，要求严惩肇事者。目前蒙方已拘留滋事人员并立案调查，承诺保障中资企业合法权益。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
+      "tags": "[\"baidu\"]"
     },
     {
       "id": "fb7ffb840e2c",
@@ -515,29 +504,29 @@
       "category": "general",
       "summary": "8月19日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "d4bb30e31940",
-      "title": "宇树科技高开629% 总市值达4449亿",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%AB%98%E5%BC%80629%25+%E6%80%BB%E5%B8%82%E5%80%BC%E8%BE%BE4449%E4%BA%BF",
+      "id": "fbe718992ebb",
+      "title": "胖东来招聘不包含性侵犯罪人员",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%8C%85%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "近日，胖东来针对“无门槛招聘刑满释放人员”作出澄清。胖东来表示，并非无门槛接纳，明确排除性侵、严重暴力等恶性犯罪前科人员，且刑释人员需与其他应聘者走完全相同的报名面试流程，并设置6个月的双向选择试用期。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "704c814b065a",
-      "title": "事关住房公积金 有这些新变化",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91+%E6%9C%89%E8%BF%99%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96",
+      "id": "a6cf47d3dc7d",
+      "title": "武磊发文寻人",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E7%A3%8A%E5%8F%91%E6%96%87%E5%AF%BB%E4%BA%BA",
       "source": "baidu",
       "category": "general",
-      "summary": "8月18日，国务院公布《国务院关于修改〈住房公积金管理条例〉的决定》，自2026年9月20日起施行。《决定》共20条，主要规定了以下内容。",
+      "summary": "引发热议！近日，申花球迷围攻穿武磊国家队球衣小球迷，武磊官博发文寻人。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -548,29 +537,7 @@
       "category": "general",
       "summary": "记者19日从四川省长宁县应急管理局获悉，8月18日17时30分许，长宁县硐底镇新堡村一村民在家中院坝为子女举办升学宴，因临时搭建的雨棚积水过多，绳索拉力过大，导致用于固定雨棚的一楼房顶女儿墙墙体倒塌，造成3人现场死亡，2人送医后抢救无效死亡，另有17名伤者正在医院接受治疗。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "aab967e1ed55",
-      "title": "朱雀三号遥一失败原因披露",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E9%81%A5%E4%B8%80%E5%A4%B1%E8%B4%A5%E5%8E%9F%E5%9B%A0%E6%8A%AB%E9%9C%B2",
-      "source": "baidu",
-      "category": "general",
-      "summary": "在朱雀三号遥二发射之前，记者在它的总装厂房采访了蓝箭航天朱雀三号总指挥戴政，他向记者独家披露了朱雀三号遥一回收失败的原因，一起来了解。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "11f558d35dff",
-      "title": "金枕榴莲也进入9.9元时代了",
-      "url": "https://www.baidu.com/s?wd=%E9%87%91%E6%9E%95%E6%A6%B4%E8%8E%B2%E4%B9%9F%E8%BF%9B%E5%85%A59.9%E5%85%83%E6%97%B6%E4%BB%A3%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "今年夏天，金枕榴莲价格大幅下跌，多地零售价跌至19.9元/斤附近，部分水果摊甚至挂出9.9元/斤的价格。原因在于：18-20年中国榴莲消费爆发，东南亚掀起种植热潮，如今当年栽种的榴莲树集中挂果，供应量大增；同时中老泰全铁冷链班列常态化使运输时间从5-7天缩短至2-3天，损耗率从30%降至3%以内，物流成本下降。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,40 +548,40 @@
       "category": "general",
       "summary": "古人的情话能有多浪漫？“愿得一心人，白头不相离”“金风玉露一相逢，便胜却人间无数”……送你一组浪漫爱情诗句壁纸，祝福七夕快乐！",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "b1da459ae3a8",
-      "title": "微信开放520大额红包 限时一天",
-      "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%BC%80%E6%94%BE520%E5%A4%A7%E9%A2%9D%E7%BA%A2%E5%8C%85+%E9%99%90%E6%97%B6%E4%B8%80%E5%A4%A9",
+      "id": "5c895f65eafa",
+      "title": "宇树科技股价",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%B7",
       "source": "baidu",
-      "category": "general",
-      "summary": "8月19日是中国民间传统节日七夕节，记者查询发现，微信同往年一样将个人红包的限额从200元提升至520元，限时一天。",
+      "category": "business",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "e821d12173a6",
-      "title": "医生的一天有多忙",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E7%9A%84%E4%B8%80%E5%A4%A9%E6%9C%89%E5%A4%9A%E5%BF%99",
+      "id": "11f558d35dff",
+      "title": "金枕榴莲也进入9.9元时代了",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E6%9E%95%E6%A6%B4%E8%8E%B2%E4%B9%9F%E8%BF%9B%E5%85%A59.9%E5%85%83%E6%97%B6%E4%BB%A3%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "世人总说，一天有24小时。但对医生来说，一天似乎总不够用。带您探寻医生的真实生活！",
+      "summary": "今年夏天，金枕榴莲价格大幅下跌，多地零售价跌至19.9元/斤附近，部分水果摊甚至挂出9.9元/斤的价格。原因在于：18-20年中国榴莲消费爆发，东南亚掀起种植热潮，如今当年栽种的榴莲树集中挂果，供应量大增；同时中老泰全铁冷链班列常态化使运输时间从5-7天缩短至2-3天，损耗率从30%降至3%以内，物流成本下降。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "856acae50456",
-      "title": "医生：泡面不健康不是因为防腐剂",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%B3%A1%E9%9D%A2%E4%B8%8D%E5%81%A5%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%98%B2%E8%85%90%E5%89%82",
+      "id": "b79c11cc7569",
+      "title": "七夕",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95",
       "source": "baidu",
       "category": "general",
-      "summary": "别再误会方便面了，真正的隐患根本不是防腐剂。不少人觉得方便面是垃圾食品，其实问题不在于防腐剂，也不是单纯热量高。医生提醒，方便面最大隐患是钠严重超标，一包泡面盐分已经远超每日适宜摄入量，很多人还喜欢搭配火腿肠，双重叠加，钠直接严重超标。长期摄入过多盐分，加重血管肾脏负担。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,29 +592,7 @@
       "category": "general",
       "summary": "指尖轻点屏幕，碎片化信息流裹挟着真假讯息扑面而来，一段截图、一条短视频、一则匿名爆料，都能轻易左右大众判断。这是当下网络舆论最真实的写照。虚假信息扰乱公共舆论，误导大众判断，消解理性思考，人人主动提升信息辨伪素养，守住客观求真底线，是清朗网络空间的共同追求。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8e540e31aefb",
-      "title": "章子怡到手3个亿 不是通过演戏",
-      "url": "https://www.baidu.com/s?wd=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%88%B0%E6%89%8B3%E4%B8%AA%E4%BA%BF+%E4%B8%8D%E6%98%AF%E9%80%9A%E8%BF%87%E6%BC%94%E6%88%8F",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月11日，港股上市公司上美股份发布公告，其全资附属公司上海青道将从共青城大脚投资合伙企业处，收购婴童护肤品牌“newpage一页”母公司上海怡页23%的股权。该有限合伙由章子怡出资99%、其父章元孝出资1%设立，章子怡2022年首次持股上海怡页时认缴出资仅290万元，4年时间这笔数百万的投资直接套现超3亿元。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "764ec0ca0ef1",
-      "title": "75岁王石开健身房 每小时最高308元",
-      "url": "https://www.baidu.com/s?wd=75%E5%B2%81%E7%8E%8B%E7%9F%B3%E5%BC%80%E5%81%A5%E8%BA%AB%E6%88%BF+%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%9C%80%E9%AB%98308%E5%85%83",
-      "source": "baidu",
-      "category": "general",
-      "summary": "2026年5月，75岁的王石在深圳大梅沙开设“顽石”HYROX训练馆，正式入局大众健身消费市场。据悉，王石开办的顽石训练馆自由训练收费108元/时，教练1对1带训收费308元/时。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +603,64 @@
       "category": "general",
       "summary": "祈福生活服务2026年1月高位清仓21.15吨银条赚2.47亿后，仅十余天再高位买入金银。2-6月投入3.55亿港元，受金银价格回调影响，上半年贵金属公允价值亏损8340万元，贵金属投资净亏损3900万元，拖累公司业绩由盈转亏，预计亏损240万至440万元。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T01:55:11.128Z",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "4e2b21b131e9",
+      "title": "村民讲述四川致5死升学宴事故原因",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E8%AE%B2%E8%BF%B0%E5%9B%9B%E5%B7%9D%E8%87%B45%E6%AD%BB%E5%8D%87%E5%AD%A6%E5%AE%B4%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月18日下午5时30分许，四川宜宾长宁县硐底镇新堡村一村民为子女举办升学宴时发生意外。据村民讲述，因遇雨水天气，临时搭建的防水彩棚积水过多，用于固定棚布的楼顶女儿墙（挡水墙）被绳索拉垮，砖石坠落致多人伤亡。长宁县应急管理局通报确认，事故共造成3人当场死亡、2人送医抢救无效死亡，17人受伤。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "8e540e31aefb",
+      "title": "章子怡到手3个亿 不是通过演戏",
+      "url": "https://www.baidu.com/s?wd=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%88%B0%E6%89%8B3%E4%B8%AA%E4%BA%BF+%E4%B8%8D%E6%98%AF%E9%80%9A%E8%BF%87%E6%BC%94%E6%88%8F",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月11日，港股上市公司上美股份发布公告，其全资附属公司上海青道将从共青城大脚投资合伙企业处，收购婴童护肤品牌“newpage一页”母公司上海怡页23%的股权。该有限合伙由章子怡出资99%、其父章元孝出资1%设立，章子怡2022年首次持股上海怡页时认缴出资仅290万元，4年时间这笔数百万的投资直接套现超3亿元。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "83ac1a65e69d",
+      "title": "朱雀三号火箭回收技术有多难",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%8A%80%E6%9C%AF%E6%9C%89%E5%A4%9A%E9%9A%BE",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月19日，朱雀三号重复使用运载火箭在东风商业航天创新试验区发射升空，在甘肃民勤成功实现回收目标，成为中国第一枚实施轨道级一级回收的民营火箭。火箭回收技术有多难？朱雀三号总指挥戴政给记者打了一个比喻，“你站在10层楼高的楼顶，地面上放了一个笔筒，在楼顶往那个笔筒扔出一支笔，要控制好速度和位置。”",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "8a4662c722d2",
+      "title": "男子体验瀑降被困半空 住进精神科",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%93%E9%AA%8C%E7%80%91%E9%99%8D%E8%A2%AB%E5%9B%B0%E5%8D%8A%E7%A9%BA+%E4%BD%8F%E8%BF%9B%E7%B2%BE%E7%A5%9E%E7%A7%91",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月15日，河南一男子在体验瀑降项目时被困半空，事后住进精神科。日前，涉事公司回应：该线路已暂停带团，愿就赔偿事宜与当事人协商。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "dcc44a5ced12",
+      "title": "多视角看中国重复使用火箭陆地回收",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月19日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。一起多视角看重复使用火箭陆地回收。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T03:04:51.092Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-19T01:55:14.521Z"
+  "generatedAt": "2026-08-19T03:04:52.317Z"
 }
