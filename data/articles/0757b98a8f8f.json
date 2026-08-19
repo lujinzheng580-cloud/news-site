@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "0757b98a8f8f",
+    "title": "微软 Win11 拟增强隐私控制：可细分控制 Win32 应用权限",
+    "url": "https://www.ithome.com/0/991/416.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/991/416.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 19 日消息，科技媒体 NeoWin 昨日（8 月 18 日）发布博文，报道称在 Experimental 通道 Windows 11 预览版 Build 26340.9212 中，微软计划细分 Win32 应用权限。\n\n该媒体指出在 Windows 11 Build 26340.9212 预览版中，微软已邀请部分 Windows Insider 项目成员，在隐私设置中单独撤销某个 Win32 应用的访问权限。\n\n类似于手机端设置，用户可以针对不同应用程序，细分关闭摄像头、麦克风、位置和语音唤醒等权限。\n\nIT之家援引博文介绍，在现有 Windows 11 系统中，用户可以细分管理通过 Microsoft Store 安装的应用程序权限，但对于传统桌面应用程序，微软归入同一个权限开关。\n\n例如，用户想让 Discord 使用麦克风，就必须同时允许 Chrome 及其他 Win32 应用访问麦克风，无法只授权 Discord。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-19T01:55:10.294Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

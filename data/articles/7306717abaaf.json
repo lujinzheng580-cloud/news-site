@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7306717abaaf",
+    "title": "外媒用 Codex AI 开发 macOS 27 工具，提高菜单栏电量可读性",
+    "url": "https://www.ithome.com/0/991/407.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/991/407.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 19 日消息，科技媒体 9to5Mac 昨日（8 月 18 日）发布博文，分享了一款利用 Codex 制作、面向苹果 macOS 27 Golden Gate 的电池控件，从而提高电量显示可读性。\n\n该媒体在 macOS 27 系统中，苹果公司重新设计菜单栏中的电池控件。默认状态下，控件不显示电量百分比，只呈现电池形状的图标。\n\n用户打开“显示百分比”开关后，数字会嵌入电池图标内部。该媒体认为这种布局可能是为了统一 iOS 27 界面，但在实际使用场景下，用户读取电量信息的难度有所提高。\n\n为此该媒体编辑扎克 · 霍尔（Zac Hall）利用 Codex 制作了一款适用于 macOS 27 的菜单栏工具。该工具能够持续显示当前电池状态和百分比，并提供他认为更清晰的视觉呈现，用户可以免费下载和安装。IT之家附上相关截图如下：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-19T01:55:10.296Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
