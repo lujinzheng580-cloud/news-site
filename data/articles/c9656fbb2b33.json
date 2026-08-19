@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 19 日消息，Anthropic Claude Design 产品设计师纳特 · 帕罗特（Nate Parrott）昨日（8 月 18 日）在 X 平台发布推文，预告将会在 Claude Code 中整合推出 /design 命令。\n\n开发者在编写代码之前，可以通过 /design 命令直接在终端或者桌面版 Claude Code 中创建设计模型。例如，命令“/design a few options for {feature}”会生成多个草稿作为画板。用户可以选择自己喜欢的草稿，进行编辑，然后进行构建。\n\nClaude 会读取现有代码库，匹配当前的 UI 风格，并创建可共享的原型图作为 Artifacts。编辑器和提示功能源自 Claude Design，现在已直接集成到 Claude Code 中。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-19T05:37:18.683Z",
+    "publishedAt": "2026-08-19T06:17:13.144Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
