@@ -2,83 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "e7ad33330b70",
-      "title": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
-      "url": "https://www.ithome.com/0/991/811.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.679Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "26987215c130",
-      "title": "12 台大疆 Osmo Action 6 运动相机随火箭上天，为朱雀三号回收留下全程影像",
-      "url": "https://www.ithome.com/0/991/812.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.678Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "617e04a56275",
-      "title": "小米推出米家增压蒸汽熨烫机： 500kPa 电磁泵压，国补价 449 元",
-      "url": "https://www.ithome.com/0/991/813.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.678Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "27e2696cc971",
-      "title": "《GTA 6》实机画面意外泄露，“停止扼杀游戏”组织呼吁玩家别给当事黑客送钱",
-      "url": "https://www.ithome.com/0/991/814.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.678Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "76ef965c21b6",
-      "title": "亿纬锂能 2026 年半年度归母净利润 33.01 亿元，同比增长 105.66%",
-      "url": "https://www.ithome.com/0/991/815.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.678Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8e1207fa59a3",
-      "title": "8999 元起雷神黑武士猎刃 Pro 新增酷睿 7 230H + RTX 5060 Ti 版本，台式机搭载 LPDDR5 内存",
-      "url": "https://www.ithome.com/0/991/817.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.677Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "effa0ef4de1f",
-      "title": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
-      "url": "https://www.ithome.com/0/991/819.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.677Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "b4973d6e8f21",
       "title": "江淮汽车 2026 年上半年归母亏损 7.49 亿元，同比亏损收窄 3.09%",
       "url": "https://www.ithome.com/0/991/820.htm",
@@ -86,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.677Z",
+      "publishedAt": "2026-08-19T23:40:36.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.677Z",
+      "publishedAt": "2026-08-19T23:40:36.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.677Z",
+      "publishedAt": "2026-08-19T23:40:36.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.676Z",
+      "publishedAt": "2026-08-19T23:40:36.964Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +53,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.676Z",
+      "publishedAt": "2026-08-19T23:40:36.963Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.676Z",
+      "publishedAt": "2026-08-19T23:40:36.963Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.676Z",
+      "publishedAt": "2026-08-19T23:40:36.963Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.675Z",
+      "publishedAt": "2026-08-19T23:40:36.963Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +97,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.675Z",
+      "publishedAt": "2026-08-19T23:40:36.962Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.675Z",
+      "publishedAt": "2026-08-19T23:40:36.962Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.675Z",
+      "publishedAt": "2026-08-19T23:40:36.962Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.675Z",
+      "publishedAt": "2026-08-19T23:40:36.962Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +141,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.674Z",
+      "publishedAt": "2026-08-19T23:40:36.962Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.674Z",
+      "publishedAt": "2026-08-19T23:40:36.961Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.674Z",
+      "publishedAt": "2026-08-19T23:40:36.961Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.674Z",
+      "publishedAt": "2026-08-19T23:40:36.961Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.673Z",
+      "publishedAt": "2026-08-19T23:40:36.961Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.673Z",
+      "publishedAt": "2026-08-19T23:40:36.961Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.673Z",
+      "publishedAt": "2026-08-19T23:40:36.960Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +218,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.673Z",
+      "publishedAt": "2026-08-19T23:40:36.960Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.673Z",
+      "publishedAt": "2026-08-19T23:40:36.960Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.672Z",
+      "publishedAt": "2026-08-19T23:40:36.960Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +251,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.672Z",
+      "publishedAt": "2026-08-19T23:40:36.959Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.672Z",
+      "publishedAt": "2026-08-19T23:40:36.959Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +273,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.672Z",
+      "publishedAt": "2026-08-19T23:40:36.959Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +284,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.671Z",
+      "publishedAt": "2026-08-19T23:40:36.959Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.671Z",
+      "publishedAt": "2026-08-19T23:40:36.958Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +306,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.671Z",
+      "publishedAt": "2026-08-19T23:40:36.958Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.670Z",
+      "publishedAt": "2026-08-19T23:40:36.958Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +328,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.670Z",
+      "publishedAt": "2026-08-19T23:40:36.958Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +339,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.670Z",
+      "publishedAt": "2026-08-19T23:40:36.957Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +350,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.669Z",
+      "publishedAt": "2026-08-19T23:40:36.957Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +361,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.669Z",
+      "publishedAt": "2026-08-19T23:40:36.957Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +372,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.669Z",
+      "publishedAt": "2026-08-19T23:40:36.957Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +383,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.669Z",
+      "publishedAt": "2026-08-19T23:40:36.956Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +394,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.668Z",
+      "publishedAt": "2026-08-19T23:40:36.956Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +405,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.668Z",
+      "publishedAt": "2026-08-19T23:40:36.956Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +416,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.667Z",
+      "publishedAt": "2026-08-19T23:40:36.956Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +427,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.667Z",
+      "publishedAt": "2026-08-19T23:40:36.955Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,7 +438,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.666Z",
+      "publishedAt": "2026-08-19T23:40:36.955Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -526,29 +449,106 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:00.666Z",
+      "publishedAt": "2026-08-19T23:40:36.954Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "93bbb8b96d32",
-      "title": "985大学开在县城 考进大山了",
-      "url": "https://www.baidu.com/s?wd=985%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%9C%A8%E5%8E%BF%E5%9F%8E+%E8%80%83%E8%BF%9B%E5%A4%A7%E5%B1%B1%E4%BA%86",
+      "id": "1da502eadedf",
+      "title": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
+      "url": "https://www.ithome.com/0/991/870.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:36.954Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1f71b5bf9c1c",
+      "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
+      "url": "https://www.ithome.com/0/991/871.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:36.954Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bbfe1c85bed9",
+      "title": "三星宣布将于 8 月 27 日举办 Galaxy 发布会，有望推出 S26 FE",
+      "url": "https://www.ithome.com/0/991/872.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:36.954Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d691f2e7bd68",
+      "title": "Valve Steam Frame VR 头显官方教学视频泄露：佩戴、登录与配件细节曝光",
+      "url": "https://www.ithome.com/0/991/873.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:36.953Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "24785e97168d",
+      "title": "古尔曼：苹果带摄像头的 AirPods Pro 3 增强版耳机延至 2027 年发布",
+      "url": "https://www.ithome.com/0/991/874.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:36.953Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0f4c5492e9f1",
+      "title": "亚马逊推送更新，封堵用户备份 Kindle Oasis 电子书路径",
+      "url": "https://www.ithome.com/0/991/875.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:36.952Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "846c4ab83230",
+      "title": "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片",
+      "url": "https://www.ithome.com/0/991/876.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:36.952Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8ae0b55f9f2c",
+      "title": "12306回应买票放零食这座位能让吗",
+      "url": "https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%A5%A8%E6%94%BE%E9%9B%B6%E9%A3%9F%E8%BF%99%E5%BA%A7%E4%BD%8D%E8%83%BD%E8%AE%A9%E5%90%97",
       "source": "baidu",
       "category": "general",
-      "summary": "“‘985’‘211’，都去县城办大学了？”“去县城读名校，弯道超车？”今年以来，各大社交平台纷纷冒出以上讨论，引发诸多争议与期待。事实上，这股热潮并非空穴来风，也并非新鲜事。多地早已悄然布局“县城大学圈”。",
+      "summary": "8月18日，媒体报道两名女孩买三张火车硬座票，无座女乘客想坐协商无果，找列车员调解一事登上热搜，引发网友对多购票座位处置权的讨论。8月19日，记者致电12306，客服称购票者名下车票可由本人支配，他人使用需征得本人同意。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "652cf785bc27",
-      "title": "5万以下的燃油车 正在被遗忘",
-      "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%87%83%E6%B2%B9%E8%BD%A6+%E6%AD%A3%E5%9C%A8%E8%A2%AB%E9%81%97%E5%BF%98",
+      "id": "4596472107cc",
+      "title": "“董明珠办技校 学费可以再低点”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%91%A3%E6%98%8E%E7%8F%A0%E5%8A%9E%E6%8A%80%E6%A0%A1+%E5%AD%A6%E8%B4%B9%E5%8F%AF%E4%BB%A5%E5%86%8D%E4%BD%8E%E7%82%B9%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "曾经，5万元以下的小车是很多中国家庭的第一辆车。这类微型燃油车，价格低、养车便宜、停车方便，未必有多少舒适性和驾驶质感，却足够完成“从无车到有车”的跨越。数据显示，2026年上半年，5万元以下车型累计销量仅约13万辆，同比下滑55%，卖不动的并不只是低价燃油车，而是整个5万元以下的新车市场。",
+      "summary": "格力创办技工学校开启首届招生，董明珠出任校长，面向初中毕业生开设九大产业对口专业，实现产教深度融合，缓解制造业技工缺口。但该校每学年9000‑15000元学费偏高，既然格力能够通过办学获得直接收益，何妨多承担一些人才培养成本，或者在学生今后的职业生涯中陆续收取呢？",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -559,18 +559,18 @@
       "category": "general",
       "summary": "新版《住房公积金管理条例》将于2026年9月20日起施行。这项涉及1.76亿缴存人、10.9万亿元资金的制度变革，到底改了什么？细细梳理本次修改的内容，改动主要集中在三个方面。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "fb1369583ed1",
-      "title": "大学生一个月给多少生活费合适",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E8%B4%B9%E5%90%88%E9%80%82",
+      "id": "a1ca7e0166d2",
+      "title": "中国赴日游客数量断崖式下跌",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B5%B4%E6%97%A5%E6%B8%B8%E5%AE%A2%E6%95%B0%E9%87%8F%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C",
       "source": "baidu",
       "category": "general",
-      "summary": "8月已过大半，省内外高校陆续开学。新生家长们都很关心，该给孩子多少生活费？比起硬成本的上涨，家长们更关心的还是一个月给多少合适？2000元够不够花，还是1500元就够了？2500还是3000？网络上关于这个话题讨论也非常火热。",
+      "summary": "据报道，今年前7个月，中国内地访日游客数量同比下降56.3%，其中，7月同比下降56.1%，是连续第8个月同比下降。按目前趋势，2026年全年赴日外国游客总量或将低于去年，时隔5年再度出现回落。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,18 +581,40 @@
       "category": "business",
       "summary": "8月19日上午，宇树科技正式登陆科创板。青岛制造业巨头海克斯康软件技术有限公司持有宇树科技约484.55万股，位列第15大股东，持股比例1.3311%。截至午间收盘，宇树科技报883.87元/股，市值超3500亿元，该笔股权对应浮盈仍超42亿元，回报倍数约213倍。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f9bb6be6dbee",
-      "title": "女孩买空座放零食 大姐想坐遭拒",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B9%B0%E7%A9%BA%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F+%E5%A4%A7%E5%A7%90%E6%83%B3%E5%9D%90%E9%81%AD%E6%8B%92",
+      "id": "a2bad9aa9ce2",
+      "title": "《空枪》 李嘉诚儿子被绑架案",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%A9%BA%E6%9E%AA%E3%80%8B+%E6%9D%8E%E5%98%89%E8%AF%9A%E5%84%BF%E5%AD%90%E8%A2%AB%E7%BB%91%E6%9E%B6%E6%A1%88",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，两名女孩在高铁上购买同一排三张连座票，其中一张专门放置零食。一位持站票的大姐请求就座遭拒后联系乘务员，工作人员核实车票后表示‌座位使用权归购票者所有‌，需双方自行协商。‌‌",
+      "summary": "8月19日七夕，朱一龙、檀健次领衔的犯罪片《空枪》紧急登陆院线，当日恰逢张子强绑架李泽钜大案案发三十周年。1996年5月23日傍晚，李嘉诚长子李泽钜遭张子强团伙持枪截停绑架，绑匪索要20亿港元赎金，最终分两次拿到10.38亿港元赎金。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "fb1369583ed1",
+      "title": "大学生一个月给多少生活费合适",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E6%9C%88%E7%BB%99%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E8%B4%B9%E5%90%88%E9%80%82",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月已过大半，省内外高校陆续开学。新生家长们都很关心，该给孩子多少生活费？比起硬成本的上涨，家长们更关心的还是一个月给多少合适？2000元够不够花，还是1500元就够了？2500还是3000？网络上关于这个话题讨论也非常火热。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "93bbb8b96d32",
+      "title": "985大学开在县城 考进大山了",
+      "url": "https://www.baidu.com/s?wd=985%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%9C%A8%E5%8E%BF%E5%9F%8E+%E8%80%83%E8%BF%9B%E5%A4%A7%E5%B1%B1%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "“‘985’‘211’，都去县城办大学了？”“去县城读名校，弯道超车？”今年以来，各大社交平台纷纷冒出以上讨论，引发诸多争议与期待。事实上，这股热潮并非空穴来风，也并非新鲜事。多地早已悄然布局“县城大学圈”。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,40 +625,18 @@
       "category": "general",
       "summary": "近日，日本东京部分民众被中国相机圈粉，排队5小时购买，门店半天卖出超300万日元。有人称，原来还有这么厉害的相机。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "260008f74622",
-      "title": "男子直肠癌手术三年后喝酒 医生提醒",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%B4%E8%82%A0%E7%99%8C%E6%89%8B%E6%9C%AF%E4%B8%89%E5%B9%B4%E5%90%8E%E5%96%9D%E9%85%92+%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92",
+      "id": "f9bb6be6dbee",
+      "title": "女孩买空座放零食 大姐想坐遭拒",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E4%B9%B0%E7%A9%BA%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F+%E5%A4%A7%E5%A7%90%E6%83%B3%E5%9D%90%E9%81%AD%E6%8B%92",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，一名曾接受‌直肠癌手术‌的患者，术后三年因饮酒解馋导致癌症‌转移至肝脏‌。医生指出，酒精摄入与肿瘤复发存在直接关联，即便少量饮酒也可能刺激癌细胞扩散。‌‌",
+      "summary": "近日，两名女孩在高铁上购买同一排三张连座票，其中一张专门放置零食。一位持站票的大姐请求就座遭拒后联系乘务员，工作人员核实车票后表示‌座位使用权归购票者所有‌，需双方自行协商。‌‌",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "2d5dcca90e34",
-      "title": "网红猪油渣别当零食吃",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%8C%AA%E6%B2%B9%E6%B8%A3%E5%88%AB%E5%BD%93%E9%9B%B6%E9%A3%9F%E5%90%83",
-      "source": "baidu",
-      "category": "general",
-      "summary": "猪油渣，一口酥脆满嘴香，但你知道吗？这一口下去，你的血管正在默默承受压力。专家提醒，网红猪油渣别当零食吃，每100g猪油渣钠含量接近700毫克。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a91b5ba22d03",
-      "title": "“AI剧像喂猪一样 实在吃不下了”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E5%89%A7%E5%83%8F%E5%96%82%E7%8C%AA%E4%B8%80%E6%A0%B7+%E5%AE%9E%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%E2%80%9D",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "如今AI短剧彻底爆火，占据全网短剧大半份额，靠着低成本批量流水线疯狂产出。这类AI内容质感粗糙、毫无真情实感，被网友吐槽像 “喂猪的廉价饲料”，满是塑料味。AI内容泛滥挤压真人创作空间，市场逐渐两极分化：劣质AI内容满天飞，走心的真人精品反倒越来越稀缺。目前各地已出台规范管控AI内容，但AI席卷文娱已是大势所趋。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -647,20 +647,20 @@
       "category": "general",
       "summary": "2026年汛期，由于台风“美莎克”“巴威”“白海豚”接踵而至，我国东部地区呈现南北两条多雨带格局，洪涝灾害风险突出。在防汛救灾工作紧张推进的关键时期，涉汛涉灾网络谣言也在网络空间悄然蔓延。个别网民为博取关注、吸粉引流，恶意编造传播涉汛涉灾虚假内容，严重干扰防汛救灾工作正常开展，造成不良社会影响。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "de3826ae30ac",
-      "title": "华为“天才少年”回应离职后卖玉米",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%E5%90%8E%E5%8D%96%E7%8E%89%E7%B1%B3",
+      "id": "81712dc2423b",
+      "title": "北大报到日校园满是扛床垫的爸",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%88%B0%E6%97%A5%E6%A0%A1%E5%9B%AD%E6%BB%A1%E6%98%AF%E6%89%9B%E5%BA%8A%E5%9E%AB%E7%9A%84%E7%88%B8",
       "source": "baidu",
-      "category": "technology",
-      "summary": "日前，华为“天才少年”宁博宇离职后卖玉米一事引热议。宁博宇接受记者采访时回应：离职无关绩效，更非被“体面辞退”，而是希望回归学术界、持续成长。他同时透露，自己已获“玛丽·居里学者”博士后奖学金，准备启程赴瑞典皇家理工学院开展博士后研究。",
+      "category": "general",
+      "summary": "近日，北京大学迎来新生报到日，校园里随处可见给孩子扛床垫的爸爸，“每个人脸上都笑嘻嘻的”。网友纷纷表示：给我一个去北大扛床垫的机会吧。",
       "imageUrl": "",
-      "publishedAt": "2026-08-19T23:10:01.242Z",
+      "publishedAt": "2026-08-19T23:40:37.442Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-19T23:10:03.101Z"
+  "generatedAt": "2026-08-19T23:40:39.031Z"
 }
