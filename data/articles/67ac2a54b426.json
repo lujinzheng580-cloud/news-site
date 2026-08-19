@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 19 日消息，科技媒体 NeoWin 今天（8 月 19 日）发布博文，报道称部分用户反馈安装 ShieldBreak 漏洞补丁后，导致 Windows Defender 无法正常扫描。\n\nIT之家昨日报道，安全研究人员 Nightmare Eclipse 在 8 月 13 日发文，透露微软 Microsoft Defender 存在一项名为 ShieldBreak 的零日漏洞，该漏洞源于微软此前修复 RoguePlanet 漏洞（CVE-2026-50656）时修补不完整，可令任意 Windows 账户获得 SYSTEM 权限，从而完全控制设备本身。\n\n根据多名 Windows 11 用户反馈，安装微软发布的漏洞补丁之后，Windows Defender 扫描功能出现异常，快速扫描和完整扫描会在接近结束时崩溃，离线扫描则卡在 91%。\n\n用户还在事件查看器（Event Viewer）中看到错误代码 0x000005。错误指向微软反恶意软件引擎组件 mpengine.dll。\n\nESET 研究员 Aryeh Goretsky 表示，受影响的 Defender 版本为 1.1.26070.7 和 1.1.26080.2，相关 Microsoft Security Intelligence Update 版本包括以下版本：\n\n用户通过 Windows Update 升级 Security Intelligence Update 至 v1.457.236.0 可以解决崩溃问题。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-19T08:05:11.470Z",
+    "publishedAt": "2026-08-19T08:56:35.790Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
