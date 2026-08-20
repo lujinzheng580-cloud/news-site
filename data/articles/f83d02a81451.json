@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 20 日消息，Cloudflare 于 8 月 17 日发布论文，成功在其生产环境中的 Cloudflare Workers 服务器上复现了一次远程 Spectre 攻击，以每秒 12 bits 速度、99% 准确率远程读取另一台 Worker 服务器上的 JWT Token。\n\nIT之家注：Spectre（幽灵）漏洞是一类影响现代微处理器的硬件安全缺陷，它利用预测执行（Speculative Execution）机制的副作用，来窃取其他程序或系统内核中的机密数据。\n\n针对远程 Spectre 攻击，Cloudflare 曾于 2021 年部署 Dynamic Process Isolation（DyPrIs）机制，识别疑似恶意脚本，并将其隔离到独立进程。\n\n不过 Cloudflare 指出 Spectre 攻击方式不断迭代，研究团队基于生产环境构建更新版概念验证程序，在真实工作负载下测试攻击效果。结果显示，攻击者可以在 Workers 生产环境中稳定泄露数据，速率最高达 12 bit/s，准确率为 99%。\n\nA revisit of remote Spectre attacks on Cloudflare Workers\n\nRemote-Timer-as-a-Service: Efficient Microarchitectural Leakage in the Cloud with Remote Timers\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-20T07:24:53.663Z",
+    "publishedAt": "2026-08-20T08:07:31.146Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
