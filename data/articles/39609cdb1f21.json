@@ -11,7 +11,7 @@
     "content": "发布第 7 天，DeepSeek Harness 迎来版本更新！最新增强多模态支持，DeepSeek 模型适配器支持配置启用原生图片请求。\n\n虽然 DeepSeek v4 模型还未发布支持视觉的版本。\n\n但是如果更换了第三方支持视觉的模型，可以手动在配置中开启。\n\n另一个角度讲，这难道是在剧透 DeepSeek 自家的视觉模型之后是会发布的？\n\n作为配套的改动，此前只能接纯文本的 / goal、/plan 等命令现在可以带图发送。\n\n也就是说一次提问可以同时挂上截图、本地文件和过往对话。\n\n多模态支持的底层的准备工作在上一次更新就铺垫完了。\n\n现在 MCP 与 ACP 支持持久化图片附件，附件不再随单次调用结束而消失，同时让 PTC Mode 可以转发嵌套图片。\n\n图片加入工作流之后最容易出现的两种 bug，也在这次一并修掉：\n\n修复了图片尺寸过大导致模型请求失败的问题，以及多轮对话中历史图片累计载荷过高导致请求失败的问题。\n\n新版本里，Claude Code 和 Codex 不再跟主体一起分发，变成了按需安装的 Profile Bundle。\n\nCodex 支持部分这次还多了两样东西。一个是非交互权限模式，让它能在无人值守的流程里跑起来；另一个是多命名实例，允许同时存在好几个配置不同、名字各异的 Codex 子智能体。\n\n子智能体的“回报路径”也改了。现在 reportDelivery 能及时反馈并唤醒父任务，父任务不用再干等着去感知子任务结束。\n\n同一批优化里，还有 web_search 支持并发查询。\n\nWindows PTY 终端加上了持久 PowerShell 会话支持，并在极简模式预设里默认开启。极简模式本身只保留持久 bash 和文件编辑器两个工具。\n\nSQLite 后端的读写和分叉性能改善了，存储体积也降了下来，但数据结构与旧版不兼容。\n\n最后，“DeepSeek Harness”现在是注册商标了，具体条款见品牌使用规范文档。\n\n[1]https://github.com/deepseek-ai/deepseek-harness/releases\n\n[2]https://github.com/deepseek-ai/deepseek-harness/blob/dsh-v0.1.0-rc.8/packages/llm/llm-deepseek/README.zh.md\n\n[3]https://github.com/deepseek-ai/deepseek-harness/blob/dsh-v0.1.0-rc.8/packages/subagent/subagent-codex/README.zh.md",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-20T08:07:31.140Z",
+    "publishedAt": "2026-08-20T08:58:13.588Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
