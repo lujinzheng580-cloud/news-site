@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "21b50ea09f95",
+    "title": "ChatGPT 突发全球大规模服务中断，OpenAI 称正在修复",
+    "url": "https://www.ithome.com/0/991/891.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/991/891.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 20 日消息，ChatGPT 出现大规模服务中断，用户无法登录账号、注册新账户，也无法加载聊天界面，历史对话记录也无法正常读取。\n\n本次故障始于美国东部时间 8 月 19 日晚 8 点左右，波及全球各地用户，美国与欧洲地区均受影响。\n\n若受到波及，会看到 ChatGPT 侧边栏一直卡在加载动画状态，且因“并发请求过多”的报错无法发送消息。chatgpt.com 站点的新用户注册与账号登录功能也全部失效。\n\nIT之家注意到，本次服务中断还影响到了 OpenAI 的代码平台 Codex。所幸 OpenAI 已察觉到相关问题，并在官方状态页（status.openai.com）上公示了故障情况。\n\nOpenAI 表示，已确认所有受影响服务均存在用户登录异常的问题，团队目前“正在推进修复方案的落地”。截至美国东部时间晚 8 点 15 分，距故障发生约 14 分钟，OpenAI 将事件状态标注为“已定位问题、仍在处理中”。\n\nOpenAI API 同样未能幸免，该公司状态页显示，多达 12 个 API 接口出现运行异常。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-20T01:53:31.338Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
