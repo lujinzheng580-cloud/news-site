@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "34d0cc4a2bb2",
+    "title": "安卓最强 2nm 芯片：高通第六代骁龙 8 至尊版 Pro 芯片曝光，类三星 HPB 散热方案首曝",
+    "url": "https://www.ithome.com/0/992/107.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/992/107.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 8 月 20 日消息，科技媒体 NotebookCheck 今天（8 月 20 日）发布博文，报道称安卓最强 2nm 芯片，高通第六代骁龙 8 至尊版 Pro（Snapdragon 8 Elite Gen 6 Pro）旗舰芯片已现身闲鱼平台。\n\nIT之家发稿前访问该页面，显示已经下架。根据该媒体分享的图片，共有 2 颗芯片，均激光刻印 SM8975-100-BC 字样，表明是该芯片的首个 LPDDR5X 工程样品（ES）版本。两颗芯片各自带有批号：一颗为 FC5528M5，另一颗为 FX602R8T。\n\n封装芯片上的批号通常包含芯片制造厂、组装地点和封装日期等信息：\n\nF 代表台积电 (TSMC)，可能采用 N2P 节点\n\nC 代表安靠 (Amkor) 的韩国工厂；\n\n52 代表第 52 周，由此推断封装日期约为 2025 年 12 月下旬。\n\n第二个批号的结构相同，由此推断该批次芯片的封装日期约为 2026 年第 2 周。\n\n这些照片也首次真实展现了高通参考三星 Exynos 2600 芯片上的“HBP 散热导流块”设计方案：一个位于芯片和封装盖之间的内部散热片。\n\n消息源称高通的内存封装方式不同于 Exynos 2600 芯片。三星的 Exynos 2600 采用更小的 563 球 FBGA 封装来支持 LPDDR5X 内存。\n\n而高通旗舰芯片需要同时支持 LPDDR6 和 LPDDR5X，其中 LPDDR6 版本采用 1295 球 FBGA 封装，而 LPDDR5X 版本采用 496 球 FBGA 封装。这两种封装都减少了芯片上用于散热片的物理空间。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-20T07:24:53.657Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

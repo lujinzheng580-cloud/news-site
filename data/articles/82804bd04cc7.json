@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "82804bd04cc7",
+    "title": "Waymo 将 Gemini AI 助手整合进 Ojai 自动驾驶出租车，可语音调温度、查周边",
+    "url": "https://www.ithome.com/0/992/108.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/992/108.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 20 日消息，谷歌的 Gemini 如今已经覆盖了越来越多的设备和服务，从智能手机、PC、耳机、智能家居产品，到 Android Auto 等平台都能看到它的身影。现在，谷歌又准备将 Gemini 扩展到生态系统的另一个领域，把它直接整合进 Waymo 即将推出的 Ojai 自动驾驶汽车中。\n\nOjai 是 Waymo 专门为网约车服务打造的一款自动驾驶出租车。经过过去几个月在旧金山湾区的测试后，Waymo 已向洛杉矶、菲尼克斯和旧金山的所有用户开放 Ojai 服务。在这些市场预约 Waymo 车辆的用户，有可能会被安排乘坐全新的 Ojai 自动驾驶出租车。\n\n随着车队中的 Ojai 数量不断增加，Waymo 未来还将允许乘客在 Ojai 与较早推出的捷豹 I-Pace 自动驾驶出租车之间进行选择。此外，Ojai 还计划在今年晚些时候进入丹佛、拉斯维加斯和圣迭戈。\n\n随着 Ojai 的逐步推广，Waymo 还宣布，将在全新设计的乘客交互界面中引入 Gemini，将其作为车载 AI 助手提供给乘客使用。\n\n据IT之家了解，乘客可以点击车内显示屏上的 Gemini 图标，然后通过语音与它进行互动。在乘客主动启用之前，Gemini 将保持未激活状态。例如，乘客可以要求 Gemini 调节车内温度、寻找附近的咖啡店、介绍正在经过的某座地标的历史等。\n\nWaymo 团队特别强调，Gemini 与负责控制车辆的 Waymo Driver 自动驾驶系统是相互独立运行的。Gemini 无法访问实时驾驶数据，也不能直接控制车辆的行驶或路线规划。\n\n不过，乘客可以通过 Gemini 请求车辆靠边停车，这一请求随后会被转交给 Waymo Driver 自动驾驶系统处理。\n\n目前，Waymo 车内的 Gemini 功能仍处于 Beta 测试阶段。Waymo 团队计划随着时间推移不断完善这款 AI 助手的功能，希望让 Waymo 的乘车体验更加个性化，同时提升乘客在旅途中的效率和实用性。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-20T07:24:53.657Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
