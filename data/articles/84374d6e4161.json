@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "84374d6e4161",
+    "title": "Win11 学院：如何在 Windows 11 26340.9212 中启用默认最大化打开应用选项",
+    "url": "https://www.ithome.com/0/991/978.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/991/978.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 20 日消息，消息源 @phantomofearth 昨日（8 月 19 日）在 X 平台发布推文，分享了借助 ViveTool 工具，在 Windows 11 Build 26340.9212 预览版中启用新功能 / 新特性方法，可以默认最大化打开应用。\n\nExperimental 通道 Windows Insider 用户在 Windows 11 Build 26340.9212 预览版中，可以在系统设置中找到“以最大化方式打开应用”（Open apps maximized）选项，启用后用户打开应用，会默认以最大化窗口运行。\n\n用户此前若想让某款软件以最大化窗口启动，通常需要单独打开其快捷方式属性并修改启动方式。新选项面向全部应用生效，用户无需逐个调整快捷方式。\n\nIT之家援引博文介绍，附上相关启用步骤如下：\n\n1.确保 Windows 11 系统版本号不低于 26340.9212 版本。\n\n2. 从 GitHub 页面下载 ViveTool 工具，然后解压缩到任意文件夹，但需要记住该文件夹路径（例如 C:\\Program Files (x86)\\ViVeTool-v0.3.4）。\n\n3. 按下 Win 键（或者使用鼠标）打开开始菜单，输入“cmd”，然后选择“以管理员权限”打开命令提示符。\n\n4. 使用 cd 命令跳转到 ViveTool 文件夹，例如“cd C:\\Program Files (x86)\\ViVeTool-v0.3.4”\n\n《微软发布 Win11 Beta / Experimental 频道预览版：更新右键菜单、支持 Emoji 17.0》\n\n《微软发布 Win11 Experimental 频道预览版：改进文件管理器与右键菜单》\n\n《解锁微软 Win11 开发版隐藏新功能，开源命令行工具 ViveTool 使用指南》\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-20T03:04:20.103Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
