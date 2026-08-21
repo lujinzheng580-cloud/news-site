@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 21 日消息，深度求索官方刚刚宣布全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台。\n\n该模型支持在文本之外输入图片，可以让模型描述图片、识别截图中的文字、分析图表等。支持的图片格式包括 JPEG、PNG、GIF、WebP。\n\n深度求索官方表示，V4-Flash-Vision-Exp 在各类 Agent 框架内展现出了较好的多模态适配能力，能够有效支持大家借助多样化的 Agent 工具解锁更多实用的工作场景。\n\nIT之家提醒：这是一个实验性质的模型，用户可以通过设置 model='deepseek-v4-flash-vision-exp' 访问该模型。\n\n据介绍，在纯文本能力（Agent、推理、世界知识等）方面，DeepSeek-V4-Flash-Vision-Exp 与 DeepSeek-V4-Flash 正式版持平；在需要视觉理解的 Agent Benchmark 上，DeepSeek-V4-Flash-Vision-Exp 相比 DeepSeek-V4-Flash 实现了大幅跃升，多模态 Agent 能力已接近 Opus-4.8。\n\n用户可以通过设置 model='deepseek-v4-flash-vision-exp' 来访问 V4-Flash-Vision-Exp 模型的 API。在 API 服务中，图片会转换成 token 后按 token 计费，一张图片最多占 384 tokens，计费价格与 V4-Flash 模型一致。\n\n多模态 API 支持 Chat Completions、Messages、Responses 三种格式调用，可以方便接入各类 Agent 工具中使用，支持图文混合输入，支持 base64 内联、外部 URL、Files API 三种图片传入方式。\n\nFiles API 现已开放，该 API 不收费，用户可先将图片上传到平台，再在请求中通过 file_id 引用，从而节省请求带宽（同一张图片在多个请求中无需重复上传）。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-21T11:44:58.495Z",
+    "publishedAt": "2026-08-21T12:16:56.762Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
