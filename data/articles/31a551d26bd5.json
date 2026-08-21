@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "31a551d26bd5",
+    "title": "OpenAI 回应 Codex 使用限制：sub2api 转售共享会触发风控",
+    "url": "https://www.ithome.com/0/992/767.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/992/767.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 21 日消息，OpenAI Codex&ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文称，官方已经注意到关于 Codex 使用限额出现差异的反馈，并已经进行调查。\n\n蒂博表示，受影响的用户大部分都使用了 sub2api。官方并不支持将订阅服务转换为 API 流量，然后向大量用户分享的行为，此类行为会被 OpenAI 的防欺诈风控系统标记。\n\n如果用户是通过 Sign in With ChatGPT（使用 ChatGPT 登录）使用订阅，那么完全没问题。无论是通过官方客户端，还是通过支持 ChatGPT 的第三方开源客户端（IT之家注：如 Pi、OpenCode 等），都可以正常使用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-21T10:37:30.905Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
