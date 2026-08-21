@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 21 日消息，商汤科技今日宣布开源轻量级、原生统一多模态大模型 SenseNova U1.5 Lite。\n\n据介绍，SenseNova U1.5 Lite 原生支持 3-4k 上下文长度，能够同时处理主体、数量、空间关系、文字、布局、风格等多重约束，提升复杂视觉任务的执行稳定性。\n\n此外，SenseNova U1.5 Lite 还有以下特点：\n\n更高质量的视觉生成：改善整体构图、色彩、材质、光影、真实感和局部细节，减少“局部正确但整体完成度不足”的情况。\n\n更可靠的原生图像编辑：增强主体身份、空间结构、版式关系和非编辑区域的保持，同时提升局部修改、元素替换、文字精修和多参考图编辑能力。\n\n更好的文字与复杂布局：加强中英文文字、海报、信息图、品牌视觉及多文本排版能力，从“生成内容”进一步走向“组织完整视觉表达”。\n\n更精细的视觉控制：支持 Bounding Box、Visual Marker 以及单图、多图参考等方式，对指定区域和对象进行更准确的编辑。\n\n原生 4K 高分辨率输出：在高分辨率生成中兼顾整体构图与极精细的肌理、微小文字与光影折射。\n\n官方表示，作为 8B 参数的轻量化模型，SenseNova U1.5 Lite 在指令遵循与图像编辑保持度上超越了同量级模型，并在文字渲染与复杂布局上达到了媲美超大规模商业模型的交付水平。\n\nGitHub：https://github.com/OpenSenseNova/SenseNova-U1\n\nHugging Face：https://huggingface.co/collections/sensenova/sensenova-u15\n\n魔搭社区：https://modelscope.cn/models/SenseNova/SenseNova-U1.5-8B-MoT\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-21T04:56:22.587Z",
+    "publishedAt": "2026-08-21T05:40:12.489Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
