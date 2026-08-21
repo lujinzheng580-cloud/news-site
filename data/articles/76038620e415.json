@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "76038620e415",
+    "title": "ROG Zephyrus G14 游戏本用户反馈使用集显模式 15 天，Win11 自动卸载独显驱动",
+    "url": "https://www.ithome.com/0/992/449.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/992/449.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 21 日消息，网友 u/Ok-Horse-3169 昨日（8 月 20 日）在 Reddit 社区发帖，反馈其华硕 ROG Zephyrus G14 游戏笔记本开启 Eco 模式，在仅核显模式下使用 15 天后，Windows 11 系统自动卸载独立显卡驱动。\n\nIT之家注：华硕 ROG Zephyrus G14 游戏笔记本提供以下 4 种模式，用户可以通过华硕 Armoury Crate 工具切换：\n\n集显模式（Eco / 仅核显）：仅启用处理器自带的集成显卡，关闭独立显卡。功耗最低，能大幅提升电池续航，适合外出办公、看视频等轻度使用场景。\n\n标准模式（Standard / 混合输出 MS Hybrid）：核显与独显同时开启，由核显负责输出画面到内置屏幕，系统会根据任务需求自动在核显和独显之间动态切换（类似 Optimus 技术）。\n\n独显直连（Ultimate / 独显输出）：独立显卡直接连接并驱动笔记本内置屏幕，游戏性能帧数最高，但会增加耗电量。\n\n自动切换（Optimized / 智能模式）：拔掉电源使用电池时自动切换为集显模式，插上电源后自动恢复独显，兼顾续航与性能。\n\n该网友反馈在切换到 Eco 模式使用超过 15 天后，Windows 11 系统自动卸载了独立显卡驱动，设备管理器中原有显卡被 Microsoft Basic Display Adapter 替代。\n\n该用户称，Windows 会把长期未启用的独立显卡驱动视为类似“已拔出”的 USB 设备，负责清理的 pnpclean.dll 维护任务会在达到设定期限后删除对应驱动包。其描述显示，这一期限默认设为 30 天；但在其 ROG Zephyrus G14 上，独显驱动在约 15 天后便被清理。\n\n该 Reddit 用户建议，可在 PowerShell（Windows 命令行与自动化工具）中检索驱动安装日志，确认系统是否记录过显卡驱动删除事件：\n\n其中，VEN_10DE 对应 NVIDIA 显卡，VEN_1002 对应 AMD 显卡。若日志出现“was removed”，则意味着系统曾删除相关驱动。\n\n网友反馈临时解决方案是以管理员身份打开 regedit  注册表编辑器，进入以下路径：\n\n将 Autorun 的 DWORD 值从 1 改为 0。按其说法，此举可阻止 Windows 自动清理独立显卡驱动。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-21T01:59:43.128Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

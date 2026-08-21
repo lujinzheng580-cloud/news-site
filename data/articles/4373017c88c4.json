@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4373017c88c4",
+    "title": "谷歌开源端侧模型家族 Gemma 总下载量破 10 亿次，派生超 10 万个变体",
+    "url": "https://www.ithome.com/0/992/441.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/992/441.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 21 日消息，Google（谷歌）当地时间 20 日宣布，其开源端侧模型家族 Gemma 的总下载量已突破 10 亿次；开发者在过去两年间发布了超过 10 万个 Gemma 模型变体，构成了一个被谷歌称为 \"Gemmaverse\" 的创新生态系统。\n\n谷歌列举了多个 Gemma 家族应用场景：从太空本地图像分析、医疗报告标准数字化、癌症创新治疗方案再到动物语言识别，Gemma 家族模型正实实在在地提升人类发展质量。\n\n谷歌将在 GitHub 上推出 Awesome Gemma 代码库，这一 Gemmaverse 官方精选目录收录了最好的社区项目、微调、教程、开发者工具。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-21T01:59:43.130Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
