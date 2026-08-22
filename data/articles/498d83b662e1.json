@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 22 日消息，科技媒体 NeoWin 昨日（8 月 21 日）发布博文，报道称微软更新支持文档，认为多款游戏不兼容 Windows 11 八月累积更新，可能关联带 RGB（红绿蓝）灯效设备安装的驱动或组件。\n\nIT之家此前报道，微软目前已确认受影响游戏包括《ARC Raiders》《漫威斗魂》及《最终决战》，主要症状表现为游戏无响应、闪退、显示“EXCEPTION_ACCESS_VIOLATION”报错，甚至系统无预警重启。\n\n微软在最新调查结果中指出，上述游戏兼容性故障，可能关联带 RGB 灯效功能的外设或组件。上述设备所安装的驱动和代码组件会和 inpoutx64 冲突，在启动某些游戏后便可能触发故障。\n\n瑞典游戏开发商 Embark Studios 也表示《ARC Raiders》和《最终决战》部分玩家在最近一次 Windows 更新后遇到的崩溃，与 inpoutx64.sys 文件有关。\n\n在微软官方修复前，Embark 提供了临时方案：用户需删除相关服务，并从 Windows 驱动程序文件夹移除 inpoutx64 文件。\n\n《微软承认 Win11 26H1 实验版存在兼容性问题：〈绝地求生〉无法启动，正与魁匠团合作修复 Bug》\n\n《微软承认 Win11 安装 KB5121003 之后导致〈ARC Raiders〉等部分游戏闪退或无法运行，正在调查问题根源》",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-22T01:52:33.890Z",
+    "publishedAt": "2026-08-22T03:01:12.251Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

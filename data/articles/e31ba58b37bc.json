@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 22 日消息，科技媒体 Windows Latest 昨日（8 月 21 日）发布博文，报道称微软推出独立应用程序，引导用户将 Bing 设置为 Edge、Firefox、Chrome 和 Brave 等浏览器默认搜索引擎。\n\n该应用名为 Microsoft Recommended Search Settings（安装包名称为 MicrosoftSettings.exe），大小为 22.2 MB，暂未上架 Microsoft Store，托管在微软官方下载服务器上。\n\n用户安装该应用程序之后，会引导用户在当前已安装使用的浏览器中添加扩展程序，并切换 Bing 为浏览器默认搜索体验。用户设置完成后，还会跳转打开 Microsoft Rewards 页面（rewards.bing.com/m365offer）。\n\nWindows Latest 下载并测试了 MicrosoftSettings.exe。安装程序大小为 22.2MB。测试电脑安装了 Chrome 和 Brave，并分别使用 Google 和 Brave Search 作为默认搜索引擎。\n\n应用首次启动后，会显示“Welcome to Microsoft Recommended Search Settings”页面。默认开关已经处于“Yes”状态，表示同意将 Bing 设为搜索引擎。页面说明，这项变更适用于 Microsoft Edge、Mozilla Firefox 和 Google Chrome。\n\n用户点击“Accept and continue”后，应用会快速完成设置，并显示“You’re all set!”页面。点击“Finish”后，会在 Edge 中打开 Microsoft Rewards 页面。\n\n在浏览器端，Chrome 和 Brave 都检测到名为“Microsoft Bing Homepage & Search for Chrome”的扩展。Chrome 的提示显示，该扩展可以读取和修改所有网站上的数据、发送通知，并修改主页、搜索设置和启动页。\n\n该扩展页面显示，其评分为 4 星（IT之家发稿前访问为 3.8 星），拥有 110 条评价和 500 万名用户。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-22T01:52:33.893Z",
+    "publishedAt": "2026-08-22T03:01:12.254Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
