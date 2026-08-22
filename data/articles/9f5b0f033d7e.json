@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 22 日消息，当地时间 8 月 19 日，微软宣布将为符合条件的用户增加 50GB 邮箱存储空间，使 Exchange Online 主邮箱容量上限从原来的 50GB 提高至 100GB。\n\n此次变动适用于 Microsoft 365 Business Basic、Business Standard 和 Business Premium 商业版套餐。完成推送后，分配了相应许可证的用户会获得新的服务计划，Exchange Online 也会相应提高主邮箱配额。\n\n需要注意的是，此次调整只针对上述三款 Business 套餐，并非所有 Exchange Online 许可证都会获得额外 50GB 容量。例如，独立的 Exchange Online Plan 1 仍然提供最高 50GB 的邮箱容量。\n\n新增容量通过两个服务计划共同实现。Business 套餐原有的 Exchange 服务计划为 BPOS_S_STANDARD，对应 50GB 存储；新增的 EXCHANGE_STORAGE_50GB 服务计划则额外提供 50GB 空间。两个服务计划均启用后，符合条件的用户主邮箱容量上限将达到 100GB。\n\n如果用户同时拥有多个包含 Exchange 服务计划的许可证，邮箱容量不会按照各许可证简单相加。Exchange 会按照单个产品能够提供的最高容量确定最终配额。\n\n例如，用户同时拥有 Business 套餐和包含 Exchange Online Plan 2 的 Enterprise 许可证，后者本身已经提供 100GB 邮箱容量，因此最终有效容量仍为 100GB，而不会因为两个许可证叠加变成 200GB。\n\n此次增加的 50GB 仅涉及主邮箱容量，并不会额外提供 Exchange Online Archive 归档功能。如果用户同时拥有其他能够提供 100GB 邮箱的许可证，其最终容量同样维持在 100GB。\n\n管理员自行设置的邮箱配额也不会因为此次调整被覆盖。例如，一名 Business 套餐用户原本默认拥有 50GB 邮箱，但管理员此前主动将其配额设置为 20GB，那么即使系统随后增加 EXCHANGE_STORAGE_50GB 服务计划，该用户的邮箱配额仍会保持 20GB。\n\n管理员可以在 Microsoft 365 管理中心进入“用户”>“活动用户”，选择具体用户并查看“许可证和应用”，确认其是否拥有符合条件的 Business 套餐以及相关服务是否启用。\n\nIT之家注：Microsoft Graph PowerShell 也可以用于检查 EXCHANGE_STORAGE_50GB 服务计划的配置状态。\n\n微软表示，此次容量调整依赖许可证服务计划的分配和处理，因此从许可证变化到 Exchange 显示新的邮箱配额可能存在时间差。同一组织内的用户也可能不会在同一时间完成更新，部分用户可能暂时仍显示 50GB 容量。\n\n对于尚未完成服务计划配置的用户，只要其许可证符合条件，系统预计会自动完成相关更新。微软建议管理员不要仅为了强制刷新邮箱配额而自行删除并重新分配 Exchange 许可证，除非得到微软支持团队的明确指导，因为删除产品许可证可能导致相关服务失效，并启动相应的数据保留流程。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-22T17:38:58.998Z",
+    "publishedAt": "2026-08-22T17:59:40.577Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
