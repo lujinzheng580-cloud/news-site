@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 22 日消息，据科技媒体 Linuxiac 今天报道，开源文件系统和卷管理器 OpenZFS 现已推出 2.4.4 版本更新，主要变化是新增 Linux 7.2 内核支持。\n\n据报道，OpenZFS 更新后支持 4.18-7.2 版本的 Linux 内核，新版本针对 Linux 7.2 进行了兼容性调整，例如将 ZFS 超级块代码转换为使用 Linux 内核的 sget_fc () 接口。\n\n同时，本次更新还将新增 zhack mmp reclaim 指令，可用于恢复被多修改器保护（MMP）锁定的存储池。\n\nIT之家了解到，MMP 是 OpenZFS 的一项安全机制，用于防止同一个存储池同时被多个系统导入并进行修改。\n\n此外，OpenZFS 2.4.4 将 systemd-udev-settle 依赖项改为可选项，用于 systemd 存储池导入单元。这样一来，在导入单元继续执行之前，系统不再无条件等待 udev 完成所有设备处理。本次更新还修复了涉及克隆后已释放数据块的读取问题，并对 Direct I/O 验证事件进行了速率限制，以避免产生过多事件。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-22T19:59:06.266Z",
+    "publishedAt": "2026-08-22T20:34:46.556Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
