@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "abfbfd69548d",
+    "title": "代码显示谷歌正在为 Google Play 商店应用开发 AI 图片搜索功能",
+    "url": "https://www.ithome.com/0/993/775.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/993/775.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 25 日消息，外媒 Android Authority 在挖掘谷歌 Google Play 商店应用 v52.8.55-34 版本时发现，谷歌正在为应用内置的 AI 搜索功能 Ask Play 开发图片搜索功能。\n\n目前，Android Authority 已成功在应用中启用了部分相关功能，用户可以直接上传图片，或者使用相机拍摄照片以搜索应用。\n\n例如，用户可能在网上看到一张非常漂亮的手机主屏幕截图，却不知道其中使用了什么小组件。过去只能尝试搜索类似“圆角矩形天气组件”这样的模糊关键词，而有了图片搜索后，只需要把截图上传给 Ask Play，让 AI 直接帮忙寻找对应应用即可。\n\n同样，这一功能可以用于识别陌生的应用界面或功能，甚至可以根据某款应用的界面风格寻找类似的替代应用。整体来看，它让 Play 商店搜索变得有些类似 Google Lens 和“圈选即搜”，但同时结合了 Ask Play 的对话式 AI 能力。\n\n除了图片搜索之外，谷歌还有望在新版应用详情页中嵌入 Ask Play 界面，用户向下浏览页面时，可以看到 AI 生成的用户感兴趣的问题（例如应用隐私要求等），点击后即可获得具体详情。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-24T23:39:29.621Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
