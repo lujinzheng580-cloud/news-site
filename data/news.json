@@ -2,193 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "6b9e8d0e3368",
-      "title": "消息称 NVIDIA 考虑向 Perplexity AI 投资“数十亿美元”",
-      "url": "https://www.ithome.com/0/993/418.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.929Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "690b96196d0e",
-      "title": "Anthropic 最强大模型 Fable 5 遇冷，企业用户转向更便宜 AI 产品",
-      "url": "https://www.ithome.com/0/993/426.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.929Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a244612e3937",
-      "title": "LG 27 英寸 4K IPS 办公显示器 27U730B 开售，到手价 1599 元",
-      "url": "https://www.ithome.com/0/993/435.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.929Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "75a3ee6a8b37",
-      "title": "上汽 MG 07 后续将 OTA 升级 Momenta R7 世界模型，解锁车位到车位、行车漫游等",
-      "url": "https://www.ithome.com/0/993/454.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.929Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f7fe6687a6f5",
-      "title": "消息称半导体硅晶圆迎三年多来首次大涨价：覆盖全尺寸规格，升幅 10% 上下",
-      "url": "https://www.ithome.com/0/993/460.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.929Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "bb7dd9d05bcb",
-      "title": "《使命召唤：现代战争 4》测试版疑似出现 AI 生成美术素材，引发玩家争议",
-      "url": "https://www.ithome.com/0/993/477.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "30bb5c33b85b",
-      "title": "阿里巴巴达摩院推出肝癌 AI 模型，可精准识别 1 厘米微小肿瘤",
-      "url": "https://www.ithome.com/0/993/478.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e7d03e363168",
-      "title": "诺兰电影《奥德赛》宣布 11 月 17 日数字上线，发行 4K 超高清 / 蓝光版本",
-      "url": "https://www.ithome.com/0/993/479.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "bcd2cba73267",
-      "title": "消息称知名 AI 研究员 Luke Metz 离开 OpenAI，加入 Meta 超级智能实验室",
-      "url": "https://www.ithome.com/0/993/480.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f5763e476411",
-      "title": "小米雷军：当前国内高端汽车市场处于产品青黄不接状态，高端零部件国产替代预估需要 5~10 年",
-      "url": "https://www.ithome.com/0/993/481.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3c5bea0dc261",
-      "title": "四川省地震局通报：成都高新减灾研究所冒用“中国地震预警网”名义发布震级为 7.7 级预警信息，今年 7 月已终止其授权",
-      "url": "https://www.ithome.com/0/993/483.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "696b27ca498f",
-      "title": "古尔曼：中国折叠机占全球半壁江山，苹果得打好硬件和身份两张牌",
-      "url": "https://www.ithome.com/0/993/484.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3939c3db3657",
-      "title": "月之暗面第一代万亿参数多模态模型 Kimi K2.5 官宣月底结束服役",
-      "url": "https://www.ithome.com/0/993/485.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.928Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "810b180c00ba",
-      "title": "光模块龙头中际旭创回应二季度经营性现金流下降：扩产力度较大，需求非常旺盛",
-      "url": "https://www.ithome.com/0/993/486.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1dcbe6664478",
-      "title": "“大的要来了”：小米玄戒芯片新进展今天公布，消息称预计会同步官宣首款新机",
-      "url": "https://www.ithome.com/0/993/487.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1f692ee8e929",
-      "title": "智元联合长隆打造全球首个具身智能主题乐园，含机器人服务酒店等",
-      "url": "https://www.ithome.com/0/993/488.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6f65a3a373e8",
-      "title": "玄戒 O3 确认！REDMI 产品经理胡馨心意外爆料小米自研芯片家族全新成员命名",
-      "url": "https://www.ithome.com/0/993/489.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "2fd532ae54fd",
       "title": "曝小米 17 系列手机销量突破 600 万台，Ultra 约 24.3 万台",
       "url": "https://www.ithome.com/0/993/492.htm",
@@ -196,7 +9,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
+      "publishedAt": "2026-08-24T08:07:42.458Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +20,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
+      "publishedAt": "2026-08-24T08:07:42.458Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +42,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.927Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +75,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +86,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +108,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.457Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +130,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.926Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +141,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.925Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +152,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.925Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +163,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.925Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +174,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.925Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +185,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.925Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.924Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +207,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.924Z",
+      "publishedAt": "2026-08-24T08:07:42.456Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +218,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.924Z",
+      "publishedAt": "2026-08-24T08:07:42.455Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +229,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.924Z",
+      "publishedAt": "2026-08-24T08:07:42.455Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +240,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.923Z",
+      "publishedAt": "2026-08-24T08:07:42.455Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +251,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.923Z",
+      "publishedAt": "2026-08-24T08:07:42.455Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.923Z",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +273,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.922Z",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +284,205 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:03.922Z",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "548473d95f8e",
+      "title": "大众 CEO 奥博穆警告员工：当前形势比严峻更严峻",
+      "url": "https://www.ithome.com/0/993/570.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "228d9dde5300",
+      "title": "CDPR 确认《巫师 3：狂猎》“旧时曲”DLC 将有更多昆特牌内容",
+      "url": "https://www.ithome.com/0/993/574.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "44a85d234cdd",
+      "title": "拓竹科技回应 2027 年 IPO 传闻：消息不实",
+      "url": "https://www.ithome.com/0/993/575.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ae4ca6c74743",
+      "title": "小米 18 Fold 全新折叠旗舰机开启预约，首发搭载自研玄戒 O3 AI 处理器",
+      "url": "https://www.ithome.com/0/993/576.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a080d9a9f47b",
+      "title": "Fostex 发布首款平板振膜无线耳机 T50RP-BT，支持系列高通音频技术",
+      "url": "https://www.ithome.com/0/993/577.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.454Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6f2ec983c46d",
+      "title": "雅虎拟借 AI 工具重振雄风，CEO 兰佐内称“复古”就是最大优势",
+      "url": "https://www.ithome.com/0/993/580.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.453Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e30fc7e81fd1",
+      "title": "韩国通过《个人信息保护法》修正案，允许 AI 开发使用个人数据",
+      "url": "https://www.ithome.com/0/993/581.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.453Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b920ac4ac883",
+      "title": "飞傲 RR13 便携式立体声收音机复古金配色开售：搭载机械夜光指针，349 元",
+      "url": "https://www.ithome.com/0/993/582.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.453Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "39562192822c",
+      "title": "新一代玄戒芯片正式发布，雷军透露小米重启大芯片研发累计投入研发经费超 210 亿",
+      "url": "https://www.ithome.com/0/993/583.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.453Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6d4df2b57ab0",
+      "title": "54 人兼职群 53 个是托，警方揭秘刷单连环套骗局",
+      "url": "https://www.ithome.com/0/993/584.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.452Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "53bcf348d3d0",
+      "title": "雷军：玄戒不只是小米的芯片战略，更是小米 AI 战略的物理基础",
+      "url": "https://www.ithome.com/0/993/587.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.452Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ce9e94c6706b",
+      "title": "2026 世界机器人大会在京闭幕：首发新品 311 件，下一届官宣 2027 年 8 月 18 日开幕",
+      "url": "https://www.ithome.com/0/993/589.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.452Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0aa4cab093a1",
+      "title": "宇树科技股价收跌 10.31%：总市值 2439 亿元，跌至全球人形机器人市值榜第二",
+      "url": "https://www.ithome.com/0/993/591.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.452Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "18beb605e48e",
+      "title": "三星新愿景：让 HBM 不只是内存",
+      "url": "https://www.ithome.com/0/993/592.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.451Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "41b6ba1c6c2a",
+      "title": "消息称三星电子 2026~2027 年 DRAM 投片量增长有限，SK 海力士有望缩小差距",
+      "url": "https://www.ithome.com/0/993/593.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.451Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8583350b0f22",
+      "title": "工程师的极致浪漫：雷军曝光小米玄戒 O3 隐藏彩蛋，芯片内刻 OK 手势寓意“万事 OK”",
+      "url": "https://www.ithome.com/0/993/595.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.451Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "650e896465e0",
+      "title": "极核全新 AE6 系列电动摩托车上市，首发权益价 7999 元起",
+      "url": "https://www.ithome.com/0/993/598.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.450Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d33a759a1876",
+      "title": "数据中心吸走大量建筑工人，美国住房建设出现用工荒",
+      "url": "https://www.ithome.com/0/993/599.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.450Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,95 +493,7 @@
       "category": "general",
       "summary": "8月24日8时26分，在四川宜宾市长宁县发生4.7级地震，震源深度5公里。成都高新减灾研究所冒用“中国地震预警网”名义，通过荣耀、维沃手机以及小天才手表等渠道向社会公众发布震级为7.7级的预警信息。四川省地震局已于2026年7月22日终止向成都高新减灾研究所提供中国地震预警网紧急地震信息服务第三方授权。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6e5ca899df7d",
-      "title": "超市散装零食何以失守",
-      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E6%95%A3%E8%A3%85%E9%9B%B6%E9%A3%9F%E4%BD%95%E4%BB%A5%E5%A4%B1%E5%AE%88",
-      "source": "baidu",
-      "category": "general",
-      "summary": "超市散装食品区顾客稀疏，量贩零食店前却常常排起长队，这种冰火两重天的局面，已成为全国社区商业常态。散装食品式微，折射的不只是单一品类的周期起伏，更是传统商超在渠道裂变与消费换代加速演进下的系统性困局。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "cd5f5c71d5b2",
-      "title": "朱雀三号八个月的逆袭之路",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E5%85%AB%E4%B8%AA%E6%9C%88%E7%9A%84%E9%80%86%E8%A2%AD%E4%B9%8B%E8%B7%AF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "中国首次实现火箭陆地回收，由朱雀三号遥二在8月19日完成。此前8个月，朱雀三号遥一因着陆点火异常，箭体坠落于回收场坪边缘，距靶心约40米。总指挥戴政随即启动航天“归零”程序，逐一排查故障树并完成问题复现，最终跨越这40米完成逆袭。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1437e4a8670a",
-      "title": "成都高新减灾研究所反驳冒名预警地震",
-      "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%AB%98%E6%96%B0%E5%87%8F%E7%81%BE%E7%A0%94%E7%A9%B6%E6%89%80%E5%8F%8D%E9%A9%B3%E5%86%92%E5%90%8D%E9%A2%84%E8%AD%A6%E5%9C%B0%E9%9C%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月24日，成都高新减灾研究所再次发布关于对8月24日宜宾长宁4.7级地震的预警震级偏差的说明，其中提到，“中国地震预警网”是中国地震局与该所2020年签署合作备忘录共建的地震预警网，不是该所冒用的名字，该所自2020年11月用“中国地震预警网”名义公开服务社会。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "42eb91459fc9",
-      "title": "公司用敌敌畏给绿茶等餐厅消杀",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%94%A8%E6%95%8C%E6%95%8C%E7%95%8F%E7%BB%99%E7%BB%BF%E8%8C%B6%E7%AD%89%E9%A4%90%E5%8E%85%E6%B6%88%E6%9D%80",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c420f13c360f",
-      "title": "相关部门愿补贴帮扶老人遭索赔店家",
-      "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E5%85%B3%E9%83%A8%E9%97%A8%E6%84%BF%E8%A1%A5%E8%B4%B4%E5%B8%AE%E6%89%B6%E8%80%81%E4%BA%BA%E9%81%AD%E7%B4%A2%E8%B5%94%E5%BA%97%E5%AE%B6",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月24日，记者从湖南祁东县司法局获悉，当地相关部门愿将赔偿款补贴给帮扶老人遭索赔的店家，目前正在协商中。此前8月17日，一老人身体不适进牌馆休息晕倒，店主帮扶送医后老人离世，家属索赔10万元，双方在派出所协商两次降至1.9万元后协商成功。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "0da55a90190c",
-      "title": "小米玄戒O3芯片正式发布",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O3%E8%8A%AF%E7%89%87%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-      "source": "baidu",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "0721f22e3e9b",
-      "title": "奔驰宝马发布短片讽刺“速成车”",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%8F%91%E5%B8%83%E7%9F%AD%E7%89%87%E8%AE%BD%E5%88%BA%E2%80%9C%E9%80%9F%E6%88%90%E8%BD%A6%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "今年上半年国内新车上市超600款，不少车型开发周期由36个月压缩至18个月，行业现快消品化争议。奔驰、宝马相继发短片讽刺“速成车”，奔驰以鼠标拖拽造车画面讽刺，宝马用反差短片对比戏谑测试与真实碰撞实验。北京现代、上汽通用、小鹏汽车公开表态拒绝速成模式，坚守造车安全底线。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "78a35907dca3",
-      "title": "广西15条河流20个站超过警戒水位",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF15%E6%9D%A1%E6%B2%B3%E6%B5%8120%E4%B8%AA%E7%AB%99%E8%B6%85%E8%BF%87%E8%AD%A6%E6%88%92%E6%B0%B4%E4%BD%8D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月24日8时，广西水文中心继续发布洪水红色预警，提请崇左、南宁及贵港等市沿江区域加强防范、及时避险。8月23日8时至24日8时，广西部分地区降中到大雨、局部暴雨到大暴雨，受上游来水及强降雨影响，左江、明江、北仑河等15条河流20个站出现超警0.07～6.96米洪水。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,73 +504,84 @@
       "category": "general",
       "summary": "近日，记者实地探访厦门市涉事消杀公司发现，其原址已人去楼空。经调查，该公司未取得消杀资质使用敌敌畏给数十家餐厅消杀。有目击者称该公司周末前搬离大量物品，但公司仍在营业，员工称统一改用新名称（马甲）继续外出接单消杀。目前，厦门市多部门已介入调查。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "b42230fc95ac",
-      "title": "发苦的丝瓜能降火？不要信",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%91%E8%8B%A6%E7%9A%84%E4%B8%9D%E7%93%9C%E8%83%BD%E9%99%8D%E7%81%AB%EF%BC%9F%E4%B8%8D%E8%A6%81%E4%BF%A1",
+      "id": "2f575c8c64f8",
+      "title": "中国机器人跑出“中国制造”加速度",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E2%80%9D%E5%8A%A0%E9%80%9F%E5%BA%A6",
       "source": "baidu",
       "category": "general",
-      "summary": "不少人以为苦味丝瓜能清热去火，实则葫芦科蔬菜发苦可能含有葫芦素，食用后会引发呕吐腹泻等中毒症状，尝到明显苦味要立刻停食丢弃，洗净厨具。",
+      "summary": "8月22日至26日，第二届世界人形机器人运动会在北京国家速滑馆“冰丝带”举行。“天工Ultra”机器人在100米短跑大型组比赛中跑出9秒39，打破博尔特保持的人类世界纪录，中国机器人跑出“中国制造”加速度。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "dccc67609496",
-      "title": "厦门通报餐厅用敌敌畏消杀",
-      "url": "https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E9%80%9A%E6%8A%A5%E9%A4%90%E5%8E%85%E7%94%A8%E6%95%8C%E6%95%8C%E7%95%8F%E6%B6%88%E6%9D%80",
+      "id": "b589d85165af",
+      "title": "央视曝光隔空猥亵",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5",
       "source": "baidu",
       "category": "general",
-      "summary": "8月24日，厦门市湖里区联合调查组发布情况通报：媒体报道湖里区一家场地消杀服务企业涉嫌违规开展消杀业务，目前企业在湖里区经营场所已关闭，下一步将根据调查情况依法依规严肃处理。同时，湖里区举一反三组织对辖区消杀企业进行全面排查整治，对违法违规行为将一查到底，绝不姑息。",
+      "summary": "近日，央视曝光隔空猥亵案件，一名50岁男子冒充“16岁姐姐”，诱导10岁女孩发送私密照片并威胁恐吓。警方发现另有11岁女孩受害，并在其手机中发现10名高度疑似受害者线索。4月24日，苏某某因猥亵儿童罪被判刑五年六个月。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "bf59641cf367",
-      "title": "普京：杀害卡德罗夫的罪行不能原谅",
-      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%9D%80%E5%AE%B3%E5%8D%A1%E5%BE%B7%E7%BD%97%E5%A4%AB%E7%9A%84%E7%BD%AA%E8%A1%8C%E4%B8%8D%E8%83%BD%E5%8E%9F%E8%B0%85",
+      "id": "8bd2d129cab4",
+      "title": "丁俊晖：以后世界第一都是中国球员",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%81%E4%BF%8A%E6%99%96%EF%BC%9A%E4%BB%A5%E5%90%8E%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98",
       "source": "baidu",
       "category": "general",
-      "summary": "对于俄罗斯车臣共和国前领导人艾哈迈德·卡德罗夫多年前遇袭身亡，俄总统普京23日在一段视频讲话中称，杀害艾哈迈德·卡德罗夫的无耻罪行不能被原谅，也不能被忘记。",
+      "summary": "8月23日，2026斯诺克武汉公开赛揭幕。中国球员丁俊晖在延期资格赛中1比5不敌世界排名第99位的威尔士20岁小将利亚姆·戴维斯，止步64强，连续两站排名赛一轮游，排名面临跌出TOP16风险。此前他已在中国公开赛1比6负于吉尔伯特。赛后丁俊晖寄语年轻球员：“以后世界第一都是中国球员。”",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f64f8fc9129b",
-      "title": "世界人形机器人运动会",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A",
+      "id": "3fe8ba26acab",
+      "title": "12306回应无座票二等座同价",
+      "url": "https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "8月24日，“无座票为何和二等座同价”话题登上热搜。铁路12306客服回应称，无座票全称“无固定座位票”，与二等座属同一席别、同一等级，因此价格一致，目前无法单独降价。客服表示，座位指示灯绿、黄色代表暂无人乘坐或未售出，无座乘客可临时休息，持票乘客上车后需让座。票价差异化建议已记录将反馈。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "0288aa38e18b",
-      "title": "扶不扶",
-      "url": "https://www.baidu.com/s?wd=%E6%89%B6%E4%B8%8D%E6%89%B6",
+      "id": "6e5ca899df7d",
+      "title": "超市散装零食何以失守",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E6%95%A3%E8%A3%85%E9%9B%B6%E9%A3%9F%E4%BD%95%E4%BB%A5%E5%A4%B1%E5%AE%88",
       "source": "baidu",
       "category": "general",
-      "summary": "8月17日，湖南衡阳一位老人在牌馆门口歇脚时身子歪倒，店主妻子上前搀扶时被带倒在地，夫妻俩随即拨打120，老人送医后仍不幸离世。司法所介入认定店家无过错，但家属坚持索赔十万，并放话不给钱就把遗体抬到店门口。最终经协商由老人儿子签收赔付近两万元。事件引发讨论，扶了一把，赔付近两万元，以后遇到老人倒地，扶还是不扶？",
+      "summary": "超市散装食品区顾客稀疏，量贩零食店前却常常排起长队，这种冰火两重天的局面，已成为全国社区商业常态。散装食品式微，折射的不只是单一品类的周期起伏，更是传统商超在渠道裂变与消费换代加速演进下的系统性困局。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "d0ad88cad4ca",
-      "title": "台风紫檀致广西宁明多处被淹",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%B4%AB%E6%AA%80%E8%87%B4%E5%B9%BF%E8%A5%BF%E5%AE%81%E6%98%8E%E5%A4%9A%E5%A4%84%E8%A2%AB%E6%B7%B9",
+      "id": "e01653831623",
+      "title": "团伙玩“仙人跳”专坑大学生被判刑",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%A2%E4%BC%99%E7%8E%A9%E2%80%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%E2%80%9D%E4%B8%93%E5%9D%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%A4%E5%88%91",
       "source": "baidu",
       "category": "general",
-      "summary": "受台风“紫檀”影响，广西崇左市宁明县遭遇持续强降雨，江河水位暴涨，街道大部分地方水深达4米，农田被淹、部分乡镇断电断网，有店主称自家餐饮小店被淹、损失惨重，目前停水停电。宁明县已启动防汛一级应急响应，紧急转移群众超1.6万人，抢险救灾工作正在加紧开展。",
+      "summary": "近日，广州市天河区法院公布一起“仙人跳”案终审判决：张某杰、戴某亮等7人长期物色大学生，以交友名义实施诈骗、敲诈勒索、抢劫，涉案金额达17万余元，均被判处有期徒刑。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "077bdeaf09fd",
+      "title": "为照顾植物人丈夫 女子睡了9年沙发",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E7%85%A7%E9%A1%BE%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB+%E5%A5%B3%E5%AD%90%E7%9D%A1%E4%BA%869%E5%B9%B4%E6%B2%99%E5%8F%91",
+      "source": "baidu",
+      "category": "general",
+      "summary": "河南一名女子为照顾因意外摔伤成为‌植物人‌的丈夫，连续‌9年睡在客厅沙发‌上，夜间随时起身为其翻身照料，期间丈夫未生褥疮。她表示“‌丈夫在家就在‌”，将康复床安置于客厅以便随时看护。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +592,75 @@
       "category": "general",
       "summary": "8月24日四川省地震局通报，当日8时26分四川宜宾长宁县发生4.7级地震。成都高新减灾研究所冒用 “中国地震预警网” 名义，通过多款手机、手表推送7.7级错误预警，引发关注。该机构的第三方授权已于7月22日被地震局终止，官方提醒公众认准官方预警渠道。",
       "imageUrl": "",
-      "publishedAt": "2026-08-24T07:13:04.562Z",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "b42230fc95ac",
+      "title": "发苦的丝瓜能降火？不要信",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%91%E8%8B%A6%E7%9A%84%E4%B8%9D%E7%93%9C%E8%83%BD%E9%99%8D%E7%81%AB%EF%BC%9F%E4%B8%8D%E8%A6%81%E4%BF%A1",
+      "source": "baidu",
+      "category": "general",
+      "summary": "不少人以为苦味丝瓜能清热去火，实则葫芦科蔬菜发苦可能含有葫芦素，食用后会引发呕吐腹泻等中毒症状，尝到明显苦味要立刻停食丢弃，洗净厨具。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "647b0ec9ecfa",
+      "title": "俄军向士兵投放便携式激光步枪",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%90%91%E5%A3%AB%E5%85%B5%E6%8A%95%E6%94%BE%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%BF%80%E5%85%89%E6%AD%A5%E6%9E%AA",
+      "source": "baidu",
+      "category": "general",
+      "summary": "据俄媒23日报道，俄军日前向士兵投放部署便携式激光步枪。现场画面显示，记者举起激光步枪瞄准远处目标，目标立刻起火并被烧穿，全程无声。该步枪能量源于士兵背负的储能背包，可发射无声光束精准烧穿物体，可在50-100米外摧毁地雷。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "b2ad95fd3c84",
+      "title": "张韶涵曾因心脏病找母亲要钱未果",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%9B%BE%E5%9B%A0%E5%BF%83%E8%84%8F%E7%97%85%E6%89%BE%E6%AF%8D%E4%BA%B2%E8%A6%81%E9%92%B1%E6%9C%AA%E6%9E%9C",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月23日晚，张韶涵在成都演唱会因天气太热、服装太重突发心脏不适，插氧气管短暂吸氧调整后继续演出。此前她在综艺中透露，自己心脏不好需手术治疗，向母亲要医疗费被拒，母亲称财产不在其名下，她只能从零开始。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "bea387128078",
+      "title": "广东一镇有黑山羊遭蟒蛇袭击",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%95%87%E6%9C%89%E9%BB%91%E5%B1%B1%E7%BE%8A%E9%81%AD%E8%9F%92%E8%9B%87%E8%A2%AD%E5%87%BB",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，广东阳春市双滘镇垌头村附近山头，一条大蟒蛇绞杀并吞食一只放养黑山羊，村民拍下过程并通知相关部门。蟒蛇属国家保护动物，据《广东省陆生野生动物致害补偿办法》，畜禽死亡可按实际价值损失80%申请补偿。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "f3feff94bf75",
+      "title": "歼-16升空！直击中埃空军联合演练",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%BC-16%E5%8D%87%E7%A9%BA%EF%BC%81%E7%9B%B4%E5%87%BB%E4%B8%AD%E5%9F%83%E7%A9%BA%E5%86%9B%E8%81%94%E5%90%88%E6%BC%94%E7%BB%83",
+      "source": "baidu",
+      "category": "general",
+      "summary": "北京时间8月23日，中埃空军联合训练在埃及空军某机场继续进行，中国空军歼-16战机与埃及空军战斗机开展空战对抗训练。双方在联训中密切配合、相互交流，增进了彼此感情，共同提升了技战术水平。此次联训为飞行员锻造实战能力搭建了有益平台。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "8d3014b33dd3",
+      "title": "吴宜泽vs齐津斯",
+      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E9%BD%90%E6%B4%A5%E6%96%AF",
+      "source": "baidu",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-24T08:07:42.858Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-24T07:13:11.917Z"
+  "generatedAt": "2026-08-24T08:07:44.568Z"
 }
