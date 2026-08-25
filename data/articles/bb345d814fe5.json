@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "bb345d814fe5",
+    "title": "Epic CEO 吐槽微软 Ctrl+C 可靠性，让 99% 的 Win10/Win11 用户感到懊恼",
+    "url": "https://www.ithome.com/0/993/795.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/993/795.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 25 日消息，科技媒体 Windows Latest 昨日（8 月 24 日）发布博文，报道称在 X 平台上一张关于 Windows 11、Windows 10 系统剪贴板的梗图蹿红，Epic Games 首席执行官蒂姆 · 斯威尼（Tim Sweeney）也加入讨论。\n\n网友 @OfficialPCMR 于 8 月 23 日在 X 平台发布一张梗图，并配文：“多确认一下总没坏处！”，在 Windows 10、Windows 11 系统中执行复制粘贴操作过程中，可能需要多次按击“Ctrl+C”才能确保成功复制相关内容。\n\n斯威尼随后转发该梗图，并 @ 微软 Windows + 设备执行副总裁帕万 · 达武鲁里（Pavan Davuluri），表示：“很多人都不理解为何按一次 Ctrl+C 并不总是有效，这让 99.99% 的 Windows 用户感到懊恼。”\n\nIT之家曾于今年 1 月报道，异步监听机制与延迟渲染超时，是导致 Windows 11 剪贴板历史记录偶尔会出现“内容丢失”现象的两大核心原因。\n\n如果某个程序调用 OpenClipboard（打开剪贴板）后，没有及时调用 CloseClipboard（关闭剪贴板），或者程序在操作中崩溃，其他应用就无法复制或粘贴内容。\n\n微软工程师 Raymond Chen 解释称，Windows 11 中 Ctrl+C 偶尔“失效”有两类原因：其他程序占用剪贴板时，系统无法打开剪贴板写入新内容；而剪贴板历史采用异步监听，连续快速复制时可能只记录最后一项。微软将后者称为“某种意义上的功能”，并提供等待历史更新完成的开发方案。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-25T00:00:58.526Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

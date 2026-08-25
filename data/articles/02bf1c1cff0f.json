@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 25 日消息，科技媒体 AppleInsider 昨日（8 月 24 日）发布博文，报道称在 macOS 27 Golden Gate 更新中，苹果公司已将终端命令 hdiutil 标记为弃用，预估会在未来版本中移除。\n\nIT之家注：hdiutil 是苹果 macOS 终端中的磁盘镜像工具，自早期 Mac OS X 时代起就用于处理磁盘镜像，可执行挂载、创建、调整和弹出镜像文件等操作。它长期用于系统维护、备份和磁盘修复，也常用它解决系统拒绝弹出“正在使用中的磁盘镜像”等问题。\n\n开发者 Jeff Johnson 最先发现，苹果已在 macOS Golden Gate 中为 hdiutil 添加弃用提示。终端输入 man hdiutil 后，macOS 27.0 的说明会建议用户改用 diskutil image。\n\n苹果表示，diskutil image 支持挂载、创建、调整大小、查看信息和修改密码等操作，而且该命令支持 ASIF（Apple Sparse Image Format，苹果稀疏镜像格式）。\n\n苹果尚未说明何时彻底移除 hdiutil。diskutil image 当前尚未覆盖 hdiutil 的全部功能，且两者行为存在差异。\n\nJohnson 表示，备份流程调用 hdiutil 时，如果文件归 root 用户所有，系统会弹出身份验证提示；diskutil image 则不会提示，而是直接返回通用错误。\n\n该媒体推测苹果弃用 hdiutil 关联安全问题，苹果在 2025 年 10 月 15 日发布的安全更新中修复了 macOS Sonoma 的一个漏洞。该漏洞可能导致执行 hdiutil 命令时意外运行任意代码，苹果称修复方式是移除存在风险的代码。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-24T23:39:29.619Z",
+    "publishedAt": "2026-08-25T00:00:58.530Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
