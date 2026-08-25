@@ -2,193 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "d30de11c5ac4",
-      "title": "大众 CEO 奥博穆称下一轮裁员半数在德国发生，劳资关系紧张加剧",
-      "url": "https://www.ithome.com/0/994/122.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.255Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f6ddc631cafd",
-      "title": "小米公司发言人：近期，多起使用 AI 技术造谣我司的案件被警方侦破",
-      "url": "https://www.ithome.com/0/994/126.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.255Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4cfe4121d47e",
-      "title": "宏碁暗影骑士 · 擎 8 游戏本上市：14650HX + 5060 配置国补后 8999 元",
-      "url": "https://www.ithome.com/0/994/127.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.255Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a57c8c71e4ea",
-      "title": "比亚迪海狮 08 将于 9 月 2 日上市，预售价区间 23 万 ~28 万元",
-      "url": "https://www.ithome.com/0/994/129.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.255Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b324a31deff6",
-      "title": "工信部：今年上半年数字产业收入超 20 万亿元，同比增长 13.6%",
-      "url": "https://www.ithome.com/0/994/133.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.254Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ddef2e272d3c",
-      "title": "文档基金会再度抨击微软 Microsoft 365：功能区没有最佳，只有最合适",
-      "url": "https://www.ithome.com/0/994/142.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.254Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "479480256048",
-      "title": "华为余承东：智界 V9 汽车 7 月高端 MPV 市场零售占有率达到 68%",
-      "url": "https://www.ithome.com/0/994/145.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.254Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e5ff5ab6cb54",
-      "title": "七彩虹 iGame Z890M ULTRA W 主板发售：白化设计，1599 元",
-      "url": "https://www.ithome.com/0/994/146.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.254Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c1f3b3291a3a",
-      "title": "PocketBook Q 迷你电纸书阅读器发布：5.84 英寸 E-ink 屏幕，RK3566 芯片",
-      "url": "https://www.ithome.com/0/994/147.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.253Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "503301707dee",
-      "title": "马斯克首次向 Cursor 全员讲话曝光：称 Grok 已经落后，而他“不习惯失败”",
-      "url": "https://www.ithome.com/0/994/150.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.253Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7c64fef3ebe1",
-      "title": "漫威索尼《蜘蛛侠：崭新之日》内地票房突破 15 亿，全球票房跃居影史前三",
-      "url": "https://www.ithome.com/0/994/151.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.253Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d38d126eb01b",
-      "title": "绿联科技递表港交所，2025 年拿下泛拓展类科技消费电子产品出货全球第一",
-      "url": "https://www.ithome.com/0/994/153.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.253Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f9f7524418b0",
-      "title": "消息称美国向韩国施压，要求其在美大规模投资存储芯片工厂",
-      "url": "https://www.ithome.com/0/994/155.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.252Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e44b63dc9f23",
-      "title": "保时捷柏林之声音响将用上氮化镓，令低音炮更小、更轻、更高效",
-      "url": "https://www.ithome.com/0/994/156.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.252Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "04a139c4b9df",
-      "title": "韵达股份 2026 年上半年归母净利润 9.98 亿元，同比增长 88.82%",
-      "url": "https://www.ithome.com/0/994/157.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.252Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "57d11ec839e1",
-      "title": "消息称马云出手增持，已连日买入阿里港股超 6 亿港元",
-      "url": "https://www.ithome.com/0/994/159.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.252Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "925a90e33d7c",
-      "title": "小米澎湃 HyperOS 4 Beta 版内测新增特别提示，部分第一阶段推送机型已开启第二批招募",
-      "url": "https://www.ithome.com/0/994/161.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.252Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "65b82cd63192",
       "title": "广汽冯兴亚与华为任正非再握手，启境官方称已完成第一阶段的产品与市场检验",
       "url": "https://www.ithome.com/0/994/163.htm",
@@ -196,7 +9,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.251Z",
+      "publishedAt": "2026-08-25T13:59:29.477Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.251Z",
+      "publishedAt": "2026-08-25T13:59:29.477Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.251Z",
+      "publishedAt": "2026-08-25T13:59:29.477Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +42,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.251Z",
+      "publishedAt": "2026-08-25T13:59:29.477Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.251Z",
+      "publishedAt": "2026-08-25T13:59:29.476Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.250Z",
+      "publishedAt": "2026-08-25T13:59:29.476Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,18 +75,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.250Z",
+      "publishedAt": "2026-08-25T13:59:29.476Z",
       "tags": "[\"ithome\"]"
     },
     {
       "id": "cce79e2e0800",
-      "title": "BOSS直聘 2026 财年第二财季归母净利润 19.45 亿元，同比增长 173.1%",
+      "title": "BOSS 直聘 2026 财年第二财季归母净利润 19.45 亿元，同比增长 173.1%",
       "url": "https://www.ithome.com/0/994/171.htm",
       "source": "ithome",
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.250Z",
+      "publishedAt": "2026-08-25T13:59:29.476Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,18 +97,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.250Z",
+      "publishedAt": "2026-08-25T13:59:29.475Z",
       "tags": "[\"ithome\"]"
     },
     {
       "id": "ffd928186318",
-      "title": "BOSS直聘 2026 财年半年报归母净利润 31.02 亿元，同比增长 150.8%",
+      "title": "BOSS 直聘 2026 财年上半年归母净利润 31.02 亿元，同比增长 150.8%",
       "url": "https://www.ithome.com/0/994/173.htm",
       "source": "ithome",
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.249Z",
+      "publishedAt": "2026-08-25T13:59:29.475Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.249Z",
+      "publishedAt": "2026-08-25T13:59:29.475Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.249Z",
+      "publishedAt": "2026-08-25T13:59:29.475Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.249Z",
+      "publishedAt": "2026-08-25T13:59:29.475Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.248Z",
+      "publishedAt": "2026-08-25T13:59:29.474Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.248Z",
+      "publishedAt": "2026-08-25T13:59:29.474Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.248Z",
+      "publishedAt": "2026-08-25T13:59:29.474Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +185,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.247Z",
+      "publishedAt": "2026-08-25T13:59:29.474Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.247Z",
+      "publishedAt": "2026-08-25T13:59:29.473Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.247Z",
+      "publishedAt": "2026-08-25T13:59:29.473Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.246Z",
+      "publishedAt": "2026-08-25T13:59:29.473Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +229,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.246Z",
+      "publishedAt": "2026-08-25T13:59:29.473Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +240,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.246Z",
+      "publishedAt": "2026-08-25T13:59:29.472Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.245Z",
+      "publishedAt": "2026-08-25T13:59:29.472Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +262,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.245Z",
+      "publishedAt": "2026-08-25T13:59:29.472Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.244Z",
+      "publishedAt": "2026-08-25T13:59:29.471Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +284,205 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.244Z",
+      "publishedAt": "2026-08-25T13:59:29.471Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "dcaf542494aa",
+      "title": "广汽领程联合新石器开发的首款无人车 X6 下线，拥有 6 立方米装载空间",
+      "url": "https://www.ithome.com/0/994/201.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.471Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a7f5336809e1",
+      "title": "联想拯救者超神散热器 CR7 套装、游戏手柄 G9 无极发布，首发 499 元",
+      "url": "https://www.ithome.com/0/994/202.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.471Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b47de7070e79",
+      "title": "最高主频 5GHz 全球移动端最快，高通下一代骁龙旗舰平台 CPU 技术公开",
+      "url": "https://www.ithome.com/0/994/203.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.471Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7321e903d66a",
+      "title": "威联通推出 TVS-hx77AX 系列 NAS：AMD 锐龙 5 PRO 7645，ZFS 文件系统",
+      "url": "https://www.ithome.com/0/994/208.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.470Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4ee5d733fe2b",
+      "title": "Global Mobility：预计中国汽车品牌 2030 年在欧洲年产量将达百万辆",
+      "url": "https://www.ithome.com/0/994/209.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.470Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3142a0e7d242",
+      "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
+      "url": "https://www.ithome.com/0/994/211.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.470Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b31917de1229",
+      "title": "华硕 ROG Xbox Ally X20 掌机价格公布：1299 美元起，升级 7.4 寸 OLED 屏",
+      "url": "https://www.ithome.com/0/994/212.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.469Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ea981eaf5a6c",
+      "title": "7580 元起：佳明发布 fēnix 9 系列智能手表，Pro 首次采用 NMT 纳米成型技术全钛金属表身",
+      "url": "https://www.ithome.com/0/994/213.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.469Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "de7c2676607a",
+      "title": "华硕宣布 3 款 Wi-Fi 8 无线路由器“很快上市”",
+      "url": "https://www.ithome.com/0/994/214.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.469Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "337bf18e0f8f",
+      "title": "苹果推出全新 Mac Studio，可选 M5 Max 或 M5 Ultra 处理器，19999 元起售",
+      "url": "https://www.ithome.com/0/994/215.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.468Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9d29d7f12154",
+      "title": "全新一代智己 L6 定档 8 月 28 日正式上市，新车预售权益价 21.99 万元起",
+      "url": "https://www.ithome.com/0/994/216.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.468Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "43af19c6b2fe",
+      "title": "Uber 优步推出青少年乘车新安全功能：家长可实时查看网约车内视频监控",
+      "url": "https://www.ithome.com/0/994/218.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.468Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6e4b03e1497d",
+      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
+      "url": "https://www.ithome.com/0/994/219.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.467Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "db0908be3eed",
+      "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
+      "url": "https://www.ithome.com/0/994/220.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.467Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8821dd7c0c9f",
+      "title": "消息称捷豹路虎放慢卫士车型换代节奏，纯电版跳票至本世纪 30 年代",
+      "url": "https://www.ithome.com/0/994/221.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.466Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b9a789576dd5",
+      "title": "华硕 ROG 公布 Gladius IV Ace、Spatha X 65K 鼠标，搭载 65000dpi 传感器",
+      "url": "https://www.ithome.com/0/994/222.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.466Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "90a9e287df54",
+      "title": "中科曙光 2026 年上半年归母净利润 9.71 亿元，同比增长 33.31%",
+      "url": "https://www.ithome.com/0/994/224.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.465Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "dc2ca72f1f4f",
+      "title": "赵长江透露智界 V9 旗舰 MPV 明年可升级 L3，此前已官宣有硬件预埋",
+      "url": "https://www.ithome.com/0/994/225.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:29.465Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,18 +493,18 @@
       "category": "general",
       "summary": "近日，为整治火箭军采购领域问题，官方发布公告，面向社会公开征集违规采购相关线索，广泛接受社会监督。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "e7eaf538252e",
-      "title": "自动驾驶违法 车企担责",
-      "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BF%9D%E6%B3%95+%E8%BD%A6%E4%BC%81%E6%8B%85%E8%B4%A3",
+      "id": "5fd9295e3e49",
+      "title": "在韩失联25岁中国女生已遇害",
+      "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%9425%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%B7%B2%E9%81%87%E5%AE%B3",
       "source": "baidu",
       "category": "general",
-      "summary": "8月25日，道路交通安全法修订草案提请十四届全国人大常委会第二十四次会议初次审议。草案增设自动驾驶汽车特别规定专章，明确自动驾驶功能激活状态下发生道路交通安全违法行为的，由汽车生产进口企业接受处理；未激活或仅具备辅助驾驶功能的，按非自动驾驶汽车规定管理。",
+      "summary": "韩国警方8月25日通报，此前在韩国庆尚北道庆山市失踪的25岁中国女留学生已确认遇害，警方当天在庆山市抓获一名30多岁男性嫌疑人并执行拘留，在其住处发现受害者遗体，正就犯罪动机和过程展开讯问，并计划尸检确认死因。此前，该留学生8月14日入境韩国领取结业证，8月20日晚毕业典礼后与亲友失联，最后行踪出现在东大邱站附近。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -504,95 +515,7 @@
       "category": "general",
       "summary": "2026年8月1日至30日，铁路12306火车票学生预约购票服务新增新生预约功能。符合条件的2026级新生，可在铁路12306手机客户端从“我的”选项进入“学生预约购票服务”专区，勾选“新生入学”方框。尚未填写学生优惠资质信息的新生，按指引如实填写信息，提交后即可预约购票。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "517fd9d87550",
-      "title": "钟睒睒捐出9.27亿市值公司股份",
-      "url": "https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8D%90%E5%87%BA9.27%E4%BA%BF%E5%B8%82%E5%80%BC%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月25日，万泰生物发布公告，公司实际控制人钟睒睒向福建省翔安创新实验室科技发展基金会无偿捐赠直接持有的3300万股无限售条件流通股，占公司总股本的2.61%。按25日收盘价28.10元/股计算，本次捐赠股票价值约9.27亿元。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1d2ed1088e2e",
-      "title": "50国发表反俄声明 美国未参与",
-      "url": "https://www.baidu.com/s?wd=50%E5%9B%BD%E5%8F%91%E8%A1%A8%E5%8F%8D%E4%BF%84%E5%A3%B0%E6%98%8E+%E7%BE%8E%E5%9B%BD%E6%9C%AA%E5%8F%82%E4%B8%8E",
-      "source": "baidu",
-      "category": "general",
-      "summary": "据俄新社8月24日报道，联合国193个成员国中有50个成员国支持涉及乌克兰问题的反俄声明，美国未加入。声明由丹麦外交大臣拉斯穆森宣读，将俄罗斯特别军事行动称作“非法的全面军事入侵”，呼吁俄罗斯同意“全面、立即且无条件停火”。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "e6c0942bfed2",
-      "title": "榴莲价格彻底“崩了”",
-      "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，全国多城榴莲价格断崖式回落，商超促销价低至19.9元/斤，越南金枕榴莲批发价跌破15元/斤，终端成本较往年近乎腰斩。此前榴莲因储运苛刻、损耗率高致售价高昂；今年中老铁路全铁冷链班列常态化运行，东南亚鲜果最快3天直达中国，损耗率降至3%以内，叠加进口来源拓宽，榴莲告别高价稀缺时代。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "0eabed37835c",
-      "title": "宇树研发费用或比牧原养猪经费还低",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A0%94%E5%8F%91%E8%B4%B9%E7%94%A8%E6%88%96%E6%AF%94%E7%89%A7%E5%8E%9F%E5%85%BB%E7%8C%AA%E7%BB%8F%E8%B4%B9%E8%BF%98%E4%BD%8E",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，著名经济学家付鹏表示，宇树作为行业标杆，融资应用于进一步研发，但从其财务报表看，其研发经费比牧原养猪的研发经费还低，他认为这属于早期迹象。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "cd00f4745b35",
-      "title": "8.86秒！人形机器人百米再破纪录",
-      "url": "https://www.baidu.com/s?wd=8.86%E7%A7%92%EF%BC%81%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月25日，第二届世界人形机器人运动会大型组100米复赛，来自北京人形机器人创新中心的天工机器人跑出8.86秒最好成绩，再次刷新纪录。此前开幕式上该机器人曾跑出9.39秒。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6e57b224a928",
-      "title": "赵丽颖突发身体不适 取消直播活动",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AA%81%E5%8F%91%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82+%E5%8F%96%E6%B6%88%E7%9B%B4%E6%92%AD%E6%B4%BB%E5%8A%A8",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月25日，赵丽颖工作室发文称，因赵丽颖突发身体不适，无法完成本次活动，经与品牌方紧急沟通后决定取消直播。工作室向等候的观众致歉，并表示如直播补档时间确定，将第一时间告知。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "84726058e791",
-      "title": "赵心童vs琼斯",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E7%90%BC%E6%96%AF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "d1334825e9e5",
-      "title": "武汉轮椅老人上高架蓄意碰瓷不实",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%BD%AE%E6%A4%85%E8%80%81%E4%BA%BA%E4%B8%8A%E9%AB%98%E6%9E%B6%E8%93%84%E6%84%8F%E7%A2%B0%E7%93%B7%E4%B8%8D%E5%AE%9E",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，网传武汉老人驾电动轮椅高架逆行被猜测蓄意碰瓷，警方通报，老人因病意识模糊误入高架，并非碰瓷，已被安全送回。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,29 +526,18 @@
       "category": "general",
       "summary": "8月24日，由30多个向乌克兰提供军事支持的国家组成的“志愿联盟”宣布，将在俄乌停火达成后立即向乌克兰派兵，相关部队正在作准备。“志愿联盟”在召开视频会议后发表了上述声明，此次会议由英国首相伯纳姆、法国总统马克龙和德国总理默茨共同出席。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "09dfdde5abf0",
-      "title": "梭子蟹上市第一批“受害者”出现",
-      "url": "https://www.baidu.com/s?wd=%E6%A2%AD%E5%AD%90%E8%9F%B9%E4%B8%8A%E5%B8%82%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E5%8F%97%E5%AE%B3%E8%80%85%E2%80%9D%E5%87%BA%E7%8E%B0",
-      "source": "baidu",
-      "category": "business",
-      "summary": "8月15日，一桌子梭子蟹还没动几口，60岁的王女士就因“省事”付出了代价。她在吃梭子蟹时，嫌工具剥壳烦琐，直接用牙齿啃咬坚硬蟹钳，一声脆响后，牙齿出现明显缺损。医生提醒：“每年蟹类上市季，都是牙体损伤、牙齿敏感等口腔问题的高发期，市民品尝美味切勿贪图方便，避免用牙硬啃蟹壳，引发口腔损伤。”",
-      "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c461eccfb480",
-      "title": "第一个1000公里地铁城市要来了",
-      "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E4%B8%AA1000%E5%85%AC%E9%87%8C%E5%9C%B0%E9%93%81%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86",
+      "id": "8be615abd6df",
+      "title": "垃圾桶用了三年才发现用错了",
+      "url": "https://www.baidu.com/s?wd=%E5%9E%83%E5%9C%BE%E6%A1%B6%E7%94%A8%E4%BA%86%E4%B8%89%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E7%94%A8%E9%94%99%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，上海发布“十五五”交通规划提出，将推动19、20、21、23号等线路建设，到2030年城市轨道交通里程达1260公里。",
+      "summary": "近日，一女子用了3年垃圾桶才发现用错：盖子边缘藏有凹槽，轻按即弹开，不必再费力掀盖。她表示：准备扔了才发现怎么打开。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,31 +548,119 @@
       "category": "general",
       "summary": "一项发表于《公共科学图书馆·综合》的研究显示，45岁大学教授以自身做实验，经8个月严格调整生活方式——限时饮食、地中海膳食、每日运动、早睡早起，身体年龄年轻近15岁，代谢、心率、深度睡眠、肠道菌群均获改善。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "e9bbd8bad797",
-      "title": "丢掉的塑料瓶被做成饼干了",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%A2%E6%8E%89%E7%9A%84%E5%A1%91%E6%96%99%E7%93%B6%E8%A2%AB%E5%81%9A%E6%88%90%E9%A5%BC%E5%B9%B2%E4%BA%86",
+      "id": "e6c0942bfed2",
+      "title": "榴莲价格彻底“崩了”",
+      "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "2026年美国化学学会秋季会议上，南伊利诺伊大学团队发布新技术，将废弃PET塑料瓶转化为可食用高蛋白饼干，该项目最终将服务深空探索任务，同时有望缓解未来的粮食危机。",
+      "summary": "近日，全国多城榴莲价格断崖式回落，商超促销价低至19.9元/斤，越南金枕榴莲批发价跌破15元/斤，终端成本较往年近乎腰斩。此前榴莲因储运苛刻、损耗率高致售价高昂；今年中老铁路全铁冷链班列常态化运行，东南亚鲜果最快3天直达中国，损耗率降至3%以内，叠加进口来源拓宽，榴莲告别高价稀缺时代。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "4e5676efb5f4",
-      "title": "25岁中国女生赴韩领毕业证失联多日",
-      "url": "https://www.baidu.com/s?wd=25%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E8%B5%B4%E9%9F%A9%E9%A2%86%E6%AF%95%E4%B8%9A%E8%AF%81%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5",
+      "id": "1a16e91f5be8",
+      "title": "小天才电话手表 体重超重",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%A4%A9%E6%89%8D%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8+%E4%BD%93%E9%87%8D%E8%B6%85%E9%87%8D",
       "source": "baidu",
       "category": "general",
-      "summary": "8月25日，25岁留学生赴韩领毕业证失联多日，中领馆表示：已紧急联系大邱警方，要求其尽快开展调查，全力查找失联人员下落。",
+      "summary": "近日，网友晒出小天才电话手表截图，身高167cm、体重50.5kg的女孩被手表判定“偏重”，标注“体重超过99%的同龄女生”，引发对儿童体重焦虑的担忧。8月25日，小天才客服回应，判定由用户手动录入数据后依据BMI自动生成，参考国家卫健委标准。",
       "imageUrl": "",
-      "publishedAt": "2026-08-25T13:00:31.742Z",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "eb3d37a2cefa",
+      "title": "三台风 气候异常",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%B0%E9%A3%8E+%E6%B0%94%E5%80%99%E5%BC%82%E5%B8%B8",
+      "source": "baidu",
+      "category": "general",
+      "summary": "本周有三个台风接连登陆我国，华南、华东多地将遭遇强风雨。专家分析，副热带高压异常偏北，加上海温高、越赤道气流强盛，造成台风扎堆，或与超强厄尔尼诺发展有关，未来仍可能有新台风生成。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "6d0df58902d5",
+      "title": "5-2！赵心童击败杰克琼斯",
+      "url": "https://www.baidu.com/s?wd=5-2%EF%BC%81%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%87%BB%E8%B4%A5%E6%9D%B0%E5%85%8B%E7%90%BC%E6%96%AF",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月25日，在斯诺克武汉公开赛32进16轮次中，赵心童以5比2击败威尔士名将杰克琼斯，晋级16强。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d1334825e9e5",
+      "title": "武汉轮椅老人上高架蓄意碰瓷不实",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E8%BD%AE%E6%A4%85%E8%80%81%E4%BA%BA%E4%B8%8A%E9%AB%98%E6%9E%B6%E8%93%84%E6%84%8F%E7%A2%B0%E7%93%B7%E4%B8%8D%E5%AE%9E",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，网传武汉老人驾电动轮椅高架逆行被猜测蓄意碰瓷，警方通报，老人因病意识模糊误入高架，并非碰瓷，已被安全送回。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "09dfdde5abf0",
+      "title": "梭子蟹上市第一批“受害者”出现",
+      "url": "https://www.baidu.com/s?wd=%E6%A2%AD%E5%AD%90%E8%9F%B9%E4%B8%8A%E5%B8%82%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E5%8F%97%E5%AE%B3%E8%80%85%E2%80%9D%E5%87%BA%E7%8E%B0",
+      "source": "baidu",
+      "category": "business",
+      "summary": "8月15日，一桌子梭子蟹还没动几口，60岁的王女士就因“省事”付出了代价。她在吃梭子蟹时，嫌工具剥壳烦琐，直接用牙齿啃咬坚硬蟹钳，一声脆响后，牙齿出现明显缺损。医生提醒：“每年蟹类上市季，都是牙体损伤、牙齿敏感等口腔问题的高发期，市民品尝美味切勿贪图方便，避免用牙硬啃蟹壳，引发口腔损伤。”",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "c63e2cb071f6",
+      "title": "32岁小伙靠给人抓痒开出两家店",
+      "url": "https://www.baidu.com/s?wd=32%E5%B2%81%E5%B0%8F%E4%BC%99%E9%9D%A0%E7%BB%99%E4%BA%BA%E6%8A%93%E7%97%92%E5%BC%80%E5%87%BA%E4%B8%A4%E5%AE%B6%E5%BA%97",
+      "source": "baidu",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "e1170963ec06",
+      "title": "爷爷奶奶外公爸爸妈妈姐姐弟弟全来了",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E5%A4%96%E5%85%AC%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E5%A7%90%E5%A7%90%E5%BC%9F%E5%BC%9F%E5%85%A8%E6%9D%A5%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，湖南一高考683分女生由一家九口乘飞机陪同至上海报到入学，入读电气工程学院。家人称孩子从小独立，此行顺道旅游，爷爷寄语“祝她越飞越高”。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "6e57b224a928",
+      "title": "赵丽颖突发身体不适 取消直播活动",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AA%81%E5%8F%91%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82+%E5%8F%96%E6%B6%88%E7%9B%B4%E6%92%AD%E6%B4%BB%E5%8A%A8",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月25日，赵丽颖工作室发文称，因赵丽颖突发身体不适，无法完成本次活动，经与品牌方紧急沟通后决定取消直播。工作室向等候的观众致歉，并表示如直播补档时间确定，将第一时间告知。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "1dd0fd11bd33",
+      "title": "杭州警方通报网传“电梯间遭猥亵”",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B5%E6%A2%AF%E9%97%B4%E9%81%AD%E7%8C%A5%E4%BA%B5%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，网传杭州滨江一公寓电梯内女子遭男子猥亵引发热议。警方8月25日通报，纠纷源于宠物狗问题，监控证实猥亵控告不实，涉事三人均不予行政处罚。女子在网上发布不实信息，涉嫌扰乱公共秩序，已被立案调查，案件仍在办理。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-25T13:59:30.194Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-25T13:00:33.939Z"
+  "generatedAt": "2026-08-25T13:59:32.914Z"
 }
