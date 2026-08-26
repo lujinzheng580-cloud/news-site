@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e68a333b2499",
+    "title": "24 个调试补丁、18 次内核启动：Linux 之父托瓦兹借助 AI 定位 Intel Xe 黑屏故障",
+    "url": "https://www.ithome.com/0/994/499.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/994/499.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 26 日消息，科技媒体 Linuxiac 昨日（8 月 25 日）发布博文，报道称 Linux 创始人林纳斯 · 托瓦兹（Linus Torvalds）借助 AI，通过 24 个调试补丁、18 次内核启动，成功排查 Intel Xe  图形驱动中的内存破坏漏洞。\n\n托瓦兹描述本次排查过程为“地狱般的调试过程”，在其 Intel Battlemage G21（配备 16 GiB VRAM）上 GDM（GNOME 显示管理器）反复重启合成器，屏幕最终保持黑屏。IT之家附上相关截图如下：\n\n该问题出现在 Xe DRM 驱动的 Flat CCS 内存处理环节，根源来自 get_flat_ccs_offset () 函数的地址计算。\n\n该函数先计算保留 CCS 存储区的起始位置，再将地址向上对齐到 128 KiB 边界。但随后，低于这个计算地址的全部空间都被 VRAM 分配器当作可用内存。这样一来，合成器首次提交 GPU 任务便失败，GDM 随即重启合成器，系统陷入黑屏。\n\n托瓦兹表示，最终修复只涉及把错误的 round_up () 改为 round_down ()。不过，定位过程远比修复代码复杂：他累计添加 24 个补丁，用于逐步增加调试信息，并启动内核 18 次，才锁定内存破坏的具体原因。\n\n托瓦兹表示在本次调试过程中，AI 承担添加调试代码和分析输出结果等大量重复工作。在调用处理过程中，AI 多次得出该问题无法解决的结论，不过在托瓦兹的多次协调指导下，不断推进让 AI 生成新的调试工具并分析结果，直至定位底层内存破坏。调查结束后，托瓦兹还让 AI 撰写了详细的提交说明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-26T05:52:08.578Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
