@@ -8,10 +8,10 @@
     "sourceId": "https://www.ithome.com/0/994/309.htm",
     "category": "general",
     "summary": "",
-    "content": "IT之家 8 月 26 日消息，在今天召开的科隆游戏展期间，英伟达宣布在今年秋季上市之前，扩大 RTX Spark 的游戏支持范围，携手 Electronic Arts、Embark Studios 和 Ubisoft 开发商，共同完善游戏生态。\n\nIT之家援引博文介绍，目前确认支持的新增游戏包括：\n\n《Apex 英雄》（Apex Legends）\n\n《纪元 117：罗马和平》（Anno 117：Pax Romana）\n\n英伟达在博文中还指出，RTX Spark 将会原生支持 EA Javelin 反作弊系统，并确认《EA SPORTS F1 25》将支持这套反作弊系统。不过，英伟达尚未公布能够在 RTX Spark 上使用 Javelin 的完整 EA 游戏名单。\n\n部分多人游戏无法单纯依赖 Windows 现有的 x64 application emulation 运行机制，因此需要针对 Arm 平台提供原生反作弊适配。\n\nRTX Spark 将 Blackwell 架构 RTX GPU 与 Grace CPU 结合，主要规格包括：\n\nRTX GPU 最高搭载 6,144 个 CUDA 核心；\n\nFP4 AI 性能最高达 1 PFLOP；\n\n支持 DLSS、Reflex 和 G-SYNC 等游戏技术；\n\n运行基于 Arm 架构的 Windows。",
+    "content": "",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-26T00:02:02.572Z",
+    "publishedAt": "2026-08-26T02:00:45.265Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
