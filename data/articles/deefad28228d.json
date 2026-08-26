@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 26 日消息，科技媒体 AppleInsider 昨日（8 月 25 日）发布博文，报道称 Parallels Desktop 27 已发布，新增基于 Metal 的图形驱动，为 Windows 虚拟机带来 OpenGL 4.3 支持。\n\nIT之家援引博文介绍，新版本采用基于 Metal 的图形驱动，为 Windows 虚拟机加入 OpenGL 4.3 支持，覆盖 ArcGIS Pro、ZWCAD 和 Blender 4.3 等专业应用。\n\nParallels 声称，在搭载 M3 及后续处理器的 Mac 设备上，OpenGL 性能最高提升 160%，ArcGIS Pro 三维渲染速度最高提升 35%。\n\nParallels Desktop 27 还为 M4 及后续款 Mac 上的 Linux 和 Windows 虚拟机加入可扩展矩阵扩展 2（SME2）指令支持。官方称，该功能可让 AI 和机器学习矩阵运算速度最高提升 7 倍，神经网络推理速度最高提升 1.75 倍。\n\n新版还改善 Ollama 和 llama.cpp 等工具在虚拟机中的运行性能，对于需要在本地构建、测试 AI 工作负载的开发者，这项升级可以减少对云端算力额度的依赖。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-26T02:00:45.259Z",
+    "publishedAt": "2026-08-26T03:27:15.435Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
