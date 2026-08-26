@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 26 日消息，科技媒体 Android Authority 昨日（8 月 25 日）发布博文，报道称谷歌计划为 Android XR 引入“聆听区域”（Listening area）设置，提供“仅前方”和“周边区域”2 种麦克风模式。\n\n该媒体通过逆向拆解 Google Translate for Android 10.32.66 版本，发现了“聆听区域”相关文本字符串。\n\nIT之家援引博文介绍，这项设置可能位于“翻译设置”菜单中，并明确标注“仅限眼镜”（Glasses only），因此目标设备是运行 Android XR 的智能眼镜。\n\n模式方面，根据拆解文本，该功能会提供 2 种模式：\n\n第 1 种是“仅前方”（Front only），用于翻译用户正前方传来的语音。该模式更适合一对一对话，也可能帮助设备减少背景噪声，把注意力集中在面前的说话者身上。\n\n第 2 种是“周边区域”（Surrounding area），用于翻译附近区域内的所有语音。相关说明暗示，该模式可能调用 Android XR 设备上的完整麦克风阵列，以扩大语音拾取范围。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-26T04:19:11.762Z",
+    "publishedAt": "2026-08-26T05:07:41.304Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
