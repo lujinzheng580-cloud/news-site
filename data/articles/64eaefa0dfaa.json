@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "64eaefa0dfaa",
+    "title": "全流程国产化！思特威推出首颗高端国产化平台 2 亿像素手机 CMOS 新品 SCC85XS",
+    "url": "https://www.ithome.com/0/994/883.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/994/883.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 27 日消息，CMOS 图像传感器供应商思特威今日宣布推出基于国产化技术平台 SmartClarity‑SL Pro 打造的全新高端 2 亿像素、0.61μm 像素尺寸超高清手机 CMOS 图像传感器 —— SCC85XS。\n\n新品采用 22nm Stack 工艺制程，搭载思特威 SFCPixel‑SL、PixGain HDR、AllPix ADAF 以及硬件 Hex Crop Remosaic（片上像素重组）等多项核心技术。\n\n此外，新品支持全焦段高帧率高动态范围视频拍摄，可灵活适配于高端旗舰手机的主摄、长焦以及广角等多类型摄像头。\n\n作为思特威首颗基于全流程高端国产化 SmartClarity‑SL Pro 平台打造的 0.61μm 超小像素手机 CMOS 图像传感器，SCC85XS 实现了从芯片设计、工艺开发到量产落地的全流程国产化，进一步夯实高端手机超高像素 CIS 供应链自主可控能力。\n\n在 2 亿像素超高清分辨率架构下，SCC85XS 支持传感器内 2 倍（有效像素 50MP）及 4 倍（有效像素 12.5MP）无损变焦。同时，SCC85XS 支持全窗口 Full-size 输出，能够完整还原超高分辨率画面。\n\n功耗方面，依托 22nm Stack 堆叠工艺与 SmartClarity‑SL Pro 技术平台，SCC85XS 在长时间高帧率视频录制场景下表现出更低的发热水平。\n\n依托于思特威 SmartClarity-SL Pro 技术平台及专利 SFCPixel-SL 技术，SCC85XS 在噪声抑制上实现了显著优化。在 200MP 及 50MP 模式下，其读取噪声仅约 0.8e-，较行业同规格产品降低约 32%；12.5MP 模式下，其读取噪声可低至 1.4e-，较行业同规格产品降低约 17%。\n\nSCC85XS 搭载思特威专利 Narrow BDTI（NBDTI）与升级 Low‑n Grid 光学架构，在小像素设计下实现了色彩还原和感度的双重提升。NBDTI 超窄像素隔离结构可降低相邻像素间的光串扰，减少色彩混杂，使成像色彩真实准确。Low‑n Grid 光学结构则在抑制光学串扰的基础上，进一步提升光学感度，使 SCC85XS 峰值量子效率（peak QE）达 80%，从而优化弱光场景成像亮度与清晰度。\n\nSCC85XS 集成硬件 Hex Crop Remosaic（片上像素重组）能力，可在 ROI 开窗区域（中心裁切 12.5MP）内通过硬件电路完成像素阵列重构，直接输出标准 RGGB 拜耳 RAW 图像数据。该技术支持 4 倍（有效像素 12.5MP）变焦下高清视频输出，并降低后端图像处理的算力负载，同时 SCC85XS 硬件集成 Quad Remosaic，可支持 2 倍（有效像素 50MP）变焦下 50MP 全尺寸高清视频输出。\n\n通过片上像素重组技术，智能手机设备在输出高清图像与视频时，能够在降低延迟的同时释放算力负载，适配 AI 修图、视频预览及后期剪辑等高算力场景，实现超高分辨率成像与整机系统效率的双重优化。\n\nSCC85XS 搭载思特威专利 PixGain HDR 技术，动态范围可达 83dB，并支持普通模式下 4K 120fps 超高帧率视频以及全焦段 4K 60fps HDR 高帧率高动态范围视频拍摄。\n\nSCC85XS 搭载思特威 AllPix ADAF 及 Sparse PDAF 技术，在 1X 和 2X 焦段下，通过 100% 全像素对焦和 6% 部分像素对焦，可满足不同环境光线下的快速对焦与功耗平衡；在 4X 焦段下开启 AllPix ADAF 模式，通过 100% 全像素对焦实现快速、精准的对焦效果。此外，SCC85XS 支持 PixGain HDR + VS 闪拍模式，帮助终端设备在快速运动场景下抓拍清晰画面，提升动态场景下的拍摄成片率。\n\nSCC85XS 将于 2026 年 12 月接受送样，并于 2027 年 Q1 实现量产，IT之家附参数表如下：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-27T03:22:51.281Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
