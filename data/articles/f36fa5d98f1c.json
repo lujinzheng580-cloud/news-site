@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f36fa5d98f1c",
+    "title": "刷新纪录：美国 Pure Lithium 公司锂金属电池循环测试突破 9315 次",
+    "url": "https://www.ithome.com/0/995/260.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/995/260.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 27 日消息，总部位于芝加哥的锂金属电池技术公司 Pure Lithium 今日宣布，其采用 Advanced Anode 技术的电池在实验室测试中已成功完成超过 9,315 次充放电循环。这是目前已知的锂金属电池在同等测试条件下取得的最好成绩。\n\nIT之家从官方获悉，该项测试在 100% 放电深度（Depth of Discharge, DoD）以及 1C 充放电速率下进行。\n\n作为对比，商用锂离子电池的循环寿命通常根据化学体系和应用场景不同，在 250 次至 2,000 次之间，Pure Lithium 的测试结果已超过该区间上限的四倍以上，且测试中电池未见明显容量衰减。\n\n公司创始人、董事长兼首席执行官埃米莉 · 博多安（Emilie Bodoin）表示，这一循环寿命对储能平准化成本（Levelized Cost of Storage, LCOS）意义重大，有望将 LCOS 降低 75%。她强调，这一结果将锂金属电池的应用范围从特定高能领域扩展至电网级储能、数据中心及电动汽车等市场。\n\n锂金属负极的能量密度约为传统石墨负极的十倍。用锂金属替换石墨可将电池能量密度提升一倍，同时显著减轻重量并降低成本。然而循环寿命短此前一直是其商业化的主要障碍。\n\nPure Lithium 表示其研发采用第一性原理（First Principles）方法，未局限于单一部件优化，而是对整个电池制造流程进行了重新设计，覆盖负极、电解液、电芯架构及材料供应链。该公司曾在 2025 年 1 月公布超过 2,200 次循环的测试结果，当时其容量保持率超过 80%。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-27T14:32:42.710Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
