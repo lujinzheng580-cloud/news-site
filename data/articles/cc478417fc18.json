@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "cc478417fc18",
+    "title": "AMD 发布 ROCm 10.0.0，重点关注 AI 推理、开发者工具、性能分析",
+    "url": "https://www.ithome.com/0/995/683.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/995/683.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 28 日消息，AMD 本周发布了 GPU 加速计算开放软件堆栈 ROCm 的 10.0.0 版本，这一版本号旨在纪念其诞生 10 周年。新版本重点关注 Instinct、Radeon、Ryzen AI 平台上的 AI 推理、开发者工具、性能分析。\n\nROCm 10.0.0 扩展了对 GPU、虚拟化的支持，将 8GB 与 4GB 显存版本的 Radeon RX 9050 显卡纳入其中；升级了 PyTorch、JAX、vLLM、SGLang、MIGraphX、ONNX Runtime 人工智能框架；改进 HIP 性能；更新数学、稀疏、通信库。\n\nAMD 还向用户开放了 ROCm.AI。其可利用人工智能技术加速 AMD 硬件上的开发速度和性能优化，包括 ROCm Hyperloom 自主智能体系统、AMD Skills 技能库、ROCm CLI 命令行界面。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-28T11:28:21.243Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

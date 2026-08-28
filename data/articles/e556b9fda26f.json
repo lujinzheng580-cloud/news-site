@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e556b9fda26f",
+    "title": "消息称 Meta 一度预计今年要在 Anthropic 服务上花 100 亿美元",
+    "url": "https://www.ithome.com/0/995/690.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/995/690.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 8 月 28 日消息，《纽约时报》在其当地时间 27 日的报道中表示，Meta 在今年 4 月左右曾一度预计今年需要为 Anthropic 的人工智能服务支出约 100 亿美元（IT之家注：现汇率约合 673.72 亿元人民币）。\n\n随着外部 AI 服务价格的提升，Meta 此后结束了内部的“词元最大化”(tokenmaxxing) 竞争，并将更多 AI 需求转移到内部工具上。这些举措推动该企业在 6 月对全年人工智能应用支出给出了“数十亿美元”的新指引。\n\nMeta 是 Anthropic 的主要客户之一，双方也是针锋相对的竞争对手。报道指出，Meta 一度在 Hatch 智能体平台的内部测试中使用了 Anthropic 的 AI，但其正式版本则将由 Meta 内部模型驱动。Meta 减少使用 Anthropic 服务也能在一定程度上削减后者的年化收入，为 Anthropic 的 IPO 带来利空。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-28T11:28:21.243Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
