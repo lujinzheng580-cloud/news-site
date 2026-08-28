@@ -2,270 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "df148815951a",
-      "title": "英国实施全球首例 AI 实时辅助脑外科手术，成功切除脑部肿瘤",
-      "url": "https://www.ithome.com/0/995/255.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.712Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "399358fbb7a3",
-      "title": "宏碁推出 A543 二合一 Windows 平板：赛扬 J4105 + 16G + 1T 售 4299 元",
-      "url": "https://www.ithome.com/0/995/256.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.711Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e27d15b72306",
-      "title": "首个入驻纽约时代广场的中国影像品牌，影石官宣北美旗舰店 9 月开业",
-      "url": "https://www.ithome.com/0/995/257.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.711Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "9df161976b96",
-      "title": "NFS 改进合入 Linux 7.3：客户端 I/O 优化落地",
-      "url": "https://www.ithome.com/0/995/258.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.711Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f2f4e44be3ad",
-      "title": "游族网络 2026 年上半年归母净利润 2.53 亿元，同比增长 403.8%",
-      "url": "https://www.ithome.com/0/995/259.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.711Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f36fa5d98f1c",
-      "title": "刷新纪录：美国 Pure Lithium 公司锂金属电池循环测试突破 9315 次",
-      "url": "https://www.ithome.com/0/995/260.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.710Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7a77bac63e7b",
-      "title": "国家航天局紧急调度卫星资源，全力保障西藏吉隆县泥石流抢险救灾",
-      "url": "https://www.ithome.com/0/995/262.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.710Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "eafe3f60b1ea",
-      "title": "DC《超人：明日之子》宣布杀青，2027 年 7 月 9 日上映",
-      "url": "https://www.ithome.com/0/995/263.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.710Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7c6d262dee4f",
-      "title": "安克 MagGo 磁吸移动电源 2.0 版本曝光：升级 25W Qi2.2 无线充电、支持查看 iPhone 型号",
-      "url": "https://www.ithome.com/0/995/264.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.710Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "bc16e023a937",
-      "title": "海尔智家 2026 年上半年归母净利润 103.16 亿元，同比下降 14.27%",
-      "url": "https://www.ithome.com/0/995/265.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.709Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c2cb7cf122ee",
-      "title": "微软确认 Win11 KB5121003 游戏崩溃与 RGB 驱动有关，正阻止相关驱动加载",
-      "url": "https://www.ithome.com/0/995/266.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.709Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "128165d57d65",
-      "title": "腾讯《王者万象棋》官宣定档 9 月 10 日，全网预约人数超 7000 万",
-      "url": "https://www.ithome.com/0/995/267.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.709Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "735380f524bd",
-      "title": "同比暴增 318054.9%：天齐锂业 2026 上半年扣非净利润 42 亿元",
-      "url": "https://www.ithome.com/0/995/269.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.709Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e215fc58eeea",
-      "title": "神舟推出战神 mini R78D 迷你主机：搭锐龙 7 8745HS 处理器，准系统 1999 元",
-      "url": "https://www.ithome.com/0/995/271.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.709Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f0abe3d7a6fb",
-      "title": "微软 XBOX CEO 夏尔马：游戏硬件行业应寻求兼顾可负担性和效率",
-      "url": "https://www.ithome.com/0/995/273.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.708Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "adb90cb69fe9",
-      "title": "全球最快四缸跑车再进化：莲花 Emira 420 Sport 官宣 8 月 31 日登陆中国市场，420 马力、3.9 秒破百",
-      "url": "https://www.ithome.com/0/995/275.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.708Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d7bc5d904a26",
-      "title": "德明利 2026 年上半年归母净利润 60.17 亿元，同比增长 5201.6%",
-      "url": "https://www.ithome.com/0/995/276.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.708Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ca5e26e46d72",
-      "title": "安全公司曝光 77 款 Firefox 火狐浏览器恶意插件，可窃取用户设备剪贴板 / 密码凭据信息",
-      "url": "https://www.ithome.com/0/995/277.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.708Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7217e076f58b",
-      "title": "荣耀 HONOR Life FlyClip 3i 耳夹耳机发售：10.8mm 双磁动圈、48 小时综合续航，235 元",
-      "url": "https://www.ithome.com/0/995/278.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.708Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "62ca1a54e76c",
-      "title": "本田确认暂不考虑在美国“复活”飞度车型，未来则不排除可能性",
-      "url": "https://www.ithome.com/0/995/279.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.707Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "70ec4bf8aede",
-      "title": "B站独家代理：RO 正统续作《仙境传说 3》国服开启删档首测",
-      "url": "https://www.ithome.com/0/995/280.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.707Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7b68a1f1722b",
-      "title": "三星 Galaxy S26 FE 手机发布：Exynos 2500 处理器、4900mAh 电池，699.99 美元起",
-      "url": "https://www.ithome.com/0/995/281.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.707Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "57392cc29aac",
-      "title": "中世纪墓园恶搞模拟经营游戏《守墓人 2》开启预购，Steam 国区首发 68 元",
-      "url": "https://www.ithome.com/0/995/286.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.706Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "70d4f452cd0e",
-      "title": "城市轨道交通系统适老化国家标准即将实施，聚焦老年人出行需求",
-      "url": "https://www.ithome.com/0/995/287.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.706Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "40bad9fa82c2",
       "title": "模拟经营游戏《狂热运输 3》9 月 30 日发售，Steam 国区 198 元起",
       "url": "https://www.ithome.com/0/995/288.htm",
@@ -273,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.706Z",
+      "publishedAt": "2026-08-28T00:03:04.996Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +20,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.706Z",
+      "publishedAt": "2026-08-28T00:03:04.996Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +31,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.705Z",
+      "publishedAt": "2026-08-28T00:03:04.996Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.705Z",
+      "publishedAt": "2026-08-28T00:03:04.996Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.705Z",
+      "publishedAt": "2026-08-28T00:03:04.995Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.705Z",
+      "publishedAt": "2026-08-28T00:03:04.995Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +75,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.705Z",
+      "publishedAt": "2026-08-28T00:03:04.995Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.704Z",
+      "publishedAt": "2026-08-28T00:03:04.995Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.704Z",
+      "publishedAt": "2026-08-28T00:03:04.995Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.704Z",
+      "publishedAt": "2026-08-28T00:03:04.994Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.703Z",
+      "publishedAt": "2026-08-28T00:03:04.994Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.703Z",
+      "publishedAt": "2026-08-28T00:03:04.994Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.703Z",
+      "publishedAt": "2026-08-28T00:03:04.994Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.702Z",
+      "publishedAt": "2026-08-28T00:03:04.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +163,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.702Z",
+      "publishedAt": "2026-08-28T00:03:04.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.702Z",
+      "publishedAt": "2026-08-28T00:03:04.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +185,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.701Z",
+      "publishedAt": "2026-08-28T00:03:04.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.701Z",
+      "publishedAt": "2026-08-28T00:03:04.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.701Z",
+      "publishedAt": "2026-08-28T00:03:04.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.700Z",
+      "publishedAt": "2026-08-28T00:03:04.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +229,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.700Z",
+      "publishedAt": "2026-08-28T00:03:04.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +240,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.699Z",
+      "publishedAt": "2026-08-28T00:03:04.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,51 +251,315 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:42.699Z",
+      "publishedAt": "2026-08-28T00:03:04.992Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "974a2d15314b",
-      "title": "孙宇晨起诉景甜",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%AE%87%E6%99%A8%E8%B5%B7%E8%AF%89%E6%99%AF%E7%94%9C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，网络上再度曝出与景甜相关的消息，暗指其前男友便是90后富豪孙宇晨。8月27日晚，男方代理律师发文回应：已经针对孙宇晨与景甜的案件正式提告，目前本案处于实体审理阶段。",
+      "id": "a68649bd1dc3",
+      "title": "北京越野泰钽 700 上市 48 小时订单突破 6859 辆：搭载华为乾崑智驾 ADS 5，焕新价 24.98 万元起",
+      "url": "https://www.ithome.com/0/995/317.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-28T00:03:04.991Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "11d617f3716c",
-      "title": "国防部评《龙餐馆》",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AF%84%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B",
-      "source": "baidu",
+      "id": "10af8f92799b",
+      "title": "驰援西藏吉隆：阿里巴巴追加 1000 万捐款，第二批物资今晚送达",
+      "url": "https://www.ithome.com/0/995/318.htm",
+      "source": "ithome",
       "category": "general",
-      "summary": "8月27日，国防部新闻发言人张晓刚回应电影《欢迎来龙餐馆》相关问题时表示，电影告诉我们：真正的强大不在于战胜多少对手，而在于守护更多的人远离战火，免于流离失所，过上安稳日子。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-28T00:03:04.991Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "f56685fc3938",
-      "title": "翼龙无人机进入西藏吉隆勘察",
-      "url": "https://www.baidu.com/s?wd=%E7%BF%BC%E9%BE%99%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%9B%E5%85%A5%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E5%8B%98%E5%AF%9F",
-      "source": "baidu",
+      "id": "cda704b9faf3",
+      "title": "网易《七日世界》主机版海外上线：PS5/Xbox 免费开玩，支持跨平台联机并新增第一人称",
+      "url": "https://www.ithome.com/0/995/319.htm",
+      "source": "ithome",
       "category": "general",
-      "summary": "8月27日上午10点30分左右，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。针对吉隆县泥石流灾害的应急救援需求，四川省应急管理厅紧急调派翼龙应急通信无人机执行跨区域增援任务。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-28T00:03:04.991Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "454933e00926",
-      "title": "短剧演员称演男主片酬200元一天",
-      "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E7%A7%B0%E6%BC%94%E7%94%B7%E4%B8%BB%E7%89%87%E9%85%AC200%E5%85%83%E4%B8%80%E5%A4%A9",
+      "id": "69ed48ff135a",
+      "title": "谷歌出手应对 AI“吃内存”，将为安卓 App 内存占用等指标设立新门槛",
+      "url": "https://www.ithome.com/0/995/320.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.990Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c7a0fc65cb99",
+      "title": "Epic 喜加二：《Breathedge》《Rival Stars Horse Racing》",
+      "url": "https://www.ithome.com/0/995/321.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.990Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "adfbab40d626",
+      "title": "中汽协倡议：坚决抵制非理性竞争，切实防范“浮躁”心态，杜绝“伪创新”",
+      "url": "https://www.ithome.com/0/995/322.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.990Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "48cfca217dab",
+      "title": "宝马新世代车型搭载新型车门：下车时其他车辆接近即自动上锁，源头阻止“开门杀”",
+      "url": "https://www.ithome.com/0/995/323.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.990Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a7dae7746087",
+      "title": "豆瓣 IMDb 双榜第一：影史经典《肖申克的救赎》4K 修复版首次登陆中国内地院线，IMAX 版本系全球首度呈现",
+      "url": "https://www.ithome.com/0/995/326.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.990Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6870372f83b9",
+      "title": "《GTA6》全新加长版实机预告在 Netflix 独家首播",
+      "url": "https://www.ithome.com/0/995/331.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.989Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "55a3f980f3a1",
+      "title": "昔日“彩电一哥”康佳宣布主动申请退市，2026 上半年归母净亏损 1.73 亿元",
+      "url": "https://www.ithome.com/0/995/332.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.989Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0d748a0053e0",
+      "title": "吉利银河 TT 小订突破 2 万：预售 14.59 万元起，将于 9 月上市",
+      "url": "https://www.ithome.com/0/995/339.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.989Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "19abf6b4fdbb",
+      "title": "全球供应链培训已超 10.8 万人，苹果在越南落地首个教育中心",
+      "url": "https://www.ithome.com/0/995/340.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.989Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "da0ee63889d3",
+      "title": "规避反垄断审查，消息称英伟达暂停与多家 AI 公司的收益分成协议",
+      "url": "https://www.ithome.com/0/995/341.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.988Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ff0a5ea4a158",
+      "title": "新疆建成全国规模最大超高压电力骨干网，覆盖面积约 160 万平方公里",
+      "url": "https://www.ithome.com/0/995/342.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.988Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "33f9e7778426",
+      "title": "我国首版全国几何基准影像成果发布，定位精度提升 1 倍以上",
+      "url": "https://www.ithome.com/0/995/343.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.988Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "389ba7e15162",
+      "title": "宇树宣布无偿赞助“天才少年”：特别优秀的不设限",
+      "url": "https://www.ithome.com/0/995/344.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.987Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "02478d01a96c",
+      "title": "苹果在售最便宜官方配件：第二代抛光布反馈，手感接近 Vision Pro 随附款",
+      "url": "https://www.ithome.com/0/995/345.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.987Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "22c99f06229f",
+      "title": "OpenAI、微软、谷歌等 116 家公司发联名信，呼吁高度重视 AI 时代的网络安全",
+      "url": "https://www.ithome.com/0/995/346.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.987Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "838dd37b0121",
+      "title": "《英雄联盟》2026 德玛西亚杯赛事信息公布：跃升为国际邀请赛，创新引入教练语音沟通功能",
+      "url": "https://www.ithome.com/0/995/347.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.987Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2c27edf83f3e",
+      "title": "苹果 M6 Mac mini 细节：支持 Thread 智能家居协议，预装 macOS 27 系统",
+      "url": "https://www.ithome.com/0/995/348.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.986Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c36a79d489a2",
+      "title": "腾龙 12-20mm F/2.8 Di III VXD 超广角变焦镜头尼康 Z 卡口版本开售，12690 元",
+      "url": "https://www.ithome.com/0/995/349.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.986Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f067f40c007b",
+      "title": "宝马正式交付第 200 万辆纯电车型，新世代成为增长新动力",
+      "url": "https://www.ithome.com/0/995/350.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.986Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b5aabf0aef28",
+      "title": "《GTA 6》游戏健身房首曝：先办卡，锻炼可逐步解锁更高重量",
+      "url": "https://www.ithome.com/0/995/351.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.985Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "30174e37f76d",
+      "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
+      "url": "https://www.ithome.com/0/995/352.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.985Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6b639054e104",
+      "title": "IT早报 0828：星宇股份就批量劝退应届生致歉；米哈游旗下手游紧急“叫停”与德芙合作；昔日“彩电一哥”康佳主动申请退市；比亚迪第 1 万座汽车闪充站落成...",
+      "url": "https://www.ithome.com/0/995/353.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.984Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8c164ef82e8f",
+      "title": "Omdia 报告：2026 年 Q2 东南亚智能手机市场出货量下降 23%，创 2014 年以来最低水平",
+      "url": "https://www.ithome.com/0/995/354.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.984Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e42acdf716d9",
+      "title": "微软 1990 年代最大包装“补丁”：一张红贴纸解决《俄罗斯方块》游戏授权不确定问题",
+      "url": "https://www.ithome.com/0/995/355.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:04.983Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b2701a1ebefa",
+      "title": "西藏吉隆救援最新进展",
+      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%95%91%E6%8F%B4%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，短剧演员李东远称演男主片酬仅200元一天引发热议，网友感叹连盒饭钱都不够。李东远本人：我很诧异，但也可以接到一些符合预算的项目。",
+      "summary": "8月26日，尼泊尔一侧泥石流致西藏日喀则吉隆口岸重大伤亡。截至27日8时，搜救2人、遇难3人、失联558人（含外籍260人）。道路通信中断，受灾路段已抢通约800米，681名消防员抵达救援，499名群众安置、555名游客转移。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -568,99 +568,99 @@
       "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E5%BF%83%E7%AB%A5%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，斯诺克武汉公开赛8进4赛中，赵心童以5比1击败罗伯逊晋级四强，并登顶世界第一。此前罗伯逊与塞尔比争夺世界第一，如今赵心童击败罗伯逊登顶。",
+      "summary": "8月27日晚，斯诺克武汉公开赛1/4决赛，赵心童5比1大胜罗伯逊晋级，正式登顶世界第一，成为继丁俊晖后第二位登顶的中国球员，亦是斯诺克历史第13位世界第一。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "b1bad8ff9b0e",
-      "title": "一场新疆婚礼来了300多个陌生人",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%9C%BA%E6%96%B0%E7%96%86%E5%A9%9A%E7%A4%BC%E6%9D%A5%E4%BA%86300%E5%A4%9A%E4%B8%AA%E9%99%8C%E7%94%9F%E4%BA%BA",
+      "id": "f56685fc3938",
+      "title": "翼龙无人机进入西藏吉隆勘察",
+      "url": "https://www.baidu.com/s?wd=%E7%BF%BC%E9%BE%99%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%9B%E5%85%A5%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E5%8B%98%E5%AF%9F",
       "source": "baidu",
       "category": "general",
-      "summary": "8月8日，新疆莎车县一对新人的婚礼迎来三百多名陌生网友。此前新郎母亲发布电子请柬，河南网友询问能否赴宴得到许可，相关视频播放量近千万。新人缩减请柬、备足食材，到场网友至少310人。",
+      "summary": "8月26日上午10点30分左右，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。针对吉隆县泥石流灾害的应急救援需求，四川省应急管理厅紧急调派翼龙应急通信无人机执行跨区域增援任务。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "54dd0cbfc824",
-      "title": "君乐宝牛奶在香港被检出菌落超标",
-      "url": "https://www.baidu.com/s?wd=%E5%90%9B%E4%B9%90%E5%AE%9D%E7%89%9B%E5%A5%B6%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%A2%AB%E6%A3%80%E5%87%BA%E8%8F%8C%E8%90%BD%E8%B6%85%E6%A0%87",
+      "id": "070796f4ff31",
+      "title": "手机卖不动 价格却涨了",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%8A%A8+%E4%BB%B7%E6%A0%BC%E5%8D%B4%E6%B6%A8%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "8月26日，香港食安中心通报，君乐宝一款纯牛奶菌落超标，被撤销进入香港许可，受影响产品已被封存。",
+      "summary": "8月26日，IDC报告预测2026年全球智能手机出货量略高于10亿部，同比下降16.7%，但平均售价将达581美元，一年内上涨27.6%。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "677e730a709b",
-      "title": "美股开盘：英伟达绩后大涨超6%",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BB%A9%E5%90%8E%E5%A4%A7%E6%B6%A8%E8%B6%856%25",
-      "source": "baidu",
-      "category": "business",
-      "summary": "8月27日消息，美股三大指数开盘涨跌不一，道琼斯指数跌0.15%，标普500指数涨0.36%，纳斯达克综合指数涨0.89%。英伟达涨超6%，公司2028财年营收展望远超市场预期。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c644280f05ed",
-      "title": "浙江提升防台风应急响应至一级",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%8F%90%E5%8D%87%E9%98%B2%E5%8F%B0%E9%A3%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E8%87%B3%E4%B8%80%E7%BA%A7",
+      "id": "67cd5d087e98",
+      "title": "台风红色预警：沙德尔距温岭约70公里",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%9A%E6%B2%99%E5%BE%B7%E5%B0%94%E8%B7%9D%E6%B8%A9%E5%B2%AD%E7%BA%A670%E5%85%AC%E9%87%8C",
       "source": "baidu",
       "category": "general",
-      "summary": "今年第18号台风“沙德尔”加强为强台风级，中心位于温州以东东海海面，预计28日早晨至中午在浙闽沿海一带登陆。经会商研判，浙江于27日20时将防台风应急响应提升至Ⅰ级。",
+      "summary": "8月28日6时，中央气象台继续发布台风红色预警：今年第18号台风“沙德尔”（强台风级）中心位于东经122.0度洋面，距浙江温岭东南约70公里，中心最大风力14级，预计将于28日早晨至中午在浙江温岭到平阳一带沿海登陆，登陆后强度逐渐减弱。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "18ad10e8bee3",
-      "title": "景甜方称一切交给法院处理",
-      "url": "https://www.baidu.com/s?wd=%E6%99%AF%E7%94%9C%E6%96%B9%E7%A7%B0%E4%B8%80%E5%88%87%E4%BA%A4%E7%BB%99%E6%B3%95%E9%99%A2%E5%A4%84%E7%90%86",
+      "id": "0d57908faf10",
+      "title": "结婚8年3女非亲生当事人首次露脸",
+      "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A8%E5%B9%B43%E5%A5%B3%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E9%A6%96%E6%AC%A1%E9%9C%B2%E8%84%B8",
       "source": "baidu",
       "category": "general",
-      "summary": "8月27日，景甜发布严正声明：“声誉是艺人的生命，也是艺人的软肋。但我们有勇气对以艺人声誉为要挟的碰瓷行为说不。秉承相信法律，一切遵从法定程序的原则，我们无意占用公共资源，一切交给法院处理。除公布后续维权进展，其他问题不再回应。”",
+      "summary": "8月27日，“结婚8年3女非亲生”案当事人魏先生首次露脸受访，称“错的不是我”。其2018年结婚育有三女，2026年4月鉴定得知三女均非亲生，6月起诉索赔31.5万，8月17日开庭女方当庭承认出轨，案件择期宣判。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "90ae67faad55",
-      "title": "四川泸州近期发生山火系谣言",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E8%BF%91%E6%9C%9F%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "id": "cf23c4060095",
+      "title": "男篮世预赛：中国队大胜卡塔尔",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%A7%E8%83%9C%E5%8D%A1%E5%A1%94%E5%B0%94",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，有网民称“四川泸州发生山火”，引发关注。经泸州市应急管理部门核实，该视频内容为不实信息，目前该视频已删除。",
+      "summary": "北京时间8月28日0点，男篮世界杯亚洲区预选赛第二阶段，中国男篮客场对阵卡塔尔男篮。本场比赛，卡塔尔男篮多名主力都缺阵。最终经过四节较量，中国男篮83-57大胜卡塔尔男篮，杨瀚森15分9板，胡明轩12分，胡金秋10分8板。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "b65ad3a5cc81",
-      "title": "孙宇晨 我的女友景甜",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%AE%87%E6%99%A8+%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C",
+      "id": "2ea43e5305b7",
+      "title": "国防部：要求美方立即停止武装台湾",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE",
       "source": "baidu",
       "category": "general",
-      "summary": "8月27日，孙宇晨在社交软件X上发长文《我的女友景甜》详述与景甜的交往及“取卵风波”，文末标明纯属虚构；其代理律师同日证实，已就三千余万元财产纠纷起诉景甜及父母，案件已立案，景甜方回应将交由法院处理。",
+      "summary": "8月27日下午，国防部举行例行记者会，新闻发言人张晓刚就台湾向美采购66架F-16V战机、首批2架已启程赴台一事回应称，中方坚决反对美对台售武，要求美方立即停止以任何方式武装台湾，停止破坏台海和平稳定。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "70b13529ca71",
-      "title": "尼泊尔山洪死亡人数升至359人",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3359%E4%BA%BA",
+      "id": "cbc36dfef730",
+      "title": "西藏吉隆泥石流原因查明",
+      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8E%9F%E5%9B%A0%E6%9F%A5%E6%98%8E",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "8月27日，自然资源部专家分析，西藏吉隆泥石流灾害是由尼泊尔境内高位冰川崩塌引发的碎屑流链式灾害。冰崩物质高速下泄，沿沟道裹挟冰碛物演变为碎屑流，进而汇入东林藏布形成泥石流，冲击吉隆口岸。",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T14:32:43.067Z",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "7df0ef7d8214",
+      "title": "欧冠抽签",
+      "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE",
+      "source": "baidu",
+      "category": "general",
+      "summary": "2026-27赛季欧冠联赛阶段抽签结果正式出炉，36支球队的8个对手及主客场安排全部确定。巴萨、巴黎、曼城三支强队被分在同一对抗组，三场对话或直接影响头名归属，甚至可能让其中一队落入附加赛区。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T00:03:05.786Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-27T14:32:44.447Z"
+  "generatedAt": "2026-08-28T00:03:09.009Z"
 }
