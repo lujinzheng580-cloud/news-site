@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e17572458c13",
+    "title": "“开源 Windows”ReactOS 0.4.16 发布：全新图形安装程序、提升硬件支持",
+    "url": "https://www.ithome.com/0/996/039.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/039.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 29 日消息，据科技媒体 Phoronix 今天报道，“开源 Windows”项目 ReactOS 现已发布 0.4.16 更新，最大的变化是加入了全新 GUI（图形界面）安装程序。\n\nIT之家从原报道了解到，ReactOS 的图形安装程序已被集成到启动 CD 和 Live CD 环境中。用户可使用同一镜像文件，完成体验系统、安装系统流程，具体工作流程与 Linux 的 Live 环境类似。\n\n同时，本次更新还新增了 ReactOS Server Core 安装类型，设计理念类似于 Windows Server 自  2008 起提供的 Server Core 模式。在该模式下，图形化 Explorer Shell 将被禁用。\n\nReactOS 0.4.16 还针对多显示器支持进行了基础改进，并带来了多项图形驱动优化。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-29T15:15:38.155Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
