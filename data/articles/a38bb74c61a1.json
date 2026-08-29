@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a38bb74c61a1",
+    "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+    "url": "https://www.ithome.com/0/995/896.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/995/896.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 29 日消息，智谱官方昨晚宣布开源 GLM-5.3 模型权重，已正式开放下载，支持本地运行与个性化定制。该模型擅长复杂编码、防御性网络安全以及长程任务。\n\n智谱 Z.ai 负责人李子玄表示，该模型使用需要遵循 GLM-5.3 许可协议，支持本地部署、模型微调及商业化使用。仅当年营业额超过 100 亿美元（现汇率约合 674.21 亿元人民币）的机构拟将 GLM-5.3 作为外部模型服务对外提供时，才必须进行安全审查。\n\n鉴于该模型在网络安全方面具备先进能力，我们在公开发布模型权重之前，专门追加了两周全面的安全评估。\n\n根据官方此前公布的数据，GLM-5.3 在全球权威的 Artificial Analysis Intelligence Index（AA 综合智能指数）中取得 60 分，进入全球前沿模型能力区间，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰模型处于同一水平，并与 Kimi K3 并列开源模型第一。\n\n在达到同档智能水平的同时，GLM-5.3 以更小的参数规模与更低的调用成本，显著降低了前沿模型能力的使用门槛。\n\nHuggingFace：https://huggingface.co/zai-org/GLM-5.3\n\nModelScope：https://modelscope.cn/models/ZhipuAI/GLM-5.3/\n\n《智谱正式发布 GLM-5.3：编程能力最强开源模型，较 GLM-5.2 提升 50%》\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-29T10:23:04.237Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
