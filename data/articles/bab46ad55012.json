@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "bab46ad55012",
+    "title": "开放麒麟 openKylin 3.0 正式发布，系统内核升级至 Linux 7.0",
+    "url": "https://www.ithome.com/0/995/859.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/995/859.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 29 日消息，据开放原子开源基金会，OpenAtom openKylin 3.0 版本正式发布。\n\n官方表示，本次版本升级，openKylin 将系统内核跨代升级至 Linux 7.0，完成 180 余个核心组件全面迭代；构建智能体开放底座，让 AI 贯穿系统全链路；隔空手势、语音输入、屏幕朗读等多模态交互革新；场景覆盖从智能桌面延伸至移动端、服务器等全场景。\n\nopenKylin 3.0 将系统内核从 Linux 6.6 直接升级至 Linux 7.0。GCC 15、glibc 2.42、LLVM 22、JDK 25，围绕新内核的 180 余个核心组件全面升级，核心基础库与编译工具链对齐国际上游社区新版本。\n\n本版本集成 NIST 三大后量子密码标准（ML-KEM、ML-DSA、SLH-DSA），通过 openHiTLS 开源密码套件实现系统级调用，配合 TPM 可信启动链，构建“芯片 — 系统”全链路信任体系。\n\n内核层支持 Rust For Linux，开发者可以用 Rust 编写外设驱动；核外层的 wget、time 等首批系统工具已完成 Rust 重写，从源头减少内存安全漏洞。\n\nopenKylin 3.0 将模型、记忆、工具、系统权限与桌面能力纳入统一架构，为智能体提供系统级的运行环境。\n\nKylinBot、WorkBuddy、OpenClaw、Raccoon Work 等主流智能体均可在 openKylin 3.0 上完整运行。智能体通过 MCP 协议直接调用桌面能力，无需模拟点击，实现“推理 — 决策 — 操作 — 反馈”全链路自主执行。无论智能体来自社区自研还是第三方生态，在此版本上都拥有同等的系统能力与运行环境。\n\n开发者可通过统一封装的 AI SDK 开发智能技能，一套接口适配多家大模型；自建技能可提交至 openKylin-skills 仓库，与全球开发者共享，形成“下载即用、开发即共享”的开放生态闭环。\n\n全新 UKUI 4.24 桌面环境，让人机交互从键鼠延伸至语音、隔空手势 —— 握拳即可截屏，挥手即可翻页、调节音量；全局语音输入，一句话直接下达指令；触摸板边缘轻滑，亮度、音量、进度随手调节。\n\n系统级屏幕朗读支持焦点导航与全文跟随，语速音量精细可调；KylinBot 的任务结果可推送至企业微信、飞书、钉钉；AI 的操作结果直接呈现在界面上。\n\n任务栏新增三岛模式，数据岛、应用岛、设置岛分区呈现、互不干扰；开机与解锁时，动态壁纸以几秒光影流转，唤醒你的专属工作空间。\n\nopenKylin 3.0 同源支持 x86、ARM、RISC-V、LoongArch 四大处理器架构。openKylin 是 RISC-V 架构适配最广、成熟度最高的操作系统之一，支持最新 RVA23 标准，AI 推理经 RVV 指令优化，FP32 场景提速 2 至 5 倍，FP16 场景最高 36.5 倍。\n\n场景能力从桌面全面延伸到移动端、服务器端 ——“灵龙”人形机器人、AI 无人小车、AI 机械臂的具身智能适配，ARM、LoongArch、RISC-V 等多架构工业硬件平台支持，主流 AI PC 与 PocketClaw 口袋龙虾等便携 AI 终端，面向服务器与工作站的高性能版本，以及 20 余款覆盖 AI、云计算、大数据的 Docker 应用镜像。\n\nhttps://www.openkylin.top/downloads\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-29T03:21:43.436Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
