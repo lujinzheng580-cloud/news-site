@@ -2,182 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "e4d7a243c209",
-      "title": "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
-      "url": "https://www.ithome.com/0/996/169.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.633Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "38eb271ac3c6",
-      "title": "沐曦股份 2026 年上半年归母净利润 6.12 亿元，同比扭亏为盈",
-      "url": "https://www.ithome.com/0/996/171.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.633Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1f9b068f1f5a",
-      "title": "长光华芯 2026 年上半年归母净利润 3033.78 万元，同比增长 238.04%",
-      "url": "https://www.ithome.com/0/996/172.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.632Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "751f860f5ee9",
-      "title": "隆基绿能 2026 年上半年归母亏损 36.84 亿元，亏损同比扩大",
-      "url": "https://www.ithome.com/0/996/173.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.632Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "566a5a0e21d6",
-      "title": "京沪高铁 2026 年上半年归母净利润 67.71 亿元，同比增长 7.21%",
-      "url": "https://www.ithome.com/0/996/174.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.632Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "517bf643d0bb",
-      "title": "QCY H6 系列降噪头戴耳机开售，首销 169 元起",
-      "url": "https://www.ithome.com/0/996/175.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.632Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "492227d97b03",
-      "title": "友望 S20 洗地机 2499 → 699 元新低，推入式基站更方便 + IPX6 级随便冲洗",
-      "url": "https://www.ithome.com/0/996/176.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.632Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4d332340d60d",
-      "title": "因缺少 MTE 安全功能，GrapheneOS 当前阶段放弃适配谷歌 Pixel 11 系列手机",
-      "url": "https://www.ithome.com/0/996/177.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.632Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5217703d0de5",
-      "title": "安克创新 2026 年上半年归母净利润 17.02 亿元，同比增长 45.86%",
-      "url": "https://www.ithome.com/0/996/178.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "faa8666adea2",
-      "title": "全球仅 3 家能铸：马斯克 SpaceX 突破 AI 供电瓶颈，自产涡轮叶片提前 18 个月投运",
-      "url": "https://www.ithome.com/0/996/179.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a2732f898336",
-      "title": "特斯拉欧洲入门版 Model 3 更换新轮胎，续航提升 38 公里至 572 公里",
-      "url": "https://www.ithome.com/0/996/181.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "83805bb465cc",
-      "title": "网警依法查处 2 起涉吉隆泥石流网络谣言案件",
-      "url": "https://www.ithome.com/0/996/182.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "cdf465b28fd5",
-      "title": "华擎发布 B550M Pro-A WiFi 6E 主板：AMD AM4 平台、8 相供电",
-      "url": "https://www.ithome.com/0/996/185.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "552f8c91727a",
-      "title": "机械革命翼龙 15 Air 2026 笔记本锐龙 7 H 449 版发布：RTX 5060，国补到手价 9999 元",
-      "url": "https://www.ithome.com/0/996/186.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "76f39ed75fb1",
-      "title": "TCL 电子：拟通过实物分派方式实现旗下光伏业务板块独立上市",
-      "url": "https://www.ithome.com/0/996/187.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.631Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "131fd652c775",
-      "title": "特斯拉 Cybercab 车头 RGB 灯带可显示不同颜色，避免乘客上错车",
-      "url": "https://www.ithome.com/0/996/189.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.630Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "ad3268befbf0",
       "title": "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
       "url": "https://www.ithome.com/0/996/190.htm",
@@ -185,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.630Z",
+      "publishedAt": "2026-08-30T17:43:43.684Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.630Z",
+      "publishedAt": "2026-08-30T17:43:43.684Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.630Z",
+      "publishedAt": "2026-08-30T17:43:43.684Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +42,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.630Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +53,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.629Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.629Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.629Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.629Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.629Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.628Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +119,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.628Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +130,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.628Z",
+      "publishedAt": "2026-08-30T17:43:43.683Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +141,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.628Z",
+      "publishedAt": "2026-08-30T17:43:43.682Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +152,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.628Z",
+      "publishedAt": "2026-08-30T17:43:43.682Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.627Z",
+      "publishedAt": "2026-08-30T17:43:43.682Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +174,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.627Z",
+      "publishedAt": "2026-08-30T17:43:43.682Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +185,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.627Z",
+      "publishedAt": "2026-08-30T17:43:43.682Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.627Z",
+      "publishedAt": "2026-08-30T17:43:43.682Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.626Z",
+      "publishedAt": "2026-08-30T17:43:43.682Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +218,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.626Z",
+      "publishedAt": "2026-08-30T17:43:43.681Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.626Z",
+      "publishedAt": "2026-08-30T17:43:43.681Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.626Z",
+      "publishedAt": "2026-08-30T17:43:43.681Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.625Z",
+      "publishedAt": "2026-08-30T17:43:43.681Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.625Z",
+      "publishedAt": "2026-08-30T17:43:43.680Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.625Z",
+      "publishedAt": "2026-08-30T17:43:43.680Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.624Z",
+      "publishedAt": "2026-08-30T17:43:43.680Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,74 +295,206 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:46.624Z",
+      "publishedAt": "2026-08-30T17:43:43.680Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "390c18fbd974",
-      "title": "西藏吉隆有挖掘机意外坠河",
-      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%9C%89%E6%8C%96%E6%8E%98%E6%9C%BA%E6%84%8F%E5%A4%96%E5%9D%A0%E6%B2%B3",
-      "source": "baidu",
+      "id": "d19199df8781",
+      "title": "卡普空《鬼武者：剑之道》游戏全新预告片公布，9 月 4 日发售",
+      "url": "https://www.ithome.com/0/996/233.htm",
+      "source": "ithome",
       "category": "general",
-      "summary": "西藏吉隆道路抢通现场，昨夜一场大雨致上游来水陡增，两台停放在河边的挖掘机被水流带入河中。事发时挖掘机未在作业状态，未造成人员伤亡。目前抢通作业面临山体与河水双重压力，现场仍在加速推进，同时需防范上游降雨引发的水量增大。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-30T17:43:43.680Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "5e1731868736",
-      "title": "央视曝光“毁容针”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E2%80%9C%E6%AF%81%E5%AE%B9%E9%92%88%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "记者调查发现，部分从业者将仅限外用的妆字号化妆品直接注射进求美者体内。江苏连云港李女士经朋友推荐，由无医师执业证书的樊某在美容店为其注射胶原冻干粉，一年后面部出现异常增生。法院判决樊某赔偿共计27200余元，但其身心创伤仍难修复。",
+      "id": "3f0614366438",
+      "title": "比亚迪大六座 SUV 腾势 N8L 纯电版将于 9 月份上市，拥有 208L 智能电动前备箱",
+      "url": "https://www.ithome.com/0/996/234.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-30T17:43:43.680Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "3d12db04a32c",
-      "title": "医疗防疫分队前往救援一线",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E9%98%B2%E7%96%AB%E5%88%86%E9%98%9F%E5%89%8D%E5%BE%80%E6%95%91%E6%8F%B4%E4%B8%80%E7%BA%BF",
-      "source": "baidu",
+      "id": "9529442aee79",
+      "title": "网友反馈上海电信发生大面积断网故障，宽带及手机信号均受影响",
+      "url": "https://www.ithome.com/0/996/235.htm",
+      "source": "ithome",
       "category": "general",
-      "summary": "8月26日，尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。8月30日，西藏军区保障部组建的医疗防疫分队出发前往救援一线，提供卫勤保障。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-30T17:43:43.680Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "72450e03b316",
-      "title": "速成车的代价",
-      "url": "https://www.baidu.com/s?wd=%E9%80%9F%E6%88%90%E8%BD%A6%E7%9A%84%E4%BB%A3%E4%BB%B7",
-      "source": "baidu",
+      "id": "52d6fe0d1abc",
+      "title": "《神鬼寓言》游戏 PC 版配置要求公布：最低 RTX 2060，推荐 RTX 5060",
+      "url": "https://www.ithome.com/0/996/237.htm",
+      "source": "ithome",
       "category": "general",
-      "summary": "8月，奔驰与宝马先后发短片暗指“速成车”乱象。如今，整车开发周期已从传统燃油车时代普遍的36个月以上，压缩至如今的18个月左右，部分新势力品牌甚至逼近12个月。速度带来的并非只有效率，也伴随着对验证体系和质量底线的持续挤压。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-30T17:43:43.679Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "a57966bc73cc",
-      "title": "中国男人正在抛弃皮鞋",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8A%9B%E5%BC%83%E7%9A%AE%E9%9E%8B",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近年，商务休闲化风潮兴起，中国男性穿鞋偏好转向舒适款，正装皮鞋遇冷，奥康等一众老牌国产皮鞋企业普遍陷入经营承压的困境。",
+      "id": "07f0cf1005fa",
+      "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "url": "https://www.ithome.com/0/996/239.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-30T17:43:43.679Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "c7417237f58c",
-      "title": "南极冰川融化正释放剧毒水银",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E8%9E%8D%E5%8C%96%E6%AD%A3%E9%87%8A%E6%94%BE%E5%89%A7%E6%AF%92%E6%B0%B4%E9%93%B6",
-      "source": "baidu",
+      "id": "1c084fbe4b45",
+      "title": "特斯拉在中国香港、中国澳门推出更平价版 Model 3：售价下调、配置精简，续航达 572 公里",
+      "url": "https://www.ithome.com/0/996/240.htm",
+      "source": "ithome",
       "category": "general",
-      "summary": "最新研究显示，受气候变化影响，南极冰川融化正释放冰封数千年的剧毒水银，自工业化以来释放量激增550%，当地水银沉积速率为全球陆架平均水平两倍。目前超六成南极海鸟体内水银超标，长远或经海洋食物链传导影响人类健康。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-08-30T17:43:43.679Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1caff3010d31",
+      "title": "V社 12TB 游戏开发数据泄露详情：含《传送门 2》早期版本，《半衰期 2：第三章》线索出现",
+      "url": "https://www.ithome.com/0/996/241.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.679Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f35e73f6565a",
+      "title": "追觅起诉小红书，案由名誉权纠纷",
+      "url": "https://www.ithome.com/0/996/242.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.679Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "436f8adc3502",
+      "title": "微软为 SwiftKey 输入法 iOS 版新增液态玻璃效果，用户并不买账",
+      "url": "https://www.ithome.com/0/996/243.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.679Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e7348ec849da",
+      "title": "顺丰董事长王卫加入极兔董事会，任非执行董事",
+      "url": "https://www.ithome.com/0/996/244.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.678Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d4558558a488",
+      "title": "创 25 年来最强暑期档纪录：IMAX 中国暑期档票房突破 7.23 亿元，同比增长 39%",
+      "url": "https://www.ithome.com/0/996/245.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.678Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "071de4702de2",
+      "title": "消息称苹果曾为折叠屏 iPhone 测试触控笔：可磁吸在手机侧面，但量产机可能无缘",
+      "url": "https://www.ithome.com/0/996/246.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.678Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "30a1a2197476",
+      "title": "古尔曼：苹果 Apple Watch Series 12/Ultra 4 将支持全天候心率监测",
+      "url": "https://www.ithome.com/0/996/247.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.678Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7e386808afd7",
+      "title": "R 星谈《GTA6》游戏驾驶手感：保留《GTA4》最优秀部分，兼顾 5 代易上手",
+      "url": "https://www.ithome.com/0/996/248.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.677Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "50add82c1739",
+      "title": "苹果与康宁在美国肯塔基州开设创新中心：探索全新玻璃材料，新增数百个岗位",
+      "url": "https://www.ithome.com/0/996/249.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.677Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c2b894837c8a",
+      "title": "上海电信突发大范围断网，官方称经紧急处置服务已陆续恢复",
+      "url": "https://www.ithome.com/0/996/250.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.677Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "327a0679b187",
+      "title": "粉丝自制高清材质包“转正”，CDPR 就《巫师 3：狂猎 — 重制版》与 Halk Hogan 合作",
+      "url": "https://www.ithome.com/0/996/251.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.676Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9b6fdbfb73a1",
+      "title": "古尔曼：苹果 AirPods 5 耳机最早 9 月发布，OLED 版 iPad mini 平板预计 10 月推出",
+      "url": "https://www.ithome.com/0/996/252.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:43.676Z",
+      "tags": "[\"ithome\"]"
     },
     {
       "id": "5f1f14492165",
@@ -548,29 +504,7 @@
       "category": "general",
       "summary": "8月30日，2026年女排亚锦赛决赛在天津落幕，中国女排以2比3不敌泰国队，无缘直通2028年洛杉矶奥运会，泰国女排则历史首次打进奥运会。",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "32bb1c206e88",
-      "title": "又一地宣布生物地理不计入中考总分",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E8%AE%A1%E5%85%A5%E4%B8%AD%E8%80%83%E6%80%BB%E5%88%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月28日，辽宁省教育厅发布通知，为减轻学生课业负担，自2026年秋季学期初二学生起，将生物学、地理、历史3科由考试科目调整为考查科目，以等级呈现，不计入中考总分。此前，北京、吉林、湖南、陕西咸阳、安徽黄山、江西吉安等多地已宣布生物、地理不再计入中考总分。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "7c9c8cd14568",
-      "title": "我们的世界幼稚化了吗",
-      "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C%E5%B9%BC%E7%A8%9A%E5%8C%96%E4%BA%86%E5%90%97",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，《幼稚化》一书指出，当代社会正因青春崇拜而滑向幼稚化。作者基思·海沃德从犯罪学研究、监狱探访等经历中发现成年人特质日渐消退，幼稚化已通过损害民主、动摇制度、撕裂文明塑造历史。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,7 +515,95 @@
       "category": "general",
       "summary": "总台记者在吉隆口岸受灾现场看到，泥石流冲过的岩体痕迹目测约60米高，相当于20层楼高度，可见当时洪水威力巨大。",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "3d12db04a32c",
+      "title": "医疗防疫分队前往救援一线",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%96%97%E9%98%B2%E7%96%AB%E5%88%86%E9%98%9F%E5%89%8D%E5%BE%80%E6%95%91%E6%8F%B4%E4%B8%80%E7%BA%BF",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月26日，尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。8月30日，西藏军区保障部组建的医疗防疫分队出发前往救援一线，提供卫勤保障。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "157653070e3e",
+      "title": "赛考斯感慨中国已进入22世纪",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%9B%E8%80%83%E6%96%AF%E6%84%9F%E6%85%A8%E4%B8%AD%E5%9B%BD%E5%B7%B2%E8%BF%9B%E5%85%A522%E4%B8%96%E7%BA%AA",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，赛考斯感慨中国高铁太神奇，称1999年坐火车需9小时，如今仅需3小时，并称中国已取得重大发展，已进入22世纪。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "9af716aad9f3",
+      "title": "760元一粒的片仔癀卖不动了",
+      "url": "https://www.baidu.com/s?wd=760%E5%85%83%E4%B8%80%E7%B2%92%E7%9A%84%E7%89%87%E4%BB%94%E7%99%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，片仔癀发布2026年半年度报告，营业总收入45.73亿元，归母净利润10.93亿元，为上市20年来首次双降。此前片仔癀锭剂零售价从590元/粒上调至760元/粒，终端销售随之遇冷。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a57966bc73cc",
+      "title": "中国男人正在抛弃皮鞋",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8A%9B%E5%BC%83%E7%9A%AE%E9%9E%8B",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近年，商务休闲化风潮兴起，中国男性穿鞋偏好转向舒适款，正装皮鞋遇冷，奥康等一众老牌国产皮鞋企业普遍陷入经营承压的困境。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "32bb1c206e88",
+      "title": "又一地宣布生物地理不计入中考总分",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E8%AE%A1%E5%85%A5%E4%B8%AD%E8%80%83%E6%80%BB%E5%88%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "8月28日，辽宁省教育厅发布通知，为减轻学生课业负担，自2026年秋季学期初二学生起，将生物学、地理、历史3科由考试科目调整为考查科目，以等级呈现，不计入中考总分。此前，北京、吉林、湖南、陕西咸阳、安徽黄山、江西吉安等多地已宣布生物、地理不再计入中考总分。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "c31036d1ea9c",
+      "title": "半月工资55元 被踢出845个工作群",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8A%E6%9C%88%E5%B7%A5%E8%B5%8455%E5%85%83+%E8%A2%AB%E8%B8%A2%E5%87%BA845%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%BE%A4",
+      "source": "baidu",
+      "category": "general",
+      "summary": "重庆女孩小古2019年入职某公司，2025年遭公司变相逼迫离职，半月仅拿到55元工资。她先后通过劳动仲裁、一审、二审维权均胜诉，8月27日二审胜诉后公司才支付判决款项，但仍拖欠6个月社保和公积金，小古将继续依法维权。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d5624d213405",
+      "title": "超强厄尔尼诺正在冲击世界经济",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%AD%A3%E5%9C%A8%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E",
+      "source": "baidu",
+      "category": "business",
+      "summary": "今年以来，超强厄尔尼诺在太平洋持续发展，已跻身有记录以来最强事件之列，其影响正从农业、渔业、矿业延伸至全球航运，而全球变暖还在不断增强这类极端事件的影响。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "ea39518d848c",
+      "title": "中国从月球传照片4分钟缩到12秒",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%9C%88%E7%90%83%E4%BC%A0%E7%85%A7%E7%89%874%E5%88%86%E9%92%9F%E7%BC%A9%E5%88%B012%E7%A7%92",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，我国成功完成超40万公里地月双向高速激光通信试验，实现重大突破。以往8K月球全景照片传回地面需四五分钟，如今仅需12秒，速度提升数十倍。",
+      "imageUrl": "",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -592,29 +614,18 @@
       "category": "general",
       "summary": "入秋桂圆上市季，今天就给大家一次性针对桂圆“泡药水致癌”、“打针增甜”、“同食海鲜中毒”等六大常见谣言逐条辟谣，同时整理超实用的挑选食用避坑干货，帮大家科学吃桂圆，安心享滋补！",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
+      "publishedAt": "2026-08-30T17:43:44.470Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "04980cf4a27d",
-      "title": "开学三件套齐涨价家长直呼吃不消",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E4%B8%89%E4%BB%B6%E5%A5%97%E9%BD%90%E6%B6%A8%E4%BB%B7%E5%AE%B6%E9%95%BF%E7%9B%B4%E5%91%BC%E5%90%83%E4%B8%8D%E6%B6%88",
+      "id": "a9a5056201b6",
+      "title": "尼泊尔泥石流灾害已致794人遇难",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%B7%B2%E8%87%B4794%E4%BA%BA%E9%81%87%E9%9A%BE",
       "source": "baidu",
       "category": "general",
-      "summary": "今年开学季，大学新生“开学三件套”电脑、手机、平板价格大涨，不少家长的购机预算直接从1万拉高到2万，同款笔记本两个月涨逾千元，家长直呼吃不消。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "dc00c2ed816b",
-      "title": "河南5人吃生鱼片确诊肝吸虫病",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%975%E4%BA%BA%E5%90%83%E7%94%9F%E9%B1%BC%E7%89%87%E7%A1%AE%E8%AF%8A%E8%82%9D%E5%90%B8%E8%99%AB%E7%97%85",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，中疾控发布调查报告：今年2月河南郑州确诊一起肝吸虫病聚集性疫情，5名聚餐食用生淡水鱼片人员全部确诊，其中4人肝功能受损，经驱虫治疗后均已痊愈。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
+      "publishedAt": "2026-08-30T17:43:44.471Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,42 +636,31 @@
       "category": "general",
       "summary": "8月30日，梅艳芳母亲覃美金去世。此前2003年梅艳芳立遗嘱将逾亿遗产交信托管理，每月支付母亲约5.8万元生活费。2004年起覃美金多次诉讼争夺遗产均败诉。随着覃美金离世，信托基金终止，剩余款项划转妙境佛学会，23年遗产争夺战落幕。",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
+      "publishedAt": "2026-08-30T17:43:44.471Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "a67b07ccc747",
-      "title": "综艺节目遗留道具2年成海滩垃圾",
-      "url": "https://www.baidu.com/s?wd=%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E9%81%97%E7%95%99%E9%81%93%E5%85%B72%E5%B9%B4%E6%88%90%E6%B5%B7%E6%BB%A9%E5%9E%83%E5%9C%BE",
+      "id": "1f3141103692",
+      "title": "中央纪委副书记孙新阳当选新职",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%AD%99%E6%96%B0%E9%98%B3%E5%BD%93%E9%80%89%E6%96%B0%E8%81%8C",
       "source": "baidu",
       "category": "general",
-      "summary": "海南万宁一海滩现2年前综艺《这是我的岛》遗留道具，已腐朽成垃圾。节目组称杀青后已完成垃圾清理，余下少量道具交由村民并约定处置责任归接收方；万宁市委宣传部称东澳镇政府已派人介入处理。",
+      "summary": "8月26日，中国共产党中央纪委国家监委机关第二次党员代表大会召开，会议选举产生11名新一届机关党委会委员和9名机关纪委会委员。大会闭幕后，中央纪委国家监委机关第二届机关党委会和机关纪委会分别召开第一次全体会议。孙新阳当选为机关党委书记。",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
+      "publishedAt": "2026-08-30T17:43:44.471Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "1e465c582e47",
-      "title": "女子起身夹菜被男子抽走椅子后摔倒",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%BA%AB%E5%A4%B9%E8%8F%9C%E8%A2%AB%E7%94%B7%E5%AD%90%E6%8A%BD%E8%B5%B0%E6%A4%85%E5%AD%90%E5%90%8E%E6%91%94%E5%80%92",
+      "id": "b5b4d73ebfc4",
+      "title": "张靓颖演唱会掏出手机看歌词",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9D%93%E9%A2%96%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8E%8F%E5%87%BA%E6%89%8B%E6%9C%BA%E7%9C%8B%E6%AD%8C%E8%AF%8D",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，安徽一女子起身夹菜时，路过男子将其椅子抽走。女子未察觉，一屁股直接坐到地上摔倒。",
+      "summary": "近日，张靓颖演唱会上直接掏出手机，对着屏幕照着词唱，一边低头看手机一边飙高音，唱功底子藏不住。网友热议：唱功硬就是任性。",
       "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "afa3d82ae444",
-      "title": "央视曝光焦糖色素假全麦面包",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%84%A6%E7%B3%96%E8%89%B2%E7%B4%A0%E5%81%87%E5%85%A8%E9%BA%A6%E9%9D%A2%E5%8C%85",
-      "source": "baidu",
-      "category": "general",
-      "summary": "央视曝光部分“全麦面包”靠少量麸皮、焦糖色素伪装，名不副实。农科院专家明确全谷物需完整保留种皮、胚芽、胚乳，全麦仅为全谷物分支，我国行业标准规定全谷物含量25%以上且明确标注种类及含量，才可称为全谷物制品。",
-      "imageUrl": "",
-      "publishedAt": "2026-08-30T13:19:47.051Z",
+      "publishedAt": "2026-08-30T17:43:44.471Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-08-30T13:19:54.438Z"
+  "generatedAt": "2026-08-30T17:43:46.670Z"
 }
