@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "96c50fa0b120",
+    "title": "SSD 耐久个案：64GB 闪迪固态硬盘 16 年累计写入超 9PB，通电超 6.1 万小时",
+    "url": "https://www.ithome.com/0/996/068.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/068.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 30 日消息，网友 u/Fresh-Palpitation-72 于 8 月 28 日在 Reddit 社区发帖，分享了一块 64GB 的闪迪 SATA 固态硬盘长期运行数据。\n\n该设备使用约 16 年，累计写入数据超过 9PB（约合 943 万 GB），记录的写入循环超过 14 万次，连续运行时长超过 6.1 万小时，以 24 小时连续运行计算，6.1 万小时约合 6.96 年。\n\n该硬盘系统报告的健康状态仍为“Good（良好）”，但监测结果已出现不可校正读取错误（UNC），错误位于扇区 0；该扇区通常处于存储设备的起始位置，可能承载启动记录或分区相关信息。报道同时称，其闪存转换层（FTL）、DMA 传输及写缓存仍显示正常。IT之家附上相关截图如下：\n\n科技媒体 Wccftech 昨日指出，这类早期消费级 SSD 通常采用 SLC 或 MLC NAND 闪存，分别对应每个存储单元保存 1 比特或 2 比特数据的架构，因而具备较高的耐久特征。\n\n不过，报道没有确认该 64GB 闪迪 SSD 的具体型号与 NAND 类型，也未披露负载类型、温度、电源条件或独立复测结果。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-30T01:44:31.459Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
