@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4d332340d60d",
+    "title": "因缺少 MTE 安全功能，GrapheneOS 当前阶段放弃适配谷歌 Pixel 11 系列手机",
+    "url": "https://www.ithome.com/0/996/177.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/177.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 30 日消息，GrapheneOS（石墨烯 OS）开发团队今天在 X 平台宣布，由于谷歌 Pixel 11 系列手机缺少 MTE（Arm 内存标记扩展）安全功能，他们当前不得不放弃 Pixel 11 的 GrapheneOS 适配工作。\n\n官方表示，他们经过一周的工作后完成了 Pixel 11 系列 GrapheneOS 初步移植。但由于该系列机型的软件、固件和硬件缺乏 MTE 支持，他们无法继续进行移植工作。团队认为，谷歌是为了节省成本才取消该安全功能。\n\nGrapheneOS 操作系统高度依赖 MTE 功能，涵盖内核以及所有标准基础系统进程，只有少数特定于设备的进程会暂时禁用 MTE。该功能可大幅提升系统对几乎所有远程漏洞利用，以及大量本地漏洞利用的防护能力。\n\n作为参考，谷歌 Pixel 8 从 2023 年 10 月上市时就支持 MTE，随后 GrapheneOS 选择将其集成在自己的 hardened_malloc 项目，并于当月晚些时候开始在整个系统使用 MTE。作为对比，Android 和 Pixel OS 从未默认启用过 MTE，Android 16 的高级保护模式只会针对少数进程启用该特性。\n\n至于 GrapheneOS 未来能否适配 Pixel 11，官方给出了比较悲观的看法：“我们还没有决定好怎么处理这种情况。对我们而言，跳过 Pixel 11 系列适配可能是更好的选择。我们可以将开发重点转向即将推出的摩托罗拉设备。”\n\n石墨烯官方甚至建议用户不要选购 Pixel 11 系列设备。在他们看来，Pixel 8、Pixel 9 和 Pixel 10 系列手机是更适合的选择，因为这些机型将持续获得 GrapheneOS 更新。\n\n但是石墨烯官方也对 Pixel 11 的部分安全功能做出了肯定，例如加入了抗量子攻击的安全验证启动，并从三星 IMS 切换至 AOSP IMS（IT之家注：IP 多媒体子系统），以及搭载全新 Titan M3 安全芯片。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-30T13:19:46.632Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
