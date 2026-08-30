@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4a9346dec9bf",
+    "title": "苹果 M5 Max MacBook Pro 供电边界：极限负载下每小时掉电 12%",
+    "url": "https://www.ithome.com/0/996/111.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/111.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 8 月 30 日消息，科技媒体 NotebookCheck 昨日（8 月 29 日）发布博文，测试苹果 2026 款 M5 Max 芯片 16 英寸 MacBook Pro，发现随附的 140W 电源适配器可能无法覆盖整机峰值需求。\n\n该媒体在测试中指出，在 Cinebench R23 多核测试与 3DMark Wild Life Extreme GPU 压力测试并行的混合负载中，M5 Max 的 CPU、GPU 封装功耗平均为 70.6W，区间为 68.0W 至 114.4W。\n\n其中 GPU 平均功耗为 37.2W（31.552W~49.977W），峰值接近 50W；而 CPU 平均功耗为 33.4W（30.935-64.469），峰值为 64.5W。上述芯片功耗不包括内存等其他部件的耗电。\n\n该媒体测试整机最大功耗为 150W，比随附适配器额定功率高 10W。在高功率模式的持续混合负载中，即便性能受到散热条件影响而调整，系统仍出现外接电源与实际需求不匹配的情况，电池会参与供电；按测试结果，电量约每小时下降 12%。\n\n测试还显示，使用 180W USB-C 电源适配器，并不能提高 MacBook Pro 16 的实际取电功率，用户无法仅通过购买更大功率 USB-C 充电器消除该工况下的掉电现象。IT之家附上相关图片如下：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-30T07:32:03.940Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
