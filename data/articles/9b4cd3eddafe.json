@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9b4cd3eddafe",
+    "title": "群晖推出 PB 级存储解决方案 RS11626xs+，可扩充至 118 盘位",
+    "url": "https://www.ithome.com/0/996/286.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/286.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 31 日消息，群晖 (Synology) 本月 26 日推出 PB 级存储解决方案 RackStation RS11626xs+。其自带合计 22 个盘位，还可连接至 8 台 12 盘位 SAS 存储 RX1222sas，最终达到 118 盘位，原始容量超过 2.6 PB。\n\nRS11626xs+ 采用 3U 19\" 机架式设计，内置冗余电源。其基于 AMD EPYC（霄龙）7303 处理器，配备 64GB DDR4 ECC RDIMM（提供 16 个内存模组槽位），内置 2 个 M.2 NVMe 插槽、4 个 2.5\" SSD 插槽、16 个 3.5\"/2.5\" 硬盘。\n\n该设备提供 2 条 PCIe Gen4 ×16 插槽、2 个 10GbE RJ45、2 个 USB 5Gbps、8 个 Mini-SAS HD 扩充端口，此外还有一个带外管理局域网端口。\n\nRS11626xs+ 搭载 DSM；顺序读写分别至高可达 10500MB/s 和 8200MB/s，4K 随机读写分别至高可达 895K IOPS 和 234K IOPS；提供 IT 基础设施备份、虚拟机存储备份与主机代管、智慧数据分层等多样化功能。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-31T01:19:12.140Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
