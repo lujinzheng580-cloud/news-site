@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "84f8e793ddf7",
+    "title": "联发科将基于英伟达 NVLink Fusion 为客户开发定制 XPU",
+    "url": "https://www.ithome.com/0/996/645.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/645.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 31 日消息，NVIDIA（英伟达）与联发科技 (Mediatek) 今日宣布深化长期合作伙伴关系，共同打造跨世代的 AI 基础设施、边缘 AI 运算、车用产品。\n\n联发科技将采用 NVIDIA NVLink Fusion 平台为客户开发客制化 XPU 芯片，整合至 NVIDIA 机柜级系统及 AI 工厂。NVIDIA 同时向联发科技发行的海外可转换公司债投资 35 亿美元（IT之家注：现汇率约合 235.75 亿元人民币）。\n\n此外，双方将持续合作开发未来数代 RTX Spark / DGX Spark 电脑芯片；两家企业也将持续开放具备 AI 功能的 SDV（软件定义汽车）平台。\n\nNVIDIA 创始人兼首席执行官黄仁勋表示：\n\nAI 正在重新定义所有计算平台，涵盖从全球大型 AI 工厂到个人电脑与汽车等领域。联发科技是全球领先的半导体公司之一，在 SoC 设计、连接技术以及高性能与高能效方面拥有深厚实力。透过更深度的合作，我们正共同打造能将 NVIDIA 加速计算技术拓展至更多新市场的平台，并让客户得以大规模建构具差异化优势的 AI 系统。\n\n联发科技与 NVIDIA 对于将先进 AI 计算广泛应用到各科技产业有着共同的愿景。NVIDIA 的投资强化我们在云端 AI 基础设施、边缘 AI 计算及实体 AI 世代下的车用平台合作。我们相信结合 NVIDIA 在加速计算及 AI 软件生态系的领先地位，以及联发科技横跨边缘到云端的多元 AI 技术布局，与在客制化芯片的领导地位，能为客户加速实现创新。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-31T15:29:56.095Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
