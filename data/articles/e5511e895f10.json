@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e5511e895f10",
+    "title": "消息称三星电子正为英伟达开发定制 8Hi HBM：17~18Gbps 高速设计",
+    "url": "https://www.ithome.com/0/996/486.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/486.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 31 日消息，韩媒《首尔经济日报》当地时间 28 日报道称，三星电子正为 NVIDIA（英伟达）开发一款定制的 HBM 内存产品。其采用 8 层低堆叠设计，同时支持 17~18Gbps 的高引脚速率。\n\n原文同时称其为 HBM4E 和 NVHBM。但从 NVIDIA 的表述上来看，NVHBM 和标准 HBM4E 必然采用有差异的基础裸片 (Base Die) 设计，而 DRAM Die 是否能相同也有待考察。\n\n三星电子此前出样的 HBM4E 内存支持至高 16Gbps 的引脚速率。\n\n从技术上来看，低堆叠设计可减少 DRAM Die 用量、提升生产良率，从而压低制造成本、提升出货规模；而更高的速率能进一步化解 AI 加速器存在的“内存墙”问题，提升实际吞吐量。\n\n对于三星电子而言，其同时经营存储器与晶圆代工业务，拥有全流程定制 HBM 开发能力，在 Base Die 的设计调整、Base Die 与 DRAM Die 的适配等上存在天然的优势。\n\n《消息称英伟达调整 HBM4 内存需求，8Hi 低堆叠占比提升》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-31T07:31:11.903Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

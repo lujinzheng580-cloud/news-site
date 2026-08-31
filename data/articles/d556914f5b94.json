@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d556914f5b94",
+    "title": "腾讯混元：Hy4 preview 调用激增，WorkBuddy 已紧急扩容",
+    "url": "https://www.ithome.com/0/996/414.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/414.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 31 日消息，腾讯混元今日发文称，自 2026 年 8 月 28 日混元 Hy4 preview 在 WorkBuddy 首发接入以来，凭借其 Agent 能力的显著提升，受到了广大用户与开发者的积极体验和热情反馈，上线首日即在 WorkBuddy 任务队列中出现排队情况，对此深表歉意。\n\n公告显示，为保障用户的使用体验，腾讯混元已针对 Hy4 preview 推理集群进行紧急扩容，并将持续动态调配资源。但受限于高端算力总量与高峰并发集中，仍不排除个别时段会继续出现排队情况。\n\n如遇到排队，建议用户可以考虑如下过渡方案：\n\n切换到 Hy3 等其他模型继续使用：Hy3 当前 WorkBuddy 限免将延长至 2026 年 9 月 30 日 23:59 。\n\n关于 Hy4 preview 限免的两点说明：\n\n每日免费额度有限：Hy4 preview 限免至 9 月 10 日 23:59 ，因资源有限，期间平台对每位用户分配了每日免费额度。触发限频后，页面会提示重置恢复时间。\n\nHy4 preview 为大语言模型，暂不具备图像 / 视频等多模态生成能力。当你在 WorkBuddy 里发起生图、视频等多模态任务时，系统会自动切换到其他多模态模型执行，该部分按正常规则消耗积分，不占用 Hy4 preview 免费额度。\n\nIT之家注意到，腾讯官方 8 月 28 日发布了 Hy4 preview，总参数 770 B，激活参数 49 B，上下文长度 1M。官方表示，Hy4 preview 在模型尺寸、上下文长度、数据规模上都进行了显著的扩展，预训练和后训练的共同进步带来了智能水平的又一次巨大提升，稳居开源模型第一梯队。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-31T07:31:11.906Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "043cc95089ec",
+    "title": "兆易创新加入 Zephyr 开源实时操作系统（RTOS）项目",
+    "url": "https://www.ithome.com/0/996/470.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/470.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 8 月 31 日消息，兆易创新 (GigaDevice) 今日宣布已加入全球主流开源实时操作系统 (RTOS) 项目 Zephyr 并成为其银牌会员。\n\n兆易创新表示该企业将积极参与 Zephyr 开源社区，持续推动 GD32 MCU 与 Zephyr 生态深度融合。\n\n其工程团队已在内部代码仓库开展 GD32 MCU 针对 Zephyr Project 的适配开发工作，完成了多个系列 MCU 的 Soc、BSP 驱动及板级支持，用户可直接从 GD32 Github 仓库获取代码进行开发。兆易创新工程团队也持续向 Zephyr 社区贡献相关代码与技术支持。\n\n兆易创新未来将完成更多 GD32 MCU 产品的适配与上游社区贡献，完善软件资源，推动更多芯片支持合入 Zephyr 主线，方便全球开发者基于 GD32 开展嵌入式开发；同时参与国内 Zephyr 生态共建，联合产业伙伴完善生态基础设施。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-08-31T07:31:11.904Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
