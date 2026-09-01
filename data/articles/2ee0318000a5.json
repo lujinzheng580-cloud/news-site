@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2ee0318000a5",
+    "title": "英伟达 616.56 WHQL 驱动程序存在闪屏问题，已在测试修复方案",
+    "url": "https://www.ithome.com/0/996/821.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/821.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 1 日消息，根据多位网友在 NVIDIA（英伟达）官方 GeForce Forum 论坛的反馈，该企业于 8 月 26 日发布的 GeForce Game Ready 616.56 WHQL 驱动程序存在闪屏问题，NVIDIA 已在测试修复方案。\n\nX 平台网友 Renan Maniero 表示，这一问题似乎更容易出现在色深被设置为 8-bit 的显示设备上，调整为 10-bit 色深或启用 Windows 自动色彩管理可防止问题发生。\n\n截至IT之家发稿时，NVIDIA 尚未就此问题发布热修复驱动程序。NVIDIA 通常在每周二发布例行 GeForce Game Ready 驱动更新。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-01T05:43:42.050Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

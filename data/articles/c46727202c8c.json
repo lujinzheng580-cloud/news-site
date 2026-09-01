@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c46727202c8c",
+    "title": "发行已 27 年：非官方 PC 原生版《咚奇刚 64》游戏问世，演示达 4K@200 FPS",
+    "url": "https://www.ithome.com/0/996/886.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/886.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 1 日消息，科技媒体 Tweaktown 昨日（8 月 31 日）发布博文，报道称经典 N64 3D 平台游戏《咚奇刚 64》（Donkey Kong 64，也称大金刚 64）迎来原生 PC 重编译版 DK64 Rekongpiled。\n\nIT之家援引博文介绍，原作由 Rare 开发，任天堂于 1999 年在 Nintendo 64 平台发行。按 2026 年计算，这款 3D 平台游戏距首次推出已约 27 年。\n\n移植版没有改变游戏的关卡、角色、核心结构、画面或音频基础，主要替换了游戏的运行环境，使原始内容可适配现代 PC 设备。\n\n适配机型方面，该原生重编译版本支持 Windows、Linux 和 macOS，并适配 Valve 的 Steam Deck 掌机。\n\n运行机制方面，DK64 Rekongpiled 并非通过模拟器复现 N64 硬件环境，通过以原生程序方式在现代 PC 系统上运行。玩家仍需提供《咚奇刚 64》的备份或 ROM，用于提取原版游戏的美术资源和音乐文件。\n\n在运行体验方面，根据官方演示，在现代 PC 电脑上，该项目达到 4K 分辨率和 200 FPS，并支持无上限帧率。\n\n画面上，PC 版新增高分辨率渲染和宽屏画面，玩家可在更大的显示区域内体验原有的 3D 关卡，并提高了游戏的远景显示距离。在操作层面，新版本支持鼠标与陀螺仪控制。\n\n项目贡献者 2dos 表示，DK64 Rekongpiled 在开发过程中未使用生成式 AI。他认为如果使用 AI 重编译《咚奇刚 64》创建原生移植版本，前期推进固然会比较顺利，但在后续维护以及 MOD 开发过程中，可能会带来额外负担。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-01T05:43:42.046Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

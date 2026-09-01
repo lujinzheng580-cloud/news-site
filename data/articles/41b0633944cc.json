@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "41b0633944cc",
+    "title": "1.5TB 压到 214GB：腾讯混元 Hy4 preview 轻量版发布开源，异构设备可联合推理",
+    "url": "https://www.ithome.com/0/996/880.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/880.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 1 日消息，腾讯混元团队今日宣布推出 Hy4 preview 轻量版，将 Hy4 preview 的模型权重从接近 1.5TB 压缩至约 214GB。\n\nIT之家注：Hy4 preview 是腾讯于 8 月 28 日发布并开源的新一代 MoE（混合专家）大语言模型，总参数量 770B（7700 亿），激活参数 49B，上下文长度达 100 万 Token。\n\n此次压缩依托两项核心技术：其一是 Sherry 稀疏三值量化算法，将路由专家层权重压缩至平均 1.25 比特；其二是 MIX-STQ1_0 混合精度策略，依据校准数据逐层决定每层的量化位宽，敏感层保留较高精度（2.06 比特 IQ2_XXS），不敏感层采用更激进的 STQ1_0（1.31 比特）。\n\n两种技术结合，使模型在主流任务上表现稳定 —— 长文理解几乎与原始 BF16 模型持平，多轮长上下文检索基本在同一水平，数学能力仅小幅回落。MCP Atlas 得分从 83.7 微降至 83.2，SWE-Bench multi 从 82.9 降至 81.3。\n\nBF16 即 bfloat16 浮点格式，是 AI 训练中常用的低精度数值格式；bpw（bits per weight）指每个权重参数平均占用的比特数，数值越低压缩率越高。\n\n在异构设备联合推理方面，腾讯混元与 prima.cpp 合作验证了一项新方案：在一台配备单张 4090 的笔记本与一台四卡 A4000 服务器（合计 80GB 显存、64GB 内存、分属两个局域网）上，通过 prima.cpp 的异构调度将 MoE 层拆分分配，使 214GB 的轻量版模型达到 1.02 token/s 的推理速度，比笔记本单机 offload 快约 6 倍。\n\n轻量版模型已上线 Hugging Face 和 GitHub 平台，支持 llama.cpp、vLLM、SGLang 等主流推理框架。\n\n量化 GGUF：huggingface.co/ AngelSlim / Hy4-preview-GGUF\n\n原模型：huggingface.co/ tencent / Hy4-preview\n\n代码仓库：github.com/ Tencent / AngelSlim",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-01T05:43:42.047Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
