@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 1 日消息，屡次与微软交锋的安全研究人员 Nightmare Eclipse（Chaotic Eclipse），在 8 月上旬公开 Microsoft Defender 零日漏洞 ShieldBreak 后，近期又将研究目标转向其他厂商的安全软件。\n\n据安全新闻网站 SecurityWeek 报道，Nightmare Eclipse 上周公布了卡巴斯基企业版终端安全产品 Kaspersky Endpoint Security 中存在的一项提权零日漏洞概念验证（PoC），相应漏洞可允许黑客获得系统的完整权限。\n\n对此，卡巴斯基向 SecurityWeek 表示，相关问题已经得到修复，补丁已通过自动更新推送，用户也可以手动更新病毒库来获取修复。\n\n本周，Nightmare Eclipse 将目标转向 Gen Digital 旗下的 Avast 防病毒软件，同样披露了一项提权零日漏洞，其概念验证代码可以利用 Avast 的沙箱组件，在本地获取 SAM 数据库信息，并进一步创建具有 SYSTEM 级权限的 Shell。\n\n值得注意的是，该研究人员是在安装最新更新的 Windows 11 25H2 以及 Avast Antivirus 环境中完成测试，实际上 Gen Digital 旗下的 AVG、Norton 等其他安全产品也可能受到影响。\n\n参考IT之家先前报道，Nightmare Eclipse 此前已经公开多个针对微软产品的漏洞，目前最为人所知的是 ShieldBreak 漏洞。该漏洞在 8 月微软发布例行安全更新后不久公开，微软随后确认正在调查相关问题。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-01T18:37:48.413Z",
+    "publishedAt": "2026-09-01T21:24:20.151Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
