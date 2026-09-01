@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9cb0d6f91238",
+    "title": "三星电子：V10 BV-NAND 有望支持未来 PCIe Gen7 固态硬盘",
+    "url": "https://www.ithome.com/0/997/058.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/058.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 1 日消息，三星半导体在当地时间 8 月 30 日发布的一份内部采访中表示，FMS 2026 峰会上公布的 V10 BV-NAND 不仅能支持 128TB 大容量固态硬盘，也有望用于下一代的 PCIe Gen7 固态硬盘。\n\nV10 BV-NAND 采用 3D Bonded-VNAND 架构，分别在 2 片晶圆上构建存储单元与外围电路，此后以晶圆键合工艺将两部分组合在一起；而其完整存储单元由三个高深宽比堆栈结合而成，累计达到 400 层以上。\n\n三星半导体表示，独立构建存储单元与外围电路使得其能最大化外围器件的性能，并通过电路设计利用其增强特性，实现高性能和低功耗。\n\nV10 BV-NAND 还综合应用了多孔、零假孔、Pin-ODT、DFE、RDCA、低电压、电源隔离低抽头终端（PI-LTT）等技术，最终在位密度、I/O 速率、功耗上分别实现了 58%、33%、25% 的改进。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-01T10:32:25.054Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

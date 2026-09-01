@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "205168dbd8f7",
+    "title": "英伟达 GPU 帧插值支持并入 FFmpeg，用户可使用帧生成提高视频帧率",
+    "url": "https://www.ithome.com/0/997/015.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/015.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 1 日消息，据科技媒体 Phoronix 前天报道，开源多媒体框架项目 FFmpeg 日前宣布，英伟达 GPU 加入帧插值功能已通过 Vulkan API 集成到 FFmpeg。\n\n本次合并意味着，FFmpeg 可使用英伟达 GeForce RTX GPU，在不经过传统图形渲染流程的情况下预测生成下一帧。英伟达正将这一能力扩展至视频编码领域，让用户利用帧生成技术提高视频帧率。\n\n同时，英伟达 GPU 的光流加速器（Optical Flow Accelerator）可将图形渲染的光流逻辑应用于视频，通过预测下一帧生成 AI 帧提升视频帧率。官方将该过程称为 FRUC（IT之家注：Engine-assisted Frame-rate Up Conversion）。\n\n此次加入的 Vulkan 实现能够让 FFmpeg 直接访问英伟达硬件，同时避免了此前阻碍该功能合并的专有软件依赖问题。因此 FFmpeg 此前未能合并的早期补丁，这一次得以正式加入项目。\n\n此外，英伟达 RTX 30、40 和 50 系显卡用户可使用本次新增的功能，将 30FPS 视频提升至 60FPS。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-01T10:32:25.061Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
