@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "cae30457d6b1",
+    "title": "Mac 成 AI 硬件宠儿：苹果提前发布 2026 款 mini / Studio，全球需求激增促成 8 月上新",
+    "url": "https://www.ithome.com/0/996/710.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/996/710.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 1 日消息，科技媒体 The Information 于 8 月 30 日发布博文，报道称伴随着全球越来越多的 AI 实验室和开发者使用 Mac 训练 / 推理 AI 模型、运行 AI 智能体，推高全球苹果 Mac mini 和 Mac Studio 销量。\n\n该媒体指出苹果通常在秋季（10~11 月）更新 Mac 产品线，不过 2026 年产品更新提前到 8 月 25 日官宣、9 月 22 日发货，节奏明显提前。\n\n该媒体认为背后原因，是企业与 AI 客户对 Mac mini / Studio 的需求超出预期，促使苹果加速上新以缓解供应压力。\n\nM6 是苹果首款 2nm 芯片，用于新 Mac mini，配备 12 核 CPU 与 12 核 GPU，并在每颗 GPU 核心中首次加入 Neural Accelerators。\n\n苹果称其 AI 性能最高达 M4 的 4 倍，图形性能最高 2 倍；双 16 核神经引擎让峰值 AI 算力较上代最高翻倍。\n\n在 LM Studio 中，M6 版 Mac mini 的大语言模型提示处理速度最高达 M1 的 13.5 倍、M4 的 4.8 倍。\n\n苹果重点推广多台 Mac Studio 的集群能力。用户可通过雷雳 5 和 RDMA 连接设备，并让多机共享更大的内存池，用于加载更大型的开放权重大模型。\n\n苹果称，由 4 台 Mac Studio 组成的集群，AI 推理速度最高为单机的 3 倍。新机最高配备 6 个雷雳 5 接口，单接口带宽可达 120Gb/s，并首次加入 Wi‑Fi 7 和蓝牙 6。\n\nOpenAI 已购入数万台 Mac mini / Studio，用于训练可操作电脑的智能体；Anthropic 选择通过 AWS 租用 Mac mini 容量。苹果 Mac 业务在 2026 年 Q3 同比增长 29%，高配机型交付周期达 10–12 周，显示供需紧张。IT之家附上相关截图如下：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-01T00:39:04.447Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -11,7 +11,7 @@
     "content": "IT之家 8 月 31 日消息，博通公司今天宣布推出 VMware AI 工厂。新产品是 VMware AI 私有云的软件定义基础，通过一系列自动化创新功能为 AI 基础设施部署提供支持，进而为客户提供更加简单的 AI 生产力部署路径。\n\n据介绍，VMware  AI 工厂可将 AI 应用直接部署到企业私有云环境。其 VCF（IT之家注：VMware Cloud Foundation）具备独特的基础设施自动化能力，可将服务器部署到 AI 模型开始服务，从数周缩短至数小时。\n\nVCF 可在整个企业内部汇集 GPU 资源，使不同团队在共享硬件上运行多个模型，不必为每个 AI 单独配置服务器。统一模型库可为数据科学团队提供单一界面，在虚拟机、容器和 GPU 资源之间部署及管理模型推理和 RAG 工作流。\n\n该平台还内置了可观测性功能，用于监控 Token 吞吐量、延迟，以及计算和内存利用率，帮助企业将 Token 利用率最大化。\n\nVMware AI 工厂将支持思科、戴尔、联想、超微等厂商的 VCF AI ReadyNodes 认证产品，同时支持客户偏好的 AI 软件和加速器架构，兼容 Gemma 4、cotomi、Qwen 3.7-Max、GLM 5.2 等 AI 大模型。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-08-31T21:03:09.679Z",
+    "publishedAt": "2026-09-01T00:39:04.453Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
