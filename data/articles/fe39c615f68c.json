@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "fe39c615f68c",
+    "title": "降低打字干扰：微软 Word / Outlook 已默认禁用文本预测功能",
+    "url": "https://www.ithome.com/0/997/357.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/357.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 2 日消息，微软昨日（9 月 1 日）发布博文，宣布在 Word 和 Outlook 应用中，已默认禁用文本预测（text predictions）功能。\n\n微软在博文中指出，基于相关调查，部分用户认为该功能干扰到日常输入体验，且倾向于自行完成输入，因此决定默认禁用该功能。对该功能有需求的用户，依然可以在设置中启用。\n\nIT之家援引博文介绍，本次调整覆盖网页版、手机版以及桌面版，并开始在以下版本中推送上述变化：\n\nWord for Windows: Version 2609 (Build 20430.20000) 以及后续版本\n\nClassic Outlook for Windows: Version 2608 (Build 20329.20000) 以及后续版本\n\nOutlook for Mac: Version 16.113 (26080119) 以及后续版本\n\nWord for Android: Build 16.0.20326.20000 以及后续版本\n\nWord for iOS: Version 2.112 (Build 26080127) 以及后续版本\n\n微软表示，部分 Outlook for Android 和 Outlook for iOS 的使用场景此前已默认关闭文本预测。因此，将这一设置扩展到 Word 和 Outlook 的各个界面，有助于统一不同设备上的交互方式。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-02T06:22:04.506Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

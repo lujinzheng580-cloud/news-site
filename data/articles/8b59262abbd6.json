@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8b59262abbd6",
+    "title": "微软称符合条件 Win11 设备 10 月默认启用内存完整性保护，拦截恶意驱动劫持",
+    "url": "https://www.ithome.com/0/997/293.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/293.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 2 日消息，科技媒体 Neowin 昨日（9 月 1 日）发布博文，报道称针对符合条件的 Windows 11 设备，微软计划 2026 年 10 月开始，默认启用内存完整性保护（Memory Integrity）。\n\nIT之家援引博文介绍，内存完整性保护（Memory Integrity）也称受虚拟机监控程序保护的代码完整性（Hypervisor-protected Code Integrity，HVCI），建立在基于虚拟化的安全（VBS）之上。\n\n该功能利用硬件虚拟化创建隔离环境，验证内核模式代码和驱动程序。Windows 内核处于操作系统底层，驱动程序可拥有较高系统权限。微软表示，该功能只允许受信任的内核模式代码和驱动运行，从而降低恶意程序借助底层驱动接管设备的风险。\n\n微软 Windows 11 系统此前已经内置内存完整性保护功能，不过默认情况下处于关闭状态。针对符合条件的 Windows 11 设备，微软计划 2026 年 10 月（预计对应 10 月 13 日的“周二补丁日”）开始默认启用。\n\nIT之家查询微软官方支持文档，附上相关条件如下：\n\n支持硬件虚拟化的 CPU：处理器必须支持硬件虚拟化，并且 BIOS / UEFI 中应启用 Intel VT-x 或 AMD-V。\n\nUEFI 与安全启动：设备通常需要采用 UEFI 启动，并启用 Secure Boot（安全启动），以确保启动链可信。VBS 的 RequiredSecurityProperties 可能明确要求 Secure Boot。\n\nNX / DEP 保护：硬件需要支持并启用 NX（No-eXecute）/DEP 数据执行保护，这是 VBS 可用安全属性之一。\n\n兼容的 Windows 版本：该功能适用于 Windows 10、Windows 11，以及 Windows Server 2016 及更高版本；Windows 11 22H2 起，系统在内存完整性关闭时会给出 Windows 安全中心提示。\n\n无不兼容内核驱动：驱动必须兼容 HVCI。旧的、未正确签名或采用不安全内核内存 / 执行方式的驱动，可能阻止功能启用，或导致设备异常、软件故障，极少数情况下会蓝屏。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-02T06:22:04.507Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

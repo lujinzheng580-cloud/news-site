@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "02dcfef83195",
+    "title": "阿里千问 Qwen3.8-Max-0902 版本模型发布，拿下前端编程总榜冠军",
+    "url": "https://www.ithome.com/0/997/270.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/270.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 2 日消息，阿里千问今日宣布 Qwen3.8-Max 模型升级到 0902 版本。\n\n官方围绕编程（Coding）和专业办公（Cowork），对 Qwen3.8-Max 进行了进一步的后训练，使得模型整体性能再度突破，更适合企业真实复杂任务、科研、长周期任务等。\n\n在 CodeArena 前端编程总榜中，Qwen3.8-Max 提升 22 分至 1691 分夺得冠军。这说明，Qwen3.8-Max 拥有更强的智能体编程能力，在多步推理、工具调用、端到端 app 生成方面均刷新了全球模型的新上限。\n\n同时，CodeArena 更新的模型性价比榜单（帕累托前沿）显示，Qwen3.8-Max-0902 新版本每百万 Tokens 综合平均价格为 5 美元（IT之家注：现汇率约合 33.7 元人民币），而当前性能排名第二和第三的模型百万 Tokens 综合价格分别为 20 美元（现汇率约合 134.7 元人民币）和 12 美元（现汇率约合 80.8 元人民币）。\n\n现在，全新的 Qwen3.8-Max-0902 版本模型已上线千问 AI 平台对外提供 API 服务，并且第一时间接入千问办公、Qoder、千问 App，供所有企业、开发者和用户们使用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-02T06:22:04.509Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
