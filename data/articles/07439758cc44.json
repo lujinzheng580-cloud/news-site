@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "07439758cc44",
+    "title": "欧洲最强 AI：西班牙公司推出 Quasar 438B 模型，1M 词元上下文",
+    "url": "https://www.ithome.com/0/997/726.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/726.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 3 日消息，西班牙 AI 公司 Multiverse Computing 最新推出 Quasar 438B 模型，根据 Artificial Analysis 得分，该模型 Intelligence Index v4.1.1 得分为 43，在参与比较的欧洲模型中排名最高。\n\nIT之家注：该指数综合 9 项评测，覆盖智能体、代码、科学推理、通用知识和长上下文推理，是评估模型能力的主要基准之一。作为对比，Mistral Medium 3.5 得分为 30，NVIDIA Nemotron 3 Ultra 得分为 38。\n\n该模型拥有 4,380 亿参数，定位为推理模型，主要面向企业级智能体、软件开发和复杂多步任务。Quasar 438B 支持英语和西班牙语，并已通过 CompactifAI API 提供访问。\n\n在官方 X 推文下方的“背景信息”中，补充表示该模型可能基于智谱的 GLM5.2 模型制作。\n\n该模型目前属于专有模型，权重未公开，仅支持文本输入和文本输出，不具备图像输入能力。API 价格为每 100 万输入词元 0.60 美元、每 100 万输出词元 1.80 美元。\n\n响应速度也是该模型的主要指标。Quasar 438B 生成 500 个输出词元的耗时为 15.3 秒，其中包含推理时间。Artificial Analysis 记录的输出速度为每秒 176.2 个词元，首 Token 输出延迟为 1.08 秒。\n\n在 Artificial Analysis Long Context Reasoning（长上下文推理）评测中，Quasar 438B 得分为 75.0。该测试考察模型从长文档中提取、关联并推理信息的能力。模型上下文窗口为 1M 词元，适合处理合同、技术资料、政策文件和研究报告等长文本。\n\n在 Terminal-Bench v2.1 评测中，Quasar 438B 得分为 69.3。该测试模拟真实终端环境中的智能体任务，包括查看代码仓库、运行命令、排查错误和完成连续操作。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-02T23:36:24.974Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

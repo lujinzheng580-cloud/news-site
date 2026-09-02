@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c0a53e714f34",
+    "title": "苹果 iOS 27 新增“iPhone 接力”功能，两部手机可共用同一号码",
+    "url": "https://www.ithome.com/0/997/718.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/718.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 3 日消息，苹果在 iOS 27 中加入了一项名为“iPhone 接力”的新功能，允许用户在两部 iPhone 上使用同一个电话号码并支持切换。\n\nIT之家注意到，该功能在 2026 年 6 月的 WWDC 2026 主题演讲中曾在一张列有数百项新功能的 PPT 上被简要提及，但当时苹果未公布任何细节。\n\n当地时间 9 月 2 日，MacRumors 论坛成员分享了一段演示视频，展示了该功能在 Xcode 27 的 Device Hub 中于两台模拟 iPhone 上的运行方式。\n\n用户可通过“设置”应用中的“蜂窝网络”菜单进行设置。设置过程中，用户需选择一部作为最常使用的主设备，另一部作为辅助设备。\n\n苹果表示，用户的主 eSIM 将保留在主 iPhone 上，而辅助 iPhone 将接收一个辅助 eSIM，从而实现两部设备间使用同一号码来回切换。所有蜂窝网络设置均在主 iPhone 上管理，位置共享则基于当前正在使用该电话号码的设备。\n\n除了需要两部运行 iOS 27 的 iPhone 外，该功能似乎还需要运营商支持，例如美国 T-Mobile 和德国 Deutsche Telekom 可能是首批提供该功能的运营商。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-02T23:36:24.976Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
