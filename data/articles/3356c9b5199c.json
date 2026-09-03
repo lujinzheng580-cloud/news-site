@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 4 日消息，英伟达今天宣布，全新 RTX Spark Windows PC 将于 10 月上市，为 AI 发烧友、开发者提供更多创作方式。\n\n据介绍，英伟达合作伙伴已在 IFA 2026 大会上展示相关硬件。全新发布的产品设计将与现有 6 家 OEM 厂商的产品一同于 10 月出货。例如宏碁本次展示了 RTX Spark 高能效桌面主机的概念设计，联想则发布了 Yoga Pro 9n 和 Yoga 9n 二合一设备。\n\n据官方介绍，RTX Spark 将搭载高能效 20 核 Grace CPU 以及至高 128GB 统一内存，还带有 RTX Blackwell GPU，算力可达 1 Petaflop（IT之家注：千万亿次浮点运算）。\n\nRTX Spark 这款超级芯片可为高性能、轻薄且具备全天续航的笔记本电脑，以及小巧、高能效的桌面主机提供动力，支持始终在线的智能体。搭配全新 Windows Agent 框架，智能体可在操作系统级管控下安全地在后台运行。\n\n除此之外，英伟达今天还宣布推出免费开源的 Personal AI Router（PAIR）技术，可在本地网络的多台电脑之间智能分配 AI 推理任务。智能体工作流通常会将复杂任务拆分为可并行执行的小任务，但当所有推理请求都在争用同一块 GPU 时，性能可能会下降。\n\nNVIDIA PAIR 可自动发现本地网络的兼容 PC，将相互独立的推理请求路由至具备可用算力的系统。它可以和 Ollama、LM Studio 配合使用，并随设备加入或离开网络自动调整。该技术将兼容 Windows、macOS 和 Linux，兼容 RTX 20 系列及更新 GPU、RTX PRO 桌面端 GPU（图灵架构及更新）、DGX Spark，以及苹果 M4 或更新款芯片。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-03T18:45:30.984Z",
+    "publishedAt": "2026-09-03T21:38:05.038Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

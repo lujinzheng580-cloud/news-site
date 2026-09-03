@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 3 日消息，英特尔 Graphics Software 32.0.101.8992 显卡驱动（适用于 Arc）今日发布。\n\n本次为 Non-WHQL 测试版本，为英特尔 Arc B 系列、A 系列独立显卡以及英特尔酷睿 Ultra 系列集成 Arc 核显提供支持，新增两款新游戏支持，修复了多款游戏存在的画面异常问题。\n\nIT之家附官方公告链接（https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html）。\n\n修复《失落星船：马拉松》（DX12）在各产品线中，使用各向异性过滤时游戏过程中部分物体出现间歇性画面异常\n\n修复《刺客信条：启示录》（DX9）中出现画面闪烁异常的问题\n\n修复《007：初露锋芒》（DX12）第 8 章游戏过程中出现全屏画面异常的问题\n\n英特尔酷睿 Ultra 系列 3 集成 Arc 核显：《四海兄弟：故乡》（DX12）游戏过程中可能出现应用崩溃\n\n英特尔 Arc B 系列独立显卡：《暗区突围：无限》（DX12）开启地形表面细分时可能出现应用崩溃；PugetBench for Davinci Resolve Studio* 运行基准测试时可能出现间歇性应用崩溃，官方建议将超时滑块调整到 1500 秒或更高\n\n英特尔 Arc A 系列独立显卡：《暗区突围：无限》（DX12）开启地形表面细分时可能出现应用崩溃；PugetBench for Davinci Resolve Studio 运行基准测试时可能出现间歇性应用崩溃，官方建议将超时滑块调整到 1500 秒或更高\n\n英特尔酷睿 Ultra 系列 1 集成 Arc 核显：《NBA 2K26》（DX12）首次启动游戏时可能出现应用崩溃；《007：初露锋芒》（DX12）首次启动游戏时可能出现间歇性应用崩溃\n\n英特尔 Graphics Software：显示页面的三点选项菜单可能无响应\n\n英特尔 Graphics Software 性能调节（BETA）：多 GPU 场景中，性能调节页面可能尝试同时对一个或多个设备应用更改，而非根据 GPU 选择器单独调整\n\n本次驱动包包含英特尔显卡驱动 32.0.101.8992 、Intel Media SDK Runtime 21.0.1.35 、Intel oneVPL GPU Runtime 21.0.2.17 等组件，支持 DirectX 12 、Vulkan 1.4 、OpenGL 4.6 等 API，兼容 Windows 10 64 位 2022 十月更新及之后的 Windows 10 系统，以及从 Windows 11 64 位 2021 十月更新到 2025 九月更新（ 25H2 ）的全系列 Windows 11 操作系统。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-03T18:45:30.991Z",
+    "publishedAt": "2026-09-03T21:38:05.044Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 3 日消息，华为开发者官网 OS 平台行为变更说明今日迎来更新，宣布沉浸光感新增生效约束。针对此次变更，华为官方也给出了原因和影响：\n\n变更原因：为确保性能和功耗体验最优，规范沉浸光感组件使用，沉浸光感对部分组件新增生效范围的约束。\n\n变更影响：此变更涉及应用适配（此变更涉及的接口为 26.0.0 Beta 版本新增接口，因此变更仅在应用的 targetSdkVersion 设置为大于等于 26.0.0 时生效）。\n\n变更前：针对支持开启沉浸光感的所有组件，沉浸光感开启后，沉浸光感效果生效。\n\n弹窗类组件（AlertDialog、ActionSheet、CustomDialog、CalendarPickerDialog、DatePickerDialog、TimePickerDialog、TextPickerDialog、SelectionMenu、AlphabetIndexer 弹窗、Text 设置 copyOption 后长按或双击触发的文本菜单）和弹窗类接口（PromptAction、ArkUI_NativeDialog、@ohos.promptAction (弹窗)、Popup 控制、Tips 控制、菜单控制、半模态转场）以及按钮与选择类组件（Slider、Toggle、Select）仍可在页面内全部区域生效，与变更前无变化。\n\n其他组件仅在 Navigation / NavDestination 标题栏或横向 Tab 中 barPosition 为 BarPosition.End 的底部 TabBar 中生效。在其他区域中设置沉浸光感效果不生效。\n\n变更前，Column 组件通过 systemMaterial 设置了沉浸光感，沉浸光感效果生效。示例图片如下：\n\n变更后，Column 组件通过 systemMaterial 设置了沉浸光感，由于不处于生效范围内，沉浸光感效果不生效。示例图片如下：\n\n变更的接口 / 组件除以下清单以外的所有 ArkUI 组件：\n\n弹窗类组件（AlertDialog、ActionSheet、CustomDialog、CalendarPickerDialog、DatePickerDialog、TimePickerDialog、TextPickerDialog、SelectionMenu、AlphabetIndexer 弹窗、Text 设置 copyOption 后长按或双击触发的文本菜单）。\n\n弹窗类接口（PromptAction、ArkUI_NativeDialog、@ohos.promptAction (弹窗)、Popup 控制、Tips 控制、菜单控制、半模态转场）。\n\n按钮与选择类组件（Slider、Toggle、Select）。\n\n华为官方表示，变更后，如果组件需要沉浸光感效果，需要将该组件放置于 Navigation / NavDestination 标题栏或 Tabs 的底部 TabBar。\n\n华为 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会专题",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-03T18:45:30.988Z",
+    "publishedAt": "2026-09-03T21:38:05.042Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
