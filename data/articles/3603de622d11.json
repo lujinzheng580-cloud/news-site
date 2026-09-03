@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3603de622d11",
+    "title": "ChatGPT、Grok、Claude、Cursor 集体突发故障",
+    "url": "https://www.ithome.com/0/998/195.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/195.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 3 日消息，据IT之家网友投稿反馈，ChatGPT、Grok、Claude、Cursor 等多款 AI 模型今晚突发故障。此外，用户请求 Codex 会出现“404 Not Found”错误。\n\nIT之家查询 Downdetector 报告获悉，美国用户使用 OpenAI、Claude、Grok、Cursor 服务时均出现问题。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-03T15:14:11.222Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
