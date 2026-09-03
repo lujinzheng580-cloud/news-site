@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1388736606e3",
+    "title": "忆联正式推出 UM301a 固态硬盘：DRAM-less 服务器 M.2 启动盘",
+    "url": "https://www.ithome.com/0/997/831.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/831.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 3 日消息，忆联 (Union Memory) 昨日宣布正式推出面向企业级应用的 M.2 80 DRAM-less 启动盘 UM301a。这一型号采用 PCIe Gen4 ×4 接口，符合 NVMe 1.4b 协议。\n\nUM301a 可选 480GB / 960GB / 1.92TB 容量，全系列顺序读取可达 5000MB/s，1.92TB 款顺序写入可达 2500MB/s、4KB 随机读取可达 350K IOPS、4KB 随机写入可达 12K IOPS。\n\n其全系列平均顺序读写时延为 20μs、平均随机读取时延 110μs、平均随机写入时延低至 100μs，耐久度达 0.5 DWPD 或 912.5 TBW / TB。\n\n忆联表示，DRAM 对于 SSD 而言既是性能加速器也是潜在的故障点，DRAM-less 的 UM301a 消除了 DDR 不可恢复错误可能引发系统宕机的风险，在大规模现网部署中质量表现更为稳健。UM301a 平均故障间隔达 200 万小时，不可修复误码率＜1E-17，",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-03T06:27:41.863Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

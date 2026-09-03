@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "599feb60c226",
+    "title": "谷歌 Googlebook 应用 Look up 偷跑：聚焦上下文搜索、追踪航班信息等",
+    "url": "https://www.ithome.com/0/997/832.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/997/832.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 3 日消息，科技媒体 9to5Google 昨日（9 月 2 日）发布博文，报道称谷歌面向 Googlebook 的 Look up 应用短暂上架 Play Store 应用商店，随后官方删除页面和详情。\n\n该应用的软件包名为 com.google.android.desktop.contextualtools，主要定位桌面端上下文工具，该媒体测试可以在手机端安装。\n\n功能方面，该应用主要针对用户选中的文本，提供上下文查询，用户无需离开当前页面，即可在浮动窗口内查看与选词相关的信息。\n\n已展示的服务来源包括 Google Search、Google Maps 和 Google Flights，对应结果可以覆盖词义解释、地点信息和航班动态等场景。\n\n用户查看结果后，还能滚动至页面底部，在类似聊天机器人的输入框中继续追问，将一次性的词句查询扩展为多轮问题查询。对普通用户而言，这种设计可减少在阅读、搜索、翻译、查地图或查询航班之间反复切换应用的步骤。IT之家附上相关截图如下：\n\n谷歌此前称，Googlebook 是其新笔记本电脑平台，整合 ChromeOS 与 Android 的部分能力。首批产品预计在 2026 年秋季到来，Look up 是继相机应用之后又一项提前曝光的 Googlebook 配套功能。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-03T06:27:41.863Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
