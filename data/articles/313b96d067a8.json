@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "313b96d067a8",
+    "title": "火狐浏览器 Firefox 155 版本在苹果 macOS 平台出现“部分网站色彩异常”Bug，官方正着手修复",
+    "url": "https://www.ithome.com/0/998/627.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/627.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 5 日消息，Mozilla 于 8 月 31 日发布了火狐浏览器 Firefox 155 版本，不过后续有用户发现新版本浏览器会导致 macOS 上的部分网站出现色彩异常，画面看起来“发白褪色”、“对比度低下”。\n\n对此，Mozilla 回应称开发团队已注意到相应问题，这一问题与 macOS 版 Firefox 的 RDD（Remote Data Decoder，远程数据解码器）媒体解码进程有关。官方现已开始着手修复这一问题，但尚未公布修复补丁的具体发布时间。\n\n除此之外，Mozilla 目前仅确认 macOS 平台受到该 Bug 影响。虽然 Windows 和 Linux 平台也有少量用户报告了类似的显示异常，但目前尚未确认这些问题与 macOS 上的同一 Bug 有关。\n\nIT之家注意到，目前也有用户发现可以在 Firefox 的 about:config 高级配置页面中，将 media.rdd-process.enabled 设置为关闭，即可暂时恢复网站色彩。\n\n不过，Mozilla 提醒称，关闭 RDD 会在一定程度上削弱 Firefox 的安全模型，因为媒体解码过程将转移到普通内容进程中。因此，这一方法更适合作为临时解决方案，并不建议长期关闭 RDD。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-04T23:00:09.763Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

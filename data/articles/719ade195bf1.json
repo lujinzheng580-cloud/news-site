@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "719ade195bf1",
+    "title": "微软公布 Zenith 计划，面向专业开发者打造“开箱即用”Win11 PC",
+    "url": "https://www.ithome.com/0/998/625.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/625.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 5 日消息，微软现已宣布 Zenith 计划，相应计划本质上是一套预先配置好的 Windows 11 Pro 系统 / 开发环境，号称能够为开发者提供更加简洁、专注的 Windows 使用体验。\n\n微软表示，为了进一步推动 AI 驱动的软件开发，公司将与硬件合作伙伴从今年晚些时候开始推出搭载 Project Zenith 的高端 PC。这些设备不会采用独立的 Windows SKU，而是预装经过特殊配置的 Windows 11 Pro 系统，并针对开发者需求调整系统设置。首批搭载 Project Zenith 的设备将采用 AMD Ryzen AI Halo 平台，未来几个月还会有基于其他芯片平台的设备陆续加入。\n\nProject Zenith 预装 Visual Studio Code、PowerToys、WinAppCLI、Windows Dev Skills 等开发工具，同时对 Windows 部分默认设置进行调整，以减少使用过程中的干扰。\n\n例如，文件资源管理器默认显示隐藏文件、文件扩展名、详细信息窗格以及完整文件路径，并开启长路径支持，同时关闭最近使用文件以及同步提示。系统还会关闭开始菜单提示和账户通知，并在开始菜单和搜索功能中启用 Command Palette 命令面板。\n\n微软表示，Project Zenith 的主要目标并不是普通 Windows 用户，而是希望利用本地 AI 智能体进行编程的开发者。微软要求搭载 Project Zenith 的设备至少配备 64GB RAM 统一内存，并提供 250GB/s 的内存带宽，以满足运行 300 亿参数 AI 模型的需求。\n\n对于普通 Windows 用户而言，Project Zenith 的特别之处可能并没有想象中那么大，因为微软其实已经提供了一个开源脚本 Windows Developer Config，可以在任何 Windows 11 PC 上创建类似的开发者环境。\n\n因此，Project Zenith 更像是一套面向开发者 PC 厂商的“开箱即用”Windows 配置方案，而不是微软真正推出了一套只有特定硬件才能使用的新 Windows 版本。对于开发者而言，其价值主要在于省去了自行配置系统和开发工具的过程；而对于普通用户来说，只要拥有 Windows 11 PC，同样可以通过微软提供的开源工具免费获得大部分类似体验。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-04T23:00:09.763Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
