@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1a9a3397e4d1",
+    "title": "服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒",
+    "url": "https://www.ithome.com/0/998/393.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/393.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 4 日消息，当地时间 9 月 4 日，谷歌正式启动谷歌助理（Google Assistant）移动端的退役工作，这款服役近十年的智能语音助手将逐步退出历史舞台，由新一代 AI 助手 Gemini 全面接棒。\n\n谷歌此前通过电子邮件向安卓用户宣布了这一消息。根据通知，移动设备上的 Google Assistant 服务将从 9 月 4 日起陆续停止，符合条件的安卓设备将自动切换至 Gemini。\n\n迁移工作将在随后数周内分批完成，设备完成切换后，用户将无法在手机、平板电脑或配对设备上继续使用或切换回 Google Assistant。\n\n此次调整范围不仅限于手机和平板电脑。用户将 Gemini 设为移动设备默认助理后，与手机配对的兼容设备也会同步改用 Gemini，包括 Wear OS 智能手表以及受支持的耳机等。通过手机投屏使用 Android Auto 的车辆同样会切换至 Gemini，但内置谷歌系统的汽车在 9 月 4 日之后仍将保留 Google Assistant。此外，Gemini 还将逐步扩展至 Google TV 和 Google Home 智能音箱等设备。\n\n公开报道显示，Google Assistant 自 2016 年推出以来，长期承担 Android 生态中的语音交互任务，包括语音搜索、提醒事项、智能家居控制等功能。\n\n相比之下，Gemini 基于生成式 AI 模型，能够处理更复杂的自然语言需求，支持内容生成、多轮对话及更强的信息理解能力。\n\n谷歌此前已宣布 Gemini 最终将在安卓手机、平板、汽车、手表、电视等设备上全面取代 Google Assistant。若设备不满足 Gemini 最低配置要求（安卓 9 及以上系统、至少 2GB 运存），或用户所在地区尚未开放 Gemini 服务，Google Assistant 将暂时保留可用，直至整体退役计划结束。\n\n《谷歌有史以来增长最快的产品：Gemini 应用月活跃用户达 10 亿》\n\n《Google Assistant 下月起逐步退场，“Hey Google”将由谷歌 Gemini 接棒》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-04T06:30:37.349Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
