@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6568b8d7c53b",
+    "title": "英伟达开源发布 PAIR：本地跑 AI 新方案，调度 Mac / RTX PC 跨设备推理",
+    "url": "https://www.ithome.com/0/998/229.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/229.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 4 日消息，科技媒体 AppleInsider 昨日（9 月 3 日）发布博文，报道称英伟达以开源测试版状态，推出 Personal AI Router（PAIR）软件，用于在局域网内为本地 AI 请求选择可用计算机，类似把任务分派给空闲工位的调度员。\n\n在兼容设备上，该软件可以在 M4 以及更高的 Mac 设备、英伟达 RTX PC 和 DGX Spark 设备上运行，为 Ollama、LM Studio 等本地 AI 工具提供统一请求入口。用户可在家庭或办公局域网内，将多个独立 AI 请求调度至空闲设备处理。IT之家附上相关截图如下：\n\n产品定位方面，英伟达将 PAIR 定位为局域网内的本地 AI 请求调度软件，能自动发现已加入的电脑，并将每项请求分配给可用设备。模型仍由目标设备上的 Ollama 或 LM Studio 运行，因此用户不必为每款 AI 应用分别配置每一台机器。\n\n在某台设备繁忙或不可用后，PAIR 可把新请求转向其他已配对设备。例如，AI 智能体同时审阅多份文档时，可将彼此独立的任务分别交给不同计算机处理。该机制面向并发负载分担，并不意味着单个 AI 回复会因加入更多电脑而自动变快。\n\n英伟达演示显示，在 Hermes 中使用 Ollama 与 Qwen 3.6 35B A3B 模型，将任务拆分给 5 个 AI 子智能体后，RTX Spark 笔记本单机平均完成时间为 18 分钟；加入 DGX Spark 和 RTX 5090 后，平均时间为 8 分 48 秒。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-04T01:28:47.107Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

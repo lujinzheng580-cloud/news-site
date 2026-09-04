@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d8835724e598",
+    "title": "英伟达 RTX Spark N1X 超级芯片在移动端提供 5120 核 GPU + 18 核 CPU 低配",
+    "url": "https://www.ithome.com/0/998/240.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/240.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 4 日消息，根据 NVIDIA（英伟达）官网更新，其面向 Windows on Arm PC 的 RTX Spark N1X 超级芯片处理器在笔记本电脑端提供 2 档配置，而桌面主机上则仅有“满血”高配。\n\n可以看到，RTX Spark N1X 面向移动端提供了 5120 核 GPU + 18 核 CPU 的低配，GPU 规模较 6144 核高配缩减 1/6、CPU 则较 20 核高配减少 2 个核心（IT之家注：NVIDIA 尚未公布 CPU 具体配置）。\n\n值得注意的是，早期电商泄露就提到了两个配置的 N1X，不过那时是以 \"675\" \"650\" 这样的数字代号呈现。\n\n《英伟达 RTX Spark Windows PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品》\n\n《英伟达 RTX Spark 首批 Win11 Arm 驱动发布：最高 6144 个 Blackwell 核心，N1X PC 预计今秋登场》\n\n《英伟达 N1X、N1 芯片规格泄露：10+10+48SM 与 8+4+20SM》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-04T01:28:47.104Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
