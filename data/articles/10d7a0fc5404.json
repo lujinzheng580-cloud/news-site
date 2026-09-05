@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "10d7a0fc5404",
+    "title": "消息称 Discord 计划重启全球年龄验证计划，部分用户强烈反对",
+    "url": "https://www.ithome.com/0/998/855.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/855.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 6 日消息，据科技媒体 Tweak Town 昨天报道，近日有传闻称 Discord 计划重启“Tiny Bronco”全球年龄验证系统，由此引发用户争议。\n\nIT之家在此援引 Tweak Town，Discord 的这套系统支持扫描身份证件、视频自拍、Google Wallet 和信用卡等验证方式。该系统宣称不会保存用户私人数据，只会接收经过估算的年龄信息。但由于此前曾发生政府身份证件信息泄露事件，部分用户仍然对这一承诺持怀疑态度。\n\n同时，Discord 计划针对 18 岁以下用户实施更加严格的限制访问措施，有可能限制这些用户访问 18+ 服务器、Stage 频道以及敏感媒体内容。当未验证年龄用户进入这些服务器时，系统可能会弹出提示，要求用户证明自己已经成年。\n\n隐私倡导者和部分用户对上述变化表达了反对态度，一些用户将这些计划称为“侵犯隐私”，部分人士还认为，与其接受年龄验证，不如直接去用其他聊天平台。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-05T23:58:40.999Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

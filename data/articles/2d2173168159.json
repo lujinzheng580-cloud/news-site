@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2d2173168159",
+    "title": "reMarkable 为旗下墨水屏电纸书推送 3.28 版系统更新：全新 Capture 工具、支持从网盘快速导入图片",
+    "url": "https://www.ithome.com/0/998/848.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/848.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 6 日消息，reMarkable 现已为旗下墨水屏电纸书推送 3.28 版系统更新，带来全新的 Capture 工具、更多颜色选项以及改进后的 EPUB 阅读体验，同时优化文件管理和分享功能，并修复了一些已知问题。\n\nIT之家获悉，此次更新最大的亮点是新增 Capture 工具，旨在简化用户复制屏幕视觉内容的操作。用户可以通过 Selection Tool 选择 Capture 功能，然后在屏幕上以任意形状圈选内容，被选中的区域会转换为图片，之后可以在当前笔记中移动，也可以直接复制到其他笔记中。\n\n官方同步重新设计 EPUB 电子书阅读功能，在界面布局、文本排版进行调整，并扩大语言支持范围。同时简化了分享界面，方便用户快速分享文件。\n\n在文件管理方面，用户现在可以通过“Convert to Notebook”功能从 Dropbox、Google Drive 和 OneDrive 网盘导入 JPG 及 PNG 图片，系统会将每张图片分别转换为独立笔记。官方还为 Web App 新增拖放文件功能，用户可以更加方便地管理和传输文件。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-05T23:58:41.001Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

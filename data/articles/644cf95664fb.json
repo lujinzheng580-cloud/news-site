@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "644cf95664fb",
+    "title": "微软杰出工程师称手搓代码时代已结束，Win11 开发模式已迎巨变",
+    "url": "https://www.ithome.com/0/998/843.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/843.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 6 日消息，在微软工作 18 年的杰出工程师大卫 · 福勒（David Fowler）前天在 X 平台表示，手搓代码的时代已经结束了。\n\n据IT之家了解，大卫 · 福勒的这句话并不是在危言耸听。他曾开发过 SignalR、NuGet、Kudu 等项目，同时参与了 ASP.NET Core 核心部分的开发工作。当前阶段他正在微软负责 Aspire 项目。\n\n并且这名微软员工并不是说开发者将不再阅读代码，也不是说传统软件工程职业彻底被摧毁。他想表达的是，在 IDE 里手动敲代码，正成为软件开发工作中最没有吸引力的部分。他目前参与的 Aspire 项目本身，也已经围绕 AI Coding 进行重新设计。\n\n同时，大卫 · 福勒还在之前说过“Win11 原生应用正在回归”。后来我们可以看到，微软确实大力重拾 WinUI3 自带应用开发工作，而不是继续搞 Electron。\n\n如今微软自己已经将 WinUI 3 列为新 Windows 应用推荐开发框架，并将 WinUI3 真正开源。\n\n微软首席执行官纳德拉曾表示，公司内部已有 20%-30% 代码由 AI 编写。虽然我们无法确认今年 Windows 11 的改进是否由 AI Coding 完成，但考虑到我们已经看到那么多积极的更新，这种变化或许值得肯定。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-05T23:58:41.002Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
