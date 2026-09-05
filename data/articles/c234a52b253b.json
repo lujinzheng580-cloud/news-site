@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c234a52b253b",
+    "title": "AMD 显卡首次跑通英伟达 DLSS 5：《赛博朋克 2077》游戏 1080P 帧率约 30FPS",
+    "url": "https://www.ithome.com/0/998/665.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/665.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 5 日消息，科技媒体 TechPowerUp 今天（9 月 5 日）发布博文，报道称 MOD 开发者 Daniel Blanco 发布 DLSS-NR for AMD 工具，成功在 AMD 显卡上运行英伟达 DLSS 5，但现阶段性能表现不佳。\n\nDLSS-NR for AMD 工具由开发者 danielblnc 开发，主要面向 AMD RDNA 4 GPU，即 Radeon RX 9000 系列。\n\n用户需将安装程序及 NVIDIA 的 nvngx_dlssnr.dll 文件放入游戏的 bin 文件夹，随后可通过 FSR 3（FidelityFX Super Resolution 3）或 FSR 4 配置文件切换神经渲染功能。\n\n这个 MOD 之所以能运行，是因为 DLSS 5 使用 FP8 运算，而 AMD 的 RDNA 4 架构原生支持 FP8，与 NVIDIA 的 RTX 40/50 系列相同。\n\n截至报道发布时，工具已在《赛博朋克 2077》与《GTA V：增强版》中完成测试。报道称，较旧 AMD GPU 暂不支持该工具。此外反作弊系统会阻止该 DLL 加载，因此当前使用范围仅限没有反作弊限制的单人游戏。\n\nYouTube 频道 Ancient Gameplays 在 Radeon RX 9070 XT 上测试《赛博朋克 2077》。在 1080p 分辨率下，早期版本启用方案后，帧率由 80 多 FPS 降至约 11~12 FPS。开发者后续推出 Alpha v0.2.7 更新，报道将其描述为性能进一步恢复约 12%，测试帧率升至约 30 FPS。\n\n英伟达的 DLSS 5（Deep Learning Super Sampling 5）是该公司在 2026 年 3 月 GTC 大会上正式发布、并于同年 9 月随《NBA 2K27》上线的新一代 AI 图形技术。\n\n与以往主要提升帧率的 DLSS 版本不同，DLSS 5 的核心突破在于引入实时神经渲染（Neural Rendering）模型，目的用生成式 AI 为游戏画面“补细节”，让光照、材质和皮肤等效果更接近好莱坞级别的照片级真实感。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-05T05:32:10.175Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "02f2cfbe8318",
+    "title": "微软预告 Excel 新增 AI 画布，打造可视化交互式数据看板",
+    "url": "https://www.ithome.com/0/998/693.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/693.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 5 日消息，科技媒体 Windows Latest 昨日（9 月 4 日）发布博文，报道称微软计划为 Excel 推出 Copilot Canvas 功能，可将工作簿中的图表、关键指标和分析洞察整合为交互式视图，并在底层数据变化后自动更新。\n\n根据微软官方产品路线图描述，Copilot Canvas 可把工作簿数据，转化为包含关键可视化图表、指标和洞察的交互式画布，并支持用户通过自然语言对话方式，交互修改画布内容。\n\n在 Excel 现有 Copilot 体验中，用户可以要求 Copilot 根据提示创建模板，也可在已有数据基础上构建较复杂的仪表板。IT之家附上相关截图如下：\n\n不过 Copilot Canvas 在此基础上更进一步，将其打造成交互式视图，用户不必在多个图表、工作表和分析结果之间频繁切换，即可查看关键数据和分析结果。\n\n在底层连接方面，Copilot Canvas 会保持连接原始工作簿，在用户手动修改数据，或工作簿从其他来源获取新数据后，仪表板将自动反映最新内容。\n\n推送方面，微软计划在未来几周逐步推送 Copilot Canvas，并计划 10 月初完成部署。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-05T05:32:10.172Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
