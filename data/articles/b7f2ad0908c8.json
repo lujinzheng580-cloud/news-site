@@ -8,10 +8,10 @@
     "sourceId": "https://www.ithome.com/0/998/735.htm",
     "category": "technology",
     "summary": "",
-    "content": "",
+    "content": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。\n\nIT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，6.6.0 版本单核成绩为 2,603 分，多核成绩为 10,350，由于版本差异，两条记录无法直接对比。\n\n根据最新跑分页面信息，基本符合此前曝光的 Exynos 2,700 Die Shot 图片信息，CPU 部分采用 1+4+1+4 集群设计，共有 10 个核心，分为 2 组：\n\n第 1 组包括 1 个 Arm C1-Ultra 核心，频率为 3.36 GHz，以及 4 个 C1-Pro 核心，频率为 2.88 GHz。\n\n第 2 组包括 1 个 Arm C2-Ultra 核心，频率为 4.24 GHz，以及 4 个 C2-Pro 核心，频率为 3.74 GHz。\n\n图形部分方面，这款芯片或搭载 Xclipse 970 GPU。它还可能集成专用 NPU，用于处理手机端 AI 任务。同时，Exynos 2,700 据称将支持 LPDDR6 内存，满足下一代移动设备的内存带宽需求。\n\n适配手机方面，三星 Galaxy S27 标准版、Galaxy S27+ 两款机型预估首发 Exynos 2700 芯片，此外还有消息称在部分市场，Galaxy S27 Pro、Galaxy S27 Ultra 也会采用 Exynos 2700 芯片。\n\n《AMD RDNA 5 冲击 3.4GHz，三星 Exynos 2700 芯片有望首发》\n\n《三星 Exynos 2700 芯片曝光：SF2P 工艺、双主核设计，Galaxy S27 系列手机首发》\n\n《三星 Exynos 2700 工程样片现身 Geekbench，超大核主频达 4.24GHz》\n\n《突破 4GHz：曝三星自研 Exynos 2700 芯片主频 4.20GHz，用 SbS 架构增强散热》",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-05T05:32:10.168Z",
+    "publishedAt": "2026-09-05T09:26:16.513Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
