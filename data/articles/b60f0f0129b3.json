@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b60f0f0129b3",
+    "title": "谷歌 Gemini Spark 新增 Google Photos 照片库管理能力，用户可通过自然语言编辑照片 / 整理相册",
+    "url": "https://www.ithome.com/0/998/635.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/635.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 5 日消息，谷歌 Google Photos 负责人 Shimrit Ben-Yair 宣布 Gemini Spark 现已支持管理用户 Google Photos 照片库，用户可以直接通过自然语言指令，让 Gemini Spark 执行一系列与照片相关的操作。\n\n官方表示，借助这一功能，用户可以要求 Gemini Spark 编辑图片、整理相册、根据精选照片自动创建共享相册，还可以识别演唱会宣传单等照片中的信息，并将相关活动自动转换为日历预约。此外，Gemini Spark 还支持执行更加复杂的工作流，从而减少用户手动整理照片和信息的操作。\n\n相应功能将在未来几周向美国地区符合条件的 Gemini AI Pro 和 Ultra 订阅用户陆续开放，目前仅支持英语。用户需要将 Google Photos 与 Gemini 关联，之后在 Gemini 应用顶部打开 Spark 功能，即可等待推送。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-05T00:52:57.489Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

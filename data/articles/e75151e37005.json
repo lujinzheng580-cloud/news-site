@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e75151e37005",
+    "title": "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
+    "url": "https://www.ithome.com/0/998/647.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/647.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 5 日消息，谷歌今天（9 月 5 日）发布公告，宣布在 Gemini 应用和 Gemini API 中上线最新音乐生成模型 Lyria 3.5，标志着谷歌音乐 AI 从内部实验工具（Google Flow Music）走向主流用户与开发者生态。\n\n调用方面，Lyria 3.5 同步开放给开发者，通过 Google AI Studio、Vertex AI 及 Gemini API 提供调用接口。IT之家附上相关截图如下：\n\n文档列出了两种模型：Lyria 3 Clip（模型 ID 为 lyria-3-clip-preview），始终生成用于循环和预览的 30 秒片段；以及 Lyria 3.5（模型 ID 为 lyria-3.5），可生成包含数段副歌、桥段等，时长数分钟的完整歌曲。官网文档暂未发现定价相关信息。\n\n这两种模型默认输出 MP3 音频，Lyria 3.5 还支持 WAV 输出。文档指出，开发者可以在文本提示的同时提供最多 10 张图像，模型将依据视觉内容创作音乐。\n\n所有生成内容均通过 Interactions API 统一调度，并嵌入 SynthID 隐形水印，该水印可抵抗压缩、重采样等常见音频处理，用于版权追踪与内容溯源。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-05T00:52:57.486Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
