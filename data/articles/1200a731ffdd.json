@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1200a731ffdd",
+    "title": "今日白露",
+    "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E7%99%BD%E9%9C%B2",
+    "source": "baidu",
+    "sourceId": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E7%99%BD%E9%9C%B2",
+    "category": "general",
+    "summary": "",
+    "content": "",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-06T18:21:13.796Z",
+    "tags": "[\"baidu\"]",
+    "viewCount": 0
+  }
+}
