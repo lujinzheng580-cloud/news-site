@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 6 日消息，阿里千问本周开源了 Qwen-Drive-1.0-4B，这是一款基于 Qwen3.5-4B 构建的自动驾驶视觉语言模型。\n\n官方表示，Qwen-Drive-1.0 是首个面向自动驾驶的视觉语言基础模型，在预训练阶段统一了 3D 感知与视觉问答，并进一步扩展至运动规划，同时完全保留了预训练 VLM 的原始架构。\n\n模型采用分阶段训练方案，将驾驶监督与通用视觉语言数据结合，在获得驾驶特定能力的同时，保留通用视觉理解与指令遵循能力。Qwen-Drive-1.0-4B 同时提供 SFT 和 RL 两个规划专家，官方评测覆盖 3D 感知、驾驶场景理解、通用视觉语言能力，以及开环、伪闭环和闭环运动规划。\n\n据介绍，Qwen-Drive-1.0 仅使用公开来源构建规划样本，统一了各数据集的轨迹格式，并从开环预测到闭环驾驶进行全面评估。SFT 模型在所有基准上已具备竞争力。经过强化学习后，该模型仅以微小的开环位移误差为代价，换来了在人类偏好对齐和闭环安全性方面的全面提升。\n\nGitHub：https://github.com/QwenLM/Qwen-Drive-1.0\n\nHugging Face：https://huggingface.co/Qwen/Qwen-Drive-1.0-4B\n\nModelScope：https://modelscope.cn/models/Qwen/Qwen-Drive-1.0-4B\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-06T18:21:13.091Z",
+    "publishedAt": "2026-09-06T20:43:55.636Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
