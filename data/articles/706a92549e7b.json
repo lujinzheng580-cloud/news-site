@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "706a92549e7b",
+    "title": "铭凡预热 MS-S1 MAX-P495：价格达 7000 美元",
+    "url": "https://www.ithome.com/0/998/876.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/998/876.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 6 日消息，MINISFORUM（铭凡）在 IFA 2026 上正式公布了基于 AMD 锐龙 AI Max+ PRO 495 处理器的 MS-S1 MAX-P495。\n\nIT之家注意到，品牌官网对这款迷你主机形态 AI 工作站的价格标注为 \"$7???\"，这意味着其价格将达到乃至突破 7,000 美元（IT之家注：现汇率约合 47,141 元人民币）。\n\nMS-S1 MAX-P495 支持 192GB LPDDR5X 内存，能满足 300B 模型本地部署需求。其内置 320W 电源，相变 TIM 搭配 6 热管 2 风扇的散热系统支持 120W 持续性能释放、160W 峰值性能释放，提供全长 PCIe Gen4 ×4、USB4 v2、双 10GbE、Wi-Fi 7，还支持集群部署。\n\n铭凡还带来了另一款搭载同处理器的设备：N5 MAX-P495。该系统则号称“AI 智能体 NAS”，可作为本地 AI 基础设施处理知识库、智能体持久性 AI 工作负载。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-06T04:26:14.055Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
