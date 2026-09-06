@@ -2,160 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "9013325c998d",
-      "title": "我国动力电池 2026 年 1‑7 月累计销量 790.4 吉瓦时，同比增长 37.1%",
-      "url": "https://www.ithome.com/0/998/937.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.836Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a67c1ca02dd6",
-      "title": "小米雷军谈“增程汽车大有可为”：理想等同行也不断证明，用户愿意为优秀的增程汽车买单",
-      "url": "https://www.ithome.com/0/998/939.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.835Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ba5718150694",
-      "title": "马斯克：特斯拉 Cybercab 未来可连接 PlayStation / Xbox",
-      "url": "https://www.ithome.com/0/998/940.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.835Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "316216dc0cd1",
-      "title": "澳门轻轨将更换闸机，未来支持微信 / 支付宝、交通联合卡扫码或刷卡乘车",
-      "url": "https://www.ithome.com/0/998/942.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.835Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4f2a10dd9844",
-      "title": "AI 短剧制作价格大跳水：部分报价逼近成本线，行业竞争转向拼内容、拼市场",
-      "url": "https://www.ithome.com/0/998/943.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.835Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f8cf410ef3ed",
-      "title": "网友“手搓”Apple Music 鸿蒙版应用：适配沉浸光感特性，上架时间待定",
-      "url": "https://www.ithome.com/0/998/945.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.835Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "37eab814e08e",
-      "title": "全新一代智己 LS6“象灰米”内饰官图公布，展车陆续到店",
-      "url": "https://www.ithome.com/0/998/946.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.834Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "98f08d019191",
-      "title": "多位储能业内人士：有关部门正全面摸底产能，企业新建产能项目审批暂缓",
-      "url": "https://www.ithome.com/0/998/947.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.834Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f8226c341e6f",
-      "title": "华为 Pura X Max 阔折叠手机新配色曝光：含波尔多红，采用纯色无花纹设计",
-      "url": "https://www.ithome.com/0/998/948.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.834Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "15f0c6724f10",
-      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
-      "url": "https://www.ithome.com/0/998/949.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.834Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "15240177d78b",
-      "title": "特斯拉 Cybercab 确认不支持交流充电，仅支持直流快充",
-      "url": "https://www.ithome.com/0/998/970.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.834Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "dce0b4ec0e83",
-      "title": "理想汽车回应小米雷军：增程不是路线之争，而是从用户需求出发、解决真实使用场景的产品选择",
-      "url": "https://www.ithome.com/0/998/987.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.833Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5a03e7d5412e",
-      "title": "马斯克：特斯拉 Cybercab 电机没有使用稀土金属，且续航不打折",
-      "url": "https://www.ithome.com/0/998/991.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.833Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "23c609a7f4b1",
-      "title": "SEMI：2026 年第二季度全球半导体设备出货金额 405.3 亿美元同比增长 23%，连续两季度创新高",
-      "url": "https://www.ithome.com/0/998/992.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.833Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "d9e6eae96b08",
       "title": "央视解码手机回收：一台现代手机黄金含量仅 0.02—0.03 克",
       "url": "https://www.ithome.com/0/998/993.htm",
@@ -163,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.833Z",
+      "publishedAt": "2026-09-06T16:08:27.849Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +20,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.832Z",
+      "publishedAt": "2026-09-06T16:08:27.848Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.832Z",
+      "publishedAt": "2026-09-06T16:08:27.848Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.832Z",
+      "publishedAt": "2026-09-06T16:08:27.848Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.832Z",
+      "publishedAt": "2026-09-06T16:08:27.848Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.832Z",
+      "publishedAt": "2026-09-06T16:08:27.847Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.831Z",
+      "publishedAt": "2026-09-06T16:08:27.847Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.831Z",
+      "publishedAt": "2026-09-06T16:08:27.847Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.831Z",
+      "publishedAt": "2026-09-06T16:08:27.847Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.831Z",
+      "publishedAt": "2026-09-06T16:08:27.847Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.830Z",
+      "publishedAt": "2026-09-06T16:08:27.846Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.830Z",
+      "publishedAt": "2026-09-06T16:08:27.846Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +141,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.830Z",
+      "publishedAt": "2026-09-06T16:08:27.846Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +152,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.829Z",
+      "publishedAt": "2026-09-06T16:08:27.846Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,18 +163,18 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.829Z",
+      "publishedAt": "2026-09-06T16:08:27.845Z",
       "tags": "[\"ithome\"]"
     },
     {
       "id": "411e666b0103",
-      "title": "首发 389 → 311 元：小米 1.5L 米家破壁机 3 预售，可拆刀座 + 陶瓷油不粘涂层",
+      "title": "首发 389 → 311 元：小米 1.5L 米家破壁机 3 预售，可拆刀座轻松洗",
       "url": "https://www.ithome.com/0/999/016.htm",
       "source": "ithome",
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.829Z",
+      "publishedAt": "2026-09-06T16:08:27.845Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +185,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.828Z",
+      "publishedAt": "2026-09-06T16:08:27.845Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.828Z",
+      "publishedAt": "2026-09-06T16:08:27.845Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.828Z",
+      "publishedAt": "2026-09-06T16:08:27.844Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.828Z",
+      "publishedAt": "2026-09-06T16:08:27.844Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.827Z",
+      "publishedAt": "2026-09-06T16:08:27.844Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.827Z",
+      "publishedAt": "2026-09-06T16:08:27.844Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.826Z",
+      "publishedAt": "2026-09-06T16:08:27.843Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.826Z",
+      "publishedAt": "2026-09-06T16:08:27.843Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,106 +273,238 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:50.825Z",
+      "publishedAt": "2026-09-06T16:08:27.843Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "174f9db1ec09",
-      "title": "3600亿元！8家中央金融企业大动作",
-      "url": "https://www.baidu.com/s?wd=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+      "id": "50eb7c5eccd1",
+      "title": "帕拉丁也要出“方盒子”SUV？东风日产副总经理王骞发文暗示",
+      "url": "https://www.ithome.com/0/999/030.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.843Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "29ec6841f6e2",
+      "title": "《文明 7》公布更新计划：2027 年推免费大更新 + 首个付费 DLC",
+      "url": "https://www.ithome.com/0/999/033.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.842Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cd64d8b64b40",
+      "title": "比亚迪：今年受电池产能制约，闪充太受欢迎",
+      "url": "https://www.ithome.com/0/999/034.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.842Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "acea4175c8c1",
+      "title": "便携式甲醛检测仪号称精度 99.9%？科普提醒多数产品检测结果不可信",
+      "url": "https://www.ithome.com/0/999/035.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.842Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "03c9489e00fc",
+      "title": "科技巨头密集更新 AI 模型，“模型疲劳”问题凸显",
+      "url": "https://www.ithome.com/0/999/036.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.841Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bdc44264e4b0",
+      "title": "AI 短剧爆发带火“人脸授权”，普通人数字肖像价格约每部 100 元",
+      "url": "https://www.ithome.com/0/999/037.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.841Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bf52d60665af",
+      "title": "联想来酷 Air 16 酷睿版笔记本开启预约，国补到手价 3314.15 元起",
+      "url": "https://www.ithome.com/0/999/039.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.841Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "37bb838d2fe1",
+      "title": "长安汽车响应《汽车行业境外竞争行为与合规建设指引》：将以更高标准推进海外合规建设",
+      "url": "https://www.ithome.com/0/999/040.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.840Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f445171227c0",
+      "title": "小米卢伟冰预告明晚发布会有惊喜，雷军讲全场",
+      "url": "https://www.ithome.com/0/999/041.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.840Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "46bab95209e4",
+      "title": "诡异又倒胃口：AI 食物图片攻占餐厅菜单，让消费者食欲全无",
+      "url": "https://www.ithome.com/0/999/042.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.840Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cc1403ec49b0",
+      "title": "三星电子 DX 部门工会不满与其他部门薪酬差距，将在会长李在镕住宅前集会抗议",
+      "url": "https://www.ithome.com/0/999/043.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.839Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d5fedfe0c0dd",
+      "title": "古尔曼：苹果考虑调整 App Store 以提高收入和利润率",
+      "url": "https://www.ithome.com/0/999/044.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.839Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "acaa4eea66dd",
+      "title": "古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代",
+      "url": "https://www.ithome.com/0/999/045.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.838Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cc8fb32139b6",
+      "title": "直播间免费鉴宝、砸蛋抽奖专骗老年人，武汉警方打掉特大直播诈骗团伙、涉案金额超千万元",
+      "url": "https://www.ithome.com/0/999/046.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.838Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6e849d770a16",
+      "title": "联想 ThinkPad E16 2026 笔记本新增酷睿 5 320 版本，7299 元",
+      "url": "https://www.ithome.com/0/999/047.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.837Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4a5fa084b3eb",
+      "title": "今日白露：“露凝而白也”，一场秋雨一场凉",
+      "url": "https://www.ithome.com/0/999/048.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:27.837Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "10ca46892519",
+      "title": "小区禁止新能源汽车进地库 律师解读",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E7%A6%81%E6%AD%A2%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%9C%B0%E5%BA%93+%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB",
       "source": "baidu",
       "category": "general",
-      "summary": "9月6日，中国工商银行等8家中央金融企业分别发布增资计划，将补充核心一级资本。据统计，8家中央金融企业计划共增资3600亿元，有助于进一步增强稳健经营能力、抵御风险能力和服务实体经济能力。",
+      "summary": "9月6日，福建南平一业主反映，小区业委会表决通过禁止新能源车驶入地下车库的决定，要求已停车辆10日内移出。物业称怕爆炸而出台该规定。律师指出，此“一刀切”规定侵犯业主停车使用权，业主可起诉确认决定无效。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f239430db4ef",
-      "title": "大学生开学装备两极分化引热议",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E8%A3%85%E5%A4%87%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%E5%BC%95%E7%83%AD%E8%AE%AE",
+      "id": "d6244427ed23",
+      "title": "安徽 新“五子登科”",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD+%E6%96%B0%E2%80%9C%E4%BA%94%E5%AD%90%E7%99%BB%E7%A7%91%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "金秋九月，各大高校陆续迎来新生报到季。今年大学生开学装备消费呈现出鲜明的两极分化：一部分新生和家长秉持精致筹备理念，配齐高端数码产品、全套生活用品、精致配饰；另一部分学子则轻装简行、按需置办，摒弃跟风消费，以简约姿态奔赴大学生活。",
+      "summary": "近年来，安徽历史性迈入全国工业大省行列，培育出新“五子登科”产业地标：汽车产业四项指标均居全国第一；量子产业稳居全球第二；集成电路动态存储器产能全国第一；工业机器人出口量全国第二；人工智能产业发展评价挺进全国第五。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "5f0e3604b544",
-      "title": "增加优质供给 挖掘消费潜力",
-      "url": "https://www.baidu.com/s?wd=%E5%A2%9E%E5%8A%A0%E4%BC%98%E8%B4%A8%E4%BE%9B%E7%BB%99+%E6%8C%96%E6%8E%98%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B",
+      "id": "932c1aaacb7c",
+      "title": "相约“青春华章”",
+      "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E7%BA%A6%E2%80%9C%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "消费，是观察活力中国的一个重要视角。记者连日来跟随“活力中国调研行”深入湖南、福建、山东一线采访，在缤纷的首店中、焕新的场景中、潮流的地标中，品味消费升级中的活力中国。",
+      "summary": "9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。青春就是这young，让我们一起期待！",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f798258d88bd",
-      "title": "葫芦娃爷爷隔壁阳台挂起7个葫芦",
-      "url": "https://www.baidu.com/s?wd=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E9%98%B3%E5%8F%B0%E6%8C%82%E8%B5%B77%E4%B8%AA%E8%91%AB%E8%8A%A6",
+      "id": "f117b2a1d598",
+      "title": "滕王阁 终身免费票",
+      "url": "https://www.baidu.com/s?wd=%E6%BB%95%E7%8E%8B%E9%98%81+%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%A5%A8",
       "source": "baidu",
       "category": "general",
-      "summary": "9月5日，火爆全网的绍兴“葫芦娃爷爷”把阳台上的7个葫芦剪下收回了屋子。6日，葫芦娃爷爷隔壁咖啡店挂上7个葫芦，导致游客都去了隔壁。游客表示，葫芦娃爷爷这边已经没有人了。",
+      "summary": "近日，一位小男孩刷身份证进滕王阁，工作人员听到终身免费票后竖起大拇指。网友：要背三篇关于滕王阁的文章，太厉害了。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "53013f73107b",
-      "title": "为啥大家不穿皮鞋了",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E5%A4%A7%E5%AE%B6%E4%B8%8D%E7%A9%BF%E7%9A%AE%E9%9E%8B%E4%BA%86",
+      "id": "07b643cdf2dd",
+      "title": "女篮世界杯中国队加时险胜捷克队",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%97%B6%E9%99%A9%E8%83%9C%E6%8D%B7%E5%85%8B%E9%98%9F",
       "source": "baidu",
       "category": "general",
-      "summary": "影视剧里，一套笔挺西装搭配锃亮皮鞋，是男性在商务场合的标志性配置。但现实中，传统正装皮鞋，正在被越来越多中国男人“抛弃”。一批曾经风光无限的国产皮鞋企业正集体承压。究其原因，是人们对松弛生活的追求，商务休闲风逐渐成为主流，运动鞋成了正式场合穿搭里的“新宠”。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "45f7591fa95f",
-      "title": "小米澎程将上市 多家车企送祝福",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%B0%86%E4%B8%8A%E5%B8%82+%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E9%80%81%E7%A5%9D%E7%A6%8F",
-      "source": "baidu",
-      "category": "business",
-      "summary": "9月6日，理想汽车、深蓝汽车、长安汽车、凯迪拉克、北汽集团等车企纷纷发文，预祝小米澎程上市成功。据悉，小米秋季旗舰新品发布会已官宣定档9月7日晚7点。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "74c2867df916",
-      "title": "张雪机车法国站次回合获得第3名",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E6%AC%A1%E5%9B%9E%E5%90%88%E8%8E%B7%E5%BE%97%E7%AC%AC3%E5%90%8D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "2026世界超级摩托车锦标赛法国站WorldSSP组别次回合正赛6日在法国讷韦尔-马尼库尔赛道举行，中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯获得第三名。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1bbd43c100d6",
-      "title": "《甄嬛传》“温宜公主”回应北电落榜",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E2%80%9C%E6%B8%A9%E5%AE%9C%E5%85%AC%E4%B8%BB%E2%80%9D%E5%9B%9E%E5%BA%94%E5%8C%97%E7%94%B5%E8%90%BD%E6%A6%9C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月6日，曾在《甄嬛传》中饰演温宜公主的演员纪姿含发文回应北电落榜，表示落榜后曾陷入自我否定和自责，经与家人思考，最终决定去中戏国际部，目前已顺利报到入读。此前她因北电落榜引发网友关注。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "5eb99ca3ceb5",
-      "title": "3次被偷兰花 店主气得手绘肖像警告",
-      "url": "https://www.baidu.com/s?wd=3%E6%AC%A1%E8%A2%AB%E5%81%B7%E5%85%B0%E8%8A%B1+%E5%BA%97%E4%B8%BB%E6%B0%94%E5%BE%97%E6%89%8B%E7%BB%98%E8%82%96%E5%83%8F%E8%AD%A6%E5%91%8A",
-      "source": "baidu",
-      "category": "general",
-      "summary": "最近，在昆明翠湖南路中和巷开店的梁女士遇到一件令人气愤的事，一名女子在短短半个月的时间内，连续三次偷走她摆放在店门口的兰花，尽管她手绘了对方肖像做提醒，对方仍然未收手。梁女士决定通过公安机关依法追究其责任。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -537,18 +515,7 @@
       "category": "general",
       "summary": "近期，赵一鸣、好想来等头部量贩零食品牌，接连陷入“缺斤短两”争议。包头市市场监管局迅速出手，在全市开展量贩式零食行业计量专项整治，对“缺斤短两”违法行为重拳亮剑。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "4b872bf5233a",
-      "title": "网传“青铜峡大坝开始泄洪”系谣言",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E9%9D%92%E9%93%9C%E5%B3%A1%E5%A4%A7%E5%9D%9D%E5%BC%80%E5%A7%8B%E6%B3%84%E6%B4%AA%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "source": "baidu",
-      "category": "general",
-      "summary": "8月30日，青铜峡市水务局辟谣网传“青铜峡大坝开始泄洪”视频，明确近期未进行泄洪操作，水位小幅上涨系降雨所致的正常现象。此前，有网民误将水位变化当成泄洪并发布视频。目前，发布者已被教育训诫并删除该视频。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -559,40 +526,7 @@
       "category": "general",
       "summary": "近日，一则“江西赣州一名低保家庭女生因赴香港观看演唱会，返程后全家低保资格被取消”的消息在网络上持续发酵。9月6日，赣州市民政局值班人员表示，市本级及下属各县市区正在对该事件进行核查，目前尚未确认具体情况。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a9ba6b9fc95c",
-      "title": "内蒙古婚内强奸案最新进展",
-      "url": "https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月6日，记者从“内蒙古婚内强奸案”被告家属处获悉，该案将于9月8日一审二次开庭。被告家属称：“有关情况不方便透露。”",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "beb2f09f44cd",
-      "title": "上一次你开电视是什么时候",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%80%E6%AC%A1%E4%BD%A0%E5%BC%80%E7%94%B5%E8%A7%86%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月3日晚间，老牌彩电品牌康佳发布停牌公告拟退市。此前8月底，罗永浩炮轰电视难用并宣布欲做电视改变行业陋习。两者均指向电视难用问题。上一次你开电视是什么时候？不少网友留言表示，别说家里老人不会用，他自己都弄不明白现在的电视。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8f5a89ba58f4",
-      "title": "工作日35.9元不限时 拼豆店越开越多",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BD%9C%E6%97%A535.9%E5%85%83%E4%B8%8D%E9%99%90%E6%97%B6+%E6%8B%BC%E8%B1%86%E5%BA%97%E8%B6%8A%E5%BC%80%E8%B6%8A%E5%A4%9A",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近期，拼豆店在杭州密集出现，成为线下手作店的新流量密码。在一块布满小钉子的模板上，用镊子把一颗颗彩色塑料豆摆成图案，再用熨斗加热定型。工作日不限时35.9元，在店里坐上大半天，还能带走自己做的成品。对消费者来说，这笔买卖很划算。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,64 +537,130 @@
       "category": "general",
       "summary": "9月5日，上海国际赛车场，中国超级跑车锦标赛正赛第7圈发生撞车起火，救援人员因害怕放下灭火器逃离，救护车15分钟后才到；另一名车手哈托格弃赛冲入火海，救出受困车手。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "edbe94c61c3f",
-      "title": "开学典礼上北航校长深深鞠了一躬",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E4%B8%8A%E5%8C%97%E8%88%AA%E6%A0%A1%E9%95%BF%E6%B7%B1%E6%B7%B1%E9%9E%A0%E4%BA%86%E4%B8%80%E8%BA%AC",
+      "id": "710bf97fe2ed",
+      "title": "除了惊天逆转 郑钦文还有高情商发言",
+      "url": "https://www.baidu.com/s?wd=%E9%99%A4%E4%BA%86%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC+%E9%83%91%E9%92%A6%E6%96%87%E8%BF%98%E6%9C%89%E9%AB%98%E6%83%85%E5%95%86%E5%8F%91%E8%A8%80",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，在北京航空航天大学2026年开学典礼上，校长王云鹏上台向新生深鞠躬，感谢他们在千万个选择中坚定选择北航。",
+      "summary": "北京时间9月6日，2026年美网女单第三轮，郑钦文在决胜盘0-5落后的情况下，惊天逆转战胜凯斯，晋级16强。赛后她高情商回应婴儿哭声干扰，称职业球员必须有能力应对各种情况。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "3490790ebcba",
-      "title": "“合肥沈腾”走红 街头卖徐福炒饭",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%88%E8%82%A5%E6%B2%88%E8%85%BE%E2%80%9D%E8%B5%B0%E7%BA%A2+%E8%A1%97%E5%A4%B4%E5%8D%96%E5%BE%90%E7%A6%8F%E7%82%92%E9%A5%AD",
+      "id": "280524cd562d",
+      "title": "演员郑国霖回应成NPC顶流：剧本多了",
+      "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%83%91%E5%9B%BD%E9%9C%96%E5%9B%9E%E5%BA%94%E6%88%90NPC%E9%A1%B6%E6%B5%81%EF%BC%9A%E5%89%A7%E6%9C%AC%E5%A4%9A%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，一位合肥男子在街头卖炒饭时模仿沈腾意外走红，被网友戏称“合肥分腾”，不少商家机构找上门邀约合作。",
+      "summary": "近日，演员郑国霖在接受采访时，回应被网友称为“NPC顶流”，面对这个称呼，他直言自己是普通打工人而已。郑国霖表示有流量、关注度之后，找上门的剧本多了很多。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "1cb1d334fedf",
-      "title": "财政部570亿增资三家保险公司",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%A2%E6%94%BF%E9%83%A8570%E4%BA%BF%E5%A2%9E%E8%B5%84%E4%B8%89%E5%AE%B6%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8",
+      "id": "87280dbc268a",
+      "title": "“一吨旧手机提炼200克黄金”不实",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%E2%80%9D%E4%B8%8D%E5%AE%9E",
       "source": "baidu",
       "category": "general",
-      "summary": "9月6日，财政部宣布向中国人寿、中国太平、中国人保三家险企合计注资570亿元。此次注资旨在进一步增强三家公司的稳健经营和风险抵御能力。",
+      "summary": "近日，网传“一吨废旧手机能提炼200克黄金”。对此，专家辟谣：网传说法偷换了概念，2010年后一台现代手机黄金含量仅0.02至0.03克。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "b81e43d61c9f",
-      "title": "江西遂川地质灾害遇难人数增至4人",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%A2%9E%E8%87%B34%E4%BA%BA",
+      "id": "e71f42d2c9cc",
+      "title": "同名同姓同年同月同日生同校同专业",
+      "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F%E5%90%8C%E6%A0%A1%E5%90%8C%E4%B8%93%E4%B8%9A",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "9月6日，三峡大学新生报到，数据科学与大数据技术专业迎来两位“刘欣怡”。两人不仅同名同姓，且同年同月同日生，高考成绩仅相差3分。两人对此感到惊喜，相约大学四年携手努力。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "97120d70987a",
-      "title": "教育部：减下来不必要的检查评比填表",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%87%8F%E4%B8%8B%E6%9D%A5%E4%B8%8D%E5%BF%85%E8%A6%81%E7%9A%84%E6%A3%80%E6%9F%A5%E8%AF%84%E6%AF%94%E5%A1%AB%E8%A1%A8",
+      "id": "53013f73107b",
+      "title": "为啥大家不穿皮鞋了",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E5%95%A5%E5%A4%A7%E5%AE%B6%E4%B8%8D%E7%A9%BF%E7%9A%AE%E9%9E%8B%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，教育部教师工作司司长王磊表示：老师不是不想把课上好，而是被一些非教育教学事务压得喘不过气，要健全社会事务进校园准入机制，把不必要的检查、评比、填表真正减下来，让老师把心安放在课堂，把爱倾注给孩子。",
+      "summary": "影视剧里，一套笔挺西装搭配锃亮皮鞋，是男性在商务场合的标志性配置。但现实中，传统正装皮鞋，正在被越来越多中国男人“抛弃”。一批曾经风光无限的国产皮鞋企业正集体承压。究其原因，是人们对松弛生活的追求，商务休闲风逐渐成为主流，运动鞋成了正式场合穿搭里的“新宠”。",
       "imageUrl": "",
-      "publishedAt": "2026-09-06T12:48:51.613Z",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "defcc84c4f88",
+      "title": "“塞夫”拍完告别戏崩溃大哭",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A1%9E%E5%A4%AB%E2%80%9D%E6%8B%8D%E5%AE%8C%E5%91%8A%E5%88%AB%E6%88%8F%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+      "source": "baidu",
+      "category": "general",
+      "summary": "塞夫拍完《欢迎来龙餐馆》告别戏后久久走不出情绪，看回放时崩溃大哭，导演连忙伸手安抚。此前在戏中，塞夫眼睁睁看着像父亲一样的师父被带走，一句“没事，孩子”成最后告别。因入戏太深，戏里戏外一样催泪。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "24e318297846",
+      "title": "女子家中十万元现金悄悄“缩水”",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8D%81%E4%B8%87%E5%85%83%E7%8E%B0%E9%87%91%E6%82%84%E6%82%84%E2%80%9C%E7%BC%A9%E6%B0%B4%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，辽宁陈女士发现家中现金陆续“缩水”10万余元。经民警调查，系陈女士曾经的邻居李某某从楼道鞋柜拿了备用钥匙，5次入室盗窃。目前，李某某因涉嫌盗窃罪已被警方依法予以刑事拘留。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "97b0bd302a2f",
+      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E8%91%AB%E8%8A%A6%E6%98%AF%E7%BB%99%E6%B5%81%E9%87%8F%E7%9A%84%E4%B8%80%E8%AE%B0%E8%80%B3%E5%85%89",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，种葫芦的爷爷亲手剪掉7个葫芦。此前，葫芦被拍上网成“流量密码”，引来大量游客和博主围观拍摄。媒体评论指出，爷爷用剪刀夺回生活开关，剪掉的7个葫芦是一记清醒的耳光，打向所有在流量里丢分寸的人。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "4b1609b28193",
+      "title": "井柏然的两次扔行李箱",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9A%84%E4%B8%A4%E6%AC%A1%E6%89%94%E8%A1%8C%E6%9D%8E%E7%AE%B1",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，井柏然在《早春晴朗》和《花少2》中扔行李箱的画面被网友做成转场视频进行对比。网友称“老公和劳工的区别具象化了”，直呼这简直是公开处刑。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "7cdadecc0570",
+      "title": "女子怀孕后工资从8000调到3000",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E5%B7%A5%E8%B5%84%E4%BB%8E8000%E8%B0%83%E5%88%B03000",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，罗女士反映，自己怀孕后工资从8000调到3000。公司负责人回应称，降薪降职系基于绩效考核不达标，并非针对怀孕，“不能以怀孕来捆绑公司业绩考核”。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "43031aa081cf",
+      "title": "总被蚊子盯上难道真是血型惹的祸",
+      "url": "https://www.baidu.com/s?wd=%E6%80%BB%E8%A2%AB%E8%9A%8A%E5%AD%90%E7%9B%AF%E4%B8%8A%E9%9A%BE%E9%81%93%E7%9C%9F%E6%98%AF%E8%A1%80%E5%9E%8B%E6%83%B9%E7%9A%84%E7%A5%B8",
+      "source": "baidu",
+      "category": "general",
+      "summary": "夏末秋初，针对“O型血更招蚊子”的网传说法，多位权威专家表示该说法并无科学依据，蚊子主要靠嗅觉识别空气中的气味分子，无法接触血液中的血型抗原。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T16:08:28.435Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-09-06T12:48:54.022Z"
+  "generatedAt": "2026-09-06T16:08:30.306Z"
 }
