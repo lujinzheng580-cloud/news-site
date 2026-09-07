@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "0219ed421559",
+    "title": "代码显示谷歌正开发 Cast Trackpad 工具，可将安卓手机作为 Googlebook 笔记本触控板",
+    "url": "https://www.ithome.com/0/999/066.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/066.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 7 日消息，外媒 Android Authority 在拆解谷歌 Cross-Device Services 系统应用 1.0.1283.974003524 版本时，发现谷歌正在计划为安卓手机推出一款“Cast Trackpad”工具，可以将手机触控屏作为 Googlebook 的触控板，让用户在一定距离之外控制连接的电脑。\n\n从目前曝光的代码来看，在手机作为触控板使用后，可实现多点触控及手势支持，用户能够通过各种手势进行快捷交互。为了进一步简化操作，谷歌还提供了返回 / 音量调节等一系列快捷控制按键，并给予了灵敏度滑块方便用户自行调整触控响应速度。\n\n这一功能生活中有不少应用场景。例如，用户将 Googlebook 连接至投影仪或电视进行演示时，可以直接拿手机充当无线触控板，在房间另一端切换应用或控制电脑，而无需一直站在电脑旁边操作。\n\n除了触控板功能之外，外媒还在拆解应用过程中发现了“Cast My Apps”的新版引导界面，该功能可以将安卓手机上的应用直接投射到 Googlebook 桌面上使用。同时还发现谷歌正在开发“Continue On”等任务接续功能，让用户能够更加方便地在不同设备之间接力当前操作。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-07T00:17:09.571Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

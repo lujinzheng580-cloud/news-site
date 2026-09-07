@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7f3fce0b1e5b",
+    "title": "微软透露正优化 Win11 内存占用，让 8GB RAM 设备流畅运行",
+    "url": "https://www.ithome.com/0/999/051.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/051.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 7 日消息，微软 Windows 与设备部门公司副总裁 Mark Linton 在 IFA 2026 期间透露，Windows 11 后续更新将进一步提升系统性能、优化 Windows 11 的内存占用，让搭载 8GB RAM 的电脑也能获得更加流畅的使用体验，同时官方还将缩短开机时间，改善 Windows Hello 等安全功能的响应速度。\n\nMark Linton 表示，目前 Windows 11 的性能已经取得“显著提升”，公司内部早期测试数据显示系统启动时间已经有所缩短。当前微软仍在持续改善 Windows 的基础体验，并会根据用户反馈不断优化系统。\n\n除了启动速度之外，Mark Linton 还透露，由于内存价格不断上涨，公司正在重新优化 Windows 11，希望让搭载 8GB RAM 的电脑也能保持良好运行状态。不过  Linton 并未透露具体的性能提升数据。\n\n作为参考，过去几年内微软一直将 16GB RAM 内存作为 Windows PC 的基准，同时建议追求更高游戏性能的用户选择 32GB RAM。对于 Windows AI PC 而言，16GB RAM 依然是最低配置要求，因此搭载 8GB RAM 的电脑无法满足 Windows AI 硬件的相关要求，其中甚至包括微软自家的 8GB RAM 版 Surface Laptop。\n\n不过，随着 AI 功能不断增加以及行业对更大内存容量的需求上升，PC 内存成本也随之受到影响，最终导致整机价格上涨。如今微软开始明确强调优化 Windows 11，让 8GB RAM 设备依然能够“运行良好”，某种程度上也意味着公司正在重新审视过去不断提高硬件内存需求的发展路线。\n\n如果这些优化能够真正落实，Windows 11 未来不仅有望在低内存设备上运行得更加流畅，也能让拥有更高内存容量的用户获得更高的软件资源利用效率。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-07T00:17:09.575Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
