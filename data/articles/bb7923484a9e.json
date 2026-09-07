@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "bb7923484a9e",
+    "title": "联发科技带来曦力 G99+ 移动平台，支持 5500Mbps LPDDR5X 内存",
+    "url": "https://www.ithome.com/0/999/481.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/481.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 7 日消息，联发科技 (MediaTek) 现已在其官网公布曦力 (Helio) G99+ 移动平台。这款 4G 芯片相比原版 G99 并无重大变化，仅是将内存支持从 4266Mbps LPDDR4X 调整为 5500Mbps LPDDR5X。\n\n曦力 4G 处理器主要面向对性能不敏感而对成本敏感的市场。主要 DRAM 内存原厂的产能布局正转向 HBM、LPDDR5X、DDR5，老旧制程工艺产线面临关停或升级，导致 LPDDR4X 供给能力严重下滑，其价格随之飙升。\n\nG99+ 提供对 LPDDR5X 的支持可提升下游智能手机制造商的灵活性，根据内存物料价格情况灵活调整产品结构，始终维持最低成本。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-07T16:00:18.921Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
