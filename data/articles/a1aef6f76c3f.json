@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a1aef6f76c3f",
+    "title": "分析机构 Similarweb：网页端 AI 聊天机器人中 ChatGPT 使用者最多，8 月市场份额回升至 55.5%",
+    "url": "https://www.ithome.com/0/999/893.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/893.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 8 日消息，分析机构 Similarweb 现已公布 2026 年 8 月 AI 聊天机器人网页端流量统计数据，当前 ChatGPT 仍占据 AI 聊天机器人网页端流量主导地位，近期市场份额进一步回升，从 3 个月前的 52.7% 提升至 55.5%。\n\n不过，从同比数据来看，ChatGPT 的优势已经有所收窄，其流量份额较去年同期的 73.3% 大幅下降。与此同时，Gemini 的份额实现翻倍增长，份额达 25.6%，Anthropic 旗下 Claude 的份额也从 1.9% 提升至 9.3%。相比之下，DeepSeek、Grok 和 Perplexity 的市场份额仍然较低，分别为 3.4%、2.4% 和 0.9%。\n\n需要注意的是，上述数据仅统计 AI 聊天机器人的网站流量，并未涵盖移动应用等其他访问渠道。因此这组数据并不能完全反映各 AI 服务的实际使用规模，例如谷歌实际上依托安卓生态为 Gemini 带来了大量移动端使用场景，而这部分交互并不会计入网站流量统计。因此尽管 ChatGPT 在网站流量方面仍保持明显领先，但仅凭网站流量份额不能完整衡量各家 AI 产品的实际用户规模和使用情况。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-08T14:35:45.638Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
