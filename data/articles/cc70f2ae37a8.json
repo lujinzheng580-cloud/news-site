@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "cc70f2ae37a8",
+    "title": "Win11 学院：如何让微软 Windows 11 账户头像动起来",
+    "url": "https://www.ithome.com/0/999/500.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/500.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 8 日消息，科技媒体 Neowin 今天（9 月 8 日）发布博文，分享了关于 Windows 11 系统的一项使用技巧，通过修改注册表方式，可以将动态 GIF 图片设置为账户头像。\n\nIT之家援引博文介绍，附上前期准备步骤如下：\n\n1、在修改设置 GIF 动图之前，用户需要先设置个人资料图片。用户打开“设置”>“账户”>“你的信息”，点击当前账户图片下方的“浏览文件”，然后选择任意图片。这样可以确保 Windows 创建必要的注册表项。\n\n2、接下来，操作需要用户的 Windows 账户 SID。打开命令提示符或 PowerShell 并运行：whoami /user，复制账户旁边显示的 SID，应该类似于 S-1-5-21-...\n\n3、有时候 Windows 可能会阻止普通管理员账户编辑账户图片注册表值，因此在本次调整过程中，需要更高的访问权限。在打开注册表编辑器之前，请从 Sysinternals 网站下载微软官方的 PsExec 工具，并将其解压到用户熟悉的位置。PsExec 是微软 Sysinternals 套件中的一个小型命令行实用程序，它可以以不同的安全上下文（包括 SYSTEM 账户）启动程序。\n\n1、以管理员身份打开 PowerShell，并以 SYSTEM 账户身份启动注册表编辑器。如果 PsExec.exe 位于当前文件夹中，请运行：.\\PsExec.exe -i -s regedit.exe\n\n2、如果该文件位于其他位置，请使用完整路径。例如：& \"C:\\Users\\YourName\\Desktop\\PsTools\\PsExec.exe\" -i -s regedit.exe\n\n3、执行上述命令后，系统将打开一个新的注册表编辑器窗口。现在转到：HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\AccountPicture\\Users\\\n\n5、在注册表项中，您应该会看到多个名为 Image32、Image40、Image48、Image96、Image192、Image448、Image1080 等的字符串值。这些值指向 Windows 系统当前账户头像的不同版本。\n\n6、双击每个 Image### 值，并将其现有路径替换为要使用的 GIF 文件的完整路径。例如：C:\\Users\\YourName\\Pictures\\profile.gif\n\n7、对键中的每个 Image### 条目执行相同的操作，使它们都指向同一个 GIF 文件。\n\n关闭注册表编辑器后注销账户或重启电脑，系统会重新读取头像配置。修改后效果方面，某些界面可能只显示静态首帧，例如“设置 > 账户”页面就是可能不显示动画的场景，不过注销后的登录屏幕通常可以显示动态效果。\n\n注册表修改可能因 Windows 版本、权限设置或系统后续更新而失效。操作前可在注册表编辑器中导出 AccountPicture\\Users 项，保留原始配置；如需还原，只需恢复导出的注册表项或重新设置普通账户头像。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-08T00:44:34.573Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
