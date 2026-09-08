@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "963b18078838",
+    "title": "Arm 发布云和数据中心计算子系统 Neoverse CSS N4，支持 LPDDR6、PCIe Gen7",
+    "url": "https://www.ithome.com/0/999/613.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/613.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 8 日消息，Arm 今日在 Arm Everywhere China 年度大会上发布了其面向云和数据中心的新款计算子系统 (Compute Subsystems) Neoverse CSS N4。\n\nNeoverse CSS N4 面向智能体基础设施，是 Arm 迄今为止可配置性最高的 CSS，可帮助合作伙伴以最快速度完成从 CSS 到芯片产品的落地。其也是首款支持 CPU 频率高达 3.8 GHz 的 N 系列 CSS、首款支持 LPDDR6 内存和 PCIe Gen 7 的 Neoverse CSS。\n\nNeoverse CSS N4 基于 3nm 工艺，单颗裸片 (Die) 最高搭载 128 个原生支持 FP8 和 MMLA 的内核，支持 8000~12000MT/s 的 LPDDR6 / DDR5 / MRDIMM 内存与 128 通道 PCIe Gen7 互连。\n\n与 Neoverse CSS N3 相比，其插槽性能最高可提升 100%，每瓦性能最高可达 1.25 倍，内存带宽最高可达 1.75 倍。\n\n鸿钧微电子是首批采用 CSS N4 开发基于 Arm 架构的差异化基础设施芯片的合作伙伴之一。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-08T05:22:09.155Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

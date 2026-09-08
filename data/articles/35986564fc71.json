@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "35986564fc71",
+    "title": "安卓最强 2nm 芯片：高通第六代骁龙 8 超级至尊版实物图曝光",
+    "url": "https://www.ithome.com/0/999/649.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/649.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 8 日消息，消息源 @LaidBackDev_ 于 9 月 6 日在 X 平台发布推文，分享了一张安卓最强 2nm 芯片高通第六代骁龙 8 超级至尊版（Snapdragon 8 Elite Extreme Gen 6，型号 SM8975）的芯片实物图。\n\n根据曝光的图片细节，第六代骁龙 8 超级至尊版封装面积要大于第五代骁龙 8 至尊版芯片，并非单纯扩大计算单元，增加的封装面积主要来自新的散热结构。\n\n报道指出，传统 PoP（封装堆叠）方案通常将 DRAM 直接放在 SoC 上方。这种做法有助于缩小主板占用空间，但内存与处理器热量会集中在同一位置。\n\n而第六代骁龙 8 超级至尊版将 DRAM 从 SoC 顶部移到侧边，并加入散热片，类似于三星在 Exynos 2600 芯片采用的 Heat Pass Block（热传导模块）思路。\n\nHPB 全称为 Heat Path Block，是三星在 Exynos 2600 芯片中引入的散热技术，通过铜基散热块直接接触应用处理器（AP），利用铜的高导热性迅速传导芯片热量至散热结构，从而降低芯片温度、提升性能稳定性。\n\n科技媒体 Wccftech 认为通过侧置 DRAM 单元，并配合散热片，这种方式可以降低内存与 SoC 之间的热量累积，让 CPU 和 GPU 在更长时间内保持较高频率。IT之家附上相关图片如下：\n\n细节方面，芯片照片可见“SM8975”和“101-BC”标识。Wccftech 据此判断，该版本预计支持 LPDDR5X 内存，而不会采用速度更高、能效更优的 LPDDR6。\n\n《安卓最强 2nm 芯片：高通第六代骁龙 8 至尊版 Pro 芯片曝光，类三星 HPB 散热方案首曝》\n\n《安卓最强 2 纳米骁龙 8 Elite Gen 6 要来了：2026 高通骁龙峰会定档 9 月 22-24 日》\n\n《安卓最强 2nm 芯片：高通阵营迭代新机 8 系芯片方案曝光，骁龙 8 Elite Gen6 可选 Pro 版》\n\n《安卓最强 2nm 芯片：高通骁龙 8 Elite Gen 6 Pro 曝测试类三星 HPB 散热方案，但效果不如 Exynos》\n\n《安卓最强 2nm 芯片：曝高通骁龙 8 Elite Gen 6 Pro 芯片仅有 LPDDR5X/LPDDR6 两个版本》\n\n《安卓最强 2nm 芯片：高通测试 6 款骁龙 8 Elite Gen 6 Pro 样品，主打灵活内存 / 性能差异》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-08T05:22:09.146Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
