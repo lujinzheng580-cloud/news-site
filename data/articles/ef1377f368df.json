@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ef1377f368df",
+    "title": "苹果 iOS 27 升级灵动岛，可并行追踪导航 / 外卖 / 赛事等 3 项实时活动",
+    "url": "https://www.ithome.com/1/000/503.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/000/503.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 10 日消息，在今天召开的 2026 秋季发布会上，苹果在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，展示 iOS 27 灵动岛（Dynamic Island）设计，支持同时显示 3 项实时活动（Live Activities）。\n\nIT之家此前报道，要开启这个新模式，底层代码要求传感器区域宽度小于 100 个“布局点”，也就是不超过 16.57 毫米。\n\n布局点是苹果采用的设备无关单位，用来定义屏幕尺寸，会根据屏幕分辨率做不同比例缩放。pdfu 指出，当前 iPhone 17 Pro 的传感器区域宽度为 20.76 毫米，这意味着苹果需要把硬件尺寸缩小约 20%，才能解锁这项新软件功能。\n\n在实际使用场景下，灵动岛可以显示 3 项实时活动，意味着可以并行显示导航、外卖、赛事等等。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-09T19:27:13.291Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
