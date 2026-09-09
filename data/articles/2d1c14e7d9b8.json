@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2d1c14e7d9b8",
+    "title": "苹果 2026 款 Apple TV 4K 曝光：升级 A19/Pro 芯片，支持 Siri AI",
+    "url": "https://www.ithome.com/0/999/963.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/963.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 9 日消息，消息源亚伦 · 佩里斯（Aaron Perris）昨日（9 月 8 日）在 X 平台发布推文，通过挖掘 tvOS 27 Beta 更新代码，发现了 AppleTV18,1 硬件踪迹，预估是苹果新款 Apple TV 4K 硬件。\n\n芯片方面，根据代码细节，苹果新款 Apple TV 4K 硬件配备 A19 或者 A19 Pro 芯片（2022 款 Apple TV 4K 为 A15 芯片），此外内存方面可能会提升到 8GB 或者 12GB（2022 款 Apple TV 为 4GB），从而满足运行 Apple Intelligence 的要求。\n\nAI 体验方面，IT之家曾于 8 月报道，在 tvOS 27 Beta 6 代码中，发现苹果在系统内部应用列表中加入了 Siri 条目，并关联字符串“com.apple.campo”，其中“campo”是苹果为 Siri AI 使用的内部代号，表明新款 Apple TV 硬件将会支持 Siri AI。\n\n操控方面，苹果 macOS 26.7 系统代码显示，下一代 Apple TV 4K 将配备升级款 Siri Remote 遥控器。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-09T01:28:02.140Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "41e35df9aa08",
+    "title": "蚂蚁百灵系列首个原生多模态模型 Ling-3.0-flash-VL 发布开源，引入视觉反馈闭环机制",
+    "url": "https://www.ithome.com/0/999/997.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/0/999/997.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 9 日消息，蚂蚁集团今日宣布推出并开源百灵系列首个原生多模态大模型 Ling-3.0-flash-VL。\n\n该模型基于 Ling-3.0-flash 的 MoE（混合专家）架构拓展，总参数量为 124B，单次推理激活 5.5B 参数，原生支持图像、文本与视频输入，上下文窗口达到 256K Token。\n\n模型围绕“更可靠、更高效完成真实任务”的方向，引入了视觉反馈闭环机制。不同于一次性的“看图生成”，该机制将任务推进为“观察 → 行动 → 验证 → 修正”的持续闭环，使模型在医疗报告解读、前端代码生成及 GUI 自动化等场景中能够基于视觉反馈持续修正执行结果。\n\n在训练层面，蚂蚁集团表示，通过原生多模态联合训练，视觉信息的引入对模型的文本能力带来了正向提升。在 Artificial Analysis Intelligence Index v4.1.1 评估中，Ling-3.0-flash-VL 较纯文本版本（Ling-3.0-Flash）提升了 4 分。\n\n在实际应用测试中，该模型在图片转网页任务中可理解布局与组件关系并生成代码，且能通过渲染结果对比进行自我修正。在 Image-to-WebDev Arena 官方评测中，模型（代号 linthium）的评测得分高于 GPT-5.4。作为 GUI Agent 时，模型可识别界面结构并完成跨工具操作；在医疗报告解读场景中，模型支持跨文档数据整合与风险标识。\n\nLing-3.0-flash-VL 引入了任意分辨率视觉编码器与 VideoRoPE，语言主干沿用 42 层混合架构（IT之家注：交替排列 KDA 与 Gated MLA，比例 5:1），在 124B 总参数下单次推理仅激活 5.5B 参数。在实时视频对话、多轮视觉交互及长时任务中可保持低延迟响应，其 256K 上下文窗口支持长文档与长视频分析。\n\n目前，Ling-3.0-flash-VL 已在 Ling Studio 上线并提供免费体验。模型的 BF16 和 FP8 版本已在 Hugging Face 及 ModelScope 平台开源，FP4 和 INT4 版本计划于近期发布。\n\nHugging Face BF16：https://huggingface.co/inclusionAI/Ling-3.0-flash-VL\n\nHugging Face FP8：https://huggingface.co/inclusionAI/Ling-3.0-flash-VL-fp8\n\nModelScope BF16：https://www.modelscope.cn/models/inclusionAI/Ling-3.0-flash-VL\n\nModelScope FP8：https://www.modelscope.cn/models/inclusionAI/Ling-3.0-flash-VL-fp8",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-09T01:28:02.131Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
