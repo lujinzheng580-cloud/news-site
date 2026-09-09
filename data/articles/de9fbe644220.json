@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "de9fbe644220",
+    "title": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等",
+    "url": "https://www.ithome.com/1/000/543.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/000/543.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 10 日消息，科技媒体 macobserver 今天（9 月 10 日）发布博文，报道称在 Apple Watch Series 12 和 Apple Watch Ultra 4 两款智能手表上，苹果进一步升级了健康体验。\n\n在两款新智能手表上，苹果重点升级了“健康感测系统”，该系统配备新的光学与电极式心率传感器及更大的绿色 LED，可每 5 秒读取心率、每 5 分钟读取心率变异性，频率较此前提高 24 倍。\n\n由于需要搭配新的传感器数据，因此 Apple Watch Series 12 和 Apple Watch Ultra 4 两款智能手表独享恢复期心率变异性、日间生命体征、夜间个人基线对比及 0 至 10 分的“准备度”评分。\n\n“准备度评分”（Readiness）是 Apple Watch 的每日身体恢复评估，分数范围为 0 至 10。它根据生命体征、日常活动、训练负荷和睡眠数据，提示当天更适合恢复、放慢节奏、正常训练还是提高训练强度。\n\n生命体征：包括新健康感测系统采集的相关指标，用于观察身体是否偏离个人常态。\n\n训练负荷：衡量近期运动训练给身体带来的累积压力。\n\n评分从 0 到 10，Apple 会配套给出 4 类提示：\n\n苹果公司还推出了“健康年龄”（Health Age）评估功能，把 Apple Watch 长期记录的健康数据与用户实际年龄对照，给出身体状态相对同龄人的参考。\n\n该功能主要使用 Apple Watch 记录的 4 类指标：\n\n最大摄氧量（VO2 max）：反映心肺耐力和运动时利用氧气的能力。\n\n静息心率：在不活动状态下的心率，可用于观察基础心血管状态变化。\n\n心率变异性（HRV）：相邻心跳间隔的波动，常被用于观察恢复与压力相关的身体信号。\n\n系统会将这些数据与用户的实际年龄进行比较，形成“健康年龄”这一参考结果。该功能并非 Apple Watch Series 12 和 Apple Watch Ultra 4 独占，只要现有 Apple Watch 能稳定提供上述 4 项数据，理论上就可作为数据来源。\n\n此外由于入口位于新版“健康”应用内，查看和使用该功能还需要一台运行 iOS 27、并支持 Apple Intelligence 的 iPhone。\n\n苹果还在美国推出“实验室检测”服务。用户可在“健康”应用预约并支付 119 美元（IT之家注：现汇率约合 800.7 元人民币），在约 2,000 个 Quest Diagnostics 地点检测 50 多项生物标志物，结果将回传至应用。该服务不需要 Apple Watch，但目前限美国市场。\n\n苹果重新设计“健康”应用，加入“长寿”（Longevity）和“洞察”（Insights）标签页，可从 AirPods、临床记录及第三方应用获取数据。该应用面向运行 iOS 27 或 iPadOS 27、且支持 Apple Intelligence 的 iPhone 和 iPad，首发语言为美式英语。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-09T21:55:05.879Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
