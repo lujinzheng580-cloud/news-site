@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "5d7aa6c815db",
+    "title": "拿铁熊猫发布高性能 x86 计算模块 Mu Ultra，基于英特尔 \"Lunar Lake\" 处理器",
+    "url": "https://www.ithome.com/1/000/175.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/000/175.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 9 日消息，智位机器人 (DFRobot) 旗下拿铁熊猫 (LattePanda) 团队近日发布高性能 x86 计算模块（核心板）产品 Mu Ultra。其基于英特尔酷睿 Ultra 200V \"Lunar Lake\" 处理器。\n\nLattePanda Mu Ultra 尺寸为 60×69.6 (mm)，可选酷睿 Ultra 5 处理器 226V / Ultra 7 处理器 256V，集成 16GB LPDDR5X-8533 内存，对外提供 8 条 PCIe Gen4 通道。\n\n这款核心板还有 2 个 USB 10Gbps、6 个 USB 480Mbps、1 个 CNVio3、3 个 UART、3 个 I²C、14 个 GPIO，能通过 HDMI、DisplayPort、eDP 同时输出三路视频信号。\n\nLattePanda Mu Ultra 保留了 Mu 家族的标准化形态和连接器，并且与现有的载板基本兼容。这款产品起价 599 美元（IT之家注：现汇率约合 4,030 元人民币）。\n\nhttps://www.techpowerup.com/352482\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-09T06:36:50.975Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

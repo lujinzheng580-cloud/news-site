@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7ca05c0ba71a",
+    "title": "已修复：OpenAI 的 ChatGPT 生图功能出现故障，持续约 7.5 小时",
+    "url": "https://www.ithome.com/1/000/135.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/000/135.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 9 日消息，OpenAI 官方状态页面显示，从北京时间 9 月 8 日 22:32 到 9 月 9 日 05:59，旗下 ChatGPT 和 Images API 的图像生成功能出现故障，持续约 7 小时 27 分钟。\n\n本次故障主要涉及 ChatGPT 的图像生成功能，以及面向开发者的 Images API。OpenAI 称，用户提交图像生成请求时出现更高频率的错误。\n\n此外文件上传处理也受到影响，部分文件可能显示已完成上传，但仍停留在处理状态，暂时无法访问；另一些上传请求可能直接失败。\n\n用户在提交图像生成提示词后，也可能看到系统返回错误。OpenAI 尚未披露故障的具体技术原因、受影响用户数量和预计恢复时间。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-09T06:36:50.981Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
