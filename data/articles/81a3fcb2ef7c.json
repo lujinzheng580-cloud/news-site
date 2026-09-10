@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "81a3fcb2ef7c",
+    "title": "Excel 2016 等用户反馈微软 9 月更新导致复制粘贴功能失效",
+    "url": "https://www.ithome.com/1/000/704.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/000/704.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 10 日消息，科技媒体 BornCity 今天（9 月 10 日）发布博文，报道称部分用户反馈 Excel 2016、Excel 2024 LTSC 专业版等版本安装 9 月更新后，遇到复制粘贴功能失效故障。\n\nIT之家援引博文介绍，目前社区反馈报告的受影响版本主要集中在以下版本：\n\nMicrosoft Excel LTSC Standard 2021\n\nMicrosoft Excel 2024 LTSC Pro（来自原文，查询后非官方名称，应该关联 Office LTSC 专业增强版 2024）\n\n在问题表现方面，用户主要反馈无法复制、粘贴或选中 Excel 单元格，部分用户还报告自动填充功能无法使用。\n\n根据该媒体和社区的调查，本次故障预估关联 9 月推送的 KB5002914 更新，该更新用于修复微软支持文档列出的信息泄露和远程代码执行漏洞。对可卸载更新的 MSI 版 Office 2016，卸载该补丁后 Excel 可恢复使用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-10T04:48:12.677Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

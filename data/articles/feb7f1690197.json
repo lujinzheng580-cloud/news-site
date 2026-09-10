@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "feb7f1690197",
+    "title": "2026 最大 Win11 累积更新后：微软 Defender 零日漏洞曝光，可读取任意系统文件",
+    "url": "https://www.ithome.com/1/000/700.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/000/700.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 10 日消息，科技媒体 bleepingcomputer 昨日（9 月 9 日）发布博文，报道称在微软发布 2026 最大 Windows 11 累积更新之后，匿名安全研究员 Nightmare Eclipse 公开名为 ShieldCrash 的 Microsoft Defender 零日概念验证漏洞。\n\n影响范围方面，该研究员称漏洞影响 Windows 10、Windows 11 以及 Windows Server 多个版本。\n\n根据展示的概念验证漏洞利用程序，ShieldCrash 关联微软已修复的 ShieldBreak 漏洞，后者追踪编号为 CVE-2026-69414，已在本周累积更新中修复。\n\nIT之家援引博文介绍，研究员称，微软修复了部分可重复利用问题的条件，但遗漏了一个仍可触发原问题的位置。攻击者利用 ShieldCrash，能以 SYSTEM 权限读取任意文件。SYSTEM 是 Windows 中权限最高的本地账户级别之一。\n\n该媒体指出围绕漏洞赏金和漏洞披露实践，Nightmare Eclipse 与微软处于持续争议状态。该研究员自今年 4 月以来，披露了 ShieldBreak、LegacyHive、RoguePlanet、BlueHammer、RedSun、YellowKey、GreenPlasma、MiniPlasma 和 UnDefend 等多个零日漏洞。\n\n微软后续修复了 ShieldBreak 等大部分漏洞，但其他漏洞仍然缺乏官方补丁。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-10T04:48:12.679Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
