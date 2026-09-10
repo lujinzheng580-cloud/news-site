@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 10 日消息，谷歌昨天宣布推出 Android 调试桥（ADB）Wi-Fi 2.0，新版本重新设计了三个核心组件，使无线调试速度更快、稳定性更好。\n\nIT之家了解到，谷歌本次更新了 mDNS 协议栈和守护进程，提高连接可靠性。旧版 mDNS 有时会导致电脑与 Android 之间连接中断，新版会在电脑和设备连接到不受信网络时自动禁用连接，回到信任网络后自动重启连接。\n\n同时，Android Studio 现已提供更加方便的设备配对功能。当用户在 Android 设备上打开无线调试后，设备名就会出现在 Android Studio 设备管理器中。\n\n谷歌表示，ADB Wi-Fi 2.0 的连接速度最高提升 66%，自动连接成功率提升 32%，适用于手机、平板、WearOS 手表以及 Android TV。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-10T13:52:03.154Z",
+    "publishedAt": "2026-09-10T17:37:52.135Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
