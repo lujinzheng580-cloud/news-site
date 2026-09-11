@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d400c8396822",
+    "title": "（已修复）全球最大的网站证书颁发机构 Let's Encrypt 出现服务问题",
+    "url": "https://www.ithome.com/1/001/126.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/126.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 11 日消息，据IT之家小伙伴反馈，全球最大的网站证书颁发机构 Let's Encrypt 今日出现服务问题，官方状态页面显示部分服务中断。\n\n北京时间 9:40，Let's Encrypt 称正在调查域控制验证（DOMAIN）验证失败率升高的情况，这可能导致订阅者无法获取证书。\n\n北京时间 10:11，Let's Encrypt 表示在次级验证中发现了 DNS 解析器的问题。该变更正在被恢复，预计 15 分钟内投入运营。\n\nIT之家注：Let's Encrypt 是由互联网安全研究小组（ISRG）运营的非营利性证书颁发机构，是世界上最大的证书颁发机构，超过 3 亿个网站使用其服务，其目标是确保所有网站的安全并使用 HTTPS。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-11T05:19:10.502Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

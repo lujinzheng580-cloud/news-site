@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "fcec9e85de38",
+    "title": "苹果详解 Apple Watch 的 Siri Recap：全天谈话划重点、AI 摘要 7 天自动删除",
+    "url": "https://www.ithome.com/1/001/127.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/127.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 11 日消息，苹果公司今天（9 月 11 日）更新官方文档，详细介绍了在 Apple Watch Series 12 和 Apple Watch Ultra 4 两款智能手表上的“Siri Recap”功能。\n\nSiri Recap 会在后台静默记录你全天的对话内容，生成由 Apple 智能提炼的重点摘要，方便你后续唤起记忆，让你全程专注于当下。如果你选择不存储，这些摘要将在 7 天后自动删除。\n\n隐私方面，苹果公司强调只有当用户选择启用后才会运行 Siri Recap。用户可以在 iPhone 上的 Watch App 中打开 Siri Recap。\n\n开启后，用户可根据时间和 / 或地点（例如“仅在工作时”或“夜间从不”）设置运行计划，也可手动开关。无论选择哪种方式，用户都可以随时从“控制中心”打开或关闭这项功能。\n\n在内容保护方面，音频会流入 S11 芯片的 Secure Exclave 内受保护的缓冲区。Secure Exclave 是内置于 Apple Watch 和 iPhone 芯片中的硬件隔离区域，可独立于系统其余部分处理传感器数据。\n\n数据运行方面，该功能运行在专用云计算 (PCC) 上的 Apple 基础模型，会完成最终输出内容的汇总与规整格式化，苹果和其它方均无法访问。如果用户不存储或导出，Siri Recap 摘要将在 7 天后自动删除。\n\n在记录内容方面，苹果强调 Siri Recap 不会生成完整的逐字转录文本，只会生成简短的重点摘要，就像用户在对话结束后随手记下的笔记。\n\n保护周围人的隐私方面，Siri Recap 可能会包含对话中提到的姓名，但不会直接标注说话人（例如，“John 说……”，或标记为“发言者 A”与“发言者 B”）。\n\n此外 Siri Recaps 会自动过滤省略潜在有害内容，例如宣扬自残、仇恨言论的表述，以及财务数据、政府签发的身份标识、认证数据和特定个人识别信息这类敏感内容。\n\n关于 Apple Watch Series 12 和 Apple Watch Ultra 4 上的音频智能功能\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-11T05:19:10.502Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
