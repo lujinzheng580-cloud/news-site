@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d5d20a67b1bd",
+    "title": "阿里 Qoder 推出 Mobile Use 插件，打通鸿蒙、安卓、iOS 的 Agent 闭环验证",
+    "url": "https://www.ithome.com/1/001/282.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/282.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 11 日消息，阿里 Qoder 官方表示，今天的 Coding Agent 已经可以修改安卓、鸿蒙与 iOS 代码，但往往止步于提交之前。移动端 App 是否成功构建，修改后的页面如何呈现，用户所指的是哪一个控件，点击之后是否进入正确页面，这些问题还需要解决。\n\n阿里 Qoder 今日推出 Mobile Use 插件（Beta）。安卓、鸿蒙与 iOS 均可将代码修改接入应用运行，在设备上完成交互，并确认修改是否生效。\n\n官方表示，安卓、鸿蒙与 iOS 的工程结构、构建工具、模拟器、测试框架和设备接口本就不同。Mobile Use 不会以一套最低能力将三端强行对齐。现有开发环境可以继续使用，不必另行准备仅供 Agent 使用的测试设备。\n\n安卓仍然通过 Emulator、ADB 与 Instrumentation 工作；\n\n鸿蒙可以连接 DevEco Previewer、HDC 与 ArkXTest；\n\niOS 则使用 Xcode Simulator、Accessibility 与 XCTest；\n\n上层通过统一的 Skill 与 CLI，将这些能力提供给 Agent。需要对齐的是更上一层的开发过程：观察、操作与验证。\n\nIT之家注意到，官方特别强调，若某一平台或运行环境不具备某项能力，Mobile Use 会明确说明，而不会以一条不等价的命令冒充成功。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-11T09:57:39.221Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
