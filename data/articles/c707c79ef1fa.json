@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c707c79ef1fa",
+    "title": "OpenAI 推出金融服务版 ChatGPT：集成 GPT-6 Astra 内置金融数据与细粒度引用，支持估值模型与研究报告",
+    "url": "https://www.ithome.com/1/001/063.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/063.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 11 日消息，OpenAI 于当地时间 9 月 10 日宣布推出 ChatGPT for Financial Services。\n\n这是一款面向金融服务团队的定制化 ChatGPT 服务，结合内置金融数据与 GPT-6 Astra 推理能力，旨在帮助金融团队开展研究、财务建模并制作定制客户材料。该产品目前已向符合条件的金融机构开放。\n\n据介绍，该产品由 OpenAI 与摩根士丹利、Evercore 联合开发，初期重点面向投资银行和股票研究场景。\n\nOpenAI 表示，合作过程中发现，金融团队面临的主要问题包括可靠获取数据，以及将分析结果制作成高质量工作材料。\n\n该服务内置 Daloopa、PitchBook、LSEG News 和 Crunchbase 等数据提供商的金融数据，涵盖财报电话会、财务报表、公司基本面及私营企业信息。相关数据由 OpenAI 索引并托管，用户可在分析过程中追溯具体数据和结论的来源。\n\nOpenAI 还计划与 S&P Global、LSEG、MSCI、道琼斯 Factiva 和穆迪等机构合作，支持用户通过现有金融数据订阅直接访问已获授权的内容。IT之家注意到，OpenAI 同时优化了金融数据提供商的 MCP 连接器，并支持包括 Datasite、Box、Preqin 和 Intapp 在内的 50 多个连接器。\n\n在模型能力方面，该服务集成 GPT-6 Astra，可处理财务文档中的数字、表格和附注，并据此开展分析、生成结论及制作文档、电子表格和演示文稿。产品支持跨多个数据源研究信息、追踪不同时期的数据变化，以及生成交互式图表。\n\n金融机构还可以通过专用管理页面发布 Excel、Word 和 PowerPoint 模板。管理员设置企业模板及格式规范后，团队可将分析结果制作成符合机构要求的估值模型、研究报告和路演材料。\n\n安全与管理方面，该产品基于 ChatGPT Enterprise 的 SAML 单点登录、SCIM 用户配置和基于角色的访问控制。OpenAI 表示，企业业务数据默认不会用于训练模型，数据在传输和静态存储时均会加密，管理员还可设置工作区数据保留期限。\n\nOpenAI 同时表示，合规团队可以通过 OpenAI Compliance Platform 导出支持的工作区日志，用于现有审计和调查流程。企业还能够按角色管理技能和应用的读写权限，并通过创建多个工作区实施信息隔离。\n\nChatGPT for Financial Services 目前仅面向符合条件的金融机构提供。OpenAI 表示，金融机构及开发者也可以通过 API 构建面向特定金融业务的应用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-11T00:35:13.599Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
