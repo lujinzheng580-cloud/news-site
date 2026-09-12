@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 12 日消息，微软今日面向 Beta、Experimental 和 Release Preview 频道推送了新的 Windows 11 预览版更新。\n\n其中，Experimental 频道新增文件资源管理器搜索优化，并进一步调整右键菜单自定义功能：\n\nBeta 通道：Build 26220.9472（25H2）、Build 28020.2991（26H1）\n\nExperimental 通道：Build 26340.9482（26H2）、Build 28120.3002（26H1）、Build 29667.1000（未来平台）\n\nRelease Preview 通道：Build 28000.3079（26H1）\n\n微软提醒，设备可能需要最多 30 分钟才能检测到本次更新推送。本次更新主要新功能集中在 Experimental 通道，具体改进如下：\n\nIT之家附 Windows 11 改进进展如下：\n\n微软在现有上下文菜单改进基础上，新增了首次使用教学提示，帮助用户了解上下文菜单的自定义选项；同时新增开关支持，用户现在可以在新的上下文菜单设置中关闭自定义上下文菜单项；此外还修复了上下文菜单中“发送到”选项无法正常工作的若干小问题。\n\n在 Experimental 通道中，从“此电脑”发起的文件资源管理器搜索现在改为基于索引器实现，搜索速度大幅提升，并且和文件资源管理器主页的搜索体验保持一致。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-11T23:09:36.854Z",
+    "publishedAt": "2026-09-12T01:10:04.596Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

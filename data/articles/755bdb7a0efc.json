@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "755bdb7a0efc",
+    "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
+    "url": "https://www.ithome.com/1/001/497.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/497.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 12 日消息，OpenAI 今日发文，主要介绍了其在线存储平台 Habitat 如何应对产品规模的快速增长，以及从 Python 迁移至 Rust 的工程实践。\n\nOpenAI 称该平台目前每秒处理超过 7000 万次请求，每周服务超 10 亿用户，管理的数据规模超过 500PB。据介绍，Habitat 已从 2024 年的 Python 客户端库，发展为支撑旗下产品的分布式存储系统。\n\n据介绍，Habitat 最初是一个与 ChatGPT 主服务器交互的 Python 库，底层连接 Azure Cosmos DB。其目标是让产品工程师无需直接管理数据库，即可完成数据存取。系统负责数据类型识别、路由、授权、加密、序列化及连接池管理等工作。\n\n随着 OpenAI 产品数量和数据需求增长，Habitat 在 2025 年年中逐渐暴露出客户端架构的局限。每次修改共享库都需要协调数十个服务进行部署，增加了发布复杂度和故障风险。因此，OpenAI 决定将 Habitat 改造为独立服务，集中管理部署、监控和平台功能。\n\n独立服务还为数据安全提供了统一控制点。OpenAI 可以在 Habitat 中集中执行访问控制、审计日志及底层存储资源权限管理，降低外部、内部及代理程序未经授权访问用户数据的风险。\n\nOpenAI 最初选择用 Python 开发高吞吐服务，以优先解决平台稳定性和产品开发效率问题。然而，Python 服务在高并发场景下仍面临 CPU 开销、内存开销和网络延迟等挑战，尤其需要控制请求尾延迟。\n\nHabitat 通过限制并发请求数量、增加 Python 工作进程，以及优化异步任务调度来改善性能。OpenAI 还调整了功能开关配置的刷新策略，减少大规模 JSON 解析对请求处理的影响。\n\n在连接池方面，OpenAI 发现 Python 的 aiohttp 默认采用 LIFO 连接复用策略，可能导致流量持续集中到响应较慢的服务进程。团队改用 FIFO 连接复用，降低了负载不均衡问题（IT之家注：LIFO 指后进先出，FIFO 指先进先出，两者是常见的队列处理策略）。\n\nHabitat 采用受限的 NoSQL API，避免客户端执行不可控的 SQL 查询、复杂联表或大范围数据扫描。对于需要复杂查询的场景，OpenAI 通过变更数据捕获（CDC）将数据实时或近实时同步至 Rockset，提供离线分析和搜索能力。\n\n在 2026 年第二季度，OpenAI 调用 2 名工程师，再加上 Codex 和 GPT-5.5，将 Habitat 服务整体用 Rust 重写。官方数据显示，新的 Rust 服务目前已处理 95% 的生产请求，CPU 效率提升 6 倍，内存效率提升 15 倍，平均延迟和尾延迟也有所降低。\n\nOpenAI 计划在未来几周内完全弃用 Habitat 的 Python 实现。该公司还表示，后续文章将介绍 Habitat 如何扩展 Azure Cosmos DB 存储层，以及在超过 500PB 数据和每秒 7000 万次请求规模下的多租户可靠性与读性能优化。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-12T01:10:04.593Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
