@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 12 日消息，英伟达近日为 G-Sync Pulsar 显示器推送 1.1.10 版固件更新，进一步提升动态画面清晰度。\n\n具体来看，G-Sync Pulsar 1.1.10 固件在 240Hz 模式、Pulse Width 设置为 50 时，可将 MPRT 响应速度降低至 0.97ms，首次低于 1ms。英伟达表示，这一表现能够带来相当于 1000Hz 显示器的动态清晰度。\n\n在最高 480 尼特亮度下，支持 G-Sync Pulsar 的显示器在 240Hz 和 360Hz 刷新率下的运动画面清晰度，也提升至与 60Hz ULMB2 模式相当的水平。其中，360Hz 模式的 MPRT 响应速度由原来的 1.64ms 降至 1.14ms。至于未来是否能够进一步将 360Hz 模式的 MPRT 压低至 1ms 以内，目前尚无官方消息。\n\n公开信息显示，G-Sync Pulsar 是一项将可变刷新率（VRR）与动态背光频闪结合的显示技术，旨在同时降低画面撕裂和运动模糊。显示器会根据画面刷新节奏以及 VRR 状态同步控制背光闪烁，在保持低撕裂的同时提升高速运动画面的清晰度。\n\n不过，目前支持 G-Sync Pulsar 的显示器数量仍然有限，仅有少数高端型号，具体来看仅包括 Acer Predator XB273U F5、AOC AGON PRO AG276QSG2、ASUS ROG STRIX Pulsar XG27AQNGV 以及 MSI MPG 272QRF X36 四款产品。\n\n除了提升动态清晰度外，1.1.10 版固件还改善了 G-Sync Pulsar 的稳定性。先前系统在运行部分高负载游戏时，为避免画面出现异常，系统可能会在没有明显提示的情况下自动开启或关闭 G-Sync Pulsar 功能。英伟达此次更新针对相关问题进行了优化。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-12T01:10:04.592Z",
+    "publishedAt": "2026-09-12T05:51:32.936Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "5ec4e8bbf0f8",
+    "title": "Linux 7.4 将默认启用 HDMI 2.1 FRL，支持 AMD FreeSync、VRR 与 ALLM",
+    "url": "https://www.ithome.com/1/001/517.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/517.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 12 日消息，尽管 HDMI Forum 百般阻挠，但 Linux 7.4 仍将迎来 HDMI 2.1 功能升级，新增对 AMD FreeSync、可变刷新率（VRR）及自动低延迟模式（ALLM）的支持。\n\n相关补丁已提交至 Linux 内核邮件列表，预计将合并至上游驱动代码。Linux 7.4 计划于 2026 年 10 月发布，具体日期尚未确定。\n\nIT之家注：FRL 即固定速率链路（Fixed Rate Link），为 HDMI 2.1 实现高带宽传输的核心技术。\n\n据 Phoronix 报道，AMD 于当地时间 9 月 10 日向 DRM-Next 提交了针对 Linux 7.4 的 AMDGPU 功能拉取请求，其中包含 HDMI 2.1 FreeSync、HDMI 2.1 VRR 及 HDMI 2.1 ALLM 支持，并首次将 HDMI FRL 从默认禁用改为默认启用。\n\n此前 HDMI 2.1 FRL 虽已在 Linux 7.2 中合入 AMDGPU 驱动，但默认处于关闭状态。AMD 方面的考虑是等待 VRR 等功能完备后再启用，以避免用户功能回退。\n\nHDMI Forum 此前一直拒绝为开源 Linux 驱动提供 HDMI 2.1 许可，理由是开源驱动会暴露 HDMI 技术。AMD 曾在 2021 年开发过开源实现，但被 HDMI Forum 阻止发布。Valve 也确认曾就此与 HDMI Forum 交涉未果。\n\n转机出现在 2026 年。Valve 与 AMD 合作推进的 HDMI 2.1 FRL 补丁自 5 月起陆续出现在内核邮件列表中。Valve 工程师 Pierre-Loup Griffais 在 6 月向 Digital Foundry 确认，Steam Machine 的 HDMI 2.1 FRL 工作已经完成，当前软件栈已启用 HDMI 2.1 VRR，不仅支持 FreeSync 显示器，也支持 HDMI Forum VRR 显示器。\n\n不过 Steam Machine 产品页面目前仍标注 HDMI 2.0，新驱动尚未部署到 SteamOS。未来更新后将支持 4K 240Hz DSC 输出。\n\nLinux 7.4 的合并窗口预计在 10 月下旬开启，具体时间取决于 Linux 7.3 稳定版的发布节奏。如果进展顺利，Linux 7.4 可能在 2026 年底或 2027 年 1 月初正式发布。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-12T05:51:32.933Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
