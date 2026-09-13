@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 13 日消息，继今年 7 月开源 LingBot-World 2.0 14B 模型后，蚂蚁灵波科技本周进一步开源三款模型：LingBot-World 2.0 Small（1.3B）、LingBot-World 2.0 Bidirectional 和 LingBot-World 2.0 Causal Pretrain。\n\n据介绍，LingBot-World 2.0 是一个实时交互世界模型。模型支持小时级连续生成，并可以响应攻击、射箭、施法、射击等角色动作，以及下雪、下雨等环境事件。在更高算力与相应推理配置下，LingBot-World 2.0 可进一步达到 720P / 60FPS 的高清实时体验。\n\n而本次开源的 LingBot-World 2.0 Small 采用 1.3B 参数规模，面向消费级单卡 GPU 设计，可在单卡上实现实时生成。官方称个人开发者、高校实验室和小型团队也可以从本地体验和复现开始，进一步探索交互方式、推理优化与场景应用。\n\nLingBot-World 2.0 Bidirectional 面向实时世界模型训练，提供高质量的蒸馏源；LingBot-World 2.0 Causal Pretrain 面向后训练、评测和场景适配，提供因果预训练底座。\n\n项目主页：https://technology.robbyant.com/lingbot-world-v2\n\nHugging Face：https://huggingface.co/robbyant/lingbot-world-v2\n\n魔搭社区：https://www.modelscope.cn/collections/Robbyant/LingBot-World-V2\n\n代码：https://github.com/robbyant/lingbot-world-v2\n\n技术报告：https://arxiv.org/abs/2607.07534\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-13T21:22:20.873Z",
+    "publishedAt": "2026-09-13T23:24:47.506Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
