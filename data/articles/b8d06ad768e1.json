@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b8d06ad768e1",
+    "title": "谷歌为 Android 新增系统级密码管理器迁移，通行密钥支持无缝搬家",
+    "url": "https://www.ithome.com/1/001/727.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/727.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 13 日消息，谷歌本周四宣布为 Android 新增系统级密码管理器迁移体验。用户只需要点击几下屏幕，就能安全、迅速地切换不同密码管理器，全程无需下载任何文件。\n\n谷歌表示，Android 系统过去的迁移密码体验并不完美。用户往往需要将密码库导出为未加密的文本文件，通行密钥完全无法转移，用户只能在网站和 App 间重新创建。\n\n如今谷歌为 Android 带来全新密码迁移体验。用户只需要打开新的密码管理器 App，选择导入数据，系统会自动检测设备已有的密码管理器，告知用户哪些数据可以传输。\n\n点击“继续”后，Android 会在新旧密码管理器 App 间自动传输传统密码、通行密钥，整个过程只需要几秒钟，完全无损，不需要下载任何文件。\n\nIT之家了解到，该功能已支持 Google 密码管理器、1Password、Bitwarden Password Manager 和 Dashlane，未来还会有更多 App 加入支持。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-13T06:14:30.231Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
