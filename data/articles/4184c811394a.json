@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 13 日消息，当地时间 9 月 13 日，适用于 macOS 和 Linux 的开源包管理器 Homebrew 发布了 7.0.0 大版本更新。\n\nHomebrew 是一个免费且开源的工具，能通过终端（Terminal）输入简单的指令，来快速安装、卸载、更新和管理电脑上的各种软件及开发工具。\n\nIT之家整理 Homebrew 7.0.0 主要升级内容如下：\n\n推出原生 macOS 应用程序（brew install homebrew-app）\n\n正式终止对 macOS 10.15 及更早版本的支持\n\n基于 Intel 处理器的 Mac 机型降级至 Tier 3 等级支持（计划支持截止时间为 2027 年 9 月 1 日，官方建议在 Homebrew 完全停止运行前迁移至 MacPorts）\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-13T18:54:17.958Z",
+    "publishedAt": "2026-09-13T21:22:20.878Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
