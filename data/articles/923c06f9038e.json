@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "923c06f9038e",
+    "title": "消息称美版 iPhone 18 Pro Max 搭载高通基带，苹果官网并未明示",
+    "url": "https://www.ithome.com/1/001/682.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/682.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 13 日消息，据科技媒体 MacRumors 昨日报道，美版苹果 iPhone 18 Pro Max 将使用高通基带。作为对比，美国以外的 iPhone 18 Pro Max 均使用 C2 基带。\n\n不过需要注意的是，美国苹果官网并未明确写出这种差异。参数页显示，美版 iPhone 18 Pro 将使用 Apple C2 基带，而 iPhone 18 Pro Max 却没有这种标注。\n\n苹果方面暂未就此种差异作出解释。MacRumors 推测，这可能与苹果、高通 2023 年协议有关。该协议规定，高通将于 2026 年前为苹果智能手机供应调制解调器。因此这其中存在的一种可能是，苹果在美版 iPhone 18 Pro Max 使用高通基带，是为了最低限度履行协议。\n\nIT之家了解到，苹果 C2 基带支持毫米波 5G，相比 C1 和 C1X 有所升级。高通此前为 iPhone 12 及后续机型提供的基带早已支持美国毫米波 5G，因此苹果在这一方面属于后来者。\n\n目前我们尚不清楚美版 iPhone 18 Pro Max 使用何种高通基带，但最有可能的是 X85。未来 iPhone 18 Pro 系列正式开售后，我们将能够进一步了解 C2 与高通基带之间的性能差异。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-13T01:08:54.544Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
