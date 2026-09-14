@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4a3ec9c7a7ff",
+    "title": "日本自研：富士通“FUJITSU-MONAKA”CPU 将于 11 月开售，服务器产品明年出货",
+    "url": "https://www.ithome.com/1/002/051.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/051.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 14 日消息，富士通今天宣布，公司将于 2026 年 11 月起销售 FUJITSU-MONAKA 中央处理器。搭载该 CPU 的服务器产品将从今年四季度起向金融、通信等领域用户先行提供，并于 2027 年 4 月起向日本和欧洲市场出货。\n\n据介绍，FUJITSU-MONAKA 是日本自主研发的 CPU，采用 Arm 架构。该产品的计算核心采用 2nm 制程，缓存和 I/O 部分使用 5nm，应用 3D 堆叠结构。其最高频率可达 3.8GHz，内存传输速率达 8800MT/s。\n\n该处理器通过硬件处理向量运算、AI 推理的核心矩阵运算，结合软件优化技术。富士通宣称，该 CPU 可在单独部署的情况下实现 AI 推理级性能，可应用在供电或散热受限的场所。该产品还带有硬件级加密功能，可保证数据机密性。\n\n同时，该 CPU 在日本国内完成设计和研发，并在日本笠岛工厂完成生产，满足政企等机构的全链路国产化需求。\n\n而 Fujitsu MONAKA Server 服务器提供 2U（IT之家注：搭载 2 颗 CPU）、1U（1 颗或 2 颗 CPU）两种尺寸。后者无需专用散热设备，可在风冷环境下运行。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-14T06:59:56.914Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
