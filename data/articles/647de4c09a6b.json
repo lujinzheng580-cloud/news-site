@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "647de4c09a6b",
+    "title": "微星推出 B650E GAMING WIFI 主板，提供 PCIe Gen5 插槽、M.2",
+    "url": "https://www.ithome.com/1/001/911.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/001/911.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 14 日消息，微星 (MSI) 近日在其官网上线了 B650E GAMING WIFI 主板。该型号也是目前唯一一款能在其官网找到的 AMD B650E 产品。\n\nB650E GAMING WIFI 采用标准 ATX 板型，基于 6 层 PCB，搭载 12+2+1 相的上下桥供电，配备 8+4 Pin EPS CPU 供电接口。\n\n这款主板支持 8000+ MT/s 内存超频，提供支持 PCIe Gen5 的 PCIe 插槽和 M.2 插槽，支持 2.5GbE LAN 和 Wi-Fi 6E WLAN，详细规格如下：\n\n4× DDR5 non-ECC UDIMM (2DPC)，支持 8000+ MT/s 超频。\n\nM.2 2280 / 2260，PCIe Gen5 ×4（CPU）；\n\nM.2 22110 / 2280，PCIe Gen4 ×4（CPU）；\n\nM.2 2280 / 2260，PCIe Gen4 ×2（芯片组）；\n\n有线：瑞昱 RTL8125D，支持 2.5GbE；\n\n无线：支持 Wi-Fi 6E (1T1R) & 蓝牙 5.3。\n\n板内接口：1× USB-C 5Gbps、1× 一分二 USB-A 5Gbps、2× 一分二 USB-A 480Mbps；\n\n后部接口：1× 2.5GbE RJ-45、4× USB-A 480Mbps、1× USB-A 10Gbps、一对 Wi-Fi 天线插孔、3× 音频插孔、1× HDMI 2.1 (TMDS)、2× USB-A 5Gbps、1× USB-C 10Gbps。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-14T01:29:53.917Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
