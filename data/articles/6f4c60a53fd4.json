@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6f4c60a53fd4",
+    "title": "Mozilla 发布火狐浏览器 Firefox 156 版本：改进 PDF 查看器性能、优化大尺寸 JPEG 图片占用...",
+    "url": "https://www.ithome.com/1/002/355.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/355.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，Mozilla 现已经发布火狐浏览器 Firefox 156 版本，主要改进了 PDF 查看器性能、优化大尺寸 JPEG 图片占用等，IT之家附项目地址（点此访问）。\n\nMozilla 表示，Firefox 156 版本中引入的新版 PDF 查看器启动速度最高提升 45%，用户在浏览器中打开 PDF 文档时响应速度更快。同时浏览器还优化了显示大尺寸 JPEG 图片时的资源占用。当网页中的超大图片被缩放显示时，新版浏览器能够减少内存和 CPU 使用率，对于包含大量高分辨率图片的网页尤其有帮助。\n\n在 macOS 版本方面，Firefox 现在支持设置为随系统启动自动运行，相关选项位于 Firefox 设置中的“启动”部分。同时，Mozilla 进一步扩展了企业策略对 macOS 的支持。\n\n在 Android 版本方面，Firefox 为媒体通知新增了音频控制快捷按钮，用户可以直接拖动时间轴调整播放位置，或点击“上一曲”下一曲“按钮快速切歌。对于 Android 14 及更高版本中，Firefox 还改用系统原生分享面板，同时保留“发送标签页到设备”“扫描二维码”等 Firefox 专属功能。\n\n在 Bug 修复方面，Firefox 156 修复了多个桌面平台上的问题。Windows ARM64 设备上的 WebRTC 视频通话现在会使用硬件 H.264 解码，而不再依赖软件解码。媒体播放方面，Mozilla 修复了部分网站无法正确播放 MP4 容器内高采样率 FLAC 音频的问题，例如 Bilibili；画中画（PiP）模式下，如果打开窗口后才启用字幕，现在也能够正常显示字幕。\n\n新版还修复了富文本编辑器中的图片拖拽问题，此前用户拖动行内图片时，图片可能会被替换成长串文本，而不是正常移动。另外，在分屏视图（Split View）中反转窗格后，查找栏可能永久无法使用的问题也得到解决。\n\n书签功能同样进行了修复。此前用户在书签侧边栏中拖动包含子项目的文件夹时，文件夹外的其他项目可能被一并移动，新版已经解决这一问题。\n\n面向企业用户，Firefox 156 进一步扩展 FirefoxHome 策略，新增 Widgets 选项，管理员可以控制新标签页中的生产力小组件。同时，SitePolicies 策略新增 DisableServiceWorkers 选项，可阻止指定网站注册或使用 Service Worker。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T00:57:17.536Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

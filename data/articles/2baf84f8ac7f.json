@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2baf84f8ac7f",
+    "title": "ClickFix 攻击肆虐全球：诱骗 Win11/macOS 用户执行命令窃取信息",
+    "url": "https://www.ithome.com/1/002/371.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/371.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，科技媒体 Ars Technica 于 9 月 11 日发布博文，报道称针对微软 Windows 10/Windows 11、苹果 macOS 系统的新型 ClickFix 攻击正肆虐全球网络。\n\nIT之家注：ClickFix 是一种利用“社会工程＋复制粘贴执行”的初始入侵手法，攻击者诱导受害者把一段恶意指令（通常是 PowerShell 或系统命令）复制到剪贴簿，再粘贴到 Windows“运行”窗口、PowerShell、文件资源管理器地址栏，或 macOS 的脚本编辑器中执行，从而绕过传统杀毒与邮件过滤。\n\n该媒体报道称这种攻击手法由于需要用户手动复制触发，对于有经验的网民来说很容易识别风险，因此在此前的攻击类型中较为少见，不过最新报告称这种攻击方式有变成主流的趋势。\n\n攻击页面常把验证码伪装成 Cloudflare 的验证界面。用户点击后，会看到被遮挡的文本。页面随后要求用户把文本粘贴至 Windows“运行”、PowerShell 或 macOS 终端，并按下回车键，恶意命令可借此在用户设备上执行。\n\n该软件可盗取密码、已登录账户的访问权限和加密货币钱包。由于命令由用户在终端直接执行，部分攻击可绕过杀毒软件和其他安全防护工具。\n\n安全公司 BlueVoyant 追踪到的 Lorem Ipsum 恶意软件也转向 ClickFix，该变化完全取消代码签名要求，攻击者不再依赖带有效签名的安装程序，而是诱导用户在自己的终端中执行恶意命令。\n\n同时，macOS 也出现可绕过 Gatekeeper 保护的 ClickFix 变体。Jamf 与另一名研究人员记录了这类手法。攻击者还开始利用公开 Google Sheets 文档等公共服务，承载或辅助攻击链。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T00:57:17.532Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

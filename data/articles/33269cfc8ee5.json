@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "33269cfc8ee5",
+    "title": "V 社推送 SteamOS 3.9.1 预览版更新：修复《极限竞速：地平线 6》启动崩溃问题等",
+    "url": "https://www.ithome.com/1/002/356.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/356.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，V 社今日向 Steam Deck 预览通道推送了 SteamOS 3.9.1 预览版更新，修复了多个系统问题，同时整合了 SteamOS 3.9 版本的多项新功能。\n\n官方提醒，该版本属于早期预览构建，可能存在未预期的 Bug 或稳定性问题，遇到问题可在 GitHub 的 SteamOS 问题跟踪页反馈。预览通道用户可通过“设置 > 系统 > 系统更新通道”切换至预览通道获取更新。\n\n修复在 Legion Go 2 上启动《极限竞速：地平线 6》时出现的系统崩溃问题\n\n修复部分外接显示器上帧限制设置导致实际 FPS 低于预期的问题\n\n修复搭载 RDNA1 或 RDNA2 独立 GPU 设备的挂起 / 恢复异常问题\n\n修复无缝启动中开机 logo 在 Steam 启动动画前消失的回归问题\n\n修复 Steam Deck 上罕见的风扇转速问题：该问题会导致风扇转速恢复为 BIOS 控制，转速高于正常水平，需重启才能修复\n\n修复了由 steamos-bootdebug 工具或链加载菜单触发的详细启动模式中，输出被 plymouth 隐藏的问题\n\n桌面模式从 Plasma 6.4.3 升级至 Plasma 6.7.3，可查看 KDE 官方公告了解更多更新内容（6.7.0、6.6.0、6.5.0）\n\n允许在设置中手动开启桌面模式锁屏（默认仍然关闭）\n\n全新安装默认将 WiFi 后端切换为 wpa_supplicant，提升对各类 WiFi 网络的兼容性；现有安装默认仍使用 iwd，可在开发者设置中手动切换\n\n增强 wpa_supplicant，支持睡眠唤醒后快速重连 WiFi，此前该功能仅在 iwd 后端可用\n\nLinux 内核重新基于 Linux 7.2 版本构建\n\n新增对休眠功能的初步支持，暂未在游戏模式 UI 中开放；增强内核休眠支持，允许中断休眠请求，修复多个驱动问题\n\n将多个脚本和包从 steamos- 前缀重命名为 holo-，保留旧名称别名以保证兼容性\n\n改进对带加速图形的 SteamOS 虚拟机运行支持（virtio-gpu、venus）\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T00:57:17.536Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

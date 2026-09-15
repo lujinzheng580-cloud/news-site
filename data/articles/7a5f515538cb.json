@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7a5f515538cb",
+    "title": "请更新：苹果 iOS / iPadOS 27 共修复 126 个安全漏洞，百度等团队参与贡献",
+    "url": "https://www.ithome.com/1/002/368.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/368.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，苹果公司今天（9 月 15 日）发布 iOS / iPadOS 27 安全公告，共计修复 126 个安全漏洞，其中包括多个涉及系统内核的高风险问题。\n\n在本次公开的漏洞中，IT之家附上来自中国开发者贡献的相关漏洞：\n\nIT之家查询公开资料，CK01 是安全研究员 Zhongcheng Li 使用的网名 / 署名；而 IES Red Team 是字节跳动（ByteDance）内部的安全攻防与漏洞研究团队。\n\n在本次修复的漏洞中，主要包含可导致内核权限执行、绕过沙盒 / 隐私授权、远程无线攻击，以及账户与凭据泄露的漏洞，对普通用户而言，建议尽快升级。\n\n其中最值得关注的漏洞是 CVE-2026-84607（AVEVideoEncoder），苹果称“沙盒化 App 可能以内核权限执行任意代码”。\n\n这意味着一个原本受 iOS 应用沙盒限制的恶意 App，理论上可能越过应用层权限边界，直接获得系统最高权限。\n\n此外 CVE-2026-84523（APFS）允许 App 导致系统终止或写入内核内存。此外 CVE-2026-43689 等多项 Kernel 漏洞可造成内核内存损坏、读取内核内存、泄露内核内存布局，甚至让恶意 App 获取 root 权限。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T00:57:17.533Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
