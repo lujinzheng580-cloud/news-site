@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9a48c718dd40",
+    "title": "WPS 多端支持 Markdown：新增源码与所见即所得模式，支持公式与 Mermaid 图表",
+    "url": "https://www.ithome.com/1/002/450.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/450.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，WPS 官方今日发文宣布，WPS 现已支持 Markdown 格式文档的编辑与预览。\n\n用户现在可在 WPS 中打开、编辑和保存 Markdown 文件。Windows、Mac 和 Web 端均支持该功能。\n\nIT之家注：Markdown 是一种轻量级标记语言，常以.md 为扩展名，可用纯文本编辑器打开。\n\nWPS 此次支持源码与“所见即所得”两种编辑模式。Mac 版需升级至 12.1.26050 及以上，Windows 版需升级至 12.1.0.28040 及以上。\n\n用户可通过三种方式打开.md 文件：在文件上点击右键并选择使用 WPS Office 打开；在 WPS 首页点击“打开”并找到对应文件；或将文件直接拖入首页。\n\n标题、强调、列表、引用、表格、图片、链接和代码块等常见 Markdown 内容，均支持在 PC 端和 Web 端编辑。早期小范围测试中呼声较高的公式、Mermaid 图表和源码模式已加入。\n\nWPS 还加入深色模式，该模式跟随 WPS 或金山文档宿主主题。文档右下角新增“效率指南”，可随开随关，供用户查询常用语法和快捷键。\n\nWPS 表示，支持 Markdown 与 AI 和 Agent 普及有关。AI 整理资料、生成报告或执行任务时，常直接生成或保存 Markdown 文件，越来越多普通用户因此遇到.md 文件，并在反馈中要求 WPS 支持该格式。\n\n在 AI 工作流中，用户无需另外安装编辑器，AI 生成的 Markdown 文件可直接用 WPS 打开、编辑，再发回 AI 处理。AI 更新文件后，WPS 内会同步提示更新。\n\nWPS 同时说明，双链、左右分栏对照、直接新建 Markdown 文件、导出为其他格式等功能尚未提供。WPS 称其中绝大部分功能已在排期中，并争取今年上线。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T06:04:11.152Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e7e09e061c25",
+    "title": "Slimbook 推出 CUBE 多功能 NAS，提供桌面与机架形态",
+    "url": "https://www.ithome.com/1/002/497.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/497.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，西班牙 Linux 兼容硬件制造商 Slimbook 当地时间 14 日宣布推出多功能电脑 CUBE。其支持存储、备份、私有云、媒体中心、个人服务器、家庭实验室等应用场景，面向家庭用户、开发者、Linux 爱好者、小型企业。\n\nCUBE 基于 AMD 锐龙 7 8845HS 处理器，提供桌面形态的 NAS CUBE 和 2U 机架形态的 RACK CUBE 两种形态，均提供 1 个 USB-C 40Gbps、3 个 USB-A 5Gbps、4 个 2.5GbE RJ-45，支持 Linux、Windows 和 TrueNAS。\n\n两种版本的 CUBE AMD 8845HS 均具备 2 个 PCIe Gen4 的 M.2 盘位，NAS CUBE 拥有 8 个 3.5\" 盘位、RACK CUBE 拥有 4 个 3.5\" 盘位，标配 16GB DDR5 内存、500GB SSD 存储，税后到手价 1,222 欧元（IT之家注：现汇率约合 9,487 元人民币）。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T06:04:11.149Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
