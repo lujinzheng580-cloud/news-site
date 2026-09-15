@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "cde1e93929ba",
+    "title": "PS3 模拟器 RPCS3 新增复古 Steam 风格主题",
+    "url": "https://www.ithome.com/1/002/777.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/777.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，据科技媒体 Notebookcheck 今天报道，PS3 模拟器 RPCS3 现已新增复古 Steam 风格主题。\n\n据介绍，该主题由 RPCS3 社区成员 FlexBy 制作，采用极具怀旧感的暗军绿色配色，以及信息密度较高的界面设计，模仿了旧版 Steam 商城页面。\n\n如果您想启用这款主题，请启动 RPCS3 程序，然后依次进入“配置 → GUI → UI Stylesheets”。在界面风格中选择“Old Steam by FlexBy”即可。\n\nIT之家了解到，RPCS3 目前可以运行绝大多数 PS3 游戏，甚至能够直接从 PS3 正版光盘中启动游戏。不过，RPCS3 目前还无法直接从 PS3 系统的 XMB 界面直接启动游戏，官方正在积极推进。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T16:46:55.589Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

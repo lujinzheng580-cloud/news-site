@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "666419adf9b2",
+    "title": "树莓派 Raspberry Pi OS 更新：新增程序坞、启动台",
+    "url": "https://www.ithome.com/1/002/761.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/761.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 15 日消息，据科技媒体 neowin 今天报道，树莓派 Raspberry Pi OS 操作系统近日迎来一系列可选更新，加入许多现代化功能，如程序坞、增强截图对话框等。\n\nIT之家从原报道获悉，本次更新可通过运行 sudo apt update 和 sudo apt full-upgrade 命令获取。完成升级后，传统桌面布局仍然会作为默认布局保留，用户需前往控制中心启用可选功能。\n\n本次更新最重要的变化是加入图标程序坞，可用于替代任务栏。同时系统还新增了图形化启动台、任务列表等。点击程序坞的树莓图标后，就会看到全新的启动台。\n\n据悉，该启动台会显示所有应用图标，默认以首字母顺序排列，用户可通过拖放形式重新调整顺序。左键点击图标即可打开应用，右键可打开上下文彩蛋。\n\n此外，该启动台还提供了搜索框，可以快速查找应用。用户也可使用键盘操作启动台，并按下回车键打开应用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-15T16:46:55.591Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
