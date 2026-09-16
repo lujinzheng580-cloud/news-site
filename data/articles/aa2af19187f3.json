@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "aa2af19187f3",
+    "title": "AIDA64 v8.40 正式版发布，合并对 AMD \"Zen 7\" 服务器处理器初步支持",
+    "url": "https://www.ithome.com/1/002/866.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/866.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 16 日消息，匈牙利软件开发商 FinalWire 当地时间昨日宣布为硬件诊断和基准测试工具 AIDA64 推出 v8.40 正式版本。\n\nIT之家注意到，这一版本扩展了对当前及即将推出的 AMD 平台的硬件支持：改进对 AMD \"Zen 6\" 微架构 EPYC（霄龙）处理器 \"Verano\" \"Verano-D\" 的支持、初步支持 AMD \"Zen 7\" 微架构 EPYC（霄龙）处理器。\n\n此外，其支持 ATKACPI 传感器，支持 Matrix Orbital 的 EVE3-29-IPS、EVE3-38-IPS、EVE4-104 三款小型 LCD 监控屏，可显示 AMD Radeon RX 9050 显卡的详细 GPU 信息。\n\n《备战 2028：AIDA64 测试版提供对 AMD \"Zen 7\" 服务器处理器初步支持》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-16T01:15:57.620Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

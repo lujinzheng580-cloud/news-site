@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ba85c63154c1",
+    "title": "OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型",
+    "url": "https://www.ithome.com/1/002/858.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/858.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 16 日消息，OpenAI 今日宣布，GPT-5.5 将于 10 月 14 日从 ChatGPT、ChatGPT Work 和 Codex 中下线，覆盖所有订阅方案。\n\nOpenAI 同时提醒，在 Codex 中使用 GPT-5.5 的用户应尽快切换至 GPT-5.6 Sol 或 GPT-6 Astra。\n\nOpenAI 表示，此次停用范围包含所有计划。对于仍依赖 GPT-5.5 的 Codex 用户，官方给出的可选替代模型为 GPT-5.6 Sol 和 GPT-6 Astra。\n\nIT之家此前报道，OpenAI 于今年 4 月 24 日宣布推出 GPT-5.5 模型，相比较 GPT-5.4 在完成相同任务的情况下减少词元（Token）消耗。\n\n《OpenAI 奥尔特曼谈 GPT-5.5 自主策划发布会：希望人类开发者为其祝酒，但它自己拒绝发表祝酒词》\n\n《OpenAI 最智能 AI 模型：GPT-5.5 登场，Token 成本降至 1/35、每兆瓦输出提升 50 倍》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-16T01:15:57.623Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

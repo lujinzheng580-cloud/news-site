@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3873cd2ac6fe",
+    "title": "Beta 版 Fedora Linux 45 推出：文本渲染更平滑、升级 GNOME 51/KDE Plasma 6.7",
+    "url": "https://www.ithome.com/1/002/865.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/865.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 16 日消息，Beta 版 Fedora Linux 45 昨日（9 月 15 日）发布，采用 Linux 内核 7.2，官方已提供工作站、KDE Plasma 桌面、服务器、云端与物联等版本下载和升级路径。正式版计划 10 月 20 日（备选日期为 10 月 27 日）发布。\n\n系统体验方面，Fedora 45 用 kmscon 取代了传统的内核帧缓冲控制台（fbcon），带来更平滑的文本渲染、更好的 Unicode / 字体支持以及更高的系统稳定性。\n\n安全方面，RPM 现在默认强制验证包签名，阻止未签名软件包被意外安装；同时对非特权用户的 ptrace 系统调用施加更严格限制，提升进程调试安全性。\n\n桌面环境方面，Fedora Workstation 默认搭载 GNOME 51（基于上游 GNOME 51 Beta），支持 Wayland 背景效果协议（可实现真正的动态背景模糊）等新特性。Fedora KDE 版本同步更新至 Plasma 6.7，带来更现代化的界面和性能优化。IT之家附上相关图片如下：\n\n在开发工具链和运行时方面，Fedora 45 升级大量开发工具版本：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-16T01:15:57.621Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
