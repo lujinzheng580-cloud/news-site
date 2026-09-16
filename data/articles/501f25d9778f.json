@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "501f25d9778f",
+    "title": "PS5 游戏机模拟器 KytyPS5 新进展：可运行《宇宙机器人无线控制器使用指南》",
+    "url": "https://www.ithome.com/1/003/195.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/195.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 16 日消息，索尼 PlayStation 5 游戏机模拟器 KytyPS5 近期引发广泛关注。这款使用 C++ 编写的开源模拟器当前处于早期阶段，但进展似乎非常迅速。如今，该模拟器已经可以运行 PS5 独占游戏《宇宙机器人无线控制器使用指南》（Astro's Playroom）。\n\n据IT之家了解，《宇宙机器人无线控制器使用指南》是一款免费游戏，所有非国行 PS5 均在出厂时预装。游戏内的各个关卡旨在展示 PS5 主机及 DualSense 手柄机能。\n\nYouTube 博主 Unreal Gaming 使用了 AMD 锐龙 7 9800X3D CPU、英伟达 RTX 4080 显卡来模拟运行这款游戏，从他发布的视频可以看到，本作已经可以正常进入主菜单并实际游玩，但帧率经常跌破 30 FPS，且部分特效存在拖慢现象。\n\n从目前的情况来看，KytyPS5 模拟器未来应该能持续取得进展，并运行更多游戏。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-16T12:09:09.112Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
