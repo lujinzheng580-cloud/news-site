@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c97d9a4addfb",
+    "title": "对抗 AI 伪造图片：苹果 iPhone 18 Pro/Max 引入像素级标注功能",
+    "url": "https://www.ithome.com/1/002/971.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/002/971.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 16 日消息，苹果公司昨日（9 月 15 日）发布博文，详细介绍了在 iPhone 18 Pro、iPhone 18 Pro Max 等机型上引入的 Apple Reference Image 功能，支持像素级标注真实图像数据。\n\nIT之家援引博文介绍，Apple Reference Image 是一种可选模式（Reference mode），在拍摄时对照片进行硬件级别的证明与时间戳绑定，确保图像来自真实传感器，防篡改并对抗 AI 伪造图片，适用于新闻机构与证据留存场景。\n\n在技术实现方面，用户拍摄快门按钮后，该系统会在 SEP（Secure Enclave Processor）签名关键元数据（如焦段、数字变焦等），形成不可伪造的“数字负片”信息。\n\n时间戳方面，系统提供拍摄的下界与上界时间戳，通过加密时间戳服务嵌入到参考图像中，确保图像的时间准确性与可验证性。\n\n在传感器层面完成签名后，苹果还会配合私有云服务（Private Cloud Compute）的验证链，确保在全链路中不可篡改，同时保护用户隐私不暴露个人信息。\n\n在使用场景方面，新闻机构、证据留存、需要可信图像来源的场景下，该功能可以对抗 AI 生成内容，提供“真实来源”的证据链。\n\n相比传统基于后期元数据的证据系统（通常在编辑后签名），Apple Reference Image 在拍摄时就进行硬件级别签名与时间戳绑定，理论上能更难被篡改并提升可信度。\n\nApple Reference Image: A New Approach for Verified Photography\n\n《证明照片不是 AI：苹果 iPhone 18 Pro 支持像素级标注真实图像数据，但又和国内无关》\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-16T06:36:12.796Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
