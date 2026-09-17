@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "47725e0245d4",
+    "title": "初探苹果 iOS 27“轻触即兑换”礼品卡体验：无需刮涂层，碰下即可查询",
+    "url": "https://www.ithome.com/1/003/361.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/361.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 17 日消息，开发者 David Anderson 今天（9 月 17 日）在领英（LinkedIn）平台发布动态，分享了一段视频，展示了在 iOS 27 系统中，苹果公司带来的全新 Apple Gift Card 兑换体验。\n\nIT之家曾于 9 月 10 日报道，外媒通过挖掘 iOS 27 RC 代码，发现苹果正准备为 Apple Gift Card 引入一种全新的兑换方式，用户买到礼品卡后（即苹果服务器确认有效后）直接将礼品卡贴靠在兼容的 iPhone 机身背面即可迅速完成兑换。\n\niOS 27 相关代码显示，Apple Gift Card 将配备安全芯片，iPhone 可通过扫描该芯片验证礼品卡是否真实，以及是否已被使用。从代码来看，新的兑换流程还包含“此卡已被封锁”和“此卡已被取消”等提示。\n\n而在帖子中，Anderson 进一步展示了 Apple Gift Card 的兑换动画，并介绍了背后的相关技术实现。\n\niPhone 17 等升级到 iOS 27 后，会通过 NFC Type 4 NDEF URL 识别 Apple Gift Card，随后使用专有通信协议，与卡片进行设置、身份验证和数据交换。卡片返回身份验证信息、随机数以及用于后端查询的哈希值。\n\n研究人员使用 JavaCard 小程序模拟了卡片协议，并通过本地代理测试了余额显示、兑换和确认页面。实际 NFC 轻触最终完成了签名、设备认证、状态查询和兑换流程。根据这些信息判断，它是一款运行苹果专用 ROM 的英飞凌 SLM 10/CIPURSEmove 类芯片。\n\n对于用户而言，消费者无需刮开涂层或输入 16 位代码，可能只需将 iPhone 靠近礼品卡即可查询和兑换。\n\n《打击礼品卡诈骗：苹果 iOS 27 最新代码曝光，买完卡碰一碰 iPhone 立马兑换》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-17T01:18:59.852Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ad56593e2a8f",
+    "title": "消息称英伟达 RTX 60 与 AMD RDNA 5 游戏显卡将推迟至 2028 年发布",
+    "url": "https://www.ithome.com/1/003/365.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/365.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 17 日消息，高准确度的爆料者 @Kepler_L2 昨日在 AnandTech 论坛上驳斥了 Moore's Law is Dead 所称“RTX 60 系列瞄准 2027 年上半年”的消息。\n\n他在回复网友时表示：AMD 计划在 2027 年先行推出部分 RDNA 5 产品，代号为“AT2”，具体型号尚未确定。AMD 和 NVIDIA 的其他所有产品都要等到 2028 年。\n\n这意味着，大家心心念念的 RTX 60 游戏显卡可能在 2027 年缺席，大部分 RTX 60（基于“Rubin”）与 Radeon RX 10000（基于 RDNA 5 架构）系列显卡预计要到 2028 年才会上市。\n\n他没有具体说明这款“AT2”是何定位，该 GPU 可能作为新旗舰先行登场，也可能以中端或入门定位打头阵。\n\n同样，英伟达此前规划的 RTX 50 SUPER 系列显卡也因 DRAM 供应紧张而陷入不确定。有观点认为 SUPER 版本已被完全取消，也有观点认为它将作为 RTX 60 问世前的过渡方案。\n\n供应链担忧，如果 DRAM 是英伟达 SUPER 系列被搁置的主要原因，那么 RTX 60 系列对显存的需求只会更大。\n\n摩根士丹利判断，通用 DRAM 合约价格将在 2026 年四季度触顶，但显卡所用的 GDDR 显存因与 HBM 共用产线，紧张状态会持续更久。\n\n慧荣科技高管此前表示，内存短缺问题甚至可能持续到 2028 年。IDC 数据显示，2026 年传统 DRAM 出货量预计仅增长 16%，远低于正常水平。在内存供应成为瓶颈的背景下，英伟达和 AMD 的新一代游戏 GPU 能否按传闻时间表推进，仍有待观察。IT之家后续将保持关注。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-17T01:18:59.851Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

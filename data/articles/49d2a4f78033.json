@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "49d2a4f78033",
+    "title": "苹果 watchOS 27 提高应用兼容性，要求支持 64 位架构",
+    "url": "https://www.ithome.com/1/003/350.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/350.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 17 日消息，科技媒体 macobserver 昨日（9 月 16 日）发布博文，报道称在 watchOS 27 系统中，苹果公司提高了应用兼容性要求，所有应用都必须支持 64 位架构。\n\n在公示方面，苹果公司为了改善运行性能，早在 2025 年 7 月 22 日通知开发者，从 2026 年 4 月起，上传至 App Store Connect 的 watchOS 应用必须包含 64 位支持。\n\nIT之家援引博文介绍，在 9 月 15 日发布的 watchOS 27 系统中，苹果公司已部署相关兼容性要求。如果用户升级系统后发现某个第三方应用不见，主要原因可能是开发者尚未提供 64 位版本。\n\n用户可在 iPhone 上打开 App Store，进入账户页面和“应用更新”，再单独更新相关应用或选择“全部更新”。在 Apple Watch 上，则需打开 App Store，进入“账户 — 更新”完成操作。\n\n对于开发者而言，应用不会因此永久下架，开发者完成更新后，应用会重新出现在 Apple Watch 上。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-17T01:18:59.854Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

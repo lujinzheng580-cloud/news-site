@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b9c6d894c6cc",
+    "title": "古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场",
+    "url": "https://www.ithome.com/1/003/379.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/379.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 17 日消息，针对科技媒体 The Information 昨日关于苹果服务器芯片报道，彭博社的马克 · 古尔曼（Mark Gurman）表示这颗服务器芯片可能基于 M7 系列开发，预估 2029 年发布，上市后会和英伟达竞争。\n\nIT之家昨日报道，苹果公司正筹划自研企业级服务器，采用自研 AI 芯片，产品目前考虑推出两个版本：基础版配备两颗计划中的 M8 Ultra 芯片，高配版则配备四颗。\n\n苹果考虑用英伟达的 NVLink Fusion 连接这些 M8 芯片。NVLink Fusion 包括交换机、芯粒和软件，能够让数据中心内的多颗芯片高速协同工作。如果这一方案最终落地，也会成为苹果与英伟达关系回暖的又一迹象。\n\n彭博社的马克 · 古尔曼今天在 X 平台转发推文并表示，认为苹果研发的自研服务器芯片可能基于 M7 Ultra，预估 2029 年发布。此外苹果还将推出一款新的 AI 服务器，预计于 2027 年初上线。\n\n《消息称苹果筹划重返服务器业务，高配版搭载 4 颗 M8 Ultra 芯片》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-17T01:18:59.846Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
