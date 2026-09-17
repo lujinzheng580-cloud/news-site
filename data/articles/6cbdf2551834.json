@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6cbdf2551834",
+    "title": "智谱 GLM 公开国内大模型首个递归自我改进实践：AI 在十万卡国产集群上自建推理系统",
+    "url": "https://www.ithome.com/1/003/705.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/705.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 17 日消息，今日，智谱 GLM 团队披露递归自我改进（Recursive Self‑Improvement，简称 RSI）方向首个工程化实践进展，也就是让 AI 自己动手改进自己的运行系统。\n\n具体来说，由 GLM-5.3 驱动的 Infra Agent 完成了 GLM-5.3-Flash 推理基础设施的设计、调试与优化，实现模型对自身运行系统的反向改进。\n\n据官方博客，Infra Agent 在超 10 万张国产芯片组成的集群上从零完成生产级推理服务搭建，不到两周将端到端吞吐提升至初始基线的 3 倍，硬件利用效率与单 Token 成本达到主流 NVIDIA GPU 相当水平。这套系统已投入真实使用，GLM-5.3-Flash 以匿名模型 Ox-Alpha 在 OpenCode、OpenRouter 上线，6 天 Token 调用量超过 62 万亿。\n\nIT之家注意到，这是国内大模型厂商首次公开将“AI 自我改进”用于生产环境，意味着 AI 不再只是写代码，还能参与整个推理系统的工程闭环。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-17T12:09:53.344Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
