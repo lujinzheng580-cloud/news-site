@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f1da2884e54e",
+    "title": "格里费：英伟达驱动支持是 Valve 首要任务之一，SteamOS 已能点亮部分 GPU",
+    "url": "https://www.ithome.com/1/003/572.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/572.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 17 日消息，在接受游戏媒体 IGN 采访时，Valve 软件开发人员皮埃尔-卢普 · 格里费（Pierre-Loup Griffais）表示已在 SteamOS 主开发树中启用英伟达驱动程序，部分 GPU 型号可初始化并显示图像。\n\nIT之家曾于今年 6 月报道，格里费接受 The Verge 采访时候透露 Valve 已和英伟达公司密切合作，且内部组建了相关团队，负责为 SteamOS 开发英伟达显卡驱动程序支持，且团队规模在不断扩大。\n\n在最新采访中，格里费表示 Valve 公司正在大力推进 NVIDIA 支持，并将其列为首要任务：\n\n这绝对是我们最优先考虑的事情之一。就像 FEX 和高通驱动程序开发一样，这需要数年时间。\n\n格里费表示 Valve 已在 SteamOS 主开发树中启用了 NVIDIA 驱动程序，让某些 NVIDIA GPU 型号能够在 SteamOS 下点亮并显示图像。然而，这只是让硬件按预期运行的第一步。\n\n格里费承认当前团队实现与最先进的 NVIDIA 驱动程序栈之间存在明显性能差距，团队正持续努力缩小这一差距，情况每天都在改善。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-17T06:34:37.571Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

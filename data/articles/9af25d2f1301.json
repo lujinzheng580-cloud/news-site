@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9af25d2f1301",
+    "title": "网友 AI 开发工具：让笔记本 RTX 5090 显卡冲上 250W，最高功耗增幅 42.9%",
+    "url": "https://www.ithome.com/1/003/566.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/566.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 17 日消息，网友 u/Ecstatic_Hamster2208 昨日（9 月 16 日）在 Reddit 社区发帖，分享了 1.8.0 版 NvpwrControl 工具，可以将笔记本 RTX 5090 最高调校到 250W。\n\nIT之家曾于 9 月 15 日报道，该网友借助 AI 开发 NvpwrControl 工具，成功突破笔记本版英伟达 RTX 5070 Ti 显卡的 140W 功耗限制，冲上 160W 后在 3DMark Steel Nomad 测试中取得 4,839 分。该分数比 Jarrod's Tech 在同一项目中测得的最快 RTX 5070 Ti 游戏本高 16%。\n\n在最新发布的帖子中，该网友更新推出 1.8.0 版 NvpwrControl，让笔记本 RTX 5070 Ti 显卡功耗提升到 180W，此外 RTX 5080 和 RTX 5090 显卡可以达到 250W。\n\nIT之家附上相关功耗增幅变化如下，需要注意的是使用该软件有一定风险，原作者明确提醒为实验性软件，使用风险自负。\n\n点击这里前往 GitHub 页面访问该项目\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-17T06:34:37.572Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
