@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 18 日消息，MiniMax 今晚宣布，MiniMax Code CLI 的 v0.4.12 版本面向全球开发者正式开放，并且以 MIT 协议正式开放源代码。\n\n据介绍，MiniMax Code CLI 是 MiniMax Code 客户端的核心组件。在基于 FrontierHarness Eval 的本轮评测中，取得了 76.7% 的任务通过率，成功任务耗时中位数为 4 分 33 秒，两项指标均优于报告所列公开基线。\n\n官方表示，希望通过开源，让开发者能够审视工具调用和权限处理，构建可靠的企业级应用。也让社区参与发现问题、贡献修复。让使用更放心，让安全机制在实际使用和审查中持续完善。\n\nGithub 源码：https://github.com/MiniMax-AI/minimax-code\n\n客户端下载：https://agent.minimax.cn/download\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-18T18:31:48.746Z",
+    "publishedAt": "2026-09-18T21:17:20.006Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
