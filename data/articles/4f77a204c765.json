@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4f77a204c765",
+    "title": "消息称英特尔酷睿 i5-14600K 处理器继任者配 16 核 24 线程",
+    "url": "https://www.ithome.com/1/003/905.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/905.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 18 日消息，科技媒体 videocardz 昨日（9 月 17 日）发布博文，报道称英特尔酷睿 i5-14600K 处理器继任者将升级配置，核心数量从 14 个升至 16 个，线程数由 20 个升至 24 个，功耗等级维持 125W。\n\n消息源 Jaykihn 表示英特尔正筹备一款 Raptor Lake Next 桌面处理器，用于替代 Core i5-14600K。该新品采用 8 个性能核心和 8 个能效核心，即 8P+8E 配置。其总核心数为 16 个，线程数为 24 个。\n\n现售酷睿 i5-14600K 采用 6 个性能核心和 8 个能效核心，该处理器拥有 14 个核心和 20 个线程，功耗等级为 125W。按披露配置计算，新品较 14600K 多出 2 个性能核心，线程数增加 4 个。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T01:14:37.626Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

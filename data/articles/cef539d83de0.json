@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "cef539d83de0",
+    "title": "部分用户反馈 YouTube 移动端应用出现重大 Bug，视频仅能以最高 480P 清晰度播放",
+    "url": "https://www.ithome.com/1/003/890.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/890.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 18 日消息，外媒 AndroidHeadlines 援引 Reddit 平台用户反馈，透露 YouTube 平台近期出现一项重大 Bug，导致部分用户只能以 480P 分辨率播放视频，无法选择更高画质。相应问题同时影响免费用户和 YouTube Premium 订阅用户。\n\nIT之家注意到，至少在一个月前就有用户报告出现此类问题，不过目前尚不清楚该 Bug 出现的具体原因，从现有反馈来看，问题主要出现在 YouTube 移动端应用中。一些用户声称清除应用缓存 / 卸载重装 App 后可以恢复更高分辨率；不过也有用户声称进行上述操作后仍然无效，视频播放选项中依然最高只有 480P 清晰度。\n\n由于目前没有能够 100% 解决的通用方案，受影响用户暂时只能等待谷歌从服务器或应用端进行修复，截至IT之家发稿，谷歌目前尚未正式确认这一问题。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T01:14:37.630Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

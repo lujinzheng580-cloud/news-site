@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "df70edf0f34a",
+    "title": "苹果 M5 Ultra 款 Mac Studio 性能再曝：Metal GPU 跑分较 M3 Ultra 快 56.2%",
+    "url": "https://www.ithome.com/1/003/912.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/912.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 18 日消息，苹果 M5 Ultra 款 Mac Studio 的 CPU 跑分亮相后，IT之家查询 GeekBench 平台，发现这款新品的 GPU 和 AI 相关跑分。\n\nGPU 方面，GeekBench 平台目前共有 4 条记录，其中 OpenCL 最高分为 216619 分，Metal 最高分为 360019 分。\n\nOpenCL 跑分是 Khronos 制定的跨平台异构并行计算标准，而 Metal 是苹果为其平台设计的低开销 API，允许应用更直接、高效地组织 GPU 命令和着色器工作，并提供与 Apple Silicon 统一图形 / 计算架构相配合的能力，所以 Metal 的跑分通常要高于 OpenCL。\n\nIT之家以 GeekBench Metal Benchmarks 成绩为准，对比苹果相关芯片成绩如下：\n\n以 GeekBench OpenCL Benchmarks 页面跑分为准，对比苹果相关芯片成绩如下：\n\nIT之家注：苹果官方并未发布 M4 Ultra 芯片，在 2026 年 8 月发布 M5 Ultra 时，明确将其与 M3 Ultra 作代际对比。\n\n此外，根据 GeekBench AI 跑分页面，苹果 M5 Ultra 的 Mac Studio 单精度成绩为 6770 分，半精度为 11225 分，量化成绩为 8383 分。由于这是 Core ML CPU 成绩，在 AI Benchmarks 页面中暂未发现 M3 Ultra 的成绩，因此这里暂不做对比。\n\nMac Studio 已于 8 月 27 日接受预购，将于 9 月 22 日发售：\n\nMac Studio（搭载 M5 Max 处理器）起售价为 19999 元，教育版售价为 18399 元。\n\nMac Studio（搭载 M5 Ultra 处理器）起售价为 46999 元人民币，教育版起售价为 43599 元人民币。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T01:14:37.625Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
