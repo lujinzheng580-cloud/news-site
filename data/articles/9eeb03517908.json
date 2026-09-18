@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9eeb03517908",
+    "title": "苹果详解 Safari 27 浏览器升级：解决阅读“乱跳”，修复 844 个问题",
+    "url": "https://www.ithome.com/1/004/056.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/056.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 18 日消息，苹果公司昨日（9 月 17 日）更新 WebKit 博文，详细介绍了 Safari 27 系统带来的诸多新功能 / 新特性，包括支持 MCP 协议，以及修复 844 个问题等。\n\n对于开发者而言，Safari 27 浏览器最主要变化在于新增支持 MCP（Model Context Protocol）服务器支持，让 Claude Code、Codex 等 AI 工具能够控制浏览器窗口，读取 DOM 结构、网络请求、屏幕截图和控制台输出，从而帮助开发者更快地调试网站。\n\n对于用户而言，Safari 27 新增滚动锚定（Scroll Anchoring）功能，当用户正在读文章时，页面上方延迟加载的图片、广告、评论或推荐模块，不会再把正在看的段落往下推。\n\n许多网站会在用户阅读或浏览内容时向页面注入新内容。这些新内容通常会出现在用户当前视线上方，例如图片、广告或评论。过去这会导致用户正在阅读的内容突然被向下推移，造成页面跳转到随机位置，令人感到困惑。\n\n现在 Safari 27.0 支持滚动锚定，它会调整滚动位置，让内容保持在插入内容之前的位置。滚动锚点由 CSS 属性 overflow-anchor 控制，默认值为 auto。如果开发者有特殊需求需要禁用滚动锚点，可以使用 overflow-anchor: none。\n\n在实际场景中，用户在浏览新闻、论坛、长篇博客、带广告的网站时，在启用该功能后，不会再出现读到一半，页面忽然“跳”到别处的体验问题。\n\n在 Bug 修复方面，苹果表示在 WWDC 2026 活动中，官方为 Safari 27.0 修复了 525 个问题，而在博文中，苹果公司宣布 Safari 27.0 最终修复 844 个问题，增幅 60.76%。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T06:02:08.431Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

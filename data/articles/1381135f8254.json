@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1381135f8254",
+    "title": "智谱 GLM-5.3-FlashX 模型上线，更快、更流畅",
+    "url": "https://www.ithome.com/1/004/061.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/061.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 18 日消息，智谱今日宣布推出 GLM-5.3-FlashX（最高 200 tokens/s），为企业与开发者带来更快、更流畅的模型体验。\n\n智谱官方表示，GLM-5.3-Flash 此前以“Ox Alpha”之名与全球开发者见面，获得海内外开发者的广泛认可，调用量持续攀升。面对快速增长的需求，智谱在 10 万张国产芯片提供的推理算力基础上，进一步加大对 Infra 侧的投入与推理优化。GLM-5.3-Flash 长期保持同尺寸最强智能水平，本次提速进一步形成智能、价格、速度的全面竞争力。\n\nGLM-5.3-FlashX API 现已上线，Model Key：GLM-5.3-FlashX。\n\n价格方面，GLM-5.3-FlashX 相比 GLM-5.3-Flash 更贵一些：\n\nhttps://docs.bigmodel.cn/api-reference/模型-api/对话补全\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T06:02:08.430Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

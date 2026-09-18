@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "47428154935d",
+    "title": "苹果 iPadOS 27.2 Beta 1 新特性：连接触控板后选中文本可悬停唤出 Siri",
+    "url": "https://www.ithome.com/1/003/951.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/003/951.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 18 日消息，科技媒体 9to5mac 昨日（9 月 17 日）发布博文，报道称在 iPadOS 27.2 Beta 1 更新中，苹果公司将 macOS 27 Golden Gate 的文本选中 Siri 浮窗带至 iPad。\n\n该功能需配合触控板使用。触控板连接 iPad 后，用户将光标悬停于 Siri 图标，即可展开“询问 Siri”文本输入框，并直接输入问题。IT之家附上相关图片如下：\n\n未连接触控板的 iPad 用户，选中文本后仍会看到完整编辑菜单。用户可在编辑菜单中点按 Siri 选项，以打开 Siri 并发起请求。\n\n在 macOS 27 Golden Gate 中，类似交互已可用于多种文本选择场景。Siri 图标默认以较小尺寸显示，悬停后才展开输入框。\n\n除文本选中入口外，iPad 支持多种 Siri 调用方式。用户可说出“Siri”或“嘿 Siri”，从屏幕顶部下拉，打开独立 Siri 应用，或通过 Command 加空格启动聚焦搜索（Spotlight）后向 Siri 提问。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T06:02:08.435Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
