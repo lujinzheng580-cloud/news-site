@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "272d3f23e5aa",
+    "title": "苹果发布 Xcode 27.1 首个测试版，为 iOS App 开发者带来 iPhone Duo 模拟器支持",
+    "url": "https://www.ithome.com/1/004/348.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/348.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 19 日消息，苹果今日发布 Xcode 27.1 首个测试版，为开发者带来对 iPhone Duo 的模拟器支持。\n\nXcode 27.1 的发布符合苹果此前承诺在 9 月底前推出相关开发工具的目标。对于大多数应用而言，要针对 iPhone Duo 做好适配和优化，预计需要数周甚至更长时间，因此开发者能够提前获得相关工具尤为重要。\n\nXcode 27.1 要求在运行 macOS 26.6 或更高版本的 Apple 芯片 Mac 上使用，同时加入针对 iPhone Duo 更新的 SDK，相应设备模拟器支持调整开合姿态和屏幕方向，方便开发者测试和适配应用。\n\n苹果此前透露，iPhone Duo 将首发搭载专为该机设计的 iOS 27.1，之后才会在后续版本中与其他 iPhone 机型的系统版本同步。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T23:32:25.796Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

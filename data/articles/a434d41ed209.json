@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a434d41ed209",
+    "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
+    "url": "https://www.ithome.com/1/004/351.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/351.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 19 日消息，Anthropic 公司 Claude Code 团队工程师萨里克 · 希希帕尔（Thariq Shihipar，网名 @trq212）在 X 平台发布推文，宣布在今天（9 月 19 日）发布的 2.1.277 版本 Claude Code 中添加支持 AGENTS.md。\n\n从今天发布的 2.1.277 版本开始，如果文件夹中没有 CLAUDE.md，Claude 将检查并使用 AGENTS.md。\n\n用户可以在 /config 中切换此行为。\n\nCLAUDE.md 是 Claude Code 特有的工作流、MCP、Sub-agent 或命令配置；而 AGENTS.md 的目标是让不同工具共享项目级基础规则，可视为所有 AI 都应该遵守的通用规则。\n\n对于普通用户或者开发者而言，AGENTS.md 可以降低工具切换成本和配置成本，而 Claude Code 本次支持，不管用户使用哪个 AI 编程工具，项目都可以有一份统一的“给 AI 看的使用说明”，换工具、接手项目和参与开源时，不必重新配置。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T23:32:25.795Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
