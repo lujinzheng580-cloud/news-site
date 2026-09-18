@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2b2ddac34cfa",
+    "title": "全面追赶 OpenAI，消息称 Anthropic 计划在今年年底前拥有约 5 吉瓦可用算力、明年年底翻倍",
+    "url": "https://www.ithome.com/1/004/322.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/322.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 18 日消息，在争夺顶尖模型性能的较量中，OpenAI 与 Anthropic 的竞争已进入白热化阶段。而这场较量的核心，正是训练与部署这些模型不可或缺的基础设施 —— 算力。\n\n据纽约时报消息，过去几年里，OpenAI 在可用算力规模上始终占据领跑地位。据知情人士透露，截至去年，Anthropic 在可用算力储备上仍处于下风，其规模约为 1.5 吉瓦（GW），而 OpenAI 则已达到约 2 吉瓦。\n\n消息称 Anthropic 已经制定了全面的追赶计划。多位知情人士表示，该 AI 实验室已告知投资者，计划在今年年底前储备约 5 吉瓦规模的可用算力，并预计到明年年底将这一容量再度翻倍。\n\n而据掌握 OpenAI 内部预估数据的人士称，这一节奏已与 OpenAI 的扩容路径大体持平 —— 后者同样计划在今年达到约 5 吉瓦的算力规模，并在明年拓展至约 10 吉瓦。\n\nIT之家注意到，在巨额算力支出的态度上，Anthropic 也一改此前的审慎立场。Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）去年曾暗讽未具名的竞争对手：“我认为业内某些参与者行事过于激进、不计后果，把风险敞口拉得太满了。我对此深感忧虑。”这番言论被广泛视为在含蓄敲打 OpenAI，后者当时正因挥金如土的算力开销而备受舆论审视。\n\n《消息称 Anthropic 和 OpenAI 正寻求规模较小的数据中心交易，争夺 AI 算力部署能力》\n\n《距离 AI 造 AI 还有多远？Anthropic Claude 已主导 26% 内部 AI 研发工作》\n\n《消息称 Anthropic 算力布局首度落子澳大利亚，将租赁 2.16GW 数据中心园区》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-18T15:06:33.884Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
