@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c0c73cddaf51",
+    "title": "Valve 将 Steam Frame 安卓兼容层 Lepton 开源",
+    "url": "https://www.ithome.com/1/004/431.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/431.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 19 日消息，在 Steam Frame 正式发布后，Valve 已将其兼容层 Lepton 开源（用于让 Steam Frame 运行 Android 游戏）。\n\n该项目于 2026 年 3 月正式公布，Valve 当时还披露了 Steam Frame Verified 计划的相关要求。\n\n目前，Lepton 托管在 Valve 的 GitLab 仓库中，Valve 在仓库中说明了该工具的基础以及它与 Android 本身的不同之处。\n\nValve 表示，Lepton 旨在帮助游戏开发者将 VR Android 游戏带到 Steam Frame，其他用途也有可能，但并非开发重点，可能不够完善。\n\nIT之家注意到，该项目使用了 Waydroid、Anbox、Halium 和 Hybris 的组件，将 Valve 自有代码与 AOSP 的部分内容结合，并挂载宿主系统库，包括图形驱动、Steam 库和 Vulkan 层，同时去除 Android 的部分冗余以提高效率。\n\nLepton 开源对 Steam Frame 以及 SteamOS 上的游戏具有多方面影响。开源开发者可能直接使用 Lepton 的代码，或借鉴 Valve 的实现方式加以修改，以用于不同应用，甚至将其分叉为其他形式，以添加功能、精简或优化，类似 CachyOS-Proton 和 Proton-GE 的情况。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-19T06:41:11.648Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

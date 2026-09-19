@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9e81e605f4b2",
+    "title": "Ubuntu 26.10 确认改用 Linux 7.3 内核：原计划为 Linux 7.2，预计 10 月 15 日正式发布",
+    "url": "https://www.ithome.com/1/004/427.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/427.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 19 日消息，据 Phoronix 今日报道，Canonical 内核团队确认 Ubuntu 26.10 原计划搭载 Linux 7.2 内核，现改为 Linux 7.3。\n\nCanonical 表示，此次调整与上游 Linux 内核开发进度顺利有关，同时可以让 Ubuntu 26.10 获得更新的硬件支持。\n\nCanonical 内核团队此前于 2026 年 5 月宣布，Ubuntu 26.10 将采用 Linux 7.2 内核。不过，随着 Linux 7.1 和 7.2 开发周期均未出现延期，Linux 7.3 也已经进入候选版本阶段，团队因此重新评估了内核目标。\n\nCanonical 表示，将 Ubuntu 26.10 的目标内核从 Linux 7.2 提升至 Linux 7.3，可以继续与上游项目保持同步，并获得更新的硬件支持。团队当时已经开始基于 Linux 7.3-rc1 启用 Ubuntu 特有功能，并计划将相关版本放入“proposed”软件仓库供用户提前测试。\n\n目前，Linux 7.3 已经从 Ubuntu 26.10 的“proposed”仓库逐步进入正式开发仓库。Canonical 预计将在下周发布 Ubuntu 26.10 Beta 版本，而 Linux 7.3 也将成为该版本测试阶段的重要组成部分。\n\n按照目前的发布计划，Ubuntu 26.10 定于 2026 年 10 月 15 日正式发布，内核冻结时间为 10 月 1 日。这意味着在正式版 ISO 制作阶段，Ubuntu 26.10 可能采用尚处于预发布状态的 Linux 7.3 内核。\n\n参考IT之家此前报道，Linux 7.3 上游版本预计于 10 月 18 日正式发布。如果开发过程中需要额外的候选版本，其正式发布时间可能推迟至 10 月 25 日。由于 Ubuntu 26.10 并非长期支持（LTS）版本，Canonical 此次选择继续追随较新的上游内核版本。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-19T06:41:11.649Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

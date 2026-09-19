@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "be4076250ff0",
+    "title": "初创公司 Soulart 推出 Station VR 基站全身追踪设备：利用机器学习实现动捕，单台售价低于 400 美元",
+    "url": "https://www.ithome.com/1/004/410.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/410.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 19 日消息，韩国初创公司 Soulart 宣布为 VR 平台推出一款名为 Station 的基站全身追踪设备，号称采用 NPU 在本地完成身体动作识别，单台售价低于 400 美元，但目前产品仍处于早期阶段，实际售价和追踪效果还有待进一步验证。\n\n具体来看，Station 最大的特点是采用单基站设计，其本质上就是一个摄像头（整体风格类似 Kinect），利用机器学习进行动作识别，用户无需佩戴任何传感器即可进行全身追踪，单台设备的覆盖范围最高可达 50 平方米，追踪刷新率最高 120Hz。\n\nSoulart 表示，尽管用户购买单台 Station 即可进行全身动捕，但如果用户同时购买多台设备能够获得更好的追踪效果，这意味着想要实现更稳定、完整的全身追踪，用户可能需要购买两台甚至三台设备，当然整体成本也会随之增加。\n\n值得关注的是，Soulart 还确认正在开发针对 V 社 Steam Frame 的独立运行支持，并已在 X 平台公布相关计划。如果最终实现，Station 将进一步摆脱电脑依赖，允许用户在头显一体机模式下以全身追踪游玩各种游戏。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-19T06:41:11.653Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
