@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "36d3471743f3",
+    "title": "CDPR 介绍《巫师 4》弃用 REDengine 引擎转投虚幻 5 真实原因：《赛博朋克 2077》并非主由",
+    "url": "https://www.ithome.com/1/004/379.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/379.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 19 日消息，CD Projekt Red 联合首席执行官 Michał Nowakowski 在接受 Deconstructor of Fun 播客采访时，透露《巫师 4》从自研 REDengine 转向虚幻引擎 5（Unreal Engine 5），并非主要因为《赛博朋克 2077》首发阶段的事故。\n\nNowakowski 表示，虽然《赛博朋克 2077》的开发经历确实影响了工作室对技术路线的思考，但真正促使 CDPR 提前评估虚幻 5 的契机，是 Epic Games 此前展示的《黑客帝国：觉醒（The Matrix Awakens）》技术演示。\n\n事实上，在 CDPR 获得相应技术演示副本后，便开始评估虚幻引擎 5 是否已经能够支撑类似《巫师》系列的大型游戏开发。尽管虚幻引擎 5 在当时还没有达到开箱即用的程度，但 CDPR 认为，如果与 Epic 建立合作关系，并针对自身需求对引擎进行一定程度的调整，那么虚幻 5 就有可能满足工作室的开发需求。\n\n随后，CDPR 与 Epic Games 展开战略合作，双方共同推进虚幻 5 相关技术，而去年 State of Unreal 大会上展示的《巫师 4》虚幻 5 技术演示，正是这一合作关系的成果之一。\n\nNowakowski 还表示，CDPR 一直不希望成为一家“技术公司”。他指出，公司的目标从来不是自行打造底层技术，而是利用技术制作游戏。通过与 Epic 合作，CDPR 如今可以直接参与虚幻引擎核心技术的开发，并深入引擎底层进行调整。Nowakowski 认为，这将帮助工作室在未来开发更多游戏，而不必每次都从头构建一套完整的游戏技术栈。\n\n作为参考，《巫师 2》《巫师 3》以及《赛博朋克 2077》均采用 CDPR 自研 REDengine 开发，而《巫师 4》则全面转向虚幻引擎 5。目前 CDPR 仍以 2028 年作为《巫师 4》的目标发行窗口，但公司此前已经强调这一时间点并非最终确定的发布日期。双方此次合作的实际效果，仍需等到游戏正式发售后才能得到验证。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-19T01:39:21.133Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
