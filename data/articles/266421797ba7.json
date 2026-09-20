@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "266421797ba7",
+    "title": "微软紧急发布补丁，修复 Win11/Win10 系统 Defender 报停用 Bug",
+    "url": "https://www.ithome.com/1/004/583.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/583.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 20 日消息，据科技媒体 Windows Latest 昨天报道，微软本周发布紧急补丁，修复 Win11 和 Win10 持续近两个月的“Microsoft Defender 已停用”错误提示。\n\n据报道，该问题最早出现于今年 8 月初。部分用户的 Windows 安全中心会频繁弹出推送通知，称 Microsoft Defender 已停用并要求重新开启。然而当用户真正打开安全中心后才发现，防护功能一直都是正常开着的。\n\n微软表示，该误报问题影响了 Windows 11、Windows 10 和 Windows Server 所有版本。该问题已在 9 月 17 日发布的 Microsoft Defender Antivirus 更新（IT之家注：版本 4.18.26080.4）得到解决。\n\n理论上该更新会自动安装。如果你不放心 Defender 是否正常运行，可以打开 Windows 安全中心，然后检查最近一次扫描时间是否在最近。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-20T00:19:13.942Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

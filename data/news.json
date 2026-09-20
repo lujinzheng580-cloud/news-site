@@ -2,193 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "2f35f46a53da",
-      "title": "奇瑞捷豹路虎神行者 8 开启交付：华为乾崑智驾 ADS 5，28.99 万元起",
-      "url": "https://www.ithome.com/1/004/471.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.780Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "97e53afdfb2e",
-      "title": "长安汽车张晓宇：2027 年 L3 级自动驾驶将实现量产，2028 年 L4 级开始商业化运营",
-      "url": "https://www.ithome.com/1/004/472.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.780Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5887268e1360",
-      "title": "交通运输部徐剑：规模化落地干线自动驾驶，有望降低超九成事故率",
-      "url": "https://www.ithome.com/1/004/473.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.779Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "62351a66250c",
-      "title": "荣耀 HONOR Life 墨水屏官宣，9 月 28 日亮相",
-      "url": "https://www.ithome.com/1/004/474.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.779Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "211cb968cef0",
-      "title": "一处“毫秒级”软件故障，导致英国多地机场上周突遭瘫痪、逾 2000 架次航班取消",
-      "url": "https://www.ithome.com/1/004/475.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.779Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3707a3c6aa6d",
-      "title": "“西贝被曝将彻底倒闭”登上热搜，客服回应称目前全国门店均正常运营、恳请大家理性看待网络信息",
-      "url": "https://www.ithome.com/1/004/477.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.779Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1c0f33fdf44a",
-      "title": "百度地图张朝远：两轮车用户对地图需求排在 TOP3，如果一辆两轮车没有地图导航能力，很难说它是真的智能",
-      "url": "https://www.ithome.com/1/004/478.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.778Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "49a1b785924b",
-      "title": "丰田估算自 2028 年起，工厂自动化改造年均投入或达 1 万亿日元",
-      "url": "https://www.ithome.com/1/004/479.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.778Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "791fa03acc92",
-      "title": "1 至 8 月全国铁路发送旅客 33.2 亿人次：同比增长 3.9%，创历史同期新高",
-      "url": "https://www.ithome.com/1/004/480.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.778Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b221ab545dc9",
-      "title": "加州州长签署行政令，要求专家组建立 AI“紧急停止”机制",
-      "url": "https://www.ithome.com/1/004/481.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.778Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ebec1731f77f",
-      "title": "我国完成“地星三号”卧床实验，为太空长期驻留和载人登月任务提供技术支持",
-      "url": "https://www.ithome.com/1/004/482.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.778Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "18d6ad5feabb",
-      "title": "全球首个低倾角遥感卫星星座“五羊星座”先导 A 星出征",
-      "url": "https://www.ithome.com/1/004/484.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.777Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "34bc44d2177c",
-      "title": "赛力斯科技总裁刘宗成：汽车产业最大的风险不是慢，而是“速成”",
-      "url": "https://www.ithome.com/1/004/485.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.777Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "03c2b6409921",
-      "title": "中国飞行汽车企业首次入驻阿联酋国家级官方监管沙盒，小鹏汇天与阿联酋战略合作启动",
-      "url": "https://www.ithome.com/1/004/486.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.777Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5edc780cba5c",
-      "title": "DeepSeek：调休上班的周末、中国法定节假日全天均按空闲时段计费",
-      "url": "https://www.ithome.com/1/004/494.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.777Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "418ecd12df92",
-      "title": "微软 AI CEO 苏莱曼：我们不应创造自己无法控制的东西",
-      "url": "https://www.ithome.com/1/004/507.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.776Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "08d53bc116a3",
-      "title": "AI 演员接受英文采访时突然说粤语，制作公司回应称不是故障",
-      "url": "https://www.ithome.com/1/004/524.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.776Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "fce540d282a0",
       "title": "中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B",
       "url": "https://www.ithome.com/1/004/530.htm",
@@ -196,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.776Z",
+      "publishedAt": "2026-09-20T00:19:13.951Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.776Z",
+      "publishedAt": "2026-09-20T00:19:13.951Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.775Z",
+      "publishedAt": "2026-09-20T00:19:13.950Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +42,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.775Z",
+      "publishedAt": "2026-09-20T00:19:13.950Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +53,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.775Z",
+      "publishedAt": "2026-09-20T00:19:13.950Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.775Z",
+      "publishedAt": "2026-09-20T00:19:13.949Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.774Z",
+      "publishedAt": "2026-09-20T00:19:13.949Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.774Z",
+      "publishedAt": "2026-09-20T00:19:13.949Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.774Z",
+      "publishedAt": "2026-09-20T00:19:13.948Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.774Z",
+      "publishedAt": "2026-09-20T00:19:13.948Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.773Z",
+      "publishedAt": "2026-09-20T00:19:13.948Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.773Z",
+      "publishedAt": "2026-09-20T00:19:13.948Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.773Z",
+      "publishedAt": "2026-09-20T00:19:13.947Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.772Z",
+      "publishedAt": "2026-09-20T00:19:13.947Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.772Z",
+      "publishedAt": "2026-09-20T00:19:13.947Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +174,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.772Z",
+      "publishedAt": "2026-09-20T00:19:13.947Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +185,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.772Z",
+      "publishedAt": "2026-09-20T00:19:13.947Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.771Z",
+      "publishedAt": "2026-09-20T00:19:13.946Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.771Z",
+      "publishedAt": "2026-09-20T00:19:13.946Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.771Z",
+      "publishedAt": "2026-09-20T00:19:13.946Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.770Z",
+      "publishedAt": "2026-09-20T00:19:13.946Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.770Z",
+      "publishedAt": "2026-09-20T00:19:13.945Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +251,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.770Z",
+      "publishedAt": "2026-09-20T00:19:13.945Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.769Z",
+      "publishedAt": "2026-09-20T00:19:13.945Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +273,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.768Z",
+      "publishedAt": "2026-09-20T00:19:13.945Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +284,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.768Z",
+      "publishedAt": "2026-09-20T00:19:13.944Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,29 +295,260 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:34.767Z",
+      "publishedAt": "2026-09-20T00:19:13.944Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "573e6d10e017",
-      "title": "亚运会开幕式",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F",
-      "source": "baidu",
+      "id": "07be5b00d480",
+      "title": "HBO Max 官方 Reddit 账号遭黑客入侵，针对苹果 Mac 用户发起 ClickFix 钓鱼攻击",
+      "url": "https://www.ithome.com/1/004/574.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.944Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7769310911c9",
+      "title": "R 星《GTA6: The Album》官方原声专辑上线，官方同步放出多张全新艺术插画",
+      "url": "https://www.ithome.com/1/004/575.htm",
+      "source": "ithome",
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:13.944Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e7feb3c5a7a3",
+      "title": "苹果 M6 芯片 GPU 跑分曝光，相比 M5 提升约 20%",
+      "url": "https://www.ithome.com/1/004/576.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.944Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "06ad3428f5e7",
+      "title": "Monet Launcher 启动器发布，专门面向 Android TV 智能电视大屏环境优化",
+      "url": "https://www.ithome.com/1/004/577.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.943Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0394a672ed78",
+      "title": "燃油价格创历史新高后，美国车主对电动汽车兴趣大增",
+      "url": "https://www.ithome.com/1/004/578.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.943Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b8bc47942c79",
+      "title": "分析师：苹果“拆分 iPhone 18 发布节奏”策略已奏效，部分用户转购 Pro 机型",
+      "url": "https://www.ithome.com/1/004/579.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.943Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "779952cb3fe9",
+      "title": "小米折叠屏手机历史最高：消息称 Xiaomi 18 Fold 开售 7 天销量近 8 万台",
+      "url": "https://www.ithome.com/1/004/580.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.943Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f226f3bbfe7a",
+      "title": "游戏《漫威金刚狼》厕所标识贴图异常引发玩家争议，官方否认使用生成式 AI",
+      "url": "https://www.ithome.com/1/004/581.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.942Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2c86048e0d9c",
+      "title": "苹果 iPhone 18 Pro DXOMARK 影像测试结果出炉：总分 172 位列全球第二，仅次华为 Pura 80 Ultra",
+      "url": "https://www.ithome.com/1/004/582.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.942Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "266421797ba7",
+      "title": "微软紧急发布补丁，修复 Win11/Win10 系统 Defender 报停用 Bug",
+      "url": "https://www.ithome.com/1/004/583.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.942Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4ff9da1a64cf",
+      "title": "37 位浙江渔民自筹 1.5 亿建造：国内首艘民资科考船投用在即，“海鹰加科”号开启试航",
+      "url": "https://www.ithome.com/1/004/584.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.941Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0f3fcd2ddefb",
+      "title": "Olight 推出 ArkTac 系列专业手电筒：至高提供 1800 流明亮度、内置紫外线灯 / 绿色激光功能",
+      "url": "https://www.ithome.com/1/004/585.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.941Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "66649db2658e",
+      "title": "雷克萨斯 RX 中期改款车型渲染图曝光：外观内饰焕新，顶配 Morizo RR 有望达 600 马力",
+      "url": "https://www.ithome.com/1/004/586.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.941Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f513a149d26f",
+      "title": "Steam Frame 头显首个 SteamOS 更新上线：提升充电速度、增强手柄追踪效果",
+      "url": "https://www.ithome.com/1/004/587.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.940Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6ab2ed95b32d",
+      "title": "南非被奉为“圣泉”的天然泉水检出人类微塑料污染，最高浓度达每升 48 个颗粒",
+      "url": "https://www.ithome.com/1/004/588.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.940Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b96811e9256f",
+      "title": "IT早报 0920：苹果 CEO 特努斯称 iPhone Duo 是乔布斯理念体现；专家解读一体化电视；客服辟谣“西贝将倒闭”；苹果睡眠呼吸暂停软件获国家药监局批准...",
+      "url": "https://www.ithome.com/1/004/589.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.940Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a14b03d0df50",
+      "title": "小米 18 Fold 中折叠手机维修备件价出炉：内屏 3600 元起、主板 3900 元起",
+      "url": "https://www.ithome.com/1/004/590.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.939Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c7336226343a",
+      "title": "2026 东京电玩展《GTA6》T 恤游戏赠品遭抢领转售，现场一度停发",
+      "url": "https://www.ithome.com/1/004/591.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.939Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "858ee673e8dd",
+      "title": "俄罗斯“进步 MS-35”货运飞船与国际空间站对接，将送去超 2.4 吨货物",
+      "url": "https://www.ithome.com/1/004/592.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.938Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5780462a2507",
+      "title": "《怪物猎人：荒野》制作人辻本良三谈游戏首发期间性能问题：同时登陆 PC 与主机是最大挑战，但从未后悔",
+      "url": "https://www.ithome.com/1/004/593.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.938Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e26af1f9aa34",
+      "title": "用户抱怨 Meta 旗下 AI 助手 Muse 未经授权读取 Mac 通知内容，官方予以否认",
+      "url": "https://www.ithome.com/1/004/594.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:13.937Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7d5e69209047",
+      "title": "中国体育代表团入场观众哇声一片",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA%E8%A7%82%E4%BC%97%E5%93%87%E5%A3%B0%E4%B8%80%E7%89%87",
+      "source": "baidu",
+      "category": "general",
+      "summary": "9月19日，名古屋亚运会开幕式，当中国体育代表团入场时，观众席“哇”声一片！",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:21.953Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "5fbdf04d913b",
-      "title": "传统豪车集体降价续命",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%A0%E7%BB%9F%E8%B1%AA%E8%BD%A6%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD",
+      "id": "f7cab5b26728",
+      "title": "央视曝光回流药黑色产业链",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%9B%9E%E6%B5%81%E8%8D%AF%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE",
       "source": "baidu",
       "category": "general",
-      "summary": "目前，传统豪车正集体降价续命，沃尔沃S90终端价从40万跌至22万，降价后8月销量环比7月暴涨3倍。分析指出，奥迪A6L跌破26万、林肯降至15万，但低价换不来品牌原价信任。降价虽能短暂促单，却难掩车机老旧、智驾落后的短板，传统豪车价格体系正在瓦解。",
+      "summary": "今年1月，国家医保系统捕获异常线索，央视记者跟查曝光“回流药”黑色产业链。此前，药贩子诱导参保人低价倒卖医保药品，甚至伪造票据“洗白”药品来源。目前，国家医保局依托追溯码大数据精准打击，2025年以来已查处违规机构6.2万家，涉案超30亿元。",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:21.953Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -515,7 +559,51 @@
       "category": "general",
       "summary": "18日，国务院常务会议研究推动体育赛事健康发展有关工作。会议指出，要增加高质量体育赛事供给，推动体育赛事与文化、旅游、商务等融合发展，放大综合效应。",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:21.953Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d86d64cda575",
+      "title": "张雪挑染头发嘴硬称老了白了",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%8C%91%E6%9F%93%E5%A4%B4%E5%8F%91%E5%98%B4%E7%A1%AC%E7%A7%B0%E8%80%81%E4%BA%86%E7%99%BD%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，重庆摩博会上，机车品牌创始人张雪被问及白发，嘴硬称“老了，白了”，网友扒出实为9月7日专门在新疆做的白色挑染。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "30f8b327cb12",
+      "title": "闰秒制度可能将被提前废除",
+      "url": "https://www.baidu.com/s?wd=%E9%97%B0%E7%A7%92%E5%88%B6%E5%BA%A6%E5%8F%AF%E8%83%BD%E5%B0%86%E8%A2%AB%E6%8F%90%E5%89%8D%E5%BA%9F%E9%99%A4",
+      "source": "baidu",
+      "category": "general",
+      "summary": "想象你的电脑右下角时间走到23:59:59。下一秒，屏幕突然跳出23:59:60，这诡异的时间就是闰秒。今年10月，在法国巴黎召开的国际计量大会将投票表决一份取消闰秒的提案。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "5fbdf04d913b",
+      "title": "传统豪车集体降价续命",
+      "url": "https://www.baidu.com/s?wd=%E4%BC%A0%E7%BB%9F%E8%B1%AA%E8%BD%A6%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD",
+      "source": "baidu",
+      "category": "general",
+      "summary": "目前，传统豪车正集体降价续命，沃尔沃S90终端价从40万跌至22万，降价后8月销量环比7月暴涨3倍。分析指出，奥迪A6L跌破26万、林肯降至15万，但低价换不来品牌原价信任。降价虽能短暂促单，却难掩车机老旧、智驾落后的短板，传统豪车价格体系正在瓦解。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a6ca6a145b0e",
+      "title": "开幕后首个比赛日 这些看点别错过",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%B9%95%E5%90%8E%E9%A6%96%E4%B8%AA%E6%AF%94%E8%B5%9B%E6%97%A5+%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%88%AB%E9%94%99%E8%BF%87",
+      "source": "baidu",
+      "category": "general",
+      "summary": "9月20日，亚运会迎来开幕后首个比赛日，铁人三项等多项决赛集中开赛，赛会首金将从中诞生。当日游泳项目将产生7枚金牌，中国队均有夺金实力。一众新老将备受期待，本届亚运会也是洛杉矶奥运周期的关键“期中考”。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -526,73 +614,29 @@
       "category": "general",
       "summary": "近日，北大、复旦等多所高校校长接连发出警告，提醒新生警惕过度依赖AI导致的认知卸载与虚假掌握。面对思维外包风险，大学需跟进教学规则与考核改革，切不可将学习责任全推给学生。",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "4cf7abce3563",
-      "title": "亚运会4000人住邮轮 21日台风来袭",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A4000%E4%BA%BA%E4%BD%8F%E9%82%AE%E8%BD%AE+21%E6%97%A5%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD",
+      "id": "30569c2d3037",
+      "title": "王赫野跳舞像打了套军体拳",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%B5%AB%E9%87%8E%E8%B7%B3%E8%88%9E%E5%83%8F%E6%89%93%E4%BA%86%E5%A5%97%E5%86%9B%E4%BD%93%E6%8B%B3",
       "source": "baidu",
       "category": "general",
-      "summary": "9月19日，爱知・名古屋亚运会正式开幕，约4000名运动员入住歌诗达赛琳娜号邮轮，赛事住宿安排引发争议，日本代表团考虑启用备用酒店，组委会预判台风或将在9月21日靠近爱知名古屋沿海。",
+      "summary": "近日，王赫野在《披荆斩棘》中的跳舞表现再次被吐槽。事件起因于第三次公演，其舞蹈被指像赵四。此次在练习室疯狂努力，但上舞台依然白努力，四肢僵硬如刚装上的机器人，整段舞蹈仿佛打了一套军体拳，还把舞台跺得震天响。",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "2dd1a987afd4",
-      "title": "深圳一高中女老师上课讲话爆火",
-      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E9%AB%98%E4%B8%AD%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E8%AE%B2%E8%AF%9D%E7%88%86%E7%81%AB",
+      "id": "2785df67ed5e",
+      "title": "美战机拦截闯入美总统度假地飞机",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%98%E6%9C%BA%E6%8B%A6%E6%88%AA%E9%97%AF%E5%85%A5%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%BA%A6%E5%81%87%E5%9C%B0%E9%A3%9E%E6%9C%BA",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，深圳一高中女教师刘洁在班会课上向学生分享“人生没有错误，要么学到要么得到”的理念。她将班会视频发布后意外爆火，引发广泛共鸣，学生们也因此变得更加自信。",
+      "summary": "当地时间9月19日，一架通用航空飞机当天上午进入美国总统度假地戴维营上空的限制空域，北美防空司令部出动一架F-16战斗机进行拦截。事发时，美国总统特朗普正在戴维营。",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c001bf4f6237",
-      "title": "啄木鸟被曝换开关收2800后态度反转",
-      "url": "https://www.baidu.com/s?wd=%E5%95%84%E6%9C%A8%E9%B8%9F%E8%A2%AB%E6%9B%9D%E6%8D%A2%E5%BC%80%E5%85%B3%E6%94%B62800%E5%90%8E%E6%80%81%E5%BA%A6%E5%8F%8D%E8%BD%AC",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，啄木鸟维修因换1个开关收费2800元引发热议。事件经媒体报道后，平台态度反转，最终全额退费并额外赔偿2000元。此前，该平台因高额收费拒给明细，曾被央视曝光。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "54891bddfaa2",
-      "title": "民警吃宵夜遇邻桌仨小偷在“复盘”",
-      "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%AD%A6%E5%90%83%E5%AE%B5%E5%A4%9C%E9%81%87%E9%82%BB%E6%A1%8C%E4%BB%A8%E5%B0%8F%E5%81%B7%E5%9C%A8%E2%80%9C%E5%A4%8D%E7%9B%98%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月17日凌晨3时许，成都彭州4名民警加班后吃夜宵时，发现邻桌3名男子行迹诡异且带有未拆封香烟，听到三人正“复盘”盗窃并策划下次行动。民警出门呼叫增援，6分钟后合力将三人抓获。此前，三人通过“拉车门”方式在一未上锁车内盗窃得手。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "28b657aca495",
-      "title": "亚运首个金牌日",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E9%A6%96%E4%B8%AA%E9%87%91%E7%89%8C%E6%97%A5",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月20日是名古屋亚运会开幕式后首个比赛日，将产生31枚金牌，中国体育代表团冲击开门红。国乒男女队首秀一日双赛，火力全开；中国“泳”军单日争七金，老将汪顺五战亚运；男足迎战强敌，力争出线。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "57cab8876a58",
-      "title": "李梦否认耍大牌",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%A2%A6%E5%90%A6%E8%AE%A4%E8%80%8D%E5%A4%A7%E7%89%8C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近期，演员李梦在访谈中回应耍大牌争议，否认自己耍大牌或难搞，坦言“难搞”标签曾让她接不到戏。她表示不能只靠嘴说，需靠实际行动和作品证明自己，希望在演员赛道做到最好。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,64 +647,20 @@
       "category": "general",
       "summary": "9月18日，彭州公安快速处置一起编造传播虚假信息案。针对网传“彭州山区蛇患严重、致人死亡”的言论，警方核查确认系不实信息。违法行为人陈某某因博流量造谣已被依法行政处罚。",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f7b58d5b59e5",
-      "title": "亚运开幕式 阴间",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F+%E9%98%B4%E9%97%B4",
+      "id": "2dd1a987afd4",
+      "title": "深圳一高中女老师上课讲话爆火",
+      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E9%AB%98%E4%B8%AD%E5%A5%B3%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E8%AE%B2%E8%AF%9D%E7%88%86%E7%81%AB",
       "source": "baidu",
       "category": "general",
-      "summary": "9月19日，名古屋亚运会开幕式举行。日本奇葩审美遭网友吐槽：还是这么阴间。",
+      "summary": "近日，深圳一高中女教师刘洁在班会课上向学生分享“人生没有错误，要么学到要么得到”的理念。她将班会视频发布后意外爆火，引发广泛共鸣，学生们也因此变得更加自信。",
       "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ae7f28ace2db",
-      "title": "乡间稻田竟驶出一艘“巨轮”",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A1%E9%97%B4%E7%A8%BB%E7%94%B0%E7%AB%9F%E9%A9%B6%E5%87%BA%E4%B8%80%E8%89%98%E2%80%9C%E5%B7%A8%E8%BD%AE%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，广西钦州，乡间稻田竟驶出一艘“巨轮”？网友：这一刻才知道为什么叫“平陆运河”。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "e25011b2063d",
-      "title": "当红好莱坞女星大尺度广告翻车",
-      "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%BA%A2%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A5%B3%E6%98%9F%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%B9%BF%E5%91%8A%E7%BF%BB%E8%BD%A6",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，29岁好莱坞女星“悉尼妹”在一则广告中大尺度出镜，仅用足球、篮球等器材遮挡身体。广告上线后，她遭多国女运动员集体声讨，本人已掉粉超20万。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "fcfd189742e0",
-      "title": "许嵩冯禧未公开婚纱照",
-      "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E6%9C%AA%E5%85%AC%E5%BC%80%E5%A9%9A%E7%BA%B1%E7%85%A7",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月19日，许嵩与冯禧公开结婚喜讯，婚礼现场背影照好甜，两人多张未公开婚纱照曝光。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "5bdf180d9d2c",
-      "title": "一年级女孩不识字拿书靠“人脸识别”",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%A5%B3%E5%AD%A9%E4%B8%8D%E8%AF%86%E5%AD%97%E6%8B%BF%E4%B9%A6%E9%9D%A0%E2%80%9C%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，河南郑州一名刚上一年级的小女孩因识字量少，独创人脸识别认书法。她通过观察封面人物脸型及插图区分课本，解决上课拿书困难。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-19T22:27:42.783Z",
+      "publishedAt": "2026-09-20T00:19:21.954Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-09-19T22:27:47.219Z"
+  "generatedAt": "2026-09-20T00:19:24.010Z"
 }
