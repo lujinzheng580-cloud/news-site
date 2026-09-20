@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1675f306b8dd",
+    "title": "Valve 开源 Steam Frame 头显安卓兼容层 Lepton，可帮助开发者将 Android 游戏快速移植至 VR 平台",
+    "url": "https://www.ithome.com/1/004/689.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/689.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 20 日消息，Valve 现已正式开源了专为 Steam Frame 头显打造的 Android 兼容层“Lepton”，旨在让 VR 开发者无需针对完全不同的平台重新构建游戏，即可将现有 Android 游戏带到 Steam Frame 上，以进一步扩展平台生态。\n\n从定位来看，Lepton 与 Valve 用于在 SteamOS 和 Linux 上运行 Windows 游戏的 Proton 有一定相似之处，但两者采用的技术路线并不相同。其中 Proton 主要负责将 Windows 软件接口转换为 Linux 环境，Lepton 则是提供了一个专门针对游戏进行优化的 Android 运行环境，并围绕 Steam Frame 的 VR 场景进行一系列定制。\n\n同时，Valve 有意限制了 Lepton 的功能范围。该项目并不是为了让 Steam Frame 变成一台通用 Android 设备，也不打算兼容所有 Android 应用。为了降低系统开销，Lepton 会关闭部分游戏运行并不需要的 Android 系统服务，因此依赖这些服务的应用可能会受到影响。\n\n在技术层面，Lepton 与 SteamOS 主机系统保持紧密结合，可以挂载主机提供的图形驱动库、Steam 和 Steamworks 库以及 Vulkan 层。Valve 列出的图形栈包括 Mesa 和 Zink，同时还提供针对注视点渲染以及渲染通道优化的 Vulkan 工具，从而帮助开发者更充分地利用 Steam Frame 的硬件性能。\n\n此外，V社还为 Lepton 随附了一系列开发者监测工具，方便游戏开发团队将现有作品适配到这一平台，IT之家随附 GitLab 仓库地址（https://gitlab.steamos.cloud/frame-public/lepton）。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-20T05:17:47.590Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

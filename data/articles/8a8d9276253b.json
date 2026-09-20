@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8a8d9276253b",
+    "title": "阶跃发布旗舰模型 Step 5 Preview：跻身 AA 榜单全球开源模型前三，10 月 15 日开源",
+    "url": "https://www.ithome.com/1/004/705.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/004/705.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 20 日消息，阶跃今天宣布推出旗舰模型 Step 5 Preview，面向 AI 编程、软件工程、专业知识工作、金融等场景，提升模型执行真实世界 Agentic 任务表现，10 月 15 日开源完整权重。\n\n据介绍，该模型采用稀疏 MoE 混合专家架构，总参数量 600B、激活参数仅 27B，支持 100 万 Token 上下文窗口，原生支持文本与视觉输入。\n\n在全球人工智能权威榜单 Artificial Analysis  Intelligence Index（IT之家注：AA 综合智能指数）中，该模型得分 44 分，位居全球开源模型前三。与此同时，该模型的单任务成本仅为 Anthropic Claude Opus 5 的 1/8。\n\n优化方面，阶跃为该模型建立了 StepCodeBench，覆盖 553 个独立代码仓库、9 类任务、20 个应用领域和 33 种编程语言。在测试中，Step 5 Preview 能够覆盖多种编程语言，以及 Bug 修复、功能开发、代码重构、环境配置等真实开发任务。\n\n同时，该模型能根据自然语言需求，自主阅读 ESP32 设备及相关 API 的大量开发文档，将一块 ESP32-S3 开发板改造成支持蓝牙按键与语音输入的 Vibe Coding 键盘。它不仅能写代码，还可以访问串口、获取截图、调用摄像头、模拟鼠标操作，并根据真实设备返回的状态和报错持续修改、运行和调试代码，连续执行超过 3 小时。\n\n在公开和内部评估中，Step 5 Preview 在复杂的软件工程任务（包括长程规划任务）、专业知识工作和金融领域等基准测试中展现出较为均衡的综合能力，并在 Agents' Last Exam 的 CLI 子集 ALE-CLI、金融投资研究评测 FrontierFinance，以及跨领域深度研究评测 DRACO 上仅次于 GPT-6 Astra 或 Claude Opus 5。\n\n该模型从今日起全量开放，官方将于 10 月 15 日释放模型权重，敬请期待。\n\n阶跃发布旗舰模型 Step 5 Preview：向前一步，智能效率的新一代“帕累托前沿”\n\nStep 5 Preview - Intelligence, Performance & Price Analysis | Artificial Analysis\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-20T05:17:47.589Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
