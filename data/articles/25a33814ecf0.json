@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 20 日消息，阿里千问今日宣布，开源千问图像系列当前兼顾生成效果、推理效率与使用成本的开源图像模型 Qwen-Image-2.1。\n\nQwen-Image-2.1 将文生图与图像编辑整合在同一模型中，视觉生成部分仅有 7B 参数，并原生支持透明图像的生成与编辑。\n\n官方表示，本次更新的主要特色包括四个方面：\n\n小模强效，极致价比：轻量的模型结构与推理优化，在生成质量和计算成本之间取得平衡。\n\n原生透明，创改一体：根据提示词生成普通图像或透明图像，并支持透明图层编辑与抠图。\n\n全能编辑，多局保全：支持最多 10 张参考图，增强局部编辑、人像与商品保真，并覆盖多种编辑任务。\n\n真实质感，字雅人美：提升文字排版、人物光影与细节表现，让生成结果更具美感。\n\nGitHub：https://github.com/QwenLM/Qwen-Image-2.1\n\nHuggingFace：https://huggingface.co/Qwen/Qwen-Image-2.1\n\nModelScope：https://www.modelscope.cn/models/Qwen/Qwen-Image-2.1\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-20T19:48:00.349Z",
+    "publishedAt": "2026-09-20T22:20:24.621Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
