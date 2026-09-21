@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "36dea7ecab55",
+    "title": "部分用户反映苹果 Apple Watch Ultra 4/Series 12 会意外重启",
+    "url": "https://www.ithome.com/1/005/373.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/005/373.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 21 日消息，据 MacRumors 报道，部分刚入手 Apple Watch Ultra 4 以及 Apple Watch Series 12 的用户反馈，设备会出现意外重启的情况。设备的诊断日志显示，这些死机重启问题和苹果神经网络引擎（Apple Neural Engine）有关。\n\n自上周五新款手表发售以来，MacRumors 论坛上就不断出现相关反馈。有用户反映，在使用手表的过程当中，例如调用 Siri AI、编辑表盘、打开地图或者 App Store、发起通话、记录运动训练时，手表会突然弹出苹果 Logo 然后自行重启；甚至手表处于闲置状态的时候，也会发生重启。\n\n至少四名用户上传了完整内核崩溃日志（panic‑full），日志当中记录了完全相同的神经网络引擎超时故障。每一次故障发生时，苹果神经网络引擎大约会卡死两秒钟；随后固件看门狗程序触发内核崩溃，强制手表重启。\n\n无论是出厂原版的 watchOS 27.0 系统版本，还是新机设置流程当中就下载的首日更新版本，都存在该故障。部分用户已经抹除手表全部数据，以全新设备重新完成设置，依旧会遇到随机重启问题；还有一位 Series 12 用户表示，自己更换过一台新机之后，这一神经网络引擎导致的内核崩溃故障依然存在。\n\n截至目前，MacRumors 论坛的相关帖子里面已经有约 30 位用户反馈随机重启问题。Reddit 以及苹果官方社区支持板块上，也有不少用户分享了类似经历，由此来看该故障波及范围相当广。截至IT之家发稿，苹果方面尚未就此问题作出回应。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-21T11:01:20.386Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
