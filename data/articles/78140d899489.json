@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 21 日消息，联发科技 (Mediatek) 今日面向 Googlebook 推出天玑 CX C10 Max 芯片，这也是天玑 CX “计算体验”系列的首款 SoC。\n\n天玑 CX C10 Max 基于台积电 3nm 先进制程，拥有 8 个“全大”CPU 核心、11 核 Immortalis-G925  GPU、45 TOPS NPU，集成支持 32MP 摄像头传感器的 Imagiq 1090 ISP，支持 7.3Gbps Wi-Fi 7、蓝牙 6.0。\n\n其 CPU 由 1 个 Cortex-X925 内核、3 个 Cortex-X4 内核、4 个 Cortex-A720 内核构成，拥有 12MB L3 缓存和 10MB SLC 缓存；支持 LPDDR5X-9600 内存、UFS 4.0 闪存；拥有 3 条 PCIe Gen4 通道；支持 1 个全功能 USB 5Gbps、2 个 eUSB2v2；支持 3 路 4K 视频信号。\n\n《联发科推出 3nm 高性能 Chromebook 处理器讯鲲 Ultra 910》",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-21T17:05:36.469Z",
+    "publishedAt": "2026-09-21T21:06:32.892Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
