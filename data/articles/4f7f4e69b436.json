@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4f7f4e69b436",
+    "title": "消息称三星晶圆代工考虑扩大 4nm、2nm 产能，应对 HBM Base Die 需求",
+    "url": "https://www.ithome.com/1/005/853.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/005/853.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 22 日消息，韩媒 MONEYTODAY 当地时间昨日报道称，三星电子的晶圆代工业务正考虑新建 4nm 与 2nm 生产线，以扩大这两个制程节点上的制造能力，应对 HBM 内存对先进基础裸片 (Base Die) 的旺盛需求。\n\n标准产品方面，三星电子存储器业务已确认将在 HBM4 (E) 世代使用 4nm Base Die，而其 HBM5 内存则将升级到 2nm Base Die。而对于定制 HBM，其 Base Die 将从主芯片卸载功能电路，对工艺也有很高要求。\n\n此前消息指出，三星晶圆代工已将半数 4nm 产能用于 HBM4 Base Die 的生产，而 4nm  Base Die 的需求将随着存储器业务 HBM4 出货的进一步加速再度提升。NVDIA Groq 3 等 AI 芯片也正持续扩产。\n\n而在 2nm 方面，三星电子移动体验业务计划为更多 Galaxy S/Z 手机导入系统 LSI 业务设计的 Exynos 处理器，这也需求更大产能；另一方面，三星晶圆代工也接获了特斯拉等重要客户的订单。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-22T10:01:35.630Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "87ecc6030578",
+    "title": "大唐发布 T1-AL50 迷你主机：基于第 12/13 代酷睿，提供雷电 4、双 2.5GbE",
+    "url": "https://www.ithome.com/1/005/749.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/005/749.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 22 日消息，大唐计算机 (MaxTang) 今日发布迷你主机新品 T1-AL50。其基于第 12 / 13 代英特尔酷睿移动处理器，至高可选 i7-12700H，提供 1 个雷电 4、2 个 2.5GbE RJ-45 等 I/O。\n\nT1-AL50 三维 127×127×50.5 (mm)，拥有 2 个 DDR4 SO-DIMM 内存插槽，集成 1 个 M.2 2280 PCIe 盘位、1 个 M.2 2280 PCIe / SATA 盘位，支持 M.2 2230 E-Key 无线网卡，集成主动散热模块，起始质量 371g。\n\n该迷你主机正面提供 2 个 USB 3.2 Type-A、1 个雷电 4 Type-C、1 个 3.5mm 二合一音频插孔；反面则有 2 个 2.5GbE RJ-45、1 个 HDMI、1 个 DisplayPort、1 个 USB 3.2 Type-A、1 个 USB 2.0 Type-A。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-22T10:01:35.637Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

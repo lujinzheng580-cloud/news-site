@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ce5a9a00137e",
+    "title": "树莓派官方确认：CM5 计算模块不支持后期升级内存",
+    "url": "https://www.ithome.com/1/005/732.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/005/732.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 22 日消息，据科技媒体 Notebookcheck 昨天报道，树莓派近日在官方论坛确认，Compute Module 5 计算模块无法后期升级内存。\n\nIT之家从原报道获悉，本起事件的起因是有用户尝试为 CM5 升级内存。他将原本的 2GB 内存颗粒拆下，然后焊接了另一块 CM5 的 4GB 拆机内存颗粒。然而开机后，系统还是只能识别出 2GB 内存。\n\n树莓派官方对此回应称，CM5 计算模块确实不支持后期自行升级内存。这种限制旨在防止第三方经销商购买低容量版本，然后自行焊接来源不明的内存颗粒，再将这些产品作为高内存版本销售。\n\n由于公司无法核验用户自备内存颗粒的稳定性，如果产生售后问题，消费者可能会将问题根源归咎于树莓派。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-22T10:01:35.639Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

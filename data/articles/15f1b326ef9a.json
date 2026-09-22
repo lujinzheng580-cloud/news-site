@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "15f1b326ef9a",
+    "title": "苹果 watchOS 27.2 Beta 2 系统新变化：后台界面回归，启动方式有所不同",
+    "url": "https://www.ithome.com/1/005/867.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/005/867.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 22 日消息，据科技媒体 macrumors 今天报道，苹果似乎听取了用户反馈，在 watchOS 27.2 开发者预览版 Beta 2 系统中带回了后台界面，不过启动方式相比以往有所不同。\n\nIT之家了解到，在 watchOS 26 系统中，用户连按两下数码表冠即可打开应用程序切换器，可在最近使用的不同 App 之间切换，也可以左滑卡片关闭某个 App。\n\n但在 watchOS 27 中，连按两次数码表冠呼出的功能变成了 Live Rewind。部分用户就此担心应用程序切换器会永久消失，不过从目前的情况来看，苹果有意重新带回这一功能。\n\n如今在 watchOS 27.2 开发者预览版 Beta 2 系统里，用户需要在 App 内按住屏幕底部，来打开应用程序切换器。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-22T10:01:35.629Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

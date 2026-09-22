@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a9a6bf0d2b1c",
+    "title": "借助 PS5X 模拟器，开发者成功在 Xbox Series X 上运行 PS5 游戏",
+    "url": "https://www.ithome.com/1/005/836.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/005/836.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 22 日消息，过去几个月，PS5 模拟器技术取得了长足进步，SharpEmu、KyTy 等模拟器都交出了十分亮眼的成果。KyTy 模拟器已经可以在 PC 上启动《恶魔之魂：重制版》；仅仅一周之内，这款游戏的模拟帧率就从 1 帧提升到了 30 帧。\n\nIT之家注意到，KyTy 模拟器还能够运行《GTA 5》，这款开放世界游戏可以达到惊人的 40 帧。PC 平台上的 PS5 模拟器开发竞争已经十分火热，而现在又有一位开发者带来了出人意料的成果：他已经把 KyTy 模拟器移植到了 Xbox Series X 主机上。\n\nYouTuber 德夫兰 · 科斯莫 · 乌埃纳尔（Devran Cosmo Uenal）借助自己的实验性项目 PS5X 模拟器，实现了在 Xbox Series X 主机上运行 PS5 游戏。这位开发者将 KyTyPS5 模拟器移植到了微软这台主机的开发者模式之下。借助早期版本的模拟器，已经可以运行 PS5 自制程序以及游戏备份文件。\n\n目前已经可以在 Xbox Series X 上运行的 PS5 游戏包含《GEX 三部曲》《地狱男爵：怀尔德之网》《漫威宇宙入侵》以及《雷神之锤 2》。这位视频博主还专门演示了《雷神之锤 2》，以此验证这套模拟器的实际运行效果。\n\nPS5X 模拟器尚处在非常早期的开发阶段，游戏兼容性还很有限。根据视频简介的说明，后续还有大量开发工作有待完成。不过部分 PS5 游戏已经可以在 Xbox Series X 上完整游玩，模拟器同时支持音频输出与手柄操控。\n\n纵观 PS5 模拟器整体的发展速度，就连 SharpEmu 都已经在 PC 上成功启动了《羊蹄山之魂》。按照这样的发展节奏，或许用不了多久，PS5X 就可以实现在 Xbox Series X 主机上运行部分索尼独占游戏。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-22T10:01:35.633Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
