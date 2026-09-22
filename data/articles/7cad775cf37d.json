@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7cad775cf37d",
+    "title": "AI 编程平台 Bitrig 宣布为苹果 iPhone Duo 引入支持，提供交互式 3D 模拟器供开发者测试应用",
+    "url": "https://www.ithome.com/1/005/513.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/005/513.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 22 日消息，据外媒 9to5Mac 报道，随着苹果上周发布 Xcode 27.1 Beta 1 并加入 iPhone Duo 应用开发支持，如今一款 AI 编程平台 Bitrig 也宣布支持构建和测试 iPhone Duo 应用。\n\n据介绍，Bitrig 最初是一款面向“氛围编程”（vibe coding）的应用，用户可以通过文字或语音提示生成原生 SwiftUI 应用，并直接在 iPhone 上的 Bitrig 应用中运行。此后，该平台不断扩展功能，推出 Mac 版应用，加入完整的 Xcode 工具链、内置 iPhone 模拟器以及真机测试功能，同时支持将项目导出至 Xcode，或通过 TestFlight 和 App Store 进行分发。\n\n在苹果发布 Xcode 27.1 Beta 1，正式支持构建和测试 iPhone Duo 应用后，Bitrig 也迅速加入相关支持，目前提供了一套交互式 3D 模拟器。开发者可以在模拟器中自由折叠、倾斜、旋转和调整设备姿态，以测试应用在不同使用场景下的表现。\n\n针对 iPhone Duo 的铰链交互，开发者可以使用 SwiftUI 中的 onHingeChange 来根据设备折叠状态调整应用的交互和视觉效果，Bitrig 模拟器可以实时读取铰链数据，帮助开发者测试设备从闭合到展开过程中的应用响应。\n\nBitrig 还支持利用 ArrangementView 打造各类创意交互场景。例如，当 iPhone Duo 以类似帐篷的形态放置在桌面上时，开发者可以将媒体内容放置在上半部分，将控制按钮放在下半部分；在设备立于边缘时，则可以利用横向布局，让用户通过外屏使用应用。\n\n此外，Bitrig 还能够帮助开发者管理多个 Xcode 版本，因此开发者可以使用测试版 Xcode 提前准备 iPhone Duo 应用，同时切换回 Xcode 27 正式版继续构建和发布现有应用更新。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-22T00:09:23.290Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
