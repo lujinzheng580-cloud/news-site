@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e4f8d0f1e506",
+    "title": "苹果 M6/M5 Pro 款 Mac mini 固态硬盘不可拆卸：回归板载 NAND 闪存设计，256GB 版读写速度仅为 512GB 版一半",
+    "url": "https://www.ithome.com/1/006/199.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/006/199.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 23 日消息，据 Expand Mac mini 等多个第三方存储拓展厂商确认，搭载 M6 和 M5 Pro 芯片的新款 Mac mini 已回归原先的板载硬盘设计。\n\n这意味着其 SSD 不再像 M4/M4 Pro 机型那样支持可插拔 + 自行升级，而是将 NAND 闪存直接焊接在主板上。\n\n以 M4 和 M4 Pro 款 Mac mini 为例，Expand Mac mini 等厂商为其提供可即插即用的 SSD 模块，价格比苹果官方升级便宜数百美元。用户可购买最低 256GB 配置后自行加装大容量 SSD。\n\nExpand Mac mini 表示，支持 M6 和 M5 Pro 机型“如今看来希望渺茫”。\n\nIT之家注：M4 Mac mini 的 SSD 模块虽可拆卸，但采用苹果专有接口，并非标准 M.2 规格。\n\n除了存储设计变化之外，256GB 存储配置的 Mac mini 仅配备单颗 NAND 芯片，而 512GB 及以上配置使用双 NAND 芯片。\n\n据 AAPL Ch.使用 Blackmagic Disk Speed Test 的测试数据，M6 款 256GB 机型的读取速度为 3216.8 MB/s、写入速度为 3000.2 MB/s；512GB 机型读取速度为 6371.5 MB/s、写入速度为 6577.4 MB/s，约为 256GB 机型的两倍。\n\n作为参照，M4 款 256GB 机型的读取速度为 2792.5 MB/s、写入速度为 2014.5 MB/s。新款 256GB 机型虽仍慢于 512GB 以上配置，但相比前代 256GB 机型已有明显提升。\n\n《苹果更新 M5 Pro/M6 Mac mini 支持文档，SSD 模块不再列为二手可更换部件》\n\n《苹果 2026 款 Mac mini 发售：全新 M6 / M5 Pro 芯片，6999 元起》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-23T05:03:35.001Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
