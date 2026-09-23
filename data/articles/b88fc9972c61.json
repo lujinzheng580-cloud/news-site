@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b88fc9972c61",
+    "title": "消息称三星电子首代亚 10nm 级 DRAM 内存将采用混合键合结构",
+    "url": "https://www.ithome.com/1/006/335.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/006/335.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 23 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子存储器业务近期调整了其先进内存技术的路线图，首代亚 10nm 级 DRAM 将采用混合键合结构。\n\n三星电子正平行开发两种首代亚 10nm 级 DRAM 节点，计划在第 7 代 10nm 级的 1d nm 后导入。原本计划正式用于 \"D0a\" 工艺的是 4F² VCT 垂直通道晶体管方案，随着混合键合的 \"B1b\" 节点被扶正为新的 \"D0a\"，4F² VCT 方案的代号也随之调整为 \"D0a-V\"。\n\n新版 \"D0a\" 节点将在不同的晶圆上制造存储阵列和外围电路，此后以 W2W（晶圆对晶圆）混合键合结合两部分。此类工艺允许针对性地优化阵列和外围器件表现，目前已在 3D NAND 上得到广泛应用。\n\n相较需要高深宽比蚀刻形成垂直通道的 4F² VCT，混合键合工艺已在量产级别得到验证，基于该技术的 DRAM 商业化门槛也相对更低。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-23T10:02:06.189Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
