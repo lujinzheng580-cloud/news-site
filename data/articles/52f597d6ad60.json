@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "52f597d6ad60",
+    "title": "谷歌 Chrome 154 浏览器发布：默认警告 HTTP 网站、修复 108 个漏洞",
+    "url": "https://www.ithome.com/1/006/679.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/006/679.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 24 日消息，谷歌于 9 月 22 日发布公告，宣布正式推出 Chrome 浏览器 154 稳定版，会默认警告 HTTP 网站，并修复 108 项安全漏洞。\n\n安全修复方面，本次更新共计修复 108 项漏洞，公告中列出了多项“严重（Critical）”级别漏洞，涉及 ANGLE 图形层、GPU、WebGL、Service Worker、全屏功能及窗口对话框等组件。\n\n在功能方面，IT之家此前报道，用户访问不安全的 HTTP 网站后，Chrome 154 会默认警告提示，可能影响老旧网站、直接输入 IP 地址的管理页面、家庭路由器或某些本地设备后台。\n\nChrome 154 引入了名为 Private Verification Tokens 的试验功能，在保护无痕浏览隐私的同时，让网站能利用用户在普通浏览模式中已建立的一部分“可信信号”，从而减少无痕模式里频繁出现的 CAPTCHA、人机验证或其他拦截。\n\nChrome 154 还支持让网页中的嵌入式内容（iframe）按内部内容自适应尺寸。以后，采用该能力的网站在嵌入表单、支付组件、在线文档、客服窗口或第三方工具时，可减少 iframe 内部“一个页面套一个滚动条”的情况。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-24T06:01:02.143Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
