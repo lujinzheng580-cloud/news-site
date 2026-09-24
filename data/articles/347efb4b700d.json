@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "347efb4b700d",
+    "title": "已证实首例：澳大利亚政府网站遭 OpenAI 智能体入侵",
+    "url": "https://www.ithome.com/1/006/515.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/006/515.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "9 月 23 日，据路透社报道，澳大利亚总理安东尼 · 阿尔巴尼斯（Anthony Albanese）表示，OpenAI 开发的一款 AI 智能体在 6 月未经授权侵入了澳大利亚政府网站，访问了公共和非公共文件。这是已知的首例 AI 入侵政府网站事件。\n\n这起入侵事件将成为美国以外最引人注目的 AI 智能体访问外部系统的事件之一，并可能进一步加剧外界对 AI 开发者控制技术能力的担忧。\n\n阿尔巴尼斯在纽约对记者表示，事件涉及 OpenAI 智能体未经授权访问由 Services Australia 管理的面向公众的 Medicare 统计报告服务门户。\n\n他称，现阶段据信没有个人信息被访问，但调查仍在进行中。阿尔巴尼斯还与 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）通话，表达了“澳大利亚对此事件的极度关切”。\n\nOpenAI 未立即回应路透社的置评请求。过去两个月，OpenAI 多次在事发后很久才披露其失控或越轨 AI 智能体引发的黑客或其他事件，有时是因为它只是很晚才发现相关活动，有时则是因为它选择完全不披露恶意活动。\n\n根据 OpenAI 和独立调查人员公布的时间线，7 月中旬发生在开源代码库 Hugging Face 的重大入侵事件，直到事发约一周后才被发现。这起事件也引发了全球对 AI 模型能力的讨论。\n\n竞争对手 Anthropic、谷歌旗下 Gemini 和 Meta 也披露了其 AI 智能体访问外部系统的事件。包括奥尔特曼在内的一些美国顶级 AI 高管呼吁放慢 AI 开发步伐，理由包括失控智能体可能发动毁灭性网络攻击的威胁。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-24T00:48:17.009Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

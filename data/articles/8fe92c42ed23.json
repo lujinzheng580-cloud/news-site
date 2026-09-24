@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8fe92c42ed23",
+    "title": "苹果推送 watchOS 27.0.1 更新：修复 Apple Watch Series 12/Ultra 4 随机重启故障",
+    "url": "https://www.ithome.com/1/006/520.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/006/520.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 24 日消息，科技媒体 AppleInsider 昨日（9 月 23 日）发布博文，报道称苹果公司面向 Apple Watch Series 12 和 Apple Watch Ultra 4 智能手表，紧急推送 watchOS 27.0.1 更新（24R365），修复随机重启故障。\n\nIT之家此前报道，部分刚入手 Apple Watch Ultra 4 以及 Apple Watch Series 12 的用户反馈，设备会出现意外重启的情况。设备的诊断日志显示，这些死机重启问题和苹果神经网络引擎（Apple Neural Engine）有关。\n\n根据上述两款智能手表用户反馈，重启有时候发生在编辑表盘、拨打电话、使用 Siri 时，有时候打开 Apple 地图、App Store 或记录锻炼时；部分设备处于闲置状态时，也出现重启情况。\n\n报道称苹果公司紧急发布 watchOS 27.0.1 更新，聚焦于修复新款 Apple Watch 的随机重启问题。\n\n用户可在 Apple Watch 的“设置”中进入“通用”和“软件更新”下载安装。不过更新时设备需保持至少 50% 电量并连接 Wi‑Fi，也可通过 iPhone 上的 Apple Watch 应用更新。\n\n《部分用户反映苹果 Apple Watch Ultra 4/Series 12 会意外重启》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-24T00:48:17.008Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -2,281 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "5eb61507fdcd",
-      "title": "以光伏为唯一能源，全球首座零碳离网光储蔚来换电站投运",
-      "url": "https://www.ithome.com/1/006/421.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.225Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fe316933efa7",
-      "title": "放弃本土建厂，美国电池初创企业 EnerVenue 首座工厂落地中国常州",
-      "url": "https://www.ithome.com/1/006/422.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.224Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8f8dddd5b8aa",
-      "title": "海信电视行业首发《凡人修仙传》专属画质模式、独家《影之刃零》专属模式，将推影像大师调色",
-      "url": "https://www.ithome.com/1/006/423.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.224Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e7a448277f95",
-      "title": "亚马逊今年将为配送小哥部署 5000 台智能眼镜：不用手机就能看导航和送货指引",
-      "url": "https://www.ithome.com/1/006/424.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.224Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7567d38d839d",
-      "title": "小米 18 Pro Max 手机发布：首发第六代骁龙 8 超级至尊版、8500mAh 金沙江电池，6999 元起",
-      "url": "https://www.ithome.com/1/006/425.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.224Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "99131c5830d4",
-      "title": "小米 18 Pro 手机发布：首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起",
-      "url": "https://www.ithome.com/1/006/426.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.224Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "892f22bf8cd3",
-      "title": "小米 18 Pro 系列透明特别版手机发布，9999 元起",
-      "url": "https://www.ithome.com/1/006/427.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.223Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "03ec47eed329",
-      "title": "全新一代智己 LS6 车型正式上市，上市权益价 19.79~25.99 万元",
-      "url": "https://www.ithome.com/1/006/428.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.223Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a870a50da1e1",
-      "title": "小米平板 9 / 9 Pro 发布：骁龙 8s Gen 4 / 8 Gen 5 处理器，2999 元起",
-      "url": "https://www.ithome.com/1/006/429.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.223Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "59d92257327d",
-      "title": "长安启源 Q06 车型上市：首搭天枢领航高阶智能驾驶辅助，限时权益价 13.59 万元起",
-      "url": "https://www.ithome.com/1/006/430.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.223Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6671c22d043b",
-      "title": "小米手环 11 三彩釉陶瓷版发布：景德镇工艺出品，499 元",
-      "url": "https://www.ithome.com/1/006/431.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.223Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8764399f48aa",
-      "title": "小米 Watch S5 41mm 智能手表发布：首发搭载表端澎湃 OS 4、升级微信 App，1299 元起",
-      "url": "https://www.ithome.com/1/006/432.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.223Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "69f516a511e0",
-      "title": "小米 Watch S5 透明版手表发布：限量 5000 台，售价 2499 元",
-      "url": "https://www.ithome.com/1/006/433.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.222Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6fce914498b9",
-      "title": "启境 GX7 上市：华为七大汽车智能化解决方案加持，限时权益价 22.99 万-29.19 万元",
-      "url": "https://www.ithome.com/1/006/440.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.222Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7f099bca46ec",
-      "title": "卢伟冰：小米 17 Pro 系列手机背屏 AI 功能将于 12 月底更新",
-      "url": "https://www.ithome.com/1/006/449.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.222Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4c8949b4eaa3",
-      "title": "25.58 万元起、最高 1100km 纯电续航，比亚迪腾势 Z9S 正式上市",
-      "url": "https://www.ithome.com/1/006/459.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.222Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c2461179f21f",
-      "title": "小米米家三筒洗衣机健康洗 Pro 14kg 系列上市，洗烘版 4999 元 / 滚筒版 3999 元",
-      "url": "https://www.ithome.com/1/006/460.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.222Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1e27bc5555a4",
-      "title": "《GTA 6》发售临近，WWE 撤回“Vice City”商标申请",
-      "url": "https://www.ithome.com/1/006/461.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.222Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "430115588768",
-      "title": "行业首个单枪峰值充电功率 2.2 兆瓦，吉利新一代 AI 补能技术“吉利智充”发布",
-      "url": "https://www.ithome.com/1/006/462.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.221Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "050eb4638a88",
-      "title": "适马 85mm F1.2、20-60mm F2.8-4 镜头国行价格公布：9388、4999 元",
-      "url": "https://www.ithome.com/1/006/463.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.221Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "dfe7477cf679",
-      "title": "网易《逆水寒：新世界》4.1.4 版本更新，联动《盗墓笔记》《军工文创》",
-      "url": "https://www.ithome.com/1/006/464.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.221Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "60249ee868e1",
-      "title": "北汽张国富明确表态将坚定携手华为“在一起做豪车”，享界是集团最顶层战略布局",
-      "url": "https://www.ithome.com/1/006/465.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.221Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "990bc3e205c9",
-      "title": "瞄准中大型家用 SUV 市场！消息称上汽追投 10 亿元，“All in 尚界”与华为终端进入深化协同",
-      "url": "https://www.ithome.com/1/006/467.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.220Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fd1aa90b5a6f",
-      "title": "保时捷用 100% 回收原料造出动力电池电芯，现已开启整车测试",
-      "url": "https://www.ithome.com/1/006/469.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.220Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b3d51bfa08e7",
-      "title": "全新吉利银河 E5 上市：全域 800V+6C 峰值倍率，限时先享价 9.78 万-13.78 万元",
-      "url": "https://www.ithome.com/1/006/470.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.220Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "3349f08e6e53",
       "title": "报告：美国人开始问 AI“吃什么零食”，高蛋白和重口味食品需求增长",
       "url": "https://www.ithome.com/1/006/471.htm",
@@ -284,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.220Z",
+      "publishedAt": "2026-09-24T00:48:17.015Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.219Z",
+      "publishedAt": "2026-09-24T00:48:17.015Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.219Z",
+      "publishedAt": "2026-09-24T00:48:17.014Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +42,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.219Z",
+      "publishedAt": "2026-09-24T00:48:17.014Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +53,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.219Z",
+      "publishedAt": "2026-09-24T00:48:17.014Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.219Z",
+      "publishedAt": "2026-09-24T00:48:17.014Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.218Z",
+      "publishedAt": "2026-09-24T00:48:17.013Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +86,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.218Z",
+      "publishedAt": "2026-09-24T00:48:17.013Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +97,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.218Z",
+      "publishedAt": "2026-09-24T00:48:17.013Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +108,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.218Z",
+      "publishedAt": "2026-09-24T00:48:17.013Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.218Z",
+      "publishedAt": "2026-09-24T00:48:17.012Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.217Z",
+      "publishedAt": "2026-09-24T00:48:17.012Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +141,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.217Z",
+      "publishedAt": "2026-09-24T00:48:17.012Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +152,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.217Z",
+      "publishedAt": "2026-09-24T00:48:17.012Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +163,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.216Z",
+      "publishedAt": "2026-09-24T00:48:17.012Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.216Z",
+      "publishedAt": "2026-09-24T00:48:17.011Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.216Z",
+      "publishedAt": "2026-09-24T00:48:17.011Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +196,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.216Z",
+      "publishedAt": "2026-09-24T00:48:17.011Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +207,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.215Z",
+      "publishedAt": "2026-09-24T00:48:17.011Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.215Z",
+      "publishedAt": "2026-09-24T00:48:17.010Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.214Z",
+      "publishedAt": "2026-09-24T00:48:17.010Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,7 +240,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.214Z",
+      "publishedAt": "2026-09-24T00:48:17.010Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -526,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.214Z",
+      "publishedAt": "2026-09-24T00:48:17.010Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -537,7 +262,282 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:19:56.213Z",
+      "publishedAt": "2026-09-24T00:48:17.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "200d658ac982",
+      "title": "黄仁勋对 AI 公司放话：要求监管就不应获得反垄断豁免",
+      "url": "https://www.ithome.com/1/006/514.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "347efb4b700d",
+      "title": "已证实首例：澳大利亚政府网站遭 OpenAI 智能体入侵",
+      "url": "https://www.ithome.com/1/006/515.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9faecb5f3412",
+      "title": "高通发布第二代骁龙音频平台至尊版：AI 能力翻倍、功耗降低 40%",
+      "url": "https://www.ithome.com/1/006/516.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1c4d12b7e410",
+      "title": "微软 Surface Pro 12 与 Laptop 13 升级高通骁龙 X2 Plus 处理器，基础内存从 8GB 提升至 16GB 且价格大涨",
+      "url": "https://www.ithome.com/1/006/517.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.009Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1950882b6d04",
+      "title": "PBKreviews 拆解三星 Galaxy S26 FE 手机：镜头盖和电池更易维护",
+      "url": "https://www.ithome.com/1/006/518.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "23d6065920a5",
+      "title": "苹果 HomePod 运行 Siri AI 交互体验曝光：白 / 蓝 / 橙主色调指示灯",
+      "url": "https://www.ithome.com/1/006/519.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8fe92c42ed23",
+      "title": "苹果推送 watchOS 27.0.1 更新：修复 Apple Watch Series 12/Ultra 4 随机重启故障",
+      "url": "https://www.ithome.com/1/006/520.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0c3cae900962",
+      "title": "OpenAI CEO 奥尔特曼联合国演讲：AI 可能走向文艺复兴，也可能带来工业革命式动荡",
+      "url": "https://www.ithome.com/1/006/521.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.008Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9d7aec6f944a",
+      "title": "苹果最强家庭影院方案：tvOS 27.2 Beta 2 可配对 4 台 HomePod",
+      "url": "https://www.ithome.com/1/006/522.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.007Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a6a52acd8d38",
+      "title": "2026 年内首次上调：苹果 Apple Card 储蓄账户利率涨至 3.5%",
+      "url": "https://www.ithome.com/1/006/523.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.007Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "59e2bc3120f9",
+      "title": "Anthropic 宣布成立生命科学团队和实验室，Claude 自主发现新型酶系统",
+      "url": "https://www.ithome.com/1/006/524.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.007Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "acae3999c709",
+      "title": "IT早报 0924：任正非重申华为不造车；国行苹果 iOS 27.2 Beta 版可屏蔽“摇一摇”广告；5999 元起小米 18 Pro 系列发布；闲鱼称涉未成年淫秽系不实消息...",
+      "url": "https://www.ithome.com/1/006/525.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c39925997fa2",
+      "title": "迪士尼流媒体四年内第四次涨价：Disney+、Hulu 最高涨 2.5 美元，ESPN 捆绑包同步跟涨",
+      "url": "https://www.ithome.com/1/006/526.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b8457a40ad59",
+      "title": "消息称苹果 20 周年版 iPhone 屏幕采用无边四曲面设计，暂缓部署 CoE 和 LTPO+ 技术",
+      "url": "https://www.ithome.com/1/006/527.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cfbf3c1baf92",
+      "title": "腾讯 QClaw 微信远程办公 AI 助手宣布 12 月 24 日停运，即日起停止新用户注册",
+      "url": "https://www.ithome.com/1/006/528.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.006Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4676edfa172e",
+      "title": "微软调整 Win11 策略：PDF、图片恢复自动预览，HTML 文件仍需额外确认",
+      "url": "https://www.ithome.com/1/006/529.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.005Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9c3071ed3edc",
+      "title": "微软 12 月 16 日停用 3 款 Microsoft 365 配套应用，个人用户需自行卸载",
+      "url": "https://www.ithome.com/1/006/530.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.005Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b803fc87daa1",
+      "title": "Meta 推出 349 美元无摄像头的雷朋 Audio 智能眼镜：43g 重 + 12 小时续航，还有女星 Lisa 联名眼镜等新品",
+      "url": "https://www.ithome.com/1/006/531.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.005Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6d821413f6cf",
+      "title": "罗技 G 正式推出 PRO X3 SUPERSTRIKE 鼠标：优化平衡，135hr 续航",
+      "url": "https://www.ithome.com/1/006/532.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.004Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7aa2d98cf2aa",
+      "title": "罗永浩评小米 18 Fold “如果能接受 D 型屏，确实做得非常漂亮”，强调无商业利益合作",
+      "url": "https://www.ithome.com/1/006/533.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.004Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "455688f27499",
+      "title": "华为 MatePad Air Z 系列平板官宣今日 10:08 预售，2999 元起",
+      "url": "https://www.ithome.com/1/006/535.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.004Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e8ac37af6ac3",
+      "title": "苹果 256GB M6 版 Mac mini SSD 性能测试：较 M4 版顺序写入快 48.9%、读取快 15%",
+      "url": "https://www.ithome.com/1/006/536.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.003Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b562b72bcc7d",
+      "title": "Meta 首款轻量化 VR 眼镜发布：约 100g 重、同类首款 IMAX Enhanced 认证，售 1299.99 美元",
+      "url": "https://www.ithome.com/1/006/537.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.003Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "67dec43f70cc",
+      "title": "罗技 G 带来 TKL 磁轴键盘 PRO X2 RAPID，集成 OLED 竖屏",
+      "url": "https://www.ithome.com/1/006/539.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.002Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "153e16f64af7",
+      "title": "全新华为 FreeBuds Neo 开启预售，售价 699 元",
+      "url": "https://www.ithome.com/1/006/540.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:17.001Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -548,18 +548,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "54f5696fcf50",
-      "title": "特朗普抵达机场 迎接习近平主席到访",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%9C%BA%E5%9C%BA+%E8%BF%8E%E6%8E%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%88%B0%E8%AE%BF",
+      "id": "076c18c28b71",
+      "title": "习近平：中国和美国都是伟大的国家",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E9%83%BD%E6%98%AF%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6",
       "source": "baidu",
       "category": "general",
-      "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达美国首都华盛顿。美国总统特朗普来到安德鲁斯空军基地，迎接习近平主席到访。",
+      "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美方邀请对美国进行国事访问。习近平指出，中国和美国都是伟大的国家，中国人民和美国人民都是伟大的人民。中美两国人民长期友好交往，双方利益深度交融，两国应该成为伙伴而不是对手。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -570,7 +570,29 @@
       "category": "general",
       "summary": "23日，教育部在国务院新闻办发布会上介绍，我国已建成世界规模最大且有质量的教育体系。目前，我国接受过高等教育的人口达2.7亿，基础教育达到高收入国家平均水平，总体近视率连续5年下降。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "e9ac63027cf8",
+      "title": "特朗普夫妇机场迎接",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5",
+      "source": "baidu",
+      "category": "general",
+      "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达美国首都华盛顿。特朗普夫妇来到安德鲁斯空军基地，迎接习近平主席到访。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "54b3f9371b18",
+      "title": "特朗普挥手并目送习近平专车离开",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%A5%E6%89%8B%E5%B9%B6%E7%9B%AE%E9%80%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%93%E8%BD%A6%E7%A6%BB%E5%BC%80",
+      "source": "baidu",
+      "category": "general",
+      "summary": "当地时间9月23日下午，习近平主席乘专机抵达华盛顿，应特朗普邀请对美国进行国事访问。特朗普夫妇赴机场迎接，现场画面显示其挥手目送专车离开，访问将持续至25日。",
+      "imageUrl": "",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,51 +603,29 @@
       "category": "general",
       "summary": "武汉华纪元生物研发的治疗性降压疫苗Ⅰ期研究达到预设终点，即将启动Ⅱ期临床。该疫苗一针效果可维持数月，依靠自身抗体降压，有望解决高血压患者吃药依从性差难题，目前全球同类产品仍无上市成品。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "16f138329c49",
-      "title": "中国女排夺冠 香港记者激动落泪",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0+%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA",
+      "id": "ce891ddd27ff",
+      "title": "沿途人群唱起《我的祖国》欢迎习主席",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%BF%E9%80%94%E4%BA%BA%E7%BE%A4%E5%94%B1%E8%B5%B7%E3%80%8A%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E3%80%8B%E6%AC%A2%E8%BF%8E%E4%B9%A0%E4%B8%BB%E5%B8%AD",
       "source": "baidu",
       "category": "general",
-      "summary": "9月22日晚，名古屋亚运会中国女排以3比0完胜日本队，拿下亚运会三连冠和队史第十冠。赛后采访中，一名跟访中国女排20年的香港记者激动落泪。该记者表示在香港一直为女排加油，等待很久终于等到赢球，希望未来中国女排能打到奥运。",
+      "summary": "北京时间9月24日，习近平主席抵达华盛顿开启美国之行。沿途受到热烈欢迎，欢迎人群高举巨幅五星红旗，自发唱起《我的祖国》等歌曲。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "d9eefe062426",
-      "title": "5300多万名老年人享受老年人补贴",
-      "url": "https://www.baidu.com/s?wd=5300%E5%A4%9A%E4%B8%87%E5%90%8D%E8%80%81%E5%B9%B4%E4%BA%BA%E4%BA%AB%E5%8F%97%E8%80%81%E5%B9%B4%E4%BA%BA%E8%A1%A5%E8%B4%B4",
+      "id": "c1ea62040aea",
+      "title": "四年级男孩车间熟练打包",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B9%B4%E7%BA%A7%E7%94%B7%E5%AD%A9%E8%BD%A6%E9%97%B4%E7%86%9F%E7%BB%83%E6%89%93%E5%8C%85",
       "source": "baidu",
       "category": "general",
-      "summary": "9月23日，国新办发布会介绍，“十四五”时期，我国兜底民生保障全面加强，已有5300多万老年人享受养老补贴。“十五五”将继续完善养老、救助、儿童与残疾人福利，推进婚姻、殡葬等社会服务与基层社会治理。",
+      "summary": "山东乳山一名小学四年级男孩放假时在自家水产车间打包封箱牡蛎，动作利落。其父表示孩子放假时来车间观察便掌握技能，并非天天干活。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "2c771b4d0039",
-      "title": "12306的“隐藏福利”别错过",
-      "url": "https://www.baidu.com/s?wd=12306%E7%9A%84%E2%80%9C%E9%9A%90%E8%97%8F%E7%A6%8F%E5%88%A9%E2%80%9D%E5%88%AB%E9%94%99%E8%BF%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "中秋国庆双节假期铁路运输23日开启！12306里有一些隐藏的福利和服务。可积分兑车票、购买旅游计次票；还提供爱宠行、轻装行、静音车厢、轮椅预约、车上订餐等服务，出行更便捷。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c18b2dc21552",
-      "title": "U23国足战平阿联酋 小组第一出线",
-      "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E5%B9%B3%E9%98%BF%E8%81%94%E9%85%8B+%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "北京时间9月23日，名古屋亚运会男足B组末轮的比赛，中国队0比0战平阿联酋U23，以小组第一出线。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,7 +636,7 @@
       "category": "general",
       "summary": "9月23日，民政部部长李常官在国新办发布会上介绍，“十五五”时期民政部将从五方面完善法规制度体系。其中，在应对人口老龄化国家战略方面，将推动修订老年人权益保障法，与时俱进完善保障制度体系。推动制定养老服务法，健全分级分类、普惠可及、覆盖城乡、持续发展的养老服务体系。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -647,7 +647,7 @@
       "category": "general",
       "summary": "据悉，“亚洲第一长洞”贵州绥阳县双河洞古生物调查取得突破性进展。在23日举行的第25次国际洞穴科学考察成果发布会上，最新科考数据显示，双河洞已累计发现大熊猫个体化石61具。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +658,9 @@
       "category": "general",
       "summary": "近期“民惠通”等养老APP上，有骗子冒充民政人员，以高龄补贴等诱导缴费充值。民政部辟谣提醒群众提高警惕，谨防受骗。",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T22:20:04.227Z",
+      "publishedAt": "2026-09-24T00:48:25.019Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-09-23T22:20:07.323Z"
+  "generatedAt": "2026-09-24T00:48:30.436Z"
 }
