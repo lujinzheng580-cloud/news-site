@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b51dccbbded7",
+    "title": "时创意送样 QLC UFS 2.2 嵌入式闪存，容量覆盖 128GB / 256GB / 512GB",
+    "url": "https://www.ithome.com/1/006/838.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/006/838.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 24 日消息，存储模组企业时创意 (SCY) 昨日宣布已正式启动基于 QLC NAND 闪存的 UFS 2.2 嵌入式闪存样品交付。\n\n时创意的 QLC UFS 2.2 提供 128GB / 256GB / 512GB 三档容量配置，顺序读取至高可达 1080MB/s、顺序写入至高可达 860MB/s，顺序读写可达 eMMC 的 3 倍。此外，其搭载 4K LDPC ECC 纠错引擎，支持 Write Booster 写入增强。\n\nIT之家了解到，时创意 QLC UFS 2.2 闪存采用 11.5×13.0×0.95 (mm) 的 BGA 封装，可与主流移动 SoC 平台对接，面向中端与入门级 5G 智能手机、平板电脑与影音娱乐终端、智能家居中控与语音交互设备。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-24T11:51:33.948Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
