@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f04ea2f540e6",
+    "title": "苹果公布全产品线端侧 AI 能力矩阵：iPhone 18 Pro 等最高跑 140 亿参数激活模型",
+    "url": "https://www.ithome.com/1/007/155.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/155.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 25 日消息，@aaronp613 今天（9 月 25 日）在 X 平台发布推文，报道称 Jamf 用户大会（JNUC）中，苹果公司公布一张端侧 AI 推理能力对比图表，展示从 iPhone、iPad 到 Mac Studio 集群完整硬件梯队的本地 AI 上限。\n\nJNUC 是 Jamf 每年举办的全球用户大会，汇聚 Apple IT 管理员、行业领袖和技术爱好者，分享设备管理、安全、自动化等方面的最新技术与实践。\n\n在今年 JNUC 活动中，苹果公司在其“IT 行业最新动态”环节展示了诸多合作内容，在聚焦 AI 端侧的演讲中展示了图片，IT之家梳理相关信息如下：\n\n苹果这套方案依托统一内存架构，是实现设备端大模型推理的核心。内存容量、带宽直接决定硬件可加载模型的参数量，设备定位越高，本地 AI 能力越强。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-25T13:01:00.780Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
