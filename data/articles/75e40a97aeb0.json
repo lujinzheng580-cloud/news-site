@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "75e40a97aeb0",
+    "title": "【互动】苹果 iOS 27.2 绝杀摇一摇广告，你想拉黑谁？",
+    "url": "https://www.ithome.com/1/007/079.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/079.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 2026 年 9 月 25 日特别调查，天下苦摇一摇广告久矣，就连苹果也出手了。\n\n苹果在北京时间 9 月 23 日的 iOS 27.2 Beta 2 更新中针对中国区用户新增了一项设置选项（位于“设置-隐私与安全-运动与健身-Restrict Motion Data”中），被加入名单的 App 将无法获取加速度计、陀螺仪等运动传感器数据的权限，这项功能或可用于限制 App 通过摇晃手机触发广告跳转等行为。\n\n虽然苹果目前尚未公开说明该功能的具体用途，但不少读者已对该“效果”表示强烈支持。\n\n为响应大家的沟通交流需求，IT之家读者老爷们可以在评论区中提供 App 名称，方便大家设置黑名单 。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-25T01:49:00.107Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

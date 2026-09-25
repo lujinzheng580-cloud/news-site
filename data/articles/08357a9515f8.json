@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "08357a9515f8",
+    "title": "Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件",
+    "url": "https://www.ithome.com/1/007/059.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/059.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 25 日消息，科技媒体 macobserver 昨日（9 月 24 日）发布博文，报道称 Meta Muse 被发现可在简单提示词下，打包并返回用户专属虚拟机中的大量 Linux 文件。\n\nPeter James 和  Jonny L. Saunders 两名开发者已独立复现该问题，相关文件包含系统文件、应用模板、内部运行文档、Markdown 与 JSON 文件等。\n\n导出的文件可能暴露 Muse 的内部运行机制，包括请求处理、记忆保存、服务连接和后台任务。其中 agents/ 目录包含 113 份子智能体记录及 JSONL 追踪文件。约 20 份 Markdown 文档介绍浏览器、连接器、支付、凭据、数据处理、语音、目标和定时任务等功能。\n\n研究人员还统计出约 68 个技能目录。相关功能覆盖 Google Workspace、Meta 社交应用、Outlook、旅行、购物、健康服务、家庭设备和媒体生成。配置文件还提到 Slack、Dropbox、Polymarket、Canva 和 Klaviyo 等连接器。\n\nIT之家注：Muse 是 Meta 推出的个人 AI 智能体，可在云端虚拟机中处理文件、调用浏览器、连接电子邮件等外部服务。用户可通过移动应用或网页界面访问 Muse。其运行环境包含工作区文件、智能体工具及部分持久化数据，并由隔离机制限制对主机系统和外部网络的访问。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-25T01:49:00.113Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
