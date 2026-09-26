@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "5d1f7e2a222c",
+    "title": "Steam 客户端 Beta 版更新发布：优化多模块功能，修复多项问题",
+    "url": "https://www.ithome.com/1/007/284.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/284.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 26 日消息，Valve 已向 Steam 客户端测试通道推送最新 Beta 版本更新，覆盖通用功能、大屏幕模式、Steam Input、远程畅玩及 SteamRT3 实验版本，带来多项功能优化与问题修复。\n\n修复了录像和截图对话框的游戏筛选下拉菜单中，无法显示所有拥有对应截图游戏的问题\n\n优化了成就通知中，当名称、描述或两者同时跨多行换行时的文本排版效果\n\nOverlay 中默认隐藏鼠标，直至检测到鼠标移动后才显示\n\n修复了屏幕键盘打开过程中触摸触控板导致输入异常的问题\n\n提高了 Steam Deck 和 Steam Controller 之间触控板灵敏度的一致性\n\n修复了独立菜单创建与控制器源创建的虚拟菜单模式，可能显示错误激活类型的问题\n\n为使用 Steam Input API 的游戏实现了“重新排序控制器”对话框功能，该操作会临时断开控制器连接，因此不支持热插拔的老旧游戏可能会丢失控制器输入\n\n桌面 UI 叠加层中将应用桌面配置，大部分游戏手柄因桌面配置为空不会改变行为，但 Steam Controller 或设置了自定义桌面配置的设备，将支持鼠标点击操作叠加层内内容\n\n提升了从 Windows 电脑串流时的色彩准确性\n\n修复了使用 SteamRT3C 客户端从 Linux 串流时鼠标光标异常问题\n\n修复了 Linux 和 SteamOS 系统下使用 PipeWire 串流时捕获锁定的问题\n\n降低了 Linux 和 SteamOS 系统下使用 PipeWire 串流时 Pyrowave 的延迟\n\n新增 -pyrowavestats 命令行选项，可用于记录 Pyrowave 编码性能日志\n\n修复了启动游戏时 Steam 覆盖 PATH、LD_PRELOAD 和 LD_LIBRARY_PATH 环境变量的问题\n\n本次更新仅面向 Steam 客户端 Beta 测试通道推送，普通正式版用户需等待后续验证后，才能获得这些更新内容。据IT之家此前报道，Valve 此前在 9 月 18 日的 Beta 更新中，已经为 Steam Input 新增多重绑定页面、优化配置界面，并修复了远程畅玩的 EULA 接受问题。\n\n本文由机器人发布，如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考 ~",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-26T05:04:31.064Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

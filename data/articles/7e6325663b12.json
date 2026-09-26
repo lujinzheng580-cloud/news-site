@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7e6325663b12",
+    "title": "谷歌推送安卓 17 QPR2 Beta 6 更新：重点修复 Pixel 9 Pro Fold 手机异常重启问题",
+    "url": "https://www.ithome.com/1/007/300.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/300.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 26 日消息，谷歌现已面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR2 Beta 6 更新，本轮系统版本为 vCP41.260831.007，主要进一步修复系统稳定性问题。\n\n谷歌表示，此次更新重点修复了 Pixel 9 Pro Fold 的异常重启问题。此前，多名参与 QPR2 Beta 测试的用户在 Google Issue Tracker 中反馈设备会出现“意外重启”。谷歌确认，该问题系第三方应用初始化相机取景器导致，本轮更新已经针对这一问题进行修复。\n\n此外，Beta 6 还修复了一项严重的系统内核崩溃问题，当第三方应用在生物识别验证过程中同时请求相机和麦克风访问权限时，部分设备可能因此发生崩溃。\n\nIT之家注意到，本次更新还解决了多项其他问题，包括应用切换过程中出现视觉异常，导致带黑边显示的内容从状态栏区域露出；设备充电时屏幕保护程序显示空白画面；部分被锁定的应用无法通过“最近使用的应用”界面的滑动手势关闭；以及滚动内容时可能导致设备崩溃、重启或卡死的问题。\n\n值得注意的是，有测试用户发现 Beta 6 似乎移除了锁屏通知的模糊效果。对此，Android 开发者 Mishaal Rahman 表示，谷歌产品团队为了修复部分 Bug，暂时回滚了此次测试版本中的锁屏模糊效果，因此这一变化并非最终设计。\n\n与此同时，部分 Pixel 10 Pro XL、Pixel 7 和 Pixel 9 用户发现设备已经升级至 Linux Kernel 6.12。一些测试用户声称更新后设备运行流畅度有所提升。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-26T05:04:31.061Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

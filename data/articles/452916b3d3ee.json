@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "452916b3d3ee",
+    "title": "突破单散热器能力上限，猫头鹰正探索 2000W 微通道阵列散热方案",
+    "url": "https://www.ithome.com/1/007/335.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/335.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 26 日消息，科技媒体 Tom's Hardware 昨日（9 月 25 日）发布博文，报道称奥地利散热器厂商猫头鹰（Noctua）宣布和 Forced Physics DCT 建立长期合作，依托真空泵级别气流，探索实现单散热器 2000W 散热能力。\n\nIT之家援引博文介绍，传统塔式风冷散热器通常上限在 250W 至 300W，高端水冷方案也多在 500W 至 800W 区间，而猫头鹰公司正探索 JouleForce 微通道阵列散热方案，目标实现单散热器 2000W 的热设计功耗（TDP）处理能力。\n\n在技术原理方面，JouleForce 采用微通道阵列结构，将空气流道压缩至微米尺度，提升单位体积换热效率。配合高静压风扇，可在有限空间内维持高流量与低风阻，从而支撑更高热负载。\n\n在双方合作中，为了让高气流方案适用于桌面环境，猫头鹰目前研发重心放在降低运行噪音方面。官方指出当前原型更偏向工程验证，距离量产仍需解决风扇曲线、共振控制与机箱风道匹配等问题。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-26T05:04:31.053Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
