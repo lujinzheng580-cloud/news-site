@@ -2,237 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "c78e46cd0cd5",
-      "title": "联力带来 Edge Hub V2 / Adv 集线器，后者支持双显卡 12V-2×6 温度检测",
-      "url": "https://www.ithome.com/1/007/353.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.888Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "eaa8120e4cdf",
-      "title": "iQOO 16 新机影像再曝：5000 万索尼超级潜望长焦 + 5000 万超广角，CIPA 5.5 专业级防抖",
-      "url": "https://www.ithome.com/1/007/355.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.888Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4903d1f25c31",
-      "title": "美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力",
-      "url": "https://www.ithome.com/1/007/356.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.888Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fdad289aa0db",
-      "title": "华为 LOGO 印上大疆云台相机：HUAWEI × DJI Osmo Pocket 4 官宣 9 月 26 日起陆续到店",
-      "url": "https://www.ithome.com/1/007/357.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.887Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e066e9675c8b",
-      "title": "猫头鹰预热 WireView Pro II Noctua 显卡供电配件，配 40mm 风扇",
-      "url": "https://www.ithome.com/1/007/358.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.887Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fbd33bc41c7e",
-      "title": "京沪高铁、京沪铁路预约购票试点服务可预约日期范围将调整为开车前第 30 天至 17 天",
-      "url": "https://www.ithome.com/1/007/359.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.887Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b2e72d2ab500",
-      "title": "“中国天眼”FAST 项目有望 2028 年前后实现全链条国产化",
-      "url": "https://www.ithome.com/1/007/361.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.887Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a8afd792c935",
-      "title": "尔英推出基于英特尔酷睿 i7-13798HRE / i5-13598HRE 处理器的 MoDT 主板",
-      "url": "https://www.ithome.com/1/007/362.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.887Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6dfc08ca6e77",
-      "title": "北京越野 BJ40 增程黑曜版上市：18.48 万元，原厂黑化 + 4.9s 破百",
-      "url": "https://www.ithome.com/1/007/363.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.886Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "69c9b28b1e1e",
-      "title": "比亚迪首席科学家廉玉波：计划未来两年多时间建成 9 万座充电站，目标让充电站密度对标加油站",
-      "url": "https://www.ithome.com/1/007/364.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.886Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1c7902991e9d",
-      "title": "微软提醒 Win11 禁用 8.3 文件名：可提升文件操作速度，但影响应用兼容性",
-      "url": "https://www.ithome.com/1/007/365.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.886Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "df230db7f8c3",
-      "title": "英特尔开源游戏性能监测工具 PresentMon 2.6.0 发布：CPU 占用降低 78%，支持多显卡遥测同显",
-      "url": "https://www.ithome.com/1/007/367.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.886Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "31bee76edab2",
-      "title": "利民推出 TR-A30 ARGB / Vision 机箱：三面玻璃海景房，支持 ATX 主板",
-      "url": "https://www.ithome.com/1/007/368.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.885Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c5ee8c700ca8",
-      "title": "Claude Code 新机制：AI 任务中途触发 5 小时上限将优雅收尾",
-      "url": "https://www.ithome.com/1/007/369.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.885Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2895da4b7831",
-      "title": "为抢国庆火车票下 5 份候补花 1 万多元？12306 回应称多买不会提高中签率、反而会产生退票费",
-      "url": "https://www.ithome.com/1/007/370.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.885Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5b22eb791d5d",
-      "title": "消息称华为 Mate XT 2、Pura X View 手机星闪新增畅连查找好友功能，更多机型正陆续适配",
-      "url": "https://www.ithome.com/1/007/371.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.885Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0e6e4b63296d",
-      "title": "全新领克 20 × Christelle Kocher 联名高定车衣官宣，9 月 28 日上市",
-      "url": "https://www.ithome.com/1/007/373.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.884Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a016491ceceb",
-      "title": "微星 CLAW 8 EX AI+ 掌机英特尔锐炫 G3 款上市，较 G3 Extreme 款便宜 1000 元",
-      "url": "https://www.ithome.com/1/007/375.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.884Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f5cb93060bb3",
-      "title": "东风风神 L8Y 首批车主交付：女星毛晓彤现场提车，9.19 万元起",
-      "url": "https://www.ithome.com/1/007/376.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.884Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "35d329b7c4f9",
-      "title": "交通运输部：9 月 25 日中秋假期首日，全社会跨区域人员流动量 24219.8 万人次",
-      "url": "https://www.ithome.com/1/007/377.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.884Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1e202735e8bb",
-      "title": "安卓 / Linux / macOS / Windows 四大主流系统曝隐私风险：靠文件变化侧推监控用户",
-      "url": "https://www.ithome.com/1/007/378.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.883Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "8b0ed6c24d56",
       "title": "华硕破晓 Air 轻薄商务笔记本电脑预约：酷睿 7 350 + 16GB + 512GB",
       "url": "https://www.ithome.com/1/007/380.htm",
@@ -240,7 +9,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.883Z",
+      "publishedAt": "2026-09-26T14:18:30.560Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.883Z",
+      "publishedAt": "2026-09-26T14:18:30.560Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.882Z",
+      "publishedAt": "2026-09-26T14:18:30.560Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +42,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.882Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +53,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.882Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +64,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.882Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.881Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.881Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.881Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.881Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +119,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.880Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.880Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.879Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.879Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +163,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.879Z",
+      "publishedAt": "2026-09-26T14:18:30.559Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.878Z",
+      "publishedAt": "2026-09-26T14:18:30.558Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +185,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.878Z",
+      "publishedAt": "2026-09-26T14:18:30.558Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.878Z",
+      "publishedAt": "2026-09-26T14:18:30.558Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.877Z",
+      "publishedAt": "2026-09-26T14:18:30.558Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.877Z",
+      "publishedAt": "2026-09-26T14:18:30.558Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +229,249 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:17.876Z",
+      "publishedAt": "2026-09-26T14:18:30.558Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "96ebf9057567",
+      "title": "索尼芯片子公司将收紧远程办公：要求约 8000 名员工全面返岗，加速物理 AI 研发",
+      "url": "https://www.ithome.com/1/007/413.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.558Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fcf6ef9ec1c9",
+      "title": "让 AI 学会“挑刺”：根据说明书 + 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达 80%",
+      "url": "https://www.ithome.com/1/007/414.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9abeb87cf4fd",
+      "title": "努比亚 NaviX Ultra 手机《王者荣耀》使用异常，豆包手机助手回应称全程未对腾讯游戏系统进行任何操作",
+      "url": "https://www.ithome.com/1/007/415.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ef64ef1b0779",
+      "title": "曼联联名微软 Surface Laptop 亮相：搭载高通骁龙 X2 Elite，仅限抽签赠送",
+      "url": "https://www.ithome.com/1/007/416.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b7e65a249e19",
+      "title": "小天才推出 E6 耳夹耳机：耳机仓可为手表应急补电，599 元",
+      "url": "https://www.ithome.com/1/007/418.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0d7c74332974",
+      "title": "微软 Xbox 新一轮重组波及多家工作室：黑曜石划归贝塞斯达后引发员工担忧和不满，忍者理论出售未果面临关闭",
+      "url": "https://www.ithome.com/1/007/419.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "55566bca9b6d",
+      "title": "中国天眼 FAST 联合 DESI 观测：恒星“减产”并非燃料耗尽，宇宙缺的不是气而是“加工”能力",
+      "url": "https://www.ithome.com/1/007/420.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a34497e4f9e6",
+      "title": "OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度",
+      "url": "https://www.ithome.com/1/007/421.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0a850d6d2654",
+      "title": "华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能",
+      "url": "https://www.ithome.com/1/007/422.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "904cbdfe0a88",
+      "title": "李小龙：华为大疆联名款 Osmo Pocket 4 云台相机有更多协同功能",
+      "url": "https://www.ithome.com/1/007/424.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.557Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a80abf6ce5a1",
+      "title": "英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
+      "url": "https://www.ithome.com/1/007/426.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.556Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ec4bc74e5421",
+      "title": "荣耀 Magic9 Pro Max 手机搭载自研至臻黑钻屏：反射率 1.5%、峰值亮度 1 万尼特",
+      "url": "https://www.ithome.com/1/007/429.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.556Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cd5c03b1a9b6",
+      "title": "北京越野泰钽 700 开启首批交付：搭载华为乾崑智驾 ADS 5，超级焕新价 24.98 万元起",
+      "url": "https://www.ithome.com/1/007/430.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.556Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "021043be6fde",
+      "title": "新款马自达 EZ-60 激光版上市，限时价 11.39 万元起",
+      "url": "https://www.ithome.com/1/007/431.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.556Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5eb78317a822",
+      "title": "2026 WSBK 意大利克雷莫纳站第一回合：张雪机车德比斯排名第四",
+      "url": "https://www.ithome.com/1/007/432.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.556Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "dff4b4a8ee08",
+      "title": "1931 年理论预言终获验证：科学家首次在超冷原子气体中观测到贝特弦",
+      "url": "https://www.ithome.com/1/007/434.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.556Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "78b76cf23356",
+      "title": "欧盟拟增加卫星发射，或向挪威、英国、加拿大等寻求域外发射场",
+      "url": "https://www.ithome.com/1/007/435.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.555Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a9027d1e3cd2",
+      "title": "《英雄联盟》2026 德玛西亚杯升级国际邀请赛：明日开票，10 月 3 日开赛",
+      "url": "https://www.ithome.com/1/007/436.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.555Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f801253800ad",
+      "title": "绿联推出 65W 旅行转换充电器：无极旋转插脚适配美 / 澳 / 欧 / 英规、2C+1A，169 元",
+      "url": "https://www.ithome.com/1/007/437.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.555Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0ddfdcf0ee5f",
+      "title": "科学家首次实时观测单个声子消失，量子计算纠错研究迈出重要一步",
+      "url": "https://www.ithome.com/1/007/438.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.555Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2295bfd76b7d",
+      "title": "中国科学院与合工大解锁薄板“漩涡操控”新技术，实现无电子调控的跨尺度物体精准操控",
+      "url": "https://www.ithome.com/1/007/439.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.554Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a8329fab4eb2",
+      "title": "从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议",
+      "url": "https://www.ithome.com/1/007/441.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-26T14:18:30.554Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,106 +482,106 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "3a00c9e4c398",
-      "title": "习近平结束访美 特朗普第一时间发文",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%8F%91%E6%96%87",
+      "id": "52d15f99998b",
+      "title": "防止军国主义复活是中美共同责任",
+      "url": "https://www.baidu.com/s?wd=%E9%98%B2%E6%AD%A2%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%A4%8D%E6%B4%BB%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB",
       "source": "baidu",
       "category": "general",
-      "summary": "当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。美国总统特朗普第一时间在社交媒体平台发文称，此次元首会晤是一次充满友谊、力量与成功的会晤，期待与习近平主席的下一次会面。",
+      "summary": "9月26日是东京审判开庭80周年，中美同为联合国安理会常任理事国，维护战后国际秩序，防止军国主义复活是双方的共同责任。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "6d63be7aca58",
-      "title": "落实中美关系新定位",
-      "url": "https://www.baidu.com/s?wd=%E8%90%BD%E5%AE%9E%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E6%96%B0%E5%AE%9A%E4%BD%8D",
+      "id": "0e5807c11fc0",
+      "title": "把中美建设性战略稳定关系转为行动",
+      "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%E8%BD%AC%E4%B8%BA%E8%A1%8C%E5%8A%A8",
       "source": "baidu",
       "category": "general",
-      "summary": "应美利坚合众国总统特朗普邀请，国家主席习近平于9月23日至25日对美国进行国事访问。华盛顿之行，习近平主席同特朗普总统进行了坦诚深入交流，达成很多新的共识，丰富了中美建设性战略稳定关系的内涵，为中美关系提供了新的战略指引。",
+      "summary": "今年是中美各自发展的关键之年，中美关系又站在新的历史起点。双方应当展现大国担当，顺应人民期盼和时代大势，共同落实好两国元首重要共识，把中美建设性战略稳定关系从愿景转化为行动，朝着合作为主、竞争有度、分歧可控、和平可期的方向努力，走出一条两个大国在这个星球上的正确相处之道。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "d26e0c4de1f1",
-      "title": "中美达成300亿美元对等降税安排",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E7%AD%89%E9%99%8D%E7%A8%8E%E5%AE%89%E6%8E%92",
+      "id": "8aecac983f4d",
+      "title": "林诗栋蒯曼4比0王楚钦孙颖莎夺冠",
+      "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC4%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0",
       "source": "baidu",
       "category": "general",
-      "summary": "两国元首认可中美经贸磋商机制积极作用，和双方经贸团队磋商成果，包括建立并推进贸易理事会等机制，达成“300亿美元”对等降税安排，延期吉隆坡经贸磋商成果等，并指示予以落实。",
+      "summary": "9月26日，名古屋亚运会乒乓球混合双打决赛，中国队包揽金银牌！林诗栋/蒯曼组合夺得金牌，王楚钦/孙颖莎组合获得银牌。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "306120db545a",
-      "title": "张本智和无缘男单四强",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A0%E7%BC%98%E7%94%B7%E5%8D%95%E5%9B%9B%E5%BC%BA",
+      "id": "db0d6799569b",
+      "title": "蒯曼夺冠后发声：整场局面并不占优",
+      "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC%E5%A4%BA%E5%86%A0%E5%90%8E%E5%8F%91%E5%A3%B0%EF%BC%9A%E6%95%B4%E5%9C%BA%E5%B1%80%E9%9D%A2%E5%B9%B6%E4%B8%8D%E5%8D%A0%E4%BC%98",
       "source": "baidu",
       "category": "general",
-      "summary": "9月26日，在亚运会乒乓球男单四分之一决赛中，世界排名第4的日本选手张本智和爆冷以3-4不敌世界排名第344位的34岁伊朗选手阿拉米扬，无缘男单四强。此前阿拉米扬在上一轮比赛中以4-2击败中国香港选手黄镇廷闯入八强。",
+      "summary": "9月26日，名古屋亚运会乒乓球混双决赛上演国乒内战，林诗栋/蒯曼4比0战胜王楚钦/孙颖莎夺冠。赛后蒯曼坦言，虽4比0赢下比赛但局面并不占优，开局一度落后，靠一分分追回，场上争夺非常激烈。林诗栋则表示刚打完男单就投入决赛，多赛考验大。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "61149911d29a",
-      "title": "中国男足战胜泰国队晋级4强",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%88%98%E8%83%9C%E6%B3%B0%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A74%E5%BC%BA",
+      "id": "477f049d0ce3",
+      "title": "中方回应美方“超级智能”提法",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E2%80%9C%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E2%80%9D%E6%8F%90%E6%B3%95",
       "source": "baidu",
       "category": "general",
-      "summary": "9月26日，名古屋亚运会男足1/4决赛中，中国U23男足3比0战胜泰国队，晋级四强。上半场中国队两连击造成泰国队乌龙，下半场胡荷韬爆射得分，替补登场的张玉宁破门。",
+      "summary": "9月26日，外交部发言人就人工智能问题答记者问。针对美方介绍访问成果时，使用“超级智能”代替“人工智能”一事，中方称重视美方立场、尊重该提法。中美元首会晤已就人工智能议题深入探讨，中方呼吁各方结合形势加强交流，寻求共识。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "8507d180af46",
-      "title": "日本亚组委道歉",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%9A%E7%BB%84%E5%A7%94%E9%81%93%E6%AD%89",
+      "id": "02afac375404",
+      "title": "张本智和回应爆冷出局",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
       "source": "baidu",
       "category": "general",
-      "summary": "据日本《东京体育》9月26日报道，2026年日本爱知·名古屋亚运会期间，多国代表团及媒体人员等反映在住宿、交通等方面遇到问题，日本亚组委事务总长村手聪26日在接受记者采访时就此致歉。",
+      "summary": "9月26日，在日本名古屋进行的亚运会乒乓球男单四分之一决赛中，世界第四的张本智和3:4爆冷不敌排名第344位的伊朗选手阿拉米扬。张本智和赛后回应称这几乎是一场完败，坦言若处理好对手发球可能就赢。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "7c24f444dab7",
-      "title": "毛宁发布多张习近平访美现场图片",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E5%8F%91%E5%B8%83%E5%A4%9A%E5%BC%A0%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E7%8E%B0%E5%9C%BA%E5%9B%BE%E7%89%87",
+      "id": "2c58dcbf913c",
+      "title": "国足亚运队 争奖牌",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9F+%E4%BA%89%E5%A5%96%E7%89%8C",
       "source": "baidu",
       "category": "general",
-      "summary": "当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。习近平主席访美期间，中国外交部发言人毛宁在海外社交平台X上发布多张现场图片，记录一个又一个重要时刻。",
+      "summary": "26日，7500多名观众见证中国队击败泰国队，晋级爱知·名古屋亚运会男足四强。从小组出线，到晋级半决赛，再到争取一枚奖牌，中国球员的目标随着比赛一场场向前。胜利之后，他们谈得最多的，仍是如何准备、如何配合，以及怎样踢好下一场。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "7c9ffcbc09ec",
-      "title": "白宫里的三张照片见证中美关系",
-      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E9%87%8C%E7%9A%84%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB",
+      "id": "c9f2d82239b4",
+      "title": "中美关系定位内涵进一步丰富",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%AE%9A%E4%BD%8D%E5%86%85%E6%B6%B5%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%B0%E5%AF%8C",
       "source": "baidu",
       "category": "general",
-      "summary": "白宫里悬挂着中美两国元首去年釜山会晤、今年5月北京会晤的照片。如今，历史再次定格下习近平主席在白宫出席特朗普举行欢迎仪式的瞬间。从釜山到北京再到华盛顿，两国元首引领中美关系行稳致远。",
+      "summary": "习近平主席圆满结束对美国的国事访问。此次访美期间，两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。中美关系定位内涵的进一步丰富，将如何引领未来两国关系发展？一起来看专家的解读。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "0bfc22f68d43",
-      "title": "女篮 铜牌",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AF%AE+%E9%93%9C%E7%89%8C",
+      "id": "23ededa560e2",
+      "title": "中秋档票房破两亿",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%A7%8B%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%B8%A4%E4%BA%BF",
       "source": "baidu",
       "category": "general",
-      "summary": "9月26日，名古屋亚运会女子篮球铜牌赛，中国队击败中国台北队，获得铜牌！",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,86 +592,75 @@
       "category": "general",
       "summary": "近日，全国网络辟谣针对“龙眼泡药水致癌、打针增甜”等6大常见误区进行辟谣。真相显示：合规保鲜处理安全无害，打针注糖水会破坏果肉无法储存，同食海鲜无中毒一说，外壳白霜实为天然蜡质保护层。龙眼仅为食疗食材不能替代药物治病。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "cbc827093068",
-      "title": "刘欢在家人陪伴下病逝",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%9C%A8%E5%AE%B6%E4%BA%BA%E9%99%AA%E4%BC%B4%E4%B8%8B%E7%97%85%E9%80%9D",
+      "id": "92031fab172b",
+      "title": "起猛了 大头儿子长大了",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E9%95%BF%E5%A4%A7%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "2026年9月25日9时52分，中国内地流行乐男歌手刘欢在家人的陪伴下于上海病逝，享年63岁。",
+      "summary": "电影《新大头儿子和小头爸爸之天眼系列：失控的第七天》正式定档，10月1日登陆全国院线，“大头儿子”与“天眼”两大经典动画首次银幕联动。预告显示，天眼施展魔法让大头儿子变成20岁青年，帮遭遇职场困境的小头爸爸解困。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c213fc36a53b",
-      "title": "韩红生日当天得知刘欢去世",
-      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E5%BE%97%E7%9F%A5%E5%88%98%E6%AC%A2%E5%8E%BB%E4%B8%96",
+      "id": "052ea765e59f",
+      "title": "那英哽咽演唱《弯弯的月亮》",
+      "url": "https://www.baidu.com/s?wd=%E9%82%A3%E8%8B%B1%E5%93%BD%E5%92%BD%E6%BC%94%E5%94%B1%E3%80%8A%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE%E3%80%8B",
       "source": "baidu",
       "category": "general",
-      "summary": "9月25日，著名音乐人刘欢在上海病逝，享年63岁。韩红生日当天，得知刘欢去世，发文悼念：“惊闻欢哥驾鹤去，悲痛欲绝泪难收。三尺讲台音容在，清风长伴白云游。哥哥，您的歌声犹在耳边留。刘欢先生一路走好。”",
+      "summary": "9月26日晚，那英在成都凤凰山体育公园举行演唱会，特别演唱《弯弯的月亮》致敬挚友刘欢。此前一天，著名音乐家刘欢因病在上海逝世。台下观众以掌声回应，与那英一同送别这位老友。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "21d62b9af555",
-      "title": "刘欢妻子：我永远的爱永远的痛",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%97%9B",
+      "id": "06e69d438388",
+      "title": "张艺谋工作室：音与魂鸟巢留芳",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%9A%E9%9F%B3%E4%B8%8E%E9%AD%82%E9%B8%9F%E5%B7%A2%E7%95%99%E8%8A%B3",
       "source": "baidu",
       "category": "general",
-      "summary": "9月25日，音乐家刘欢在上海不幸病逝。刘欢学员乌拉多恩透露，师娘在朋友圈发文悼念：我永远的爱，永远的痛。",
+      "summary": "9月26日下午，张艺谋工作室发文悼念刘欢：“惊悉刘欢逝世，不禁悲伤。《我和你》依然传唱，音与魂鸟巢留芳。”此前，二人因2008北京奥运会开幕式结缘，刘欢与莎拉·布莱曼合唱的主题曲《我和你》定格成奥运史上传世的经典瞬间。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "dc08f742867f",
-      "title": "姚贝娜父亲哽咽回应刘欢去世",
-      "url": "https://www.baidu.com/s?wd=%E5%A7%9A%E8%B4%9D%E5%A8%9C%E7%88%B6%E4%BA%B2%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E5%88%98%E6%AC%A2%E5%8E%BB%E4%B8%96",
+      "id": "39af2a24c92c",
+      "title": "日本男单全军覆没",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1",
       "source": "baidu",
       "category": "general",
-      "summary": "9月26日，姚贝娜父亲姚峰前往石门峰纪念公园悼念女儿，途中得知刘欢病逝受访时哽咽落泪，称刘欢是当之无愧的天才，直言很痛心。此前9月25日刘欢病逝，9月26日官方发讣告恰逢姚贝娜生日。姚父回忆女儿曾演唱刘欢《甄嬛传》曲目，感叹其创作高级无人能及。",
+      "summary": "9月26日，亚运会乒乓球男单1/4决赛，林诗栋4比2淘汰松岛辉空，刚刚3比4不敌阿拉米扬的张本智和也止步8强，至此，日本队无缘男单四强。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f081158af1fc",
-      "title": "刘欢：遗憾是作品写得太少了",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%EF%BC%9A%E9%81%97%E6%86%BE%E6%98%AF%E4%BD%9C%E5%93%81%E5%86%99%E5%BE%97%E5%A4%AA%E5%B0%91%E4%BA%86",
+      "id": "9b86c5c52a27",
+      "title": "男子在重庆开车遇到“蛟龙出海”",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E9%87%8D%E5%BA%86%E5%BC%80%E8%BD%A6%E9%81%87%E5%88%B0%E2%80%9C%E8%9B%9F%E9%BE%99%E5%87%BA%E6%B5%B7%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "2021年刘欢在访谈中坦言：“遗憾是作品写得太少了。音乐是对自己的表达，倘若没有想诉说的东西，那就停下来。”",
+      "summary": "“我一个本地人都被这庞然大物所震撼！”近日，重庆一男子开车遇轨道交通二号线似“蛟龙出海”，一同行驶直呼压迫感十足。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "95589748eb8b",
-      "title": "2米多长金箍棒 一口价428.8万",
-      "url": "https://www.baidu.com/s?wd=2%E7%B1%B3%E5%A4%9A%E9%95%BF%E9%87%91%E7%AE%8D%E6%A3%92+%E4%B8%80%E5%8F%A3%E4%BB%B7428.8%E4%B8%87",
+      "id": "32c41a262708",
+      "title": "文艺界集体发文悼念刘欢",
+      "url": "https://www.baidu.com/s?wd=%E6%96%87%E8%89%BA%E7%95%8C%E9%9B%86%E4%BD%93%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2",
       "source": "baidu",
       "category": "general",
-      "summary": "9月26日，媒体报道西安一金店展出一根2米多长、金重约1740克的纯金金箍棒，标价428.8万元。店员称该展品为非卖品，但如有需要可订做。",
+      "summary": "9月26日，多方发布讣告，称著名音乐人、歌手刘欢9月25日9时52分在家人的陪伴下于上海病逝，享年63岁。消息公布后，众多演艺界明星、音乐同行纷纷发文悼念，追忆与刘欢老师相识相知的点滴，感念他毕生深耕音乐、提携后辈的赤诚初心。",
       "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "d7249ea32975",
-      "title": "刘欢上个月在国外还被偶遇了",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E4%B8%8A%E4%B8%AA%E6%9C%88%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%BF%98%E8%A2%AB%E5%81%B6%E9%81%87%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月25日，著名音乐人刘欢在上海病逝，享年63岁。此前一个月，有网友晒出在国外偶遇他的照片，照片里他的大肚腩变小，状态看起来不错。当时他还现场演唱《好汉歌》，点燃全场氛围。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-26T09:55:25.891Z",
+      "publishedAt": "2026-09-26T14:18:38.562Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-09-26T09:55:29.078Z"
+  "generatedAt": "2026-09-26T14:18:40.570Z"
 }
