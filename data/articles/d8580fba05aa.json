@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 26 日消息，微软正推进对 Windows Media Player Legacy（WMPL）遗留功能的清理。\n\nNeoWin 今日发现，原计划于 2026 年 11 月 10 日停止支持的经典皮肤功能，如今已提前失效，程序启动时会直接显示默认界面。\n\n根据微软此前公布的弃用计划，Windows Media Player Legacy 将从 2026 年 11 月 10 日起，在 Windows 11 24H2 及更高版本（包括 25H2 和即将推出的 26H2）停止支持皮肤功能。\n\n微软在官方说明中表示：“自 2026 年 11 月 10 日起，Windows Media Player Legacy（WMPL）的皮肤功能将在 Windows 11 24H2 及更高版本中不再受支持。”\n\n用户 Aryeh Goretsky 反馈称：自己一直将 Windows Media Player Legacy（wmplayer.exe）作为一款轻量级播放器使用，而微软自 Windows 2000 和 Windows Me 时代便一直提供经典主题。他认为，虽然官方公布的停用日期是 2026 年 11 月 10 日，但至少在他的设备上，这项功能似乎已经提前失效。\n\n对于长期使用经典 Windows Media Player 的用户而言，这一变化引发了一定失望情绪。Aryeh Goretsky 表示，虽然目前市面上已有不少媒体播放器可供选择，但 WMPL 一直是系统自带、支持皮肤定制且资源占用较低的播放器。\n\nIT之家注意到，微软近年来持续清理 Windows 中的遗留组件。此前，微软已确认将在下一代 Windows Server 中移除多项 Windows 部署服务（WDS）组件，并向 IT 管理员发布了迁移指南。此次 WMPL 皮肤功能的调整，也是这一长期精简计划的一部分。\n\n目前尚不清楚皮肤功能提前失效是否属于分阶段推送、特定系统版本变化，还是软件更新导致的行为变化，微软尚未就提前停用现象发布进一步说明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-26T14:18:30.558Z",
+    "publishedAt": "2026-09-26T17:56:08.479Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

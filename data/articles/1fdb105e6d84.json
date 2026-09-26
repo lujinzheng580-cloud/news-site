@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 26 日消息，Intel（英特尔）当地时间 25 日为第 11~14 代酷睿处理器的核芯显卡、锐炬 Xe \"DG1\" 独立显卡推送了 32.0.101.7092 版本 WHQL 图形驱动程序。\n\nhttps://www.intel.cn/content/www/cn/zh/download/864990/929468/intel-11th-14th-gen-processor-graphics-windows.html\n\n该驱动程序解决了以 DX12 / DX11 API 游玩《永劫无间》时存在的水体附近可能会出现纹理缺失的问题。\n\n这一版本有 2 项已知的英特尔 Graphics Software 软件问题：\n\n在 Windows 10 中使用“设置”“偏好设置”“重置所有设置”选项时，应用程序可能会间歇性崩溃。从各个页面重置设置则不会出现此问题。\n\n在“选择指标”窗口中首次重新排列指标时，英特尔 Graphics Software 有时可能会发生单次应用程序崩溃。后续使用将不再受此崩溃影响。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-26T14:18:30.559Z",
+    "publishedAt": "2026-09-26T17:56:08.481Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
