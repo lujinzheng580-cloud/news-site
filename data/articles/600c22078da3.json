@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 27 日消息，据科技媒体 VideoCardz 今天报道，V社现已为 SteamOS 推送 3.8.28 Beta 更新，为 AMD 独显带来一项修复。\n\nIT之家从原报道获悉，本次更新适用于 Steam Machine 等使用 AMD 独显的机型。主要修复 AMD GPU 及其睡眠重新唤醒后，游戏性能可能下降的问题。\n\nSteamOS 3.9.1 Preview 同样针对 RDNA1 和 RDNA2 独显的主机加入睡眠相关修复。Valve 没有说明此次 3.8.28 修复是否与此前问题相关，因此这些问题可能源自不同的 Bug，只不过共同影响了睡眠后性能。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-27T07:57:45.812Z",
+    "publishedAt": "2026-09-27T13:50:51.560Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
