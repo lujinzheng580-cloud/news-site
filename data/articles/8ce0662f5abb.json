@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8ce0662f5abb",
+    "title": "MINIX 推出 N304-AI 迷你主机：双 M.2 SSD 盘位、双 1GbE RJ-45 网口",
+    "url": "https://www.ithome.com/1/007/690.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/690.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 28 日消息，MINIX 现已正式推出基于英特尔 \"Wildcat Lake\" 酷睿 3 处理器 304 的 N304-AI 迷你主机。这一型号提供 2 个 PCIe Gen4 ×1 的 M.2 2280 SSD 盘位、2 个 1GbE RJ-45 有线网口。\n\nN304-AI 三维 127×126.8×46 (mm)，机身大面积覆盖拉丝纹理；板载 16GB LPDDR5X-6400 内存，预装 512GB PCIe Gen3 SSD 存储；配备 Wi-Fi 6 & 蓝牙 5.3 无线网卡；支持 3 路视频信号输出；预装 Windows 11 Pro 操作系统。\n\n其机身正面提供 1 个 3.5mm 二合一音频插孔、1 个全功能 USB-C 10Gbps、2 个 USB-A 10Gbps；反面除网口外还有 2 个 USB-A 480Mbps、1 个 DisplayPort 1.4、1 个 HDMI 2.1 (TMDS)。\n\nMINIX N304-AI 迷你主机官网标价 715 美元（IT之家注：现汇率约合 4,804 元人民币）。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-28T05:01:51.460Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

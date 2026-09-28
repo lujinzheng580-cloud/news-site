@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7490390d6cea",
+    "title": "2D 时代的 GTA 也有画质升级，开发者用英伟达 RTX Remix 让《GTA 2》支持光追",
+    "url": "https://www.ithome.com/1/007/764.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/764.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 28 日消息，当地时间 27 日，据外媒 TechPowerUp 报道，Mod 作者 gebdag 发布了《GTA 2》RTX Remix 模组，为其带来完整路径追踪和动态昼夜光照。\n\nIT之家注：《GTA 2》发布于 1999 年，仍是 2D 画风的俯视角游戏。2001 年发布的《GTA 3》是《侠盗猎车手》系列迈入 3D 时代的开山之作。\n\n英伟达 GeForce 宣传大使雅各布 · 弗里曼分享了一段演示视频。\n\n整个开发过程最大的难点在技术层面：《GTA 2》采用 DirectDraw 和早期版本 Direct3D，而 RTX Remix 并不原生支持这两套技术。\n\n为绕过这一限制，gebdag 利用两个 DLL 制作了一套定制 Direct3D 9 封装层，将游戏原有的旧式渲染调用转换为 RTX Remix 能够识别的形式。据称，模组由此实现了实时光线路径追踪，爆炸、燃烧的车辆和霓虹灯都能自行照亮周围环境，昼夜交替时的整体光照也会随时间变化。\n\n模组同时解锁了 16:9 宽屏显示，原版游戏只能以 4:3 运行，并加入帧生成功能，使帧率最高可达 60 FPS，明显超过原版游戏能够达到的水平。\n\n《GTA 2》RTX Remix 现已在 GitHub 开源，开发者测试的游戏版本是 R 星 2004 年免费发布的 9.6 版，运行该模组需要 64 位 Windows 10 或 Windows 11，并安装 RTX Remix。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-28T05:01:51.457Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
