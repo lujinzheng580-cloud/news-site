@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3a00385e56f6",
+    "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%，智能体编码性能反超 Opus 5.5",
+    "url": "https://www.ithome.com/1/008/072.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/072.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 29 日消息，随着 AI 模型竞赛持续升温，Anthropic 推出了旗下中端模型 Sonnet 的最新版本。该公司表示，新版模型运行速度会快得多，使用成本也较上一代大幅降低。\n\nIT之家注意到，这家实验室将 Sonnet 5.5 定位为日常任务的理想助手，适用场景包括编写代码以及制作办公文档。\n\nSonnet 5.5 的上一代产品 Sonnet 5 是大约三个月前发布的。当时这款模型的主打优势是智能体的高效部署，也就是运行智能体的成本低于竞品。\n\n而 5.5 版本的核心亮点在于速度。Anthropic 称，Sonnet 5.5 的速度比上一代提升 30%，词元（Token）消耗速度也明显更低。\n\n在 Anthropic 的模型产品序列当中，Sonnet 的性能弱于 Opus 模型，但凭借反应灵活的特点，在部分场景下反而更加实用。尤其是 Anthropic 的基准测试结果显示，Sonnet 5.5 在智能体编码任务上的表现优于 Opus 5.5。出现这一结果，很可能是因为它可以同时启动多个智能体，又不会突破成本上限。\n\n据称 Sonnet 5.5 同时具备不俗的网络攻防能力。该公司宣称，其网络攻防水平与 Opus 5 处于同一水准。正因如此，Anthropic 表示，5.5 是 Sonnet 系列首款执行与 Fable、Opus 同等网络安全防护机制的模型。\n\n该公司还计划在未来几周内发布其最小规模的模型 —— Haiku 的新版本，但尚未给出确切的发布日期。\n\n过去一年，各大 AI 实验室接连密集推出多款新模型。就在上周，OpenAI 发布了多款新模型，其中就包括中端型号 Sol 以及高性价比型号 Luna 的增强版本。Meta 同样发布了一款新模型，官方称这款模型将用于支持其智能眼镜即将上线的一项新功能。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-28T23:47:37.727Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

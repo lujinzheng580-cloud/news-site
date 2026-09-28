@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e73902cb8608",
+    "title": "AMD 斥资 82 亿美元收购 World Labs，“AI 教母”李飞飞出任执行副总裁兼首席科学家",
+    "url": "https://www.ithome.com/1/008/076.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/076.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 29 日消息，当地时间 28 日，AMD 宣布同意以全股票交易收购旧金山初创公司 World Labs，交易价值约 82 亿美元（IT之家注：现汇率约合 551 亿元人民币）。\n\nWorld Labs 由李飞飞等人于 2024 年联合创办，主要开发“世界模型”，让 AI 根据文本、图像和视频生成或重建能够交互的 3D 环境。未来，这项技术可以用于机器人训练、工厂模拟和科学研究。\n\n按照收购协议，李飞飞将加入 AMD，出任执行副总裁兼首席科学家，并向苏姿丰汇报。\n\n有“AI 教母”之称的李飞飞因创建大型标注图像数据库 ImageNet 而广为人知。ImageNet 曾帮助证明，更大的数据规模能够显著提升计算机视觉能力。李飞飞后来担任谷歌云 AI 和机器学习首席科学家，并成为斯坦福大学“以人为本 AI 研究院”创始联席主任。\n\n本月早些时候，World Labs 推出新 AI 模型 Atlas，只需少量 2D 图像，就能预测同一场景换一个摄像机角度后呈现的画面。根据 World Labs 介绍，这种工作方式可比作大语言模型预测一句话中的下一个词。\n\nAMD CEO 苏姿丰在新闻稿中称，收购 World Labs 能够让 AMD 更深入地了解尖端 AI 模型的演进方向，从而开发运行这些模型所需的芯片和计算系统。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-28T23:47:37.726Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
