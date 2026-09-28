@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f7b587e1bc95",
+    "title": "破解组织 DenuvOwO 被曝已解散：Irdeto 诉 Voices38 案引发大范围震慑",
+    "url": "https://www.ithome.com/1/008/004.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/004.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 28 日消息，多方报道称，专门研究 Denuvo DRM 加密技术的破解组织 DenuvOwO 已解散。这一消息最初来自其社区成员公开确认的聊天记录。\n\n外界普遍认为，此举是为了降低平台在 Irdeto 持续追查 Voices38 身份背景下所面临的法律风险。此次事件也促使知名盗版论坛 CS.Rin 清理了相关破解资源的下载链接，并封禁了部分与 DenuvOwO 有关联的成员。\n\n相关诉讼于当地时间 9 月 14 日提交至美国加州北区联邦地区法院。Irdeto 指控 Voices38 绕过其 DRM 技术，并涉及 26 款游戏的破解行为，并依据美国《数字千年版权法》（DMCA）的反规避条款寻求赔偿及禁令，而非直接主张游戏版权侵权。\n\nDenuvOwO 最受关注的成果是开发了一种基于 Hypervisor（IT之家注：虚拟机监控程序）的 Denuvo 绕过方案，社区通常简称为 HV。与传统破解不同，这一方案属于绕过 DRM 的工具，本身并非游戏文件，并且需要关闭部分系统级保护机制后才能运行。\n\n目前尚无 DenuvOwO 官方公开说明具体解散原因。不过，接近破解社区的消息人士称，Irdeto 对 Voices38 发起的法律行动可能产生了震慑作用。\n\n值得注意的是，DenuvOwO 并未宣称 Hypervisor 绕过技术已终止。多名团队成员表示，相关代码至少有部分内容已经公开，未来仍可能由其他开发者继续维护这一技术路线。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-28T11:44:17.084Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

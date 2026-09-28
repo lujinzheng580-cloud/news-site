@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f689b475e7ad",
+    "title": "传英特尔代工主管预测自家 1.4nm 级工艺性能表现与台积电相差 5% 以内",
+    "url": "https://www.ithome.com/1/007/948.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/007/948.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 28 日消息，X 平台 @Alex_Intel_ 本月 24 日分享了一张据称来自投资银行 KeyBanc Capital Markets 报告的图片。\n\n该图片表示，英特尔代工总经理 Naga Chandrasekaran 在会面中预计两个 1.4nm 级逻辑半导体先进制程工艺节点 —— Intel 14A 与台积电 A14 之间的性能差距将在 5% 以内；而在先进封装方面，即使台积电导入 CoPoS 异构集成，英特尔代工仍能凭借 EMIB-T 保持领先地位。\n\n图片提到，Naga Chandrasekaran 通过问责与文化上的变革扭转了英特尔代工的颓势，英特尔代工仍计划在 2027 年底前实现盈利平衡，这大致需要每月 4 万片晶圆的外部客户订单。\n\nIntel 18A 产能接近每月 3 万片晶圆，性能表现介于台积电 N3 和 N2P 之间；Intel 18A-P 缺陷密度月度改进幅度达到 7~11%，良率稳健提升；Intel 14A 快速爬坡，现能支持每月 1.4 万片晶圆产能。\n\n另一方面，英特尔代工仍需提升超大规模客户所需的大尺寸芯片的良率、提升 EMIB-T 基板良率，与移动端客户就 Intel 14A 上的背部供电相关问题达成一致。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-28T11:44:17.091Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
