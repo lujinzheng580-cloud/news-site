@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "54c1ddeab791",
+    "title": "开发者将《塞尔达传说：黄昏公主》游戏移植到任天堂 New 3DS 掌机，支持裸眼 3D",
+    "url": "https://www.ithome.com/1/008/030.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/030.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 28 日消息，据科技媒体 TweakTown 今天报道，开发者 Game of Tobi 最近将塞尔达系列经典作品《塞尔达传说：黄昏公主》移植到任天堂 New 3DS 掌机。当前阶段已实现较大进展，可打开裸眼 3D 效果。\n\n据IT之家了解，《塞尔达传说：黄昏公主》是任天堂 2006 年发布的游戏，最初登陆 NGC 和 Wii 平台，2016 年 WiiU 平台还有一款重置版《塞尔达传说：黄昏公主 HD》。\n\n据悉，Game of Tobi 使用社区反编译项目移植 3DS 版本。目前本作已经可以在 New 3DS 掌机运行，可打开裸眼 3D 效果。但还是存在帧率下降、卡顿等问题。部分场景中还会出现类似纹理或资源动态加载的 Bug，即林克移动时，环境中的部分纹理或素材会突然出现。\n\n需要注意的是，该开发者当前仅针对 New 3DS 进行移植。他目前在公开征求意见，考虑是否先发布 New 3DS 版本，之后再推出 3DS 版。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-28T18:45:47.370Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
