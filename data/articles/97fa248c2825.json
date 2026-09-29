@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "97fa248c2825",
+    "title": "TrendForce：降容保供难撼紧缺大势，预计 HBM 均价 2027 年上涨 121%",
+    "url": "https://www.ithome.com/1/008/342.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/342.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 29 日消息，TrendForce（集邦）今日宣布上调对 HBM 内存 2027 年价格的展望，预计其平均价格将在明年出现 121% 的同比增长。\n\n从整体上来看，AI 服务器需求持续扩张，HBM 与通用 DRAM 产品竞争有限产能的情况不会发生改变，而随着 AI 芯片的迭代升级，均价更高的 HBM4 占比逐渐提升、HBM4E 也将逐步放量，推动价格上行。\n\n多家 AI XPU 业者近期陆续讨论在部分产品中以低堆叠的 8Hi HBM 代替原定的 12Hi。机构认为，8Hi 在性能、供应、成本三方面相对均衡，预计成为部分企业在 2027 年优先评估的方案。\n\n但对于 8Hi HBM 而言，其在相同总容量下所需的 Base Die 要比 12Hi 方案多出 50%。这意味着 8Hi HBM 的单位容量的成本可能较 12Hi 产品高出 10~20%。\n\n总的来看，HBM 堆叠层数的调整虽可部分缓解 XPU 整体成本压力，但难以扭转 HBM 整体价格大幅上涨的趋势。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-29T11:31:18.118Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

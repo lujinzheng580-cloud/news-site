@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "36b3ebef6b4d",
+    "title": "苹果 iOS 27.2 Beta 2 系统新改动：控制中心单独设置 App 文字大小滑块回归",
+    "url": "https://www.ithome.com/1/008/362.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/362.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 9 月 29 日消息，据科技媒体 MacObserver 今天报道，部分用户发现苹果 iOS 27.2 Beta 2 测试版系统出现一项改动，此前在控制中心消失的 App 单独设置文字大小滑块已然回归。\n\nIT之家从原报道获悉，用户目前可在 App 内打开控制中心，然后点击 AA 按钮呼出滑块调整应用内文字大小。如果控制中心内没有 AA 按钮，可以通过左上角的加号按钮重新加回去。\n\n该功能允许用户放大或缩小单个 App 的文字大小，不会影响整个系统的大小。用户也可以通过“设置 > 辅助功能 > App 单独设置”针对不同应用设置辅助功能选项，不过操作步骤会更多。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-29T11:31:18.118Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
