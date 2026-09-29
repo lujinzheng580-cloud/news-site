@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2b0e0d63560c",
+    "title": "三星高管预计明年 HBM 占 DRAM 行业总产能近 30%，高于目前的 20%",
+    "url": "https://www.ithome.com/1/008/124.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/124.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 29 日消息，据路透社报道，三星电子一位高管表示，高带宽内存（HBM）预计明年将占到各家 DRAM 芯片厂商全部晶圆产能的近 30%，高于目前约 20% 的水平。\n\n三星电子（SSNLF）执行副总裁金泰宇（Kim Taewoo）称，HBM 与普通 DRAM 争夺晶圆产能。这就意味着扩大 HBM 的产出规模，有可能会挤压标准 DRAM 的供给。\n\n据IT之家了解，HBM 是 AI 算力当中的关键元器件，由多层存储芯片垂直堆叠而成，可以让处理器以极高的速度读取海量数据。该市场目前主要由韩国的 SK 海力士、三星电子以及美国美光科技三家企业主导。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-29T05:26:42.621Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
