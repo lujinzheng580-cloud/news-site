@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "452751aa4162",
+    "title": "OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化",
+    "url": "https://www.ithome.com/1/008/528.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/528.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布升级插件扩展。\n\n借助插件扩展，开发者可以直接在 ChatGPT 中构建丰富的应用内体验。现在，用户可以为插件在侧边栏中设置专属入口，构建可供用户一边对话一边工作的交互面板，或为产品支持的文件类型创建查看器。\n\n此外，插件创建工具可以帮助开发者构建插件，重新设计的提交流程则提供更清晰的反馈。OpenAI 还在改进插件目录和对话中的插件排序与推荐方式，帮助用户找到相关插件。用户始终可以自主选择使用哪些插件，并逐一批准其访问权限。\n\n现在，用户可以将受支持的 ChatGPT 插件接入自己构建的站点，让工作空间中的团队成员凭各自的权限登录同一应用，并使用各自连接的数据。OpenAI 还简化了自动化流程的添加和管理，让站点中的共享信息保持最新。（适用于 Business、Enterprise、医疗保健版和 Education 套餐）\n\nIT之家从发布会获悉，OpenAI 正在加入对拟议的 MCP 事件规范的支持，让插件能够在已连接的应用中发生事件时启动自动化流程。例如，用户可以让 ChatGPT 关注项目看板上的新任务。有新任务时，即使用户不在，ChatGPT 也能阅读关联文档并起草计划。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-29T21:25:24.265Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -2,193 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "e7e0d721a720",
-      "title": "1299 元：富士 Instax Pal 2 掌上相机开售，1/3.06 英寸 10MP 传感器",
-      "url": "https://www.ithome.com/1/008/434.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.945Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "46756e3592a9",
-      "title": "华为 HarmonyOS 7 超空间存储支持设备名单更新：覆盖 Mate、Pura、nova、畅享等系列，1TB 机型最多节省 109GB 空间",
-      "url": "https://www.ithome.com/1/008/435.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.945Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b80dfb328b9c",
-      "title": "欧洲首个：微信支付接入意大利北方铁路，支持购买火车 & 地铁票",
-      "url": "https://www.ithome.com/1/008/439.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.944Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "2569316daff3",
-      "title": "荷兰政府计划放弃微软 Windows 系统，转投本土替代产品 NixOS",
-      "url": "https://www.ithome.com/1/008/440.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.944Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f4c53c1d7246",
-      "title": "荣耀 AI 耳夹耳机 FlyClip Pro 开售：国补价 389.7 元，续航 44 小时",
-      "url": "https://www.ithome.com/1/008/441.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.944Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "50c442a44dfd",
-      "title": "央视提醒：手机充电器长期不拔会加速老化，已引发多起火灾",
-      "url": "https://www.ithome.com/1/008/442.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.944Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "21f0479b774b",
-      "title": "iQOO 15 手机销量突破 200 万台",
-      "url": "https://www.ithome.com/1/008/443.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.943Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "354c60f3bd4e",
-      "title": "因市场不确定性，智能穿戴设备公司 OURA 推迟 IPO 计划",
-      "url": "https://www.ithome.com/1/008/444.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.943Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "16ef1fc673c2",
-      "title": "4499 元联想瑞天 14X 笔记本电脑发售：英特尔酷睿 5 320、14 英寸 2.8K 120Hz",
-      "url": "https://www.ithome.com/1/008/445.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.943Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3900d861a60a",
-      "title": "吉利首款 AI 全地形硬核 SUV：银河战舰 700 将于 10 月 10 日正式上市，预售价 19.98 万元起",
-      "url": "https://www.ithome.com/1/008/446.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.943Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7f3498ac4ad0",
-      "title": "中国科学家发起的国际大科学计划步入实施阶段：π-HuB 计划研究框架含 13 项研究计划，先导项目取得进展",
-      "url": "https://www.ithome.com/1/008/449.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.943Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1a3601d628a4",
-      "title": "iQOO16 手机行业首发 Q-flex 操控技术：至高 5000Hz 瞬时触控采样率，陀螺仪采样率最高 500Hz",
-      "url": "https://www.ithome.com/1/008/463.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.942Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c8290fc14e67",
-      "title": "荣耀 Magic9 全系机型获首批“AI 智能体手机”入网认证",
-      "url": "https://www.ithome.com/1/008/465.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.942Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f5214324747f",
-      "title": "199 元，小米推出米家钛保温杯茶水分离版 500ml",
-      "url": "https://www.ithome.com/1/008/466.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.942Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "70f8023e9a2b",
-      "title": "火影 T5A 2026 款游戏本发售：酷睿 i5-13420H + RTX 3050，5499 元起",
-      "url": "https://www.ithome.com/1/008/467.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.942Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e042c1929381",
-      "title": "DeepSeek Harness 桌面端预览版 v0.2 发布，支持插件安装与自动化任务",
-      "url": "https://www.ithome.com/1/008/469.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.942Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "cbd75586e556",
-      "title": "赛豆科技 AIVA 首款量产车 ME7 全球首秀：提供纯电与增程版本",
-      "url": "https://www.ithome.com/1/008/470.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.941Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "4533d94d61c1",
       "title": "iQOO 16 手机发布：首批搭载高通第六代骁龙 8 超级至尊版、2K 三星珠峰屏，5999 元起",
       "url": "https://www.ithome.com/1/008/471.htm",
@@ -196,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.941Z",
+      "publishedAt": "2026-09-29T21:25:24.274Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +20,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.941Z",
+      "publishedAt": "2026-09-29T21:25:24.274Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +31,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.941Z",
+      "publishedAt": "2026-09-29T21:25:24.274Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.940Z",
+      "publishedAt": "2026-09-29T21:25:24.273Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.940Z",
+      "publishedAt": "2026-09-29T21:25:24.273Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.940Z",
+      "publishedAt": "2026-09-29T21:25:24.273Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.940Z",
+      "publishedAt": "2026-09-29T21:25:24.273Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.940Z",
+      "publishedAt": "2026-09-29T21:25:24.272Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.939Z",
+      "publishedAt": "2026-09-29T21:25:24.272Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.939Z",
+      "publishedAt": "2026-09-29T21:25:24.272Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.939Z",
+      "publishedAt": "2026-09-29T21:25:24.272Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.939Z",
+      "publishedAt": "2026-09-29T21:25:24.272Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.938Z",
+      "publishedAt": "2026-09-29T21:25:24.271Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.938Z",
+      "publishedAt": "2026-09-29T21:25:24.271Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.938Z",
+      "publishedAt": "2026-09-29T21:25:24.271Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.938Z",
+      "publishedAt": "2026-09-29T21:25:24.271Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.937Z",
+      "publishedAt": "2026-09-29T21:25:24.271Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.937Z",
+      "publishedAt": "2026-09-29T21:25:24.270Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.937Z",
+      "publishedAt": "2026-09-29T21:25:24.270Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.936Z",
+      "publishedAt": "2026-09-29T21:25:24.270Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.936Z",
+      "publishedAt": "2026-09-29T21:25:24.270Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.936Z",
+      "publishedAt": "2026-09-29T21:25:24.269Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.935Z",
+      "publishedAt": "2026-09-29T21:25:24.269Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.935Z",
+      "publishedAt": "2026-09-29T21:25:24.269Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +273,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.935Z",
+      "publishedAt": "2026-09-29T21:25:24.269Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.934Z",
+      "publishedAt": "2026-09-29T21:25:24.269Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +295,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.934Z",
+      "publishedAt": "2026-09-29T21:25:24.268Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.934Z",
+      "publishedAt": "2026-09-29T21:25:24.268Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +317,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.933Z",
+      "publishedAt": "2026-09-29T21:25:24.268Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,7 +328,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.933Z",
+      "publishedAt": "2026-09-29T21:25:24.268Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -526,7 +339,205 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:47.932Z",
+      "publishedAt": "2026-09-29T21:25:24.268Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2860d271d86b",
+      "title": "苹果更新 Apple 创作坊：Mac 版 Final Cut Pro 可为 iPhone 18 Pro 拍摄视频添加电影效果",
+      "url": "https://www.ithome.com/1/008/519.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.267Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f56646692bd8",
+      "title": "苹果发布 Final Cut Camera 2.4：首次支持 iPhone 18 Pro / Max 可变光圈",
+      "url": "https://www.ithome.com/1/008/520.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.267Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "591d3b0b73d5",
+      "title": "苹果 iOS 27 整合数字健康指南：6 步法帮家长科学管理孩子使用 iPhone 18 Pro 等",
+      "url": "https://www.ithome.com/1/008/521.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.267Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9a16181667c9",
+      "title": "OpenAI 在 Codex 上线 GPT-6.1 Sol 模型：性能接近 Astra，价格仅为 1/5",
+      "url": "https://www.ithome.com/1/008/522.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.267Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "eefdb6bc8628",
+      "title": "OpenAI 发布 dots 全天候智能助理：可爱卡通形象，Astra 模型加持",
+      "url": "https://www.ithome.com/1/008/523.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.266Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6598084b57c7",
+      "title": "最高每秒 300 个词元：OpenAI 推出 GPT‑6 Astra Ultrafast 服务",
+      "url": "https://www.ithome.com/1/008/524.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.266Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "25d89fb1b96e",
+      "title": "OpenAI 推出每月 500 美元的 Pro 套餐，专享 Astra Ultrafast 最快模型",
+      "url": "https://www.ithome.com/1/008/525.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.266Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ba74528ef62a",
+      "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
+      "url": "https://www.ithome.com/1/008/526.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.265Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "372f77b30009",
+      "title": "同性能下最高性价比 AI 模型：OpenAI 发布 GPT-6.1 Sol，性能媲美 Astra、费用仅为 1/5",
+      "url": "https://www.ithome.com/1/008/527.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.265Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "452751aa4162",
+      "title": "OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化",
+      "url": "https://www.ithome.com/1/008/528.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.265Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0f50210b95e2",
+      "title": "OpenAI ChatGPT 账号变身“万能钥匙”：可一键登录网站，Notion / GitLab 率先接入",
+      "url": "https://www.ithome.com/1/008/529.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.264Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "47302e36c933",
+      "title": "OpenAI 推出 ChatGPT 资料空间、动态页面、协作式幻灯片等 AI 协同工具",
+      "url": "https://www.ithome.com/1/008/530.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.264Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c8f6e82c91e8",
+      "title": "150 毫秒极速响应：OpenAI 推出 Decisions API，让 AI 从“聊天”走向“实时决策”",
+      "url": "https://www.ithome.com/1/008/531.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.264Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2763cc0d9b36",
+      "title": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，AI 加速走向工作场景",
+      "url": "https://www.ithome.com/1/008/532.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.263Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c740c5b43c53",
+      "title": "2026 OpenAI 开发者日遭 15+ 组织抗议，要求 AI 数据中心设 100 英里安全距离",
+      "url": "https://www.ithome.com/1/008/533.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.263Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b33da606390c",
+      "title": "尴尬时刻：OpenAI 全天候 AI 智能体 dots 首次公开演示卡壳",
+      "url": "https://www.ithome.com/1/008/534.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.262Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d21c4d588be4",
+      "title": "小米米家智能晾衣机 3 Max 预售：首创柔烘除菌专区，首发国补价 2699 元",
+      "url": "https://www.ithome.com/1/008/535.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.262Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b7b92f1eb8ed",
+      "title": "松下 Technics 首款磁流体头戴耳机 EAH-A1000 发布，国行 2599 元",
+      "url": "https://www.ithome.com/1/008/536.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T21:25:24.261Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -537,7 +548,7 @@
       "category": "general",
       "summary": "楼市迎来房贷贴息重磅政策，10月1日起实施，首套新房二手房可享最高100万贷款贴息，财政兜底。该政策能降低刚需购房成本，有望托住房价，但难以推动房价大幅上涨。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -548,7 +559,7 @@
       "category": "general",
       "summary": "第33届中国电视金鹰奖颁奖典礼29日晚在湖南长沙举行。于和伟凭借《沉默的荣耀》获金鹰奖最佳男主角奖。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -559,7 +570,7 @@
       "category": "general",
       "summary": "在国务院新闻办公室29日举行的“开局起步‘十五五’”系列主题新闻发布会上，科技部部长阴和俊介绍，经过多年不懈努力，我国已建成全世界规模最大的教育体系，拥有学科门类最齐全的人才资源，拥有总量位居世界第一的研发人员队伍，为我国科技实力不断跃升提供有力保障，也为进一步推动一体发展奠定了坚实基础。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -570,7 +581,7 @@
       "category": "general",
       "summary": "9月29日，央行“四箭齐发”：下调PSL利率0.25个百分点，增加科技创新再贷款2000亿元、支农支小再贷款5000亿元。同日，财政部等三部门发通知，10月1日起对新发放首套房贷实施贴息政策。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,18 +592,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "53ed170694b9",
-      "title": "朱亚文获奖 宋佳哭了",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E4%BA%9A%E6%96%87%E8%8E%B7%E5%A5%96+%E5%AE%8B%E4%BD%B3%E5%93%AD%E4%BA%86",
+      "id": "d7e47297413f",
+      "title": "老人报警丢4万民警找出23万",
+      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87",
       "source": "baidu",
       "category": "general",
-      "summary": "9月29日，第33届中国电视金鹰奖最佳男配角揭晓，朱亚文凭借《太平年》赵匡胤一角获奖。得知结果时，宋佳比朱亚文本人更激动，直接落泪。",
+      "summary": "近日，湖北武汉一婆婆报警称家中4万元现金莫名“消失”。民警上门调查时，在其卧室找出共计23万元现金。婆婆这才想起，多出的19万是老伴生前留给她的存款。婆婆对民警连连道谢，表示明天绝对给民警送锦旗。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,7 +614,7 @@
       "category": "general",
       "summary": "北京时间9月29日晚间，名古屋亚运会男女混合4×100米接力决赛上演逆转好戏。第三棒泰国名将汶颂反超短暂领先，17岁中国新星陈妤颉在最后一棒顶住压力极限反超。最终中国队以40秒78夺金，仅领先泰国队0.09秒。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,7 +625,7 @@
       "category": "general",
       "summary": "9月29日晚，第33届中国电视金鹰奖颁奖典礼在湖南长沙举行。由杨紫、胡歌等主演的《生命树》获得金鹰奖最佳电视剧奖。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,18 +636,18 @@
       "category": "general",
       "summary": "于和伟在2026年第33届中国电视金鹰奖斩获最佳男主角后，表示这份奖项的荣誉应当属于他饰演的原型吴石将军。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "ebebdc78806a",
-      "title": "充电器忘拔烧毁整个家",
-      "url": "https://www.baidu.com/s?wd=%E5%85%85%E7%94%B5%E5%99%A8%E5%BF%98%E6%8B%94%E7%83%A7%E6%AF%81%E6%95%B4%E4%B8%AA%E5%AE%B6",
+      "id": "cb811e82d8f4",
+      "title": "草根歌手救场李克勤 演唱会导演发声",
+      "url": "https://www.baidu.com/s?wd=%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E6%9D%8E%E5%85%8B%E5%8B%A4+%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AF%BC%E6%BC%94%E5%8F%91%E5%A3%B0",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，福建泉州一民房因手机充电器长期不拔产生电火花引发火灾。今年7月底，湖南益阳沅江市也曾因该原因发生火灾，致房屋烧毁。消防部门实测发现，充电器未连手机仍持续带电，空载时表面温度升高，短路会产生电火花引燃易燃物。",
+      "summary": "近日，纪元回声演唱会总导演于祝益最新回应“侯浪神级救场”事件。此前，歌手李克勤因天气交通延误出场，导演临时邀请侯浪救场。于祝益透露，侯浪骑共享电动车赶到，在无准备下登台连唱两个多小时，带动全场起立跳舞大合唱。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -647,20 +658,9 @@
       "category": "general",
       "summary": "网传电竞将在名古屋亚运会后退出亚运会竞赛项目，亚奥理事会辟谣：消息不实，新赛事只是新增舞台，不会削弱电竞在亚运会中的地位。",
       "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6af77bb0b649",
-      "title": "杨紫拉着张一山聊天吃瓜",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E6%8B%89%E7%9D%80%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%81%8A%E5%A4%A9%E5%90%83%E7%93%9C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "9月29日，金鹰节闭幕式举行。内场中杨紫与张一山前后座同框，杨紫拉着张一山聊天吃瓜，笑得一脸灿烂。",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T17:02:55.947Z",
+      "publishedAt": "2026-09-29T21:25:32.277Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-09-29T17:02:59.645Z"
+  "generatedAt": "2026-09-29T21:25:34.316Z"
 }

@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 29 日消息，Windows Latest 今日发现，微软 Win11 26H2 年度功能更新已进入发布前最后阶段，安装镜像中最核心的 ESD 文件已出现在微软内部服务器中（对应版本号为 Build 26300.9457），这通常意味着微软可能在未来数天甚至接下来几个小时正式开启推送。\n\nWindows 11 26H2 是微软面向 2026 年推出的年度功能更新，但这次更新并未带来面向普通消费者的新功能，整体更偏向稳定性与企业管理能力的改进，感兴趣的用户可通过安装启用包提前升级到 26H2。\n\n对于企业版用户，设备将默认启用两项重要功能。其中，Point-in-time Restore（系统时间点恢复功能）将在所有 PC 上默认开启，当系统出现问题时，可将 Windows 回滚到此前的状态。\n\n另一项变化是 Windows Settings Backup（此前名为 Windows Backup for Organizations）也将默认在企业设备上启用，用于备份组织管理下的 Windows 设置，便于设备恢复或迁移。\n\nESD 全称为 Electronic Software Distribution，是微软用于分发 Windows 安装镜像的压缩格式，也是 Media Creation Tool 创建安装 U 盘或 ISO 镜像时所使用的底层文件之一。\n\n不过，普通用户无法直接从微软下载 ESD 文件。官方仅提供 ISO 镜像等安装介质，而 ESD 更多是微软内部打包和生成安装媒体的组成部分，若想直接使用 ESD 升级系统，通常需要借助第三方工具。\n\n微软此前曾在技术文档中说明，当 Windows 新版本准备发布时，最终代码会完成构建、打包，并通过 ISO 镜像、Windows Update 功能更新包等多种渠道进行交付。\n\nx64 版本 25H2 启用包（KB5121794）：",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-29T17:02:47.938Z",
+    "publishedAt": "2026-09-29T21:25:24.271Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

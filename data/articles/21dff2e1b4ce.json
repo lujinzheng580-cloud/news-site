@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 29 日消息，据科技媒体 neowin 今天报道，微软正在改进使用 Win11 系统的 WoA 设备初次开机流程，让 OOBE 可以只更新关键驱动和固件。\n\n据报道，微软现已告知硬件合作伙伴，称 OOBE 现可提供特定版本的系统清单（System Manifest）。据IT之家了解，系统清单用于协调 WoA（Windows on ARM）设备的驱动程序和固件更新。\n\n如今厂商可选择在 OOBE 阶段只更新关键驱动或固件，将非必要的更新延后。这种改动将可以显著降低用户在 OOBE 的停留时间，带来更好的使用体验。对于其他轻微修复和改进，厂商应继续采用现有 Windows Update 机制。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-29T17:02:47.937Z",
+    "publishedAt": "2026-09-29T21:25:24.271Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
