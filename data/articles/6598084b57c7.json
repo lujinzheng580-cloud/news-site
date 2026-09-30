@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 30 日消息，在今天召开的 2026 年 OpenAI 开发者日活动日中，官方推出 Ultrafast 全新服务层级，在 Codex 中可提供最高 8 倍词元（Token）生成速度，在 API 调用时最高可以实现 6 倍生成速度。\n\nAPI 调用费用方面，IT之家查询官方信息，附上售价如下：\n\n缓存写入（Cached input write）：第一次把一段输入内容保存进提示词缓存，通常需要支付“写入缓存”的费用。\n\n缓存输入（Cached input）：之后的请求重复使用已经保存的那部分输入，通常按更低价格计费。\n\nOpenAI 官宣 GPT‑6 Astra Ultrafast 在 Codex 中可以实现每秒 300 个词元，目前已开放 API 调用，Pro 500 订阅和企业用户可以在 ChatGPT Work 和 Codex 中体验，官方表示后续将会跟进推出 GPT-6.1 Sol Ultrafast。\n\nUltrafast 的价值在于“更强模型”与“实时响应”兼得，过去要实现接近实时的速度，往往需要换用更小或更专用模型；而 Ultrafast 试图在保持 GPT‑5.6 Sol 能力的前提下，把“每秒有用工作量”做大，从而更适合事件响应、实时客服、交易 / 市场快讯生成、交互式编码等场景。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-29T21:25:24.266Z",
+    "publishedAt": "2026-09-30T00:42:56.556Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
