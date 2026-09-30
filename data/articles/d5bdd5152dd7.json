@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d5bdd5152dd7",
+    "title": "地平线发布辅助驾驶系统 HSD V2.1，国内量产首发端到端全场景倒车",
+    "url": "https://www.ithome.com/1/008/787.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/787.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 9 月 30 日消息，地平线正式发布 HSD 全场景辅助驾驶系统 V2.1 版本，首批搭载车型 iCAR V27 将于 10 月 8 日起分批向车主推送升级。\n\n基于导航路径与实时路况，更早预选最优车道，提升连续路口轨迹规划的合理性\n\n增强模型对车辆临停、行人盲区横穿、障碍物占道等场景的理解能力，主动变道脱离潜在风险\n\n新增 360° 全景影像（AVM）与 SR 双区拖动功能\n\n新增 HSD V2.1 辅助驾驶使用里程达到 100KM，解锁全新积木主题 HMI\n\n升级主动安全感知系统的视觉神经网络，提升了横穿、转弯低速跟车和目标 Cut in 等场景的避撞能力\n\n优化 AES 前后夹击触发边界，提升 AES 在该场景触发的成功率\n\n优化遥控泊车入口按钮显示样式，降低误触概率",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-30T12:40:22.714Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
