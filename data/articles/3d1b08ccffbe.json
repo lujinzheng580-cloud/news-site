@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 30 日消息，OpenAI 今日凌晨在 DevDay 活动上发布了 Dot 智能体，而每个 Dot 运行在独立的云端虚拟机中。\n\nDot 虚拟机现已出现在 Geekbench 基准测试平台中，显示其搭载了 AMD EPYC 9V74 服务器处理器，每个 Dot 虚拟机实例分配 9 个核心，单核得分 1667，多核得分 9435。另外，该实例配备 9.73GB 内存和 32GB 存储空间。\n\n该处理器基于 Zen 4 架构，基础频率约 2.6GHz，加速频率可达 3.7GHz。虚拟机运行 Ubuntu 24.04.3 系统，但也有用户截图显示部分实例运行 Debian Linux。每个 Dot 虚拟机均预装了丰富的 Linux 软件环境，包括 Chromium 浏览器、终端和文件管理器，用户还可让 AI 智能体安装其他工具。\n\n预装软件涵盖多个领域：创意类包括 Blender、GIMP 和 Inkscape；视频剪辑为 Kdenlive；游戏开发为 Godot。工程工具包括 FreeCAD、OpenCAD 和 KiCAD；科学计算则包含 QGIS、ParaView 和 3D Slicer。\n\nOpenAI Dot 智能体基于 GPT-6 Astra 模型，可通过插件连接到超过 4000 款应用。用户可在 ChatGPT 桌面端、网页端和移动端与 Dot 互动，也可通过 Slack 和 Teams 与 Dot 通信。\n\n每个 Dot 都拥有独立的云端虚拟机，所有保存的凭证对 AI 模型保持隐藏。企业还可设置拥有专属身份和权限的专用 Dot。\n\n与 Meta 的 Muse 虚拟机相比，Dot 在核心数和内存上占优。Muse 每个虚拟机仅配置 2 个 vCPU 和 8GB 内存，但提供 100GB 存储空间，远高于 Dot 的 32GB。\n\n目前，Dot 已向 ChatGPT Pro 和 Business Premium 用户逐步开放，但围绕该产品的域名争议也已出现（IT之家注：dot.com 域名目前归属马斯克旗下 xAI，该域名直接跳转至 Grok Bot 下载页面）。\n\n《OpenAI 推出全天候 AI 智能体 Dots，相关域名已被马斯克拿下》\n\n《尴尬时刻：OpenAI 全天候 AI 智能体 dots 首次公开演示卡壳》\n\n《OpenAI 发布 dots 全天候智能助理：可爱卡通形象，Astra 模型加持》",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-30T18:09:01.427Z",
+    "publishedAt": "2026-09-30T22:19:50.974Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

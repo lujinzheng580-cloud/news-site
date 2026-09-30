@@ -11,7 +11,7 @@
     "content": "IT之家 9 月 30 日消息，TomsHardware 发现，英特尔下一代 Nova Lake 平台已通过 USB 和 PCIe 标准组织的合规测试。\n\nUSB-IF 论坛已将部分酷睿 Ultra 4000 系列 Nova Lake 平台列入集成商列表，PCI-SIG 集成商列表也纳入了面向 Nova Lake-S 处理器的 900 系列芯片组。\n\nUSB-IF 确认，英特尔 Nova Lake-H 移动处理器（设备 ID D331、D333）符合 USB4 80Gbps 规范。桌面端 Nova Lake PCH-S 芯片组（设备 ID 6E6E）符合 USB 3.2 Gen2 标准，支持最高 20Gbps 数据传输速率。\n\nPCI-SIG 集成商列表自 4 月起已包含面向酷睿 Ultra 4000 系列 Nova Lake-S 处理器的 900 系列芯片组。8 月初，一款未确认身份的英特尔处理器（设备 ID D461、D465、D467 至 D46A）通过 PCIe 5.0 x16 测试。\n\nIT之家注：USB-IF 和 PCI-SIG 是分别制定 USB 与 PCIe 标准并开展合规认证的行业组织，通过测试的产品可在包装上使用相应标识。\n\nUSB-IF 设有“相似性认证”程序，对足够相似的产品，测试一款即可让相关产品列入集成商列表。由于不同 Nova Lake 产品的 USB4 和 USB 3.2 电路相似，英特尔可先提交部分 CPU 和芯片组测试，再通过该程序跟进。\n\n不过，USB-IF 认证正式绑定具体产品名称、型号和修订版本。不同名称的产品不会因包含相同 USB 电路而自动获认证，仍需单独提交，由 USB-IF 判断差异是否需额外测试。\n\n随着酷睿 Ultra 4000 系列 Nova Lake 处理器发布临近，相关平台需通过多项合规与互操作性测试。最新爆料指向该系列于 2027 年第一季度发布，提前完成认证是英特尔的常规准备步骤。\n\n《英特尔 LGA1954 插槽部件曝光，关联 Nova Lake-S 处理器》\n\n《英特尔 Nova Lake 平台加速推进，华擎 5 款 Z990 主板货运记录曝光》\n\n《惠普首款 Nova Lake 笔记本曝光：20 核、4.6GHz、18MB L3 缓存》\n\n《英特尔 Nova Lake-S 桌面处理器成功点亮：最高 28 核，有望支持 AVX-512》\n\n《英特尔 18A-P 工艺详解：0.5V 低电压频率跃升 30%，Diamond Rapids 与 Nova Lake 率先搭载》\n\n《重回四位数命名？英特尔酷睿 Ultra 9 4950K 处理器曝光，28 核型号预计 2027 年初首发》",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-09-30T18:09:01.433Z",
+    "publishedAt": "2026-09-30T22:19:50.979Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
