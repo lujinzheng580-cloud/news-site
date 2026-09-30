@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "28d4d3e54d00",
+    "title": "国庆节",
+    "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%8A%82",
+    "source": "baidu",
+    "sourceId": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E8%8A%82",
+    "category": "general",
+    "summary": "",
+    "content": "",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-09-30T18:09:02.326Z",
+    "tags": "[\"baidu\"]",
+    "viewCount": 0
+  }
+}
