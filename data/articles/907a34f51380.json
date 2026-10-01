@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 1 日消息，科技媒体 Wccftech 今天（10 月 1 日）发布博文，报道称基于社区用户反馈，在相同配置情况下，从 Windows 11 25H2 系统升级到 26H2，内存占用减少约 1.5GB~2GB。\n\n该媒体查询 Reddit 社区、X 社交平台，发现部分用户反馈升级到 Windows 11 26H2 系统之后，内存占用基本可以下降 1.5~2GB。由于在 8GB、32GB、48GB 配置上内存占用下降幅度基本相同，下文不从降幅比例方式计算。\n\n用户 @SoyITPro 在 X 平台发布推文，在配备 32GB 内存的设备上，升级 Windows 11 26H2 后内存占用从 9.1GB 降至 7.5GB，降幅为 1.6GB。IT之家附上相关截图如下：\n\n网友 u/shutter_singh 在 Reddit 社区反馈，在配备 48GB 内存的设备上，25H2 开机后内存占用约为 6.9GB，更新 26H2 系统后内存占用降低到 4.8~5GB，降幅约为 2GB。\n\n网友 @rakamajaka 在 X 平台发布推文，指出在 56GB 内存配置上，25H2 开机内存占用约为 13.1GB，升级到 26H2 系统之后，内存占用下降到 7.3GB，下降约 6GB。\n\n网友 @Honchan_P 昨日（9 月 30 日）在 X 平台发布推文，8GB 内存配置情况下，在 25H2 系统情况下内存占用约为 5.7GB，不过在升级到 26H2 系统之后，内存占用约为 4.1GB，降幅约 1.6GB。\n\n网友 @gabHernandez285 反馈在同样 8GB 内存配置情况下，不使用 Chrome 浏览器，也没有玩游戏情况下，卸载了 WebView2 和 SearchHost.exe 之后，内存占用约为 4.6GB。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-01T14:48:24.545Z",
+    "publishedAt": "2026-10-01T20:17:07.513Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
