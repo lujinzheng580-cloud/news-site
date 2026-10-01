@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "678d86a80f9d",
+    "title": "用户反馈谷歌 Android Auto 故障：小折叠手机闭合状态下无法拨打电话",
+    "url": "https://www.ithome.com/1/008/984.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/984.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 1 日消息，科技媒体 Android Headline 昨日（9 月 30 日）发布博文，报道称 Android Auto 近期出现 Bug，导致小折叠手机在闭合状态下无法拨出电话，谷歌和摩托罗拉已介入调查，但尚未发布修复方案。\n\nAndroid Auto 是谷歌推出的车载系统，可将安卓手机界面投射至车机屏幕，支持导航、音乐、通话等功能，通过语音或触控操作。\n\n在影响机型方面，摩托罗拉 Razr 系列与三星 Galaxy Z Flip7 等系列均受影响，此外多款翻盖式折叠屏手机也受到影响。IT之家附上相关截图如下：\n\n在故障表现方面，用户在折叠状态下尝试拨出电话时，Gemini 提示通话已建立，但实际无任何反应。展开手机后，拨出功能恢复正常。接听来电不受影响，可正常使用外屏操作。\n\n部分用户指出，故障出现在 Gemini 取代 Google Assistant 之后，目前尚无官方确认两者存在因果关系。谷歌与摩托罗拉均已启动调查程序。双方尚未公布根本原因或修复时间表。技术团队预计将在查明原因后尽快发布补丁程序。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-01T01:27:18.239Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

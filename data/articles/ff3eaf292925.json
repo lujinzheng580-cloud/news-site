@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ff3eaf292925",
+    "title": "谷歌最前沿 AI 模型：Gemini 4 Argon 登场，长周期代码工程 DeepSWE 测试超 Claude Opus 5.5",
+    "url": "https://www.ithome.com/1/008/953.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/008/953.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 1 日消息，谷歌昨日（9 月 30 日）发布 Gemini 4 Argon，称其为公司迄今最先进的 AI 模型，但目前并未面向公众全面开放。\n\n定位方面，Gemini 4 Argon 是谷歌当前“最先进”模型，重点是长流程软件工程、企业知识工作和网络安全防御。官方称其在真实世界软件工程测试创纪录，网络安全基准并列第一，并在金融、法律等专业任务基准领先。\n\n模型特性方面，Gemini 4 Argon 单次输出上限达到约 100 万 tokens，高于此前的 64,000 tokens，适合处理大型代码库、长文档和多阶段任务。\n\n谷歌 DeepMind Gemini 产品负责人 Tulsee Doshi 表示：“Argon 是一个功能全面的模型，在多个领域都具备前沿能力。”\n\n在新模型在某些编码和知识工作基准测试中处于最先进水平，在多个方面都优于竞争对手 OpenAI 的前沿模型 GPT-6 Astra。\n\n性能方面，谷歌宣称其 DeepSWE v1.1 得分为 77.9%。Claude Opus 5.5 的得分为 74.2%，GPT-6 Astra 的得分为 74.1%。\n\n安全防御性能方面，谷歌对 Gemini 4 Argon 进行了训练，使其“在网络安全防御方面能力超群”，比 3.8 Flash Cyber 有了显著提升。在评估模型修复安全漏洞能力的 CWE-bench v1 测试中，Argon 以 68% 的最高分并列第一。\n\n分发方面，谷歌表示会分阶段发布，第一阶段通过名为 Fairwind Program 的计划，提供给受信任的网络安全防御者，并参与美国政府的自愿预发布模型访问流程。\n\n费用方面，谷歌计划先向付费 API 客户和 Google AI Ultra 用户开放，之后再扩大到企业和普通消费者：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-01T01:27:18.247Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
