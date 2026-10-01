@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "33ea71f2723d",
+    "title": "日本电力巨头 JERA 牵手戴尔等伙伴，将在千叶建设该国最大 AI 数据中心",
+    "url": "https://www.ithome.com/1/009/119.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/119.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 1 日消息，日本供电规模最大的电力公司 JERA（捷热）当地时间今日与 Dell（戴尔）、主权人工智能基础设施开发商 RHAELM 当地时间今日签署谅解备忘录，三方将共同制定日本人工智能基础设施建设标准化框架。\n\n备忘录下的首个数据中心将落地东京东侧的千叶县。其设计容量达 400MW，是日本最大的单一数据中心站点，总投资规模预计将超过 150 亿美元（IT之家注：现汇率约合 1,007.53 亿元人民币）。Apollo 将为该项目提供投融资支持。\n\n这座 AI 数据中心位于 JERA 自有火力发电站附近，采用表后供电。其配套电力基础设施的建设和审核时间因此大幅缩短，站点有望于 2028 年上线运行。\n\nJERA 和 RHAELM 还计划将这一模式扩展到其它 JERA站点，目标到 21 世纪 30 年代实现多 GW 级别的 AI 基础设施容量。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-01T14:48:24.550Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
