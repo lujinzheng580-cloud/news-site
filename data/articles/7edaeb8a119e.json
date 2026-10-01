@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7edaeb8a119e",
+    "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份",
+    "url": "https://www.ithome.com/1/009/069.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/069.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 1 日消息，Linux DO 社区用户 @xiaomao 反馈称，Anthropic 已开始向 Claude 用户免费赠送实体毛绒玩具和贴纸。\n\n用户进入 Claude Dev 网站并打开 Terminal 后，输入 /plushies 即可进入毛绒玩具对应的登记领取流程，输入 /stickers 则可登记领取贴纸。\n\n此次活动无需购买商品，毛绒玩具和贴纸均免费提供。不过，活动采用“送完即止”（while supplies last）的库存规则，每人限领取一份，同时要求参与者年满 18 周岁。\n\nClaude 毛绒玩具采用随机款式，领取者无法指定具体造型；其配送范围则受到物流服务覆盖区域限制，有用户反馈仅向美国博联（Brilliant）能够提供物流服务的地区配送。据社区用户反馈，使用已被封禁的 Claude 账户邮箱同样可以完成登记领取。\n\nIT之家注：Claude Dev 是 Anthropic 面向开发者推出的站点，其终端模式允许用户通过命令行界面浏览内容与执行命令。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-01T07:41:52.011Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

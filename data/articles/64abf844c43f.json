@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "64abf844c43f",
+    "title": "经典端游《跑跑卡丁车》本月末升级 64 位客户端，不再支持 32 位 Windows 系统",
+    "url": "https://www.ithome.com/1/009/081.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/081.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 1 日消息，世纪天成昨天在官网发布公告，宣布经典端游《跑跑卡丁车》计划于 2026 年 10 月 29 日正式升级为 64 位客户端。\n\n官方表示，《跑跑卡丁车》客户端完成升级后，游戏将不再支持 32 位 Windows 操作系统。请各位玩家确认自己的电脑是 64 位 Windows 系统，方可正常游玩本作。\n\nIT之家了解到，《跑跑卡丁车》将于 10 月 29 日通过 TCG 客户端完成 64 位新版本升级。本次补丁包容量较大，大小接近完整客户端重装体积，请预留充足磁盘空间，建议在网络条件良好的环境下进行更新下载。\n\n官方建议各位玩家提前下载安装 Visual C++ 2015‑2022 (x64)、DirectX End‑User Runtime 运行组件，以便更新后能够顺畅游玩。本次架构升级是为适配现代电脑硬件环境，减少旧客户端的卡顿、闪退等问题。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-01T07:41:52.008Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
