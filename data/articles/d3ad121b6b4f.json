@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d3ad121b6b4f",
+    "title": "腾讯 WorkBuddy 内置模型独家支持 Space Bunny",
+    "url": "https://www.ithome.com/1/009/335.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/335.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 2 日消息，腾讯 WorkBuddy 今日宣布内置模型独家支持 Space Bunny。\n\n据介绍，Space Bunny 是一款匿名 Flash 大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月 2 日至 10 月 7 日间可享限时折扣。\n\nIT之家注意到，Space Bunny 是 2026 年 9 月 23 日上线的一款匿名 Flash 模型，拥有 100 万 Token 上下文窗口，支持文本、图像和视频输入，可调节推理强度并提供工具调用能力，强调快速推理和编程表现。\n\n2026 年 9 月 27 日，Space Bunny 在 OpenRouter 的 Token 调用量约 3.99 万亿，在 OpenCode 约 8.3 万亿，均位居第一，连续霸榜三天。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-02T11:23:20.882Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
