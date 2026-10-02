@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 1 日消息，英伟达于当地时间 30 日推出 GeForce 安全更新驱动程序 582.78，适用于 Maxwell、Pascal 和 Volta 架构显卡，涵盖 GTX 700 系、GTX 900 系、GTX 10 系显卡及 Tesla V100、Titan V 等专业卡。\n\n据IT之家了解，英伟达已经不会为上述显卡发布常规 Game Ready 驱动更新，但仍然会不时推出安全更新。该更新支持 Windows 10 和 Windows 11 操作系统，大小为 912.74 MB。\n\n同时，该更新修复了显示驱动程序和 vGPU 的 114 个漏洞，其中大多数漏洞直接影响显卡驱动程序，包括 76 个高危漏洞和 37 个中危漏洞。\n\n此外，此次驱动更新适用于 GeForce GTX 745、GTX 750 和 GTX 750 Ti 系列、GTX 950-GTX 980 Ti、GTX 1050-GTX 1080 Ti、GT 1030、GT 1010 等显卡；以及 TITAN V、TITAN Xp、TITAN X 和 GeForce GTX TITAN X 等专业显卡。\n\nhttps://www.nvidia.com/en-us/drivers/details/280035/\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-01T20:17:07.508Z",
+    "publishedAt": "2026-10-02T00:05:51.483Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

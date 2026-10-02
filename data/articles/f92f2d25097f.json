@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f92f2d25097f",
+    "title": "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半",
+    "url": "https://www.ithome.com/1/009/196.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/196.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 2 日消息，全球首富埃隆 · 马斯克今天（10 月 2 日）在 X 平台发布推文，宣布为了调配充足的内存满足 Optimus 机器人量产，计划削减特斯拉 AI5 和 AI6 芯片的内存用量。\n\n本次调整可以追溯到美光科技的预测，在其最新财报电话会议上，美光科技首席财务官指出人形机器人将成为内存需求新引擎：每台设备需超 200GB DRAM 及数 TB NAND 闪存。即便人工智能泡沫破裂，内存价格亦难回落。\n\n网友 @DirtyTesLa 转发该推测，指出马斯克此前认为机器人数量将会超过人类，如果按照 100 亿台机器人计算，那么就需要消耗 2 万亿 GB 的内存，而且目前全球每年仅生产约 450 亿 GB 的 DRAM。IT之家附上相关截图如下：\n\n马斯克随后转发该推文，表示为了储备足够多的内存用于 Optimus 生产，公司决定削减特斯拉 AI5 芯片和特斯拉 AI6 芯片：\n\nAI5：RAM 从原计划的 144GB 降至 72GB LP5，减少 50%。\n\nAI6：RAM 从原计划的 216GB 降至 144GB LP6，减少约 33%。\n\n他同时表示，内存带宽比总容量更可能成为性能瓶颈，而带宽保持不变，因此预计对 Optimus 性能的影响“可以忽略”。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-02T00:05:51.481Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
