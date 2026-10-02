@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "74dcbd216dfc",
+    "title": "微软 WinUI 补齐 Win11 原生表格与图表控件，修复内存占用升高 Bug",
+    "url": "https://www.ithome.com/1/009/228.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/228.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 2 日消息，科技媒体 Windows Latest 今天（10 月 2 日）发布博文，报道称微软于 9 月 29 日发布 Windows App SDK 2.5 Experimental，为 WinUI 3 加入 TableView 和 Chart 控件，并修复部分应用的内存增长问题。\n\nWinUI 是微软面向 Windows 应用开发的原生用户界面框架，负责提供窗口、控件、布局和交互能力。Windows App SDK 是微软提供的 Windows 应用开发软件开发工具包，用于整合 WinUI、窗口管理、应用生命周期等能力。\n\n本次更新主要引入了 TableView 控件，IT之家曾于 9 月 16 日报道，微软已将 TableView 控件代码合入 WinUI 开发分支，从而补齐 DataGrid 类表格能力，支持排序、筛选、编辑和虚拟化等。\n\n该控件用于展示多行、多列数据的表格控件，适合文件列表、订单记录、人员信息和业务报表等场景。此次版本支持分组、排序、筛选、列宽调整及工具提示，可帮助开发者构建数据密集型界面。\n\n而 Chart 控件用于将数据转换为折线图、柱状图等可视化内容的界面控件。它常用于财务报表、监控面板、统计分析和企业管理软件。WinUI 3 加入该控件后，开发者可直接在原生应用中构建图表界面。\n\n此次版本还修复了 WinUI 的内存增长漏洞。微软称，应用反复创建视觉状态故事板，或持续解析静态资源、主题资源后，修复内存占用升高问题。\n\n微软 Windows UI 团队成员 Chris Anderson 表示，性能、基础能力、质量和漏洞修复是 WinUI 的优先事项。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-02T05:44:01.491Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
