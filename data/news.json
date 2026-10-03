@@ -2,39 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "dfabf113c4f3",
-      "title": "Neurable One 头戴式耳机发布：号称能够监测用户脑电信号，499 美元",
-      "url": "https://www.ithome.com/1/009/502.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.848Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "62153c87b771",
-      "title": "宝马德国巴伐利亚新电池组装工厂正式投运，量产新世代 i3 高压电池",
-      "url": "https://www.ithome.com/1/009/503.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.848Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "baf5e233b449",
-      "title": "消息称 Netflix 奈飞调整原创内容策略：减少“叫好不叫座”作品、资源倾向更具备商业价值的项目",
-      "url": "https://www.ithome.com/1/009/504.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.847Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "fcee6271c008",
       "title": "LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产",
       "url": "https://www.ithome.com/1/009/505.htm",
@@ -42,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.847Z",
+      "publishedAt": "2026-10-03T18:43:23.206Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -53,7 +20,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.847Z",
+      "publishedAt": "2026-10-03T18:43:23.206Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -64,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.847Z",
+      "publishedAt": "2026-10-03T18:43:23.206Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -75,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.846Z",
+      "publishedAt": "2026-10-03T18:43:23.205Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -86,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.846Z",
+      "publishedAt": "2026-10-03T18:43:23.205Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.846Z",
+      "publishedAt": "2026-10-03T18:43:23.205Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.846Z",
+      "publishedAt": "2026-10-03T18:43:23.205Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +86,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.845Z",
+      "publishedAt": "2026-10-03T18:43:23.204Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.845Z",
+      "publishedAt": "2026-10-03T18:43:23.204Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.845Z",
+      "publishedAt": "2026-10-03T18:43:23.204Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +119,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.845Z",
+      "publishedAt": "2026-10-03T18:43:23.204Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +130,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.845Z",
+      "publishedAt": "2026-10-03T18:43:23.204Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.844Z",
+      "publishedAt": "2026-10-03T18:43:23.203Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +152,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.844Z",
+      "publishedAt": "2026-10-03T18:43:23.203Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +163,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.844Z",
+      "publishedAt": "2026-10-03T18:43:23.203Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.844Z",
+      "publishedAt": "2026-10-03T18:43:23.203Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.843Z",
+      "publishedAt": "2026-10-03T18:43:23.203Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +196,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.843Z",
+      "publishedAt": "2026-10-03T18:43:23.202Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.843Z",
+      "publishedAt": "2026-10-03T18:43:23.202Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.843Z",
+      "publishedAt": "2026-10-03T18:43:23.202Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +229,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.842Z",
+      "publishedAt": "2026-10-03T18:43:23.201Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.842Z",
+      "publishedAt": "2026-10-03T18:43:23.201Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.842Z",
+      "publishedAt": "2026-10-03T18:43:23.201Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.842Z",
+      "publishedAt": "2026-10-03T18:43:23.200Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.841Z",
+      "publishedAt": "2026-10-03T18:43:23.200Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +284,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.841Z",
+      "publishedAt": "2026-10-03T18:43:23.200Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.841Z",
+      "publishedAt": "2026-10-03T18:43:23.200Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +306,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.841Z",
+      "publishedAt": "2026-10-03T18:43:23.200Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.840Z",
+      "publishedAt": "2026-10-03T18:43:23.199Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +328,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.840Z",
+      "publishedAt": "2026-10-03T18:43:23.199Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +339,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.840Z",
+      "publishedAt": "2026-10-03T18:43:23.199Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +350,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.839Z",
+      "publishedAt": "2026-10-03T18:43:23.199Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +361,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.839Z",
+      "publishedAt": "2026-10-03T18:43:23.198Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +372,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.839Z",
+      "publishedAt": "2026-10-03T18:43:23.198Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +383,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.838Z",
+      "publishedAt": "2026-10-03T18:43:23.198Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +394,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.837Z",
+      "publishedAt": "2026-10-03T18:43:23.197Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +405,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.837Z",
+      "publishedAt": "2026-10-03T18:43:23.197Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +416,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.836Z",
+      "publishedAt": "2026-10-03T18:43:23.197Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +427,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.836Z",
+      "publishedAt": "2026-10-03T18:43:23.196Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +438,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.835Z",
+      "publishedAt": "2026-10-03T18:43:23.196Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +449,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.835Z",
+      "publishedAt": "2026-10-03T18:43:23.196Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +460,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.834Z",
+      "publishedAt": "2026-10-03T18:43:23.195Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +471,40 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:43.833Z",
+      "publishedAt": "2026-10-03T18:43:23.195Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fcbcdc4dc6f6",
+      "title": "泰坦军团“P2511G+”24.5 英寸显示器发售：1080P 215Hz 超频，509 元",
+      "url": "https://www.ithome.com/1/009/578.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:23.194Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "481e785cd38f",
+      "title": "明日出行请注意，交通运输部提示 33 个高速公路路段易发拥堵",
+      "url": "https://www.ithome.com/1/009/579.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:23.194Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "883f4f0643e4",
+      "title": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
+      "url": "https://www.ithome.com/1/009/580.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:23.193Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,73 +515,7 @@
       "category": "general",
       "summary": "十一长假第三日，不少家长因孩子赖床、拖延作业等发生激烈冲突。此前，家长与孩子约法三章要求按时学习，但孩子多消极抵抗，甚至关房间3小时只做3道选择题。初中老师表示，冲突多因家长过度焦虑所致，建议家长抓大放小，与孩子商量安排空白时间，在自主安排中培养自律。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f054cd4d5b64",
-      "title": "全网刷屏的天安门小猫 后续来了",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%E7%9A%84%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B0%8F%E7%8C%AB+%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，小猫陪天安门武警执勤哨兵站岗的短视频刷屏网络。画面中小猫在哨兵脚下睡得安稳。网友纷纷留言表示“你守护人民，它守护你”，称这一极具“反差萌”的画面是“国泰民安具象化”，被铁血与柔情相遇的画面打动。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "efa0a4ae4b72",
-      "title": "国庆长假自驾出行 怎么开才安全",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E8%87%AA%E9%A9%BE%E5%87%BA%E8%A1%8C+%E6%80%8E%E4%B9%88%E5%BC%80%E6%89%8D%E5%AE%89%E5%85%A8",
-      "source": "baidu",
-      "category": "general",
-      "summary": "国庆长假户外游玩，自驾成为很多人的出行首选，高速路上车流集中、容易拥堵，一路奔波，大家都盼着平安抵达，高速上车辆突发抛锚怎么办？夜间驾驶怎么开才安全？这份高速行车安全提示请收好，平安才是假期最美的风景。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "43b0f6df598b",
-      "title": "巴勒斯坦球员向国足道歉",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
-      "source": "baidu",
-      "category": "general",
-      "summary": "北京时间10月3日，27岁的巴勒斯坦球员乌代-达巴格更新社媒，用中英双语就自己昨晚对阵国足的争议动作，表达了歉意并做出了澄清。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "26be601fa262",
-      "title": "国庆出游用AI 第一批人已被坑惨",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "国庆长假进入第三天，多位游客分享用AI做旅游攻略的踩坑经历。此前，越来越多人将行程交给AI。但长假期间AI暴露无法掌握实时、本地化信息及人流路况等问题，导致受访者遭遇车程翻倍、特意赶去的街区店铺未开门、凌晨登顶未看到日出等状况。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "10cf3e4283d7",
-      "title": "中国队169金89银83铜",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "第二十届亚运会，中国队共收获169金89银83铜收官，位居金牌榜及奖牌榜首位，创境外参赛最佳战绩。此前，中国代表团境外参赛最好成绩为多哈亚运会的165金。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "5d2adf1d23f9",
-      "title": "花218元全资进组的年轻人在横店演爽",
-      "url": "https://www.baidu.com/s?wd=%E8%8A%B1218%E5%85%83%E5%85%A8%E8%B5%84%E8%BF%9B%E7%BB%84%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9C%A8%E6%A8%AA%E5%BA%97%E6%BC%94%E7%88%BD",
-      "source": "baidu",
-      "category": "general",
-      "summary": "最近想出门旅游的年轻人，清单上又多了一个打卡点：横店。横店推出短剧拍摄体验项目，最低218元即可配备专业团队，自选爽文剧本在实景片场拍摄。也有免费招募体验，游客可化身主角沉浸式演戏。该项目热度高涨，旅行重在演戏体验，成片好坏并非重点。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -592,18 +526,84 @@
       "category": "general",
       "summary": "“聚是一栋楼，散是满地球”！国庆假期，中国游客出境游挤满全球。在意大利，前往米开朗基罗广场的公交挤满中国游客，因车厢满载无法刷卡，查票员上不去车直接放行。澳大利亚、南非等地也遍布中国游客。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f98f31650c85",
-      "title": "郭晓东全程跑调",
-      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%93%E4%B8%9C%E5%85%A8%E7%A8%8B%E8%B7%91%E8%B0%83",
+      "id": "efa0a4ae4b72",
+      "title": "国庆长假自驾出行 怎么开才安全",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E8%87%AA%E9%A9%BE%E5%87%BA%E8%A1%8C+%E6%80%8E%E4%B9%88%E5%BC%80%E6%89%8D%E5%AE%89%E5%85%A8",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，《披荆斩棘》新一期节目播出，郭晓东在与小沈阳等人表演时全程跑调，声音飘忽拉垮。",
+      "summary": "国庆长假户外游玩，自驾成为很多人的出行首选，高速路上车流集中、容易拥堵，一路奔波，大家都盼着平安抵达，高速上车辆突发抛锚怎么办？夜间驾驶怎么开才安全？这份高速行车安全提示请收好，平安才是假期最美的风景。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "43b0f6df598b",
+      "title": "巴勒斯坦球员向国足道歉",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
+      "source": "baidu",
+      "category": "general",
+      "summary": "北京时间10月3日，27岁的巴勒斯坦球员乌代-达巴格更新社媒，用中英双语就自己昨晚对阵国足的争议动作，表达了歉意并做出了澄清。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "26be601fa262",
+      "title": "国庆出游用AI 第一批人已被坑惨",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8",
+      "source": "baidu",
+      "category": "ai",
+      "summary": "国庆长假进入第三天，多位游客分享用AI做旅游攻略的踩坑经历。此前，越来越多人将行程交给AI。但长假期间AI暴露无法掌握实时、本地化信息及人流路况等问题，导致受访者遭遇车程翻倍、特意赶去的街区店铺未开门、凌晨登顶未看到日出等状况。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "10cf3e4283d7",
+      "title": "中国队169金89银83铜",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C",
+      "source": "baidu",
+      "category": "general",
+      "summary": "第二十届亚运会，中国队共收获169金89银83铜收官，位居金牌榜及奖牌榜首位，创境外参赛最佳战绩。此前，中国代表团境外参赛最好成绩为多哈亚运会的165金。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "f054cd4d5b64",
+      "title": "全网刷屏的天安门小猫 后续来了",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%E7%9A%84%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B0%8F%E7%8C%AB+%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，小猫陪天安门武警执勤哨兵站岗的短视频刷屏网络。画面中小猫在哨兵脚下睡得安稳。网友纷纷留言表示“你守护人民，它守护你”，称这一极具“反差萌”的画面是“国泰民安具象化”，被铁血与柔情相遇的画面打动。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d52495820e96",
+      "title": "郭晓东陈若轩淘汰",
+      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%99%93%E4%B8%9C%E9%99%88%E8%8B%A5%E8%BD%A9%E6%B7%98%E6%B1%B0",
+      "source": "baidu",
+      "category": "general",
+      "summary": "3日晚《披荆斩棘》第四次公演结束，郭晓东、陈若轩遗憾止步。对于二人淘汰，网友直呼“意内”，指出其存在跨界不专业、五音不全等问题。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "359278dc83a5",
+      "title": "12岁独居男孩已搬离出租房 租金未付",
+      "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E7%8B%AC%E5%B1%85%E7%94%B7%E5%AD%A9%E5%B7%B2%E6%90%AC%E7%A6%BB%E5%87%BA%E7%A7%9F%E6%88%BF+%E7%A7%9F%E9%87%91%E6%9C%AA%E4%BB%98",
+      "source": "baidu",
+      "category": "general",
+      "summary": "珠海租客潘女士租住房东马女士房屋，搬走其他孩子，留下12岁儿子独自居住，拖欠租金、管理费等超7万元，房屋停水停电。经街道社区协调，男孩现已搬离回到母亲身边，教育部门督促其返校，但7万余元欠款仍未结清，潘女士提议交由执行局处理。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,7 +614,7 @@
       "category": "general",
       "summary": "最近，日本企业们都在忙一件事，涨价。日本帝国数据库调查称，10月日本市场共有3153种食品涨价，叠加9月近5000种涨价食品（约为去年同期3倍），这波年内最大涨价潮，正直扑日本人餐桌。尽管日本政府尝试通过加息、补贴等遏制通胀，但物价上涨这把火，还远远没有烧完。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,42 +625,42 @@
       "category": "general",
       "summary": "10月2日，湖南警方通报多起网络谣言典型案例。此前9月12日，益阳网民曾某为博眼球，利用AI剪辑拼接“树懒”与水域画面，配文称“有男子被水猴子拖下水吸干血淹死”。该视频迅速发酵扰乱社会秩序，目前当事人已被依法行政处罚，相关视频已被辟谣。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c5abd009a65d",
-      "title": "偏瘫婆婆被儿媳带练到生活自理",
-      "url": "https://www.baidu.com/s?wd=%E5%81%8F%E7%98%AB%E5%A9%86%E5%A9%86%E8%A2%AB%E5%84%BF%E5%AA%B3%E5%B8%A6%E7%BB%83%E5%88%B0%E7%94%9F%E6%B4%BB%E8%87%AA%E7%90%86",
+      "id": "de34ae613bcc",
+      "title": "张雪回应被评“最寒酸亿万富翁”",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%84%E2%80%9C%E6%9C%80%E5%AF%92%E9%85%B8%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "近日，被网友称作“最寒酸亿万富翁”的张雪，谈及如何做接地气的老板，称无需刻意维持，原本的生活状态不会因身份改变而变化。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "a13b82f18f2d",
-      "title": "73岁大爷心脏长反 每天乱跳超3万次",
-      "url": "https://www.baidu.com/s?wd=73%E5%B2%81%E5%A4%A7%E7%88%B7%E5%BF%83%E8%84%8F%E9%95%BF%E5%8F%8D+%E6%AF%8F%E5%A4%A9%E4%B9%B1%E8%B7%B3%E8%B6%853%E4%B8%87%E6%AC%A1",
+      "id": "cb5ba378b01f",
+      "title": "小沈阳回应肿成蜜蜂小狗",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E8%82%BF%E6%88%90%E8%9C%9C%E8%9C%82%E5%B0%8F%E7%8B%97",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，苏州大学附属第二医院心血管科团队成功为73岁王大爷实施射频消融术。此前，王大爷因心慌胸闷就医，查出天生心脏长反且全天室性早搏超3万次，药物无法控制。因其心脏异位且病灶深，手术难度极高。术后一个月复查显示，其心悸胸闷症状已彻底消退。",
+      "summary": "近日，小沈阳发文回应眼肿被叫“蜜蜂小狗”，自嘲披荆斩棘之路坎坷不断。此前他在《披荆斩棘的哥哥》四公赛前眼睛浮肿，喜提该外号。小沈阳称几个小时过去没好转只能戴眼镜硬遮，网友评论称外号越看越形象。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "70a3f07b5bf1",
-      "title": "武汉女子怀孕29周产下1公斤极早产儿",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%9529%E5%91%A8%E4%BA%A7%E4%B8%8B1%E5%85%AC%E6%96%A4%E6%9E%81%E6%97%A9%E4%BA%A7%E5%84%BF",
+      "id": "5d2adf1d23f9",
+      "title": "花218元全资进组的年轻人在横店演爽",
+      "url": "https://www.baidu.com/s?wd=%E8%8A%B1218%E5%85%83%E5%85%A8%E8%B5%84%E8%BF%9B%E7%BB%84%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9C%A8%E6%A8%AA%E5%BA%97%E6%BC%94%E7%88%BD",
       "source": "baidu",
       "category": "general",
-      "summary": "武汉一位二胎妈妈怀孕29周产下1公斤极早产儿，孩子肤色青紫、呼吸微弱，肺部尚未长好。医护争分夺秒插管给药，动作一气呵成，小家伙心跳终于稳了下来。随后，这个仅约1公斤多的宝宝被转入转运暖箱，平安抵达新生儿重症监护室。",
+      "summary": "最近想出门旅游的年轻人，清单上又多了一个打卡点：横店。横店推出短剧拍摄体验项目，最低218元即可配备专业团队，自选爽文剧本在实景片场拍摄。也有免费招募体验，游客可化身主角沉浸式演戏。该项目热度高涨，旅行重在演戏体验，成片好坏并非重点。",
       "imageUrl": "",
-      "publishedAt": "2026-10-03T15:13:44.678Z",
+      "publishedAt": "2026-10-03T18:43:24.087Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-10-03T15:13:47.722Z"
+  "generatedAt": "2026-10-03T18:43:25.159Z"
 }
