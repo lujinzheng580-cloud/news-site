@@ -8,10 +8,10 @@
     "sourceId": "https://www.ithome.com/1/009/388.htm",
     "category": "general",
     "summary": "",
-    "content": "IT之家 10 月 3 日消息，科技媒体 NeoWin 昨日（10 月 2 日）发布博文，报道称在 Windows 11 Build 26340.9596 预览版中，微软为文件管理器新增“~”（波浪号）快捷路径支持。\n\n用户输入“~”即可直达个人账号文件夹，例如输入“~\\AppData”等路径可直接访问其子目录，无需键入“C:\\Users\\ 用户名”等完整路径。\n\nIT之家援引博文介绍，该语法源自 Linux、WSL、Git 及各类类 Unix shell 的长期约定，其中“~”代表当前用户的主目录（home directory）。\n\n在现有 Windows 体系中，用户可通过环境变量“% USERPROFILE%”实现类似效果，例如输入“% USERPROFILE%\\AppData”。新方案以“~\\AppData”替代，字符更少、输入更短，并在多账户切换场景下保持通用，无需记忆具体账户名。\n\n目前该功能仅限 Windows 11 Insider Experimental Preview Build 26340.9596 使用，尚未进入稳定版或公众预览通道。若后续顺利推送至正式版，预计将成为开发者、系统管理员及高级用户日常操作中的高频快捷方式。",
+    "content": "IT之家 10 月 3 日消息，科技媒体 NeoWin 昨日（10 月 2 日）发布博文，报道称在 Windows 11 Build 26340.9596 预览版中，微软为文件管理器新增“~”（波浪号）快捷路径支持。\n\n用户输入“~”即可直达个人账号文件夹，例如输入“~\\AppData”等路径可直接访问其子目录，无需键入“C:\\Users\\ 用户名”等完整路径。\n\nIT之家援引博文介绍，该语法源自 Linux、WSL、Git 及各类类 Unix shell 的长期约定，其中“~”代表当前用户的主目录（home directory）。\n\n在现有 Windows 体系中，用户可通过环境变量“%USERPROFILE%”实现类似效果，例如输入“%USERPROFILE%\\AppData”。新方案以“~\\AppData”替代，字符更少、输入更短，并在多账户切换场景下保持通用，无需记忆具体账户名。\n\n目前该功能仅限 Windows 11 Insider Experimental Preview Build 26340.9596 使用，尚未进入稳定版或公众预览通道。若后续顺利推送至正式版，预计将成为开发者、系统管理员及高级用户日常操作中的高频快捷方式。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-03T00:33:41.028Z",
+    "publishedAt": "2026-10-03T05:48:34.650Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

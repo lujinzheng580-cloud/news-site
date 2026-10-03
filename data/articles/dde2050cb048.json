@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "dde2050cb048",
+    "title": "“全球首例”：用户反馈 RTX 4090 FE 显卡三角散热件脱落",
+    "url": "https://www.ithome.com/1/009/398.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/398.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，网友 u/Maker_753 昨日（10 月 2 日）发布博文，反馈称在移动电脑之后，其 RTX 4090 Founders Edition 显卡散热器的一块三角形部件脱落，暴露出热管与焊点。\n\nIT之家援引该网友帖子内容，该显卡为 Ada Lovelace 架构旗舰型号，购买时间为 2023 年 8 月。用户联系 NVIDIA 寻求协助，但因 3 年保修期结束，官方拒绝提供维修或更换服务。\n\n该网友尝试检索类似案例，未找到可对照的公开报告。科技媒体 Wccftech 称这是全球首例公开的 RTX 4090 Founders Edition 散热件脱落事件。\n\n从结构细节看，脱落位置位于散热器三角区域，靠近 PCI-E 金手指一侧。焊点开裂被指为长期热循环导致的疲劳失效，而显卡 PCB 与核心未见损伤。\n\n修复方案上，该网友寻求显卡维修专家处理，得到的报价接近 400 美元（IT之家注：现汇率约合 2,686 元人民币），认为售价偏高。社区网友在帖子下方评论建议降压运行、补充导热硅脂与导热垫，使用导热环氧树脂重新粘接脱落部件。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T05:48:34.648Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

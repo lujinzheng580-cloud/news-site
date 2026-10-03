@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d08b71e18ac7",
+    "title": "OpenAI 自研 AI 芯片 Jalapeño ASIC 量产部署，因“务实”选择搭配 AMD Turin",
+    "url": "https://www.ithome.com/1/009/430.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/430.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，科技媒体 Tom's Hardware 昨日（10 月 2 日）发布博文，报道称 OpenAI 公司已内部部署其自研 Jalapeño ASIC 芯片，与配备 1.5TB 内存的 AMD EPYC Turin 主机配合使用。\n\n在接受该媒体采访时，OpenAI 副总裁兼硬件主管理查德 · 何（Richard Ho）表示，选择 Turin 是出于“务实”的考虑，并指出英伟达的新款 Vera CPU 在成熟度方面“略显落后”。\n\nHo 表示 AMD 的 Turin 芯片性能强劲，已能满足 Jalapeño 项目的全部需求，且合作伙伴对该平台具备丰富经验，有助于加速部署。\n\n对于 Jalapeño 项目，OpenAI 团队在设计阶段即明确“去风险”与“快速落地”两大原则。Ho 强调，公司希望在性能指标和成本控制上保持激进，但平台选择需符合既有的工程决策框架，确保项目可控。\n\nJalapeño ASIC 目前仅限 OpenAI 内部使用，公司尚未计划对外销售。但 Ho 表示，未来若资源允许，不排除向更广泛场景推广的可能。IT之家附上相关采访视频如下：\n\n《OpenAI 首款自研芯片 Jalapeño 性能首秀：DeepSeek R1 每瓦 AI 吞吐量是 GB300 的 1.7 倍》\n\n《OpenAI 秀肌肉，与博通共研的 Jalapeño 芯片将向英伟达 GB300 发起挑战》\n\n《消息称 OpenAI、博通合作 Jalapeño 芯片采用台积电 3nm 工艺制程》\n\n《OpenAI、博通联手打造的 AI 芯片 Jalapeño 首秀，号称媲美英伟达 Blackwell》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T05:48:34.641Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

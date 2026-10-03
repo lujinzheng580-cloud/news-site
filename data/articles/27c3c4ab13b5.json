@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "27c3c4ab13b5",
+    "title": "微软向老用户抛橄榄枝：Win10/Win11 新版 Outlook 可换装经典版样式",
+    "url": "https://www.ithome.com/1/009/432.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/432.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软为推动 Windows 10、Windows 11 用户迁移到新版 Outlook，推出“经典版 Outlook 样式”主题，可以复刻 Outlook Classic 的界面外观。\n\n报道称微软于 2026 年 8 月开始逐步面向 Windows 10、Windows 11 系统新版 Outlook 应用，推送新的主题样式，用户可在“设置”的“常规”和“外观”中开启该主题，让新版 Outlook 的界面更接近经典版 Outlook。\n\n根据该媒体测试，启用该主题之后，新版 Outlook 的标题栏、图标、文件夹列表和工具栏界面更接近经典版 Outlook，蓝色图案标题栏被替换为纯色深色背景。\n\n深色模式下背景变暗，邮件、日历、联系人等应用图标采用单色轮廓样式；日历视图也随主题更新。邮件文件夹列表重新设计为更紧凑的样式。收件箱、草稿箱、已发送邮件等文件夹旁的图标被移除，界面布局进一步贴近经典版 Outlook。\n\n工具栏方面，邮件视图新增“发送 / 接收”选项卡，与“文件”“主页”“视图”“帮助”并列；蓝色“New mail”按钮改为中性样式的“New Email”按钮，并采用经典版图标。\n\n撰写邮件窗口同样套用经典版设计。窗口顶部显示“邮件”“插入”“设置文本格式”“绘图”和“选项”选项卡，下方保留格式化控件。IT之家附上相关图片如下：\n\n微软表示推送该主题的目的，在保留新版 Outlook 诸多功能的前提下，为从经典版迁移的用户提供更熟悉的体验。\n\n该媒体指出虽然启用后，在体验方面接近经典版 Outlook，但后台依然为新版 Outlook，是运行在 Edge 容器内的 Web 应用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T05:48:34.640Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

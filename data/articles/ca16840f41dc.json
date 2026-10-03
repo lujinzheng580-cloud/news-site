@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ca16840f41dc",
+    "title": "跨平台开发框架 Qt 6.12 LTS 发布，首次将华为 HarmonyOS 加入 LTS 官方支持平台",
+    "url": "https://www.ithome.com/1/009/402.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/402.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，当地时间 9 月 30 日，跨平台开发框架 Qt 6.12 LTS 发布，作为继 Qt 6.8 之后的最新 LTS 发行版，Qt 6.12 汇聚了过去数个版本的成熟成果，重点提升了网络安全合规性、UI 渲染性能与开发效率。\n\nQt 6.12 提供 5 年的维护支持周期，为专有商业软件和工业级项目提供长期的稳定性保障与平滑迁移路径。\n\n商业版 Qt 6.12 现已满足欧盟《网络韧性法案》（Cyber Resilience Act, CRA）的合规要求\n\n提供软件物料清单（SBOM）、开箱即用的安全认证与验证机制、透明的安全测试公示以及针对商业用户的安全漏洞响应 SLA。\n\nQt Canvas Painter 正式转正\n\n新增 QML Canvas2D 组件（技术预览）\n\nQML 引擎原生集成了热重载机制，在修改 QML 代码时可实时更新运行中的程序视图，避免频繁重启应用并保留当前的上下文状态。\n\nQtGrpc 网络效率提升，新增客户端消息压缩功能，并支持限制单条入站消息体积，降低网络带宽开销并增强稳定性。\n\n正式支持 HarmonyOS：Qt 6.12 正式将 HarmonyOS 纳入 LTS 官方支持平台矩阵，提供与其它主流平台同等标准的稳定性承诺、日常维护与技术支持。\n\n针对 WebAssembly 环境的启动与运行进行了优化，进一步缩减了 Qt Quick 运行时的资源占用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T05:48:34.647Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

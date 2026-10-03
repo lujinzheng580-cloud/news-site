@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "049c14169f03",
+    "title": "微软 Win11 26H1 放大镜支持输入精准百分比，新增多种预设缩放级别",
+    "url": "https://www.ithome.com/1/009/423.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/423.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，科技媒体 NeoWin 今天（10 月 2 日）发布博文，报道称在今天发布的 Windows 11 26H1 最新预览版中，微软进一步增强放大镜（Magnifier）体验。\n\n微软针对 Windows 11 26H1 系统，在 Beta 频道版 Build 28020.3142 以及 Experimental 频道版本 Build 28120.3151 中，支持更精细的缩放体验，用户现在可直接在工具栏输入精确的放大百分比来设置所需缩放级别。\n\n此外在“选项”下拉菜单还新增了 5%、10%、25%、50%、100%、150%、200% 和 400% 的预设缩放级别，方便用户一键切换常用倍率。\n\n该媒体还指出微软在 Windows 11 Build 26340.9502 预览版中，为放大镜（Magnifier）工具新增四种对比度主题（Contrast Themes），可在不改变照片、视频等媒体内容色彩的前提下降低屏幕眩光。\n\n当前提供四种对比度主题：Aquatic、Desert（沙漠）、Dusk（黄昏）与 Night Sky（夜空），IT之家援引博文介绍附上相关图片如下：\n\n用户可直接从放大镜工具栏启用，也可通过“设置”>“辅助功能”>“放大镜”路径开启，主题激活后将持续生效，直至手动关闭。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T05:48:34.642Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
