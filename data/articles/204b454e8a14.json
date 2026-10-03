@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "204b454e8a14",
+    "title": "苹果回应少数美国运营商 AT&T 版 iPhone 18 Pro Max 出现 SOS 通信故障",
+    "url": "https://www.ithome.com/1/009/378.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/378.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，报道称美国电信运营商 AT&T 和苹果公司分别发布声明，表示少量美版 iPhone 18 Pro Max 存在蜂窝网络问题。\n\nIT之家曾于 9 月援引市场调查机构 TechInsights 公布的拆解报告，美国版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器，成为 iPhone 18 产品线中唯一采用该通信方案的机型。\n\n不过部分使用美版 iPhone 18 Pro Max 的用户反馈，该机型存在蜂窝网络问题，可能导致设备失去服务并无法拨打电话。受影响用户的手机状态栏显示“SOS”，通话、短信和数据连接均无法使用。\n\n电信运营商 AT&T 于 10 月 2 日发布公告：\n\n您好，这里是 AT&T。请注意：您的 iPhone 18 Pro Max 有重要的 Apple 软件更新可用。部分手机可能无法完成通话 / 短信 / 数据连接。请立即通过设置 > 通用 > 软件更新方式更新至 iOS 27.0.1，可。如有任何疑问，请联系 AT&T 或 Apple。\n\n我们发现少数使用 AT&T 网络的 iPhone 18 Pro Max 用户存在一个问题，该问题可能导致设备失去服务且无法拨打电话。\n\n我们已于本周早些时候发布了 iOS 27.0.1，强烈建议所有 iPhone 18 Pro Max 用户立即更新，并且今天还将发布运营商设置更新。这些更新旨在共同防止此问题的发生。\n\n博文指出为了遏制问题扩散，苹果公司已发布 iOS 27.0.1 更新、运营商 AT&T 也发布了设置更新，不过已失去服务的设备无法通过软件修复，需更换硬件。相关用户应联系 Apple Support 或 AT&T，也可前往 Apple Store 或 AT&T 营业厅处理。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T00:33:41.031Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

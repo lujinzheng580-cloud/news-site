@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4bc7aa859e40",
+    "title": "部分 Win11 用户反馈安装微软 9 月可选更新后同时播放多个 MP3 文件触发崩溃",
+    "url": "https://www.ithome.com/1/009/384.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/384.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，科技媒体 BornCity 今天（10 月 3 日）发布博文，报道称微软推送 9 月 Windows 11 可选更新 KB5124010 存在 Bug，部分用户反馈同时播放多个 MP3 文件时，可能触发系统音频解码组件 msmpeg2ac3dec.dll 崩溃。\n\nIT之家此前报道，微软于 9 月 23 日面向 Windows 11 24H2 和  25H2 系统，推送 9 月可选更新 KB5124010，用户安装后版本号升至 26100.9550 和 26200.9550。\n\n根据多名 Windows 11 用户在社区反馈，安装 9 月可选更新之后，部分软件在同时播放多个 MP3 文件时出现崩溃。\n\n有网友复盘发现崩溃点指向 Windows 系统组件 msmpeg2ac3dec.dll，该文件位于 System32 与 SysWOW64 目录。\n\n报告称，msmpeg2ac3dec.dll 并非存在于所有 Windows 11 设备。若系统最初以 Windows 11 22H2 安装并逐步升级，系统会保留该文件；若直接全新安装 24H2 或 25H2 并更新，则没有该文件，可正常运行电话客户端。\n\n受影响场景包括《SimCity 4》和《Fallout: New Vegas》等较旧游戏。Reddit 相关讨论称，该 DLL 与音频处理相关，故障会导致《Fallout: New Vegas》无法正常运行。\n\n企业环境同样出现兼容性问题。一家使用 innovaphone 电话系统及 myApps 客户端的企业报告，其软件电话客户端因相同问题崩溃。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T00:33:41.030Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

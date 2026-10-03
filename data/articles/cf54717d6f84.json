@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "cf54717d6f84",
+    "title": "微软官方 X 账号被劫持约 30 分钟，攻击者借“点赞 50 万回归 Clippy”炒作加密代币",
+    "url": "https://www.ithome.com/1/009/387.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/387.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软官方 X 账号（@microsoft，拥有超过 1,307.4 万粉丝）被盗用，曾发布推文称：“点赞达到 50 万，我们就让 Clippy 回归”。\n\n我们已确认有人未经授权访问了我们在 X 服务器上的账户，包括发布了一些并非来自微软的帖子。该账户已得到保护，未经授权的帖子已被删除，我们正在继续调查此事。\n\n在微软官方 X 账号被劫持后，攻击者首先关注了名为 @clippymsftcto 的 Clippy 主题账号，该账号发布了一张 Clippy 站在 Windows XP 经典壁纸前的图片，并询问“多少点赞才能让 Clippy 回归”。不过该账号并非真的推动 Clippy 复活，其背后是推广 $Clippy 加密货币。IT之家附上相关截图如下：\n\n随后，被盗的微软账号引用该帖文，发布“点赞达到 50 万，我们就让 Clippy 回归”的内容，制造微软官方承诺的假象。\n\n此外微软官方 X 账号被劫持后，攻击者将微软账号头像临时更换为 Clippy 形象，增强欺骗性。整个过程持续约 30 分钟。\n\n微软在随后删除的一条“道歉声明”中表示，公司不支持、不认可、未授权任何与 Clippy、微软或 $MSFT 相关的加密代币，并将采取法律行动要求移除相关内容。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T00:33:41.028Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
