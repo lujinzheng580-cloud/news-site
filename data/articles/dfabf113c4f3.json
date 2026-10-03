@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "dfabf113c4f3",
+    "title": "Neurable One 头戴式耳机发布：号称能够监测用户脑电信号，499 美元",
+    "url": "https://www.ithome.com/1/009/502.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/502.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 3 日消息，初创公司 Neurable 现已正式推出 Neurable One 头戴式耳机，该耳机内置 12 通道脑电图（EEG）监测系统，可以记录用户的脑电信号，以便专业人士分析佩戴者专注度、认知负荷、平静程度等状态，定价 499 美元（IT之家注：现汇率约合 3,350 元人民币）。\n\n据介绍，Neurable One 整体外观与普通无线头戴式耳机相近，其耳罩内侧采用了“条纹状”设计，而这些“条纹”实际上是用于采集脑电信号的电极，可提供 12 通道 EEG 测量能力，适合日常佩戴和长期使用检测。\n\n目前，Neurable One 支持监测 Calmness（平静程度）、Cognitive Load（认知负荷）、Cognitive Speed（认知速度）、EEG 频段、Focus（专注度）以及 Wakefulness（清醒程度）等指标。相应数据会在 Neurable 云端进行处理，相关数据最长保存 18 个月，用户也可以随时要求删除。\n\n对于希望进一步研究脑电数据的用户，Neurable 还允许导出 EEG 频段的原始数据，并以 CSV 文件形式进行后续分析，甚至可以用于开发个人 AI 项目。\n\n不过，根据美国相关监管规定，Neurable One 并非“医疗器械”，无法用于实际诊断、治疗或监测任何健康状况，主要是帮助普通消费者探索和记录自身脑部状态。\n\n除了脑电监测功能外，Neurable One 本身也可以作为普通无线降噪耳机使用，即使不连接配套应用，也能够独立提供音频功能。耳机最多可以同时连接两台设备，官方标称续航时间最长 22 小时；在同时启用 EEG 监测情况下，续航时间最长约 12 小时。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-03T15:13:43.848Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
