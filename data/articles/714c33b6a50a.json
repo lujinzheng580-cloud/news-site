@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 3 日消息，MINISFORUM（铭凡）现已在电商平台销售 PCIe AIC 扩展卡 ESP4B，到手价 669 元。这一型号基于祥硕 \"Promontory 21\" 芯片，采用主动散热，可提供 4 个 M.2 与 4 个 SATA 接口。\n\nPROM 21 芯片上行侧为 4 条 PCIe Gen4，下行侧则包括 8 条 PCIe Gen4、4 条 PCIe Gen3、一系列 USB I/O。\n\n在 ESP4B 上，下行 PCIe Gen4 用作 M.2 插槽，支持 2 个 4 通道或 4 个 2 通道；PCIe Gen3 通道则以 OCuLink 4i 形式呈现，可通过配套定制线材转换为 4 个 SATA III 接口；USB 部分则提供了 1 个 20Gbps Type-C。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-03T21:52:16.856Z",
+    "publishedAt": "2026-10-04T00:27:16.138Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

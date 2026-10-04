@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f5fd5907786d",
+    "title": "Arm 为 Linux 内核引入 TLBID 支持，提升高核心数 CPU 性能",
+    "url": "https://www.ithome.com/1/009/597.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/597.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 4 日消息，Phoronix 今日发现，Arm 本周向 Linux 内核提交了一组初始补丁，着手支持即将推出的 TLBI Domains（TLBID）功能。\n\n该技术旨在减少高核心数处理器执行 TLB（Translation Lookaside Buffer，转换后备缓冲区）失效操作时的系统开销，从而提升大规模多核心 Arm 系统的性能。\n\nIT之家注：TLB 是处理器用于缓存虚拟地址到物理地址转换结果的重要结构。当操作系统需要使部分地址映射失效时，通常需要向多个 CPU 核心发送 TLB 失效指令。在核心数量较多的系统中，如果每次都对整个系统执行 TLB 失效，就可能产生明显的同步和通信开销。\n\nTLBID 的核心变化是允许操作系统只针对部分 CPU 核心执行 TLB 失效，而不必每次都覆盖整个系统。Arm 正在为 Linux 内核完善相关支持，使内核能够根据进程实际运行过的 CPU 核心发送 TLBI 指令，仅让相关 CPU 执行 TLB 清理。\n\n这一机制主要是针对高核心数 Arm 服务器处理器。对于在大量 CPU 核心之间运行的服务器工作负载，避免不必要的全系统 TLB 失效操作，有望减少处理器之间的同步开销。不过，目前 Arm 尚未公布 TLBID 的实际性能测试数据，因此其具体收益仍有待后续硬件和软件验证。\n\n除了 Linux 内核本身，ARM64 架构的 TLBID 支持还需要编译工具链提供相应的指令支持。目前相关工作依赖 LLVM 23 及更新版本，或者 GNU Binutils 2.46 及更新版本。\n\nArm 此次提交的补丁目前仍属于早期开发阶段。随着相关架构规范、编译器以及 Linux 内核支持逐步完善，未来搭载 TLBID 的高核心数 Arm 服务器处理器有望利用更精细的 TLB 失效机制，降低大规模多核心系统中的内存管理开销。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-04T00:27:16.135Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

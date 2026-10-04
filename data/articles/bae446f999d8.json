@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "bae446f999d8",
+    "title": "索尼 PS5 破解后成功运行初代 Xbox 游戏，微软 Xbox 360 与 PC 游戏支持也在开发中",
+    "url": "https://www.ithome.com/1/009/583.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/583.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 4 日消息，据 VideoCardz 今日报道，XPSemu 已将开源初代 Xbox 模拟器 xemu 移植至破解 PS5，可在主机上运行部分初代 Xbox 游戏。与此同时，Xbox 360 模拟以及基于 Wine / Proton 运行 Windows 游戏的项目也在开发或展示阶段。\n\nIT之家注：XPSemu 是 xemu 面向 PS5 的移植版本，针对主机硬件进行了适配。该项目使用 QEMU 的 TCG JIT 处理 Xbox CPU 模拟，并通过 xemu 的 Vulkan 后端以及 PS5 可用的开源 RADV 驱动进行图形渲染。需要注意的是，这里模拟的是 2001 年推出的初代 Xbox，并非 Xbox 360。\n\n目前 XPSemu Alpha 1 已公开，可以启动部分游戏，同时提供类似 Xbox 的界面、单独的游戏设置、补丁、性能监控以及 1 倍至 4 倍内部渲染分辨率调整等功能。\n\n开发者公布的测试数据显示，《光环 2》默认运行约为 30 FPS，使用 60 FPS 补丁后实际游戏过程中约为 36 至 50 FPS；《古惑狼：皮质的愤怒》可流畅运行；《极限竞速》比赛过程中约为 15 至 21 FPS；《神鬼寓言：失落之章》多数场景约为 22 至 30 FPS，高负载场景则会降至 10 至 20 FPS。\n\n从当前测试来看，XPSemu 的主要性能瓶颈并非 GPU。开发者表示，负责模拟 Xbox CPU 的线程可能占用分配给它的 CPU 时间的 85% 至 97%，而 GPU 大部分时间仍处于较低负载状态。因此，在部分游戏中，将内部渲染分辨率提高至 3 倍或 4 倍，对整体性能的影响并不明显。\n\n除了初代 Xbox 外，Xbox 360 模拟也已经出现在开发者展示中。开发者 BrinoBlitz 于 10 月 3 日展示了早期 Xbox 360 模拟器在 PS5 上运行的画面，并表示项目将在修复剩余问题后发布。目前该项目尚无公开版本或游戏兼容列表，因此其开发进度仍明显早于已经提供 Alpha 1 的 XPSemu。\n\n另一方面，一个名为 PP（PS5 Proton）的项目正在尝试将 Proton 带到破解 PS5，让主机直接运行 Windows 游戏，而不必先在 PS5 上安装 Linux。开发者已经公开演示相关功能，并表示该项目基于 Wine 移植工作。不过目前尚未提供公开版本或代码仓库，因此具体游戏兼容性和实际运行性能仍有待确认。\n\n目前，XPSemu 已经具备公开版本、代码仓库以及部分游戏测试数据，而 Xbox 360 模拟器和 PS5 Proton 均仍处于开发或演示阶段。近期 PS5 破解及相关 Homebrew 项目的发展速度明显加快，除了传统模拟器之外，也开始出现针对 Windows 软件和游戏的兼容层方案。\n\n需要注意的是，PS5 破解能力与系统固件版本密切相关。索尼已于 10 月 1 日推出 PS5 系统软件 26.06-14.10.00 版本，官方说明包括修复系统软件安全问题以及改善系统软件性能和稳定性，并非单纯的性能优化更新（近期发布的 PS5 “Relapse”越狱方案目前支持最高 13.60 版本）。\n\n《借助 PS5X 模拟器，开发者成功在 Xbox Series X 上运行 PS5 游戏》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-04T00:27:16.137Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
