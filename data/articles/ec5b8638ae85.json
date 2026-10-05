@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ec5b8638ae85",
+    "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
+    "url": "https://www.ithome.com/1/009/743.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/743.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 5 日消息，Meta 于当地时间 10 月 2 日宣布推出开源项目 Muse Gadgets，允许开发者为旗下个人 AI 智能体 Muse 打造自定义硬件。\n\nMeta 同时也已经在 GitHub 上按照 Apache 2.0 许可发布了 ESP32 固件和 Linux 设备 SDK。开发者可以将低成本 ESP32 开发板或树莓派等 Linux 设备连接到 Muse，接入显示屏、按钮、传感器、执行器以及工作台上其他可联网的设备。\n\n在硬件适配方面，Meta ESP32 SDK 文档目前已支持 11 款 ESP32 开发板，包括 Espressif 的 ESP32-C5 DevKitC-1（官方推荐）、M5Stack StickS3、Waveshare ESP32-S3-Touch-AMOLED-1.75C、Seeed 的电子纸显示屏等。其中后六款开发板可运行完整的屏幕 UI，包括动画头像、按键通话和设置功能。内存充足的开发板还支持家庭网络隧道，使 Muse 能够访问用户已拥有的设备，以及任何暴露本地 HTTP API 的自建设备。\n\nLinux SDK 方面，Meta 已支持树莓派 3B+、4、5、Zero 2 W，以及其他具备蓝牙低功耗能力的 Linux 设备，系统最低要求为 Raspberry Pi OS Bullseye、Debian 11、Ubuntu 22.04 版本。\n\n据 Linux SDK 文档说明，Muse 以安装时所选账户的身份执行命令，拥有该账户的全部权限，“如果该账户可以使用 sudo，Muse 也可以”。\n\n安装程序会在交接账户权限前进行确认，并提示该账户是否具备 sudo 权限。开发者也可以通过 install.sh --run-as 指定一个不同的非特权账户来运行 Muse。\n\nMuse 在 Linux 设备上可以执行 shell 命令、读写文件、检查设备健康状态，Meta 官方给出的示例提示词包括让 Muse 在树莓派上安装 Home Assistant，以及每天早上 7 点检查备份是否运行。\n\n值得一提的是，Meta 同时也基于该 SDK 打造了一款成品设备 ——Muse Home Link。据 Meta 超级智能实验室产品负责人 Nat Friedman 介绍，这是一款采用 USB-C 供电的小型设备，能让 Muse 连接到家庭网络，与电视、音箱以及其他暴露 HTTPS 接口的智能设备通信。\n\nFriedman 表示，Meta 首批生产了约 5000 台 Home Link，面向美国 Muse 订阅用户免费提供，每人限领一台，先到先得。\n\nMuse Gadgets 的推出是 Meta 近期密集扩展 Muse 生态的一部分。据 TechCrunch 报道，Meta 本周早些时候还推出了 Muse for Small Business，免费版含使用限额，每月付费 20 美元或 100 美元（IT之家注：现汇率约合 672 元人民币），可连接 Shopify、Dropbox、Slack、Canva、Figma、QuickBooks 等第三方工具。\n\n据 The Next Web 报道，Meta 同时成立了新的业务部门 Meta Enterprise Platform，由前 MongoDB CEO CJ Desai 领导，整合 Muse 智能体、Meta Business Agent、Muse API 和 Muse Code 等产品，面向企业客户推广 AI 工具。\n\n从行业视角来看，Muse Gadgets 标志着 Meta 正试图将 Muse 从单纯的聊天机器人扩展为跨硬件的智能体运行时。如果第三方硬件只需暴露标准接口即可被 Muse 理解和调用，个人智能体未来可能承担部分传统操作系统、应用和智能家居中枢的角色。不过 Meta 在 SDK 文档中也给出了颇为坦率的风险提示：社区配对“没有制造商验证，无法防止主动中间人攻击”，建议在可信网络中完成配对；SDK 令牌内置在固件中，应将其视为标识符而非密码，泄露后需撤销并重新构建；Wi-Fi 凭据和设备令牌存储在闪存中，强烈建议启用 NVS 加密；构建版本使用开发密钥签名，默认不开启安全启动。文档结尾写道：“折腾的副作用可能包括变砖、保修失效、电压跌落或破产。风险自负。”",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-05T02:19:05.617Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
