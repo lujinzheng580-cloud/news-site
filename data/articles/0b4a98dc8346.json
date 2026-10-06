@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "0b4a98dc8346",
+    "title": "散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽",
+    "url": "https://www.ithome.com/1/009/967.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/967.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 6 日消息，散热制造商 Dynatron（传达）此前已在其官网上线了 SB1-4U-ACTIVE 风冷散热器。该型号支持 Socket SB1 平台上的 AMD \"Zen 6\" 微架构 EPYC 9006 LP \"Verano\" 处理器。\n\nEPYC \"Verano\" 瞄准 AI 加速器头节点应用场景，支持 LPDDR5X SOCAMM2 内存模组，预计 2027 年推出。其至多拥有 72 个 CPU 核心，频率可达 5GHz，支持 112Gbps 高带宽 xGMI 连接。\n\nSB1-4U-ACTIVE 面向 4U 环境，三维 128.05 × 106.6 × 130.7 (mm)，配备前后 2 颗双滚珠轴承风扇，内嵌均热板和多根热管。其最大风扇转速 6000±10% RPM，最大风冷 91.7 CFM，最大噪声 44.5 dB(A)。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-06T06:54:43.695Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

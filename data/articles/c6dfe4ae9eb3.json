@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c6dfe4ae9eb3",
+    "title": "微软安卓版 Microsoft Authenticator 应用备份 2027 年改用 Google One",
+    "url": "https://www.ithome.com/1/009/972.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/972.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 6 日消息，科技媒体 NeoWin 昨日（10 月 5 日）发布博文，报道称微软宣布将于 2027 年 7 月 1 日开始，调整安卓版 Microsoft Authenticator 应用备份机制，改由 Google One 提供备份入口。\n\nMicrosoft Authenticator 是微软推出的身份验证应用，用于生成一次性验证码、确认多重身份验证登录等。应用支持个人账户、工作或学校账户，以及 Amazon、Facebook、Gmail 等第三方服务。\n\n从 2027 年 1 月开始，你将不再使用 Microsoft 个人账户启用备份。你需要从 Google One 备份启用“Microsoft Authenticator”。\n\nGoogle One 是谷歌提供的云存储与备份服务，覆盖手机数据、照片及应用信息等内容。此次调整后，Android 版 Microsoft Authenticator 用户需在 Google One 的备份设置中启用对应项目。备份数据会计入谷歌账户的可用存储空间。\n\n安卓用户若要继续备份数据，需要同时拥有谷歌账户与微软账户。微软账户用于身份验证器服务，Google One 则负责保存备份内容。\n\nGoogle One 备份会计入谷歌账户的存储容量。谷歌账户提供 15GB 免费存储空间，身份验证器备份通常不会占用大量空间，但存储空间已用尽的用户可能无法保存新备份。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-06T06:54:43.694Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

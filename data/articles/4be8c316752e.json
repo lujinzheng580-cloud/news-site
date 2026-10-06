@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4be8c316752e",
+    "title": "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证",
+    "url": "https://www.ithome.com/1/009/958.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/958.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 6 日消息，科技媒体 Windows Central 昨日（10 月 5 日）发布博文，报道称在 Word 文档处理应用中，微软优化 Copilot AI 体验，新增引用功能，帮助用户溯源遏制 AI 幻觉。\n\n信息引用方面，Copilot 回复现在会附带来源链接，用户可直接点击跳转至原始网页或内部文档，核实信息上下文与准确性。微软表示，此举提高了透明度，帮助用户理解 Copilot 信息的出处。IT之家附上相关截图如下：\n\nAI 工具常因训练数据滞后或语境误读而输出错误结论，甚至编造看似真实的来源，业内也将其称为“幻觉”。引用功能允许用户快速回溯原始材料，确认 Copilot 是否正确提取并理解了信息。\n\n微软同时优化了 Copilot Chat 的设计与功能，并为 Copilot App 增加插件、连接器及 Work IQ 增强。除 Word 外，Copilot 在 PowerPoint 中新增技能与连接器。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-06T06:54:43.696Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

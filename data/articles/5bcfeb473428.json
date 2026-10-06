@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "5bcfeb473428",
+    "title": "任天堂《超级马力欧兄弟：惊奇》游戏被原生移植到 Windows，无需模拟器几乎完美运行",
+    "url": "https://www.ithome.com/1/009/968.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/968.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 6 日消息，开发者 Belmante 上周展示了任天堂《超级马力欧兄弟：惊奇》的原生 Windows 移植版。\n\n在未使用模拟器的情况下，RTX 3050 笔记本运行《超级马力欧兄弟：惊奇》的帧率达到约 60 帧，几乎可以完美运行，只是偶尔存在轻微的图形故障和帧率下降。\n\n该项目使用重新编译的 C++ 代码和 NVN 到 Vulkan 的转换层，并计划进一步优化、集成 GPU 测试，开发者还计划开源当前的私有代码库，包括重编译器、NVN → Vulkan 层以及 NVN 文档。\n\nBelmante 此前发布过类似的视频，展示了这款游戏在 macOS 系统的 M1 Mac 中运行，但那个移植版本存在一些重大问题。Belmante 透露，该项目的快速发展得益于 AI 的协助。\n\nBelmante 还公布了后续计划，打算进一步优化该移植版，并在核显（确切地说是英特尔 UHD 770）上进行测试。根据开发者的说法，由于原版 Switch 硬件并不算强大，因此想测试一下该移植版所需的最低 GPU 配置。\n\nIT之家注意到，Belmante 还晒出了多个视频，展示《蝙蝠侠：阿卡姆疯人院》（Xbox 360 版）原生移植到 Windows 平台、《超级马力欧：奥德赛》移植 Windows 平台（图形 Bug、没有声音）等，还有主机游戏移植到安卓手机的项目。\n\n随着 AI 的发展，反编译和重编译项目正在打破主机独占的壁垒，不过移植相关的版权问题更值得关注。Belmante 也表示，自己不会提供任何游戏文件。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-06T06:54:43.694Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
