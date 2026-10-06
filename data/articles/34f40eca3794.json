@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "34f40eca3794",
+    "title": "苹果首款折叠 iPhone Duo 锁屏将获极简专注模式，支持一键启用",
+    "url": "https://www.ithome.com/1/009/923.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/923.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 6 日消息，消息源 @itspdfu 于 10 月 4 日在 X 平台发布推文，分享了关于苹果首款折叠 iPhone Duo 的更多细节，包括重新设计了锁定屏幕上的专注控制。\n\n消息源通过挖掘 iOS 27.1 测试版，发现苹果正针对 iPhone Duo 的外屏，调整专注模式（Focus Mode）界面。\n\niPhone Duo 配备更小、更矮的外屏，现有专注模式控件占用空间较多。新设计删除文字标签，仅保留图标，让锁屏界面更简洁，并适配小尺寸显示区域。\n\n在锁屏状态下，用户点击专注模式按钮即可启用 / 禁用，而当前版本中，该按钮会跳转至专注模式设置页面，用户需额外操作才能切换状态。\n\n解锁后，iPhone Duo 外屏的专注模式图标将移至时钟上方。目前该图标显示在屏幕顶部时钟旁边；新布局将图标与右侧时钟及重新定位的 Dock 栏区分开。\n\n消息源昨日（10 月 5 日）还透露在 iPhone Duo 上运行的 Safari 浏览器支持 Device Posture API（设备姿态 API）和 Viewport Segments API（视口分段 API），为网页适配折叠屏或双屏设备提供底层支持。\n\n开发者可在模拟器中依次进入设置 > 应用 > Safari > 高级 > 功能标志，开启上述两项功能进行测试。这意味着网页能够根据设备当前的展开、折叠及双屏分区状态，动态调整页面布局、内容分布和交互方式。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-06T00:43:39.608Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "dbaab2ce7d3c",
+    "title": "苹果 macOS 27 优化支持第三方显示器，可同时开启 HDR 与 2560×1440 分辨率",
+    "url": "https://www.ithome.com/1/009/931.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/009/931.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 6 日消息，科技媒体 9to5Mac 昨日（10 月 5 日）发布博文，报道称在 macOS 27 Golden Gate 系统中，苹果修复了在连接第三方 HDR 显示器之后，系统无法在 2560×1440 分辨率下启用 HDR 的问题。\n\nIT之家注：HDR 是指高动态范围（High Dynamic Range），该技术通过扩展画面的亮度范围和色彩表现，让明亮区域与暗部保留更多细节。常见应用包括电影播放、照片编辑、游戏和视频制作。\n\n在 macOS 26 Tahoe 存在一项显示限制，用户启用 HDR 后，连接第三方 HDR 显示器时，系统通常只能使用 1920×1080 分辨率。\n\n该媒体指出在 32 英寸 4K 显示器上使用 1920×1080，界面元素会显得较大，桌面可用空间也会减少，因此部分用户更倾向于选择 2560×1440 等缩放分辨率。\n\n但在 macOS Tahoe 中，用户选择 2560×1440 后，系统会禁用 HDR 开关。系统随后自动切换回标准动态范围，用户无法同时保留 HDR 和常用的缩放显示效果。\n\nmacOS 27 改变了这一限制。系统允许用户在选择 2560×1440 缩放分辨率的同时开启 HDR，整个功能由系统原生提供，无需安装第三方软件。\n\n除解决分辨率限制外，macOS 27 还扩大了系统级 HDR 支持范围。系统可显示更明亮的高光、HDR 光标和更强的明暗对比，适用对象包括 Studio Display XDR、Pro Display XDR 以及第三方 OLED 显示器。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-06T00:43:39.607Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
