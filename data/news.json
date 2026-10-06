@@ -2,61 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "f027290ffb33",
-      "title": "苹果一号电脑 Apple I 罕见拍卖：沃兹尼亚克签名主板，或拍出 80 万美元",
-      "url": "https://www.ithome.com/1/010/009.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.375Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b8c9fa688edc",
-      "title": "消息称 Meta 和微软要求员工减少使用 Claude，多用自家 AI 节省成本",
-      "url": "https://www.ithome.com/1/010/010.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.375Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1cad365068f6",
-      "title": "微软 OneDrive 18.12.1 测试版发布，下个版本不再支持苹果 iOS / iPadOS 18 系统",
-      "url": "https://www.ithome.com/1/010/011.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.375Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f985f0a3e400",
-      "title": "交通运输部：10 月 5 日全社会跨区域人员流动量 30333.7 万人次，同比增长 1.7%",
-      "url": "https://www.ithome.com/1/010/013.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.374Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6db0c24fb89b",
-      "title": "TRYX 预告透明磁轴键盘 VESTRA VISION，内嵌 5.48\" OLED 屏幕",
-      "url": "https://www.ithome.com/1/010/014.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.374Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "1d08e598ec9a",
       "title": "瑞萨推出品牌首款低压氮化镓功率半导体，面向 AI 数据中心、人形机器人等领域",
       "url": "https://www.ithome.com/1/010/015.htm",
@@ -64,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.374Z",
+      "publishedAt": "2026-10-06T19:35:00.823Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -75,7 +20,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.374Z",
+      "publishedAt": "2026-10-06T19:35:00.823Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -86,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.374Z",
+      "publishedAt": "2026-10-06T19:35:00.823Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -97,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.374Z",
+      "publishedAt": "2026-10-06T19:35:00.823Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -108,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.373Z",
+      "publishedAt": "2026-10-06T19:35:00.823Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -119,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.373Z",
+      "publishedAt": "2026-10-06T19:35:00.823Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.373Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.373Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.373Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.373Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.372Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +130,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.372Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +141,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.372Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.372Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +163,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.372Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.371Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.371Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.371Z",
+      "publishedAt": "2026-10-06T19:35:00.822Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.371Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +218,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.371Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.371Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +240,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.370Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.370Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.370Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.370Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.369Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.369Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.369Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +317,18 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.369Z",
+      "publishedAt": "2026-10-06T19:35:00.821Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0f5324a92e52",
+      "title": "英伟达发布 617.42 Game Ready 显卡驱动：优化《使命召唤：现代战争 4》等新作",
+      "url": "https://www.ithome.com/1/010/098.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:00.820Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +339,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.368Z",
+      "publishedAt": "2026-10-06T19:35:00.820Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +350,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.368Z",
+      "publishedAt": "2026-10-06T19:35:00.820Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +361,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.368Z",
+      "publishedAt": "2026-10-06T19:35:00.820Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +372,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.368Z",
+      "publishedAt": "2026-10-06T19:35:00.820Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +383,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.367Z",
+      "publishedAt": "2026-10-06T19:35:00.820Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +394,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.367Z",
+      "publishedAt": "2026-10-06T19:35:00.819Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +405,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.366Z",
+      "publishedAt": "2026-10-06T19:35:00.819Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +416,62 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:11.366Z",
+      "publishedAt": "2026-10-06T19:35:00.819Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "acb0050e49e5",
+      "title": "日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%",
+      "url": "https://www.ithome.com/1/010/110.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:00.819Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d662c8ca018d",
+      "title": "特斯拉在印度市场交付超一年，仅注册不到 1000 辆汽车",
+      "url": "https://www.ithome.com/1/010/111.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:00.819Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d959833d7240",
+      "title": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产",
+      "url": "https://www.ithome.com/1/010/114.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:00.818Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "de3442c51f1c",
+      "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
+      "url": "https://www.ithome.com/1/010/123.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:00.818Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2d49b590ba8e",
+      "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
+      "url": "https://www.ithome.com/1/010/124.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:00.818Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,95 +482,7 @@
       "category": "general",
       "summary": "国庆假期即将结束，这次假期最后离家，下一趟再回家，就是2027年了。",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "dc171c324fda",
-      "title": "10人国足0比1不敌塔吉克斯坦",
-      "url": "https://www.baidu.com/s?wd=10%E4%BA%BA%E5%9B%BD%E8%B6%B30%E6%AF%941%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
-      "source": "baidu",
-      "category": "general",
-      "summary": "北京时间10月6日，在2026年中国之队重庆国际足球邀请赛中，中国男足0-1负于塔吉克斯坦队，遭遇三连败。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "50c2a0ccb922",
-      "title": "一批大国重器与重点工程迎来新突破",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8E%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%AA%81%E7%A0%B4",
-      "source": "baidu",
-      "category": "general",
-      "summary": "国庆期间，我国多项大国重器与重点工程集中上新：我国沙漠最大油田哈得-富满油田采出油气突破2600万吨；首个海上注碳增气平台主体完工，延榆高铁高梁隧道贯通；新疆首个百兆瓦级压缩二氧化碳储能项目并网，青岛胶州湾第二海底隧道盾构完工；青海首个三塔光伏光热基地并网，成达万高铁铺轨启动。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8b46f1e9498a",
-      "title": "“16条人命只剩5具尸体1份骨灰”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "10月6日，央视新闻披露缅北电诈覆灭纪实，明家案系首次对境外武装跨国犯罪集团实施完整司法管辖。该案涉电诈及赌资近290亿元，16名受害者遗体仅找回5具尸体与1份骨灰。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ed8a8f1f64a2",
-      "title": "韦世豪被红牌罚下",
-      "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B",
-      "source": "baidu",
-      "category": "general",
-      "summary": "10月6日晚，2026CFA中国之队重庆国际足球邀请赛最后一轮，国足对塔吉克斯坦。韦世豪情绪失控，故意肘击对手，被红牌罚下。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "54e4b8a919ee",
-      "title": "睡眠开始出现这种问题说明你可能老了",
-      "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E7%9C%A0%E5%BC%80%E5%A7%8B%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%80%81%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，科普中国发文解读老年人睡眠变化原因。超60%老年人早睡早起且睡眠碎片化严重，这与生物钟节律前移、晶状体透光率下降导致光信号减弱及视交叉上核功能衰退有关。专家建议通过固定起床时间、日间适量活动和限制白天小睡来改善睡眠质量。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "413f43870197",
-      "title": "国足队史首负塔吉克斯坦",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E9%98%9F%E5%8F%B2%E9%A6%96%E8%B4%9F%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
-      "source": "baidu",
-      "category": "general",
-      "summary": "10月6日，重庆国际足球邀请赛，国足0-1不敌塔吉克斯坦，遭遇热身赛三连败。这也是中国男足国家队历史上首次负于塔吉克斯坦，自1997年首次交锋以来延续近29年的不败纪录就此终结。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a0459111aceb",
-      "title": "大学生旅游攻略 坑麻国庆出行中年人",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5+%E5%9D%91%E9%BA%BB%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E4%B8%AD%E5%B9%B4%E4%BA%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "十一假期过半，不少中年人发文控诉照搬大学生旅游攻略出游遭罪。此前，中年人试图参照年轻人方式自由行，却发现大学生攻略主打“特种兵拉练”，一天辗转数城、住青旅吃廉价外卖。因中年人体力透支难以适应，导致玩一天需躺三天，甚至调侃治膝盖花1.8万元。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8dce323fe5a2",
-      "title": "陈思诚这次真进步了吗",
-      "url": "https://www.baidu.com/s?wd=%E9%99%88%E6%80%9D%E8%AF%9A%E8%BF%99%E6%AC%A1%E7%9C%9F%E8%BF%9B%E6%AD%A5%E4%BA%86%E5%90%97",
-      "source": "baidu",
-      "category": "general",
-      "summary": "截至10月6日，陈思诚新作《神探之痕迹》国庆档票房超3亿元。相较于以往套路化商业片，陈思诚此次从现实取材，一板一眼拍出刑侦片。影片以从警70余年的原型崔道植参与的案件为线索，展现了1971年至2016年间，中国公安痕迹检验技术从凭经验到仪器检验、再到与现代生物技术融合的进步历程。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -570,51 +493,40 @@
       "category": "general",
       "summary": "国庆返程高峰期间，全国多地陆续迎来集中返程车流，主要高速公路、国省道干线车流量高位运行。高速段均出现拥堵，道路堵成“长龙”，车辆尾灯红成一片。",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "0e102872a3f4",
-      "title": "“稻城亚丁景区封闭”系谣言",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E5%B0%81%E9%97%AD%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "id": "50c2a0ccb922",
+      "title": "一批大国重器与重点工程迎来新突破",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E4%B8%8E%E9%87%8D%E7%82%B9%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E6%96%B0%E7%AA%81%E7%A0%B4",
       "source": "baidu",
       "category": "general",
-      "summary": "国庆期间，记者实地探访四川甘孜稻城亚丁景区，澄清网传“封闭”谣言。网传“封闭”实为当地10月2日发提示，严禁擅自进入未开发区域徒步。景区自8月1日起免门票，因国庆预约满额被黄牛炒至500元，但线下登记可免费进。此前今年5月该景区曾因设卡收费被整治，现门票及摆渡车均免费，并设医疗点保障安全。",
+      "summary": "国庆期间，我国多项大国重器与重点工程集中上新：我国沙漠最大油田哈得-富满油田采出油气突破2600万吨；首个海上注碳增气平台主体完工，延榆高铁高梁隧道贯通；新疆首个百兆瓦级压缩二氧化碳储能项目并网，青岛胶州湾第二海底隧道盾构完工；青海首个三塔光伏光热基地并网，成达万高铁铺轨启动。",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "b865f4cbfc01",
-      "title": "孩子打印作业开销让家长直呼扛不住",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%93%E5%8D%B0%E4%BD%9C%E4%B8%9A%E5%BC%80%E9%94%80%E8%AE%A9%E5%AE%B6%E9%95%BF%E7%9B%B4%E5%91%BC%E6%89%9B%E4%B8%8D%E4%BD%8F",
+      "id": "8b46f1e9498a",
+      "title": "“16条人命只剩5具尸体1份骨灰”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C16%E6%9D%A1%E4%BA%BA%E5%91%BD%E5%8F%AA%E5%89%A95%E5%85%B7%E5%B0%B8%E4%BD%931%E4%BB%BD%E9%AA%A8%E7%81%B0%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，孩子打印作业开销引发热议，四年级每周打印三四次，一学期单科最高300元。学校作业全靠家长打印？假期上百页打印成常态。打印价格调查：街边百页50元线上仅6块5，开销折腾家长直呼扛不住。",
+      "summary": "10月6日，央视新闻披露缅北电诈覆灭纪实，明家案系首次对境外武装跨国犯罪集团实施完整司法管辖。该案涉电诈及赌资近290亿元，16名受害者遗体仅找回5具尸体与1份骨灰。",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "0cb19a973d14",
-      "title": "男孩买3瓶饮料连中71瓶 店主惊呆",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E4%B9%B03%E7%93%B6%E9%A5%AE%E6%96%99%E8%BF%9E%E4%B8%AD71%E7%93%B6+%E5%BA%97%E4%B8%BB%E6%83%8A%E5%91%86",
+      "id": "1013a5fcdb59",
+      "title": "100元不够买三斤鲜牛肉",
+      "url": "https://www.baidu.com/s?wd=100%E5%85%83%E4%B8%8D%E5%A4%9F%E4%B9%B0%E4%B8%89%E6%96%A4%E9%B2%9C%E7%89%9B%E8%82%89",
       "source": "baidu",
       "category": "general",
-      "summary": "10月5日，甘肃临夏一男孩购买3瓶饮料接连中奖。男孩总共花费16元，其中4瓶需每瓶加1元，其余免费兑换，最终共带走74瓶饮料。因饮料数量过多不便搬运，店主马先生借出购物车，让孩子们将其拉回家。",
+      "summary": "100元不够买三斤鲜牛肉。国庆期间，记者走访并梳理了河南消费者在国庆期间分享的采买记录发现，肋条35元一斤，吊龙37元一斤，买三斤分别要105元、111元。",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8cce0e91f10c",
-      "title": "国足三连败",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5",
-      "source": "baidu",
-      "category": "general",
-      "summary": "北京时间10月6日，在中国之队·重庆国际足球邀请赛收官战的对决中，坐镇重庆龙兴足球场的中国男足0-1塔吉克斯坦，惨遭三连败。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -625,7 +537,117 @@
       "category": "general",
       "summary": "国庆期间，记者走访武汉多家豪车4S店发现，多款车型均有大幅优惠。其中保时捷卡宴落地约86万元，奥迪A8L直降约31万至58万元，奔驰GLC落地不到30万元。此前网传“卡宴降30万”等报价，销售人员坦言实际难实现，网传低价多为引流。",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a73e07abbff2",
+      "title": "央视调查后 “牛奶湖”发布通告",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%90%8E+%E2%80%9C%E7%89%9B%E5%A5%B6%E6%B9%96%E2%80%9D%E5%8F%91%E5%B8%83%E9%80%9A%E5%91%8A",
+      "source": "baidu",
+      "category": "general",
+      "summary": "10月6日，央视调查曝光内蒙古太仆寺旗“牛奶湖”在生态保护红线内违规建游乐设施并收100元。太仆寺旗政府回应称已责令运营公司停止经营，将开展生态修复。此前10月4日，景区已发通告自5日起闭园。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a0459111aceb",
+      "title": "大学生旅游攻略 坑麻国庆出行中年人",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5+%E5%9D%91%E9%BA%BB%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E4%B8%AD%E5%B9%B4%E4%BA%BA",
+      "source": "baidu",
+      "category": "general",
+      "summary": "十一假期过半，不少中年人发文控诉照搬大学生旅游攻略出游遭罪。此前，中年人试图参照年轻人方式自由行，却发现大学生攻略主打“特种兵拉练”，一天辗转数城、住青旅吃廉价外卖。因中年人体力透支难以适应，导致玩一天需躺三天，甚至调侃治膝盖花1.8万元。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "e65be7e4b073",
+      "title": "韩国考虑废除“金牌免兵役”制度",
+      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%80%83%E8%99%91%E5%BA%9F%E9%99%A4%E2%80%9C%E9%87%91%E7%89%8C%E5%85%8D%E5%85%B5%E5%BD%B9%E2%80%9D%E5%88%B6%E5%BA%A6",
+      "source": "baidu",
+      "category": "general",
+      "summary": "10月6日，韩国国防部表示，正考虑收紧甚至废除针对运动员和艺术界人士的兵役豁免制度。事件起因于3日爱知·名古屋亚运会男足决赛韩国队夺金，20名队员获兵役豁免资格，部分队员赛后称“免兵役比金牌重要”引发公众不满，进而引发对该制度公平性的争议。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "bce3baffedf7",
+      "title": "邵佳一回应国足三连败：试错是好事",
+      "url": "https://www.baidu.com/s?wd=%E9%82%B5%E4%BD%B3%E4%B8%80%E5%9B%9E%E5%BA%94%E5%9B%BD%E8%B6%B3%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%9A%E8%AF%95%E9%94%99%E6%98%AF%E5%A5%BD%E4%BA%8B",
+      "source": "baidu",
+      "category": "general",
+      "summary": "10月6日晚，中国男足在重庆0比1不敌塔吉克斯坦，以1胜3负结束本次国际比赛日争夺，且后3场遭3连败共丢9球。赛后主帅邵佳一低声致歉，坦言国足在个人能力与整体体系均存在明显短板。但他强调试错是好事，教练组对新人的成长与整体表现感到满意。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "0e102872a3f4",
+      "title": "“稻城亚丁景区封闭”系谣言",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E5%B0%81%E9%97%AD%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "source": "baidu",
+      "category": "general",
+      "summary": "国庆期间，记者实地探访四川甘孜稻城亚丁景区，澄清网传“封闭”谣言。网传“封闭”实为当地10月2日发提示，严禁擅自进入未开发区域徒步。景区自8月1日起免门票，因国庆预约满额被黄牛炒至500元，但线下登记可免费进。此前今年5月该景区曾因设卡收费被整治，现门票及摆渡车均免费，并设医疗点保障安全。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "dc171c324fda",
+      "title": "10人国足0比1不敌塔吉克斯坦",
+      "url": "https://www.baidu.com/s?wd=10%E4%BA%BA%E5%9B%BD%E8%B6%B30%E6%AF%941%E4%B8%8D%E6%95%8C%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6",
+      "source": "baidu",
+      "category": "general",
+      "summary": "北京时间10月6日，在2026年中国之队重庆国际足球邀请赛中，中国男足0-1负于塔吉克斯坦队，遭遇三连败。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "8178bb7f73d5",
+      "title": "又输了！这支国足到底怎么了",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%88%E8%BE%93%E4%BA%86%EF%BC%81%E8%BF%99%E6%94%AF%E5%9B%BD%E8%B6%B3%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "10月6日，中国男足在客场对阵塔吉克斯坦的国际热身赛中，韦世豪上半场被红牌罚下，球队10人作战最终0比1不敌对手，遭遇队史首次负于塔吉克斯坦、近期三连败的战绩，溃败的警示应该被重视，否则中国足球刚刚向好的趋势或许会因此再次遭受重击。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "b865f4cbfc01",
+      "title": "孩子打印作业开销让家长直呼扛不住",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E6%89%93%E5%8D%B0%E4%BD%9C%E4%B8%9A%E5%BC%80%E9%94%80%E8%AE%A9%E5%AE%B6%E9%95%BF%E7%9B%B4%E5%91%BC%E6%89%9B%E4%B8%8D%E4%BD%8F",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，孩子打印作业开销引发热议，四年级每周打印三四次，一学期单科最高300元。学校作业全靠家长打印？假期上百页打印成常态。打印价格调查：街边百页50元线上仅6块5，开销折腾家长直呼扛不住。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "60a32504ae27",
+      "title": "失语老人用废旧物品手搓一座城堡",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%B1%E8%AF%AD%E8%80%81%E4%BA%BA%E7%94%A8%E5%BA%9F%E6%97%A7%E7%89%A9%E5%93%81%E6%89%8B%E6%90%93%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%A0%A1",
+      "source": "baidu",
+      "category": "general",
+      "summary": "辽宁鞍山岫岩县玉石村一位‌失语拾荒老人‌，将捡拾的‌废旧物品‌清洗后，搭建出一座五彩缤纷的‌艺术城堡‌。其作品充满‌动漫风格‌，被网友赞为“‌梦的收藏家‌”。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "54e4b8a919ee",
+      "title": "睡眠开始出现这种问题说明你可能老了",
+      "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E7%9C%A0%E5%BC%80%E5%A7%8B%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%80%81%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，科普中国发文解读老年人睡眠变化原因。超60%老年人早睡早起且睡眠碎片化严重，这与生物钟节律前移、晶状体透光率下降导致光信号减弱及视交叉上核功能衰退有关。专家建议通过固定起床时间、日间适量活动和限制白天小睡来改善睡眠质量。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,31 +658,9 @@
       "category": "general",
       "summary": "近期，中国人民大学收到匿名校友5.03亿元捐赠用于通州校区建设，创校史最大捐款纪录，引发全网猜测捐款人身份。此前，2017年校庆时刘强东、张磊曾各捐3亿元。针对此次猜测，段永平回应称“人家都匿名了，你这么问不合适”。",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "57cab10647b2",
-      "title": "游客一进县城就收到文旅局长手机号",
-      "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%80%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%B0%B1%E6%94%B6%E5%88%B0%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%89%8B%E6%9C%BA%E5%8F%B7",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，上海游客张先生自驾至黑龙江嘉荫县时，收到当地文旅局长的私人手机号与座机，直呼被狠狠感动。嘉荫县文旅局工作人员回应称，公布局长电话是为方便游客反映问题，此举措已持续数年，更换局长也会公布新号码。针对住宿问题，文旅局会协助对接酒店并控制房价。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "2edc44e14e61",
-      "title": "伦敦买的大本钟冰箱贴图片是郑州",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%A6%E6%95%A6%E4%B9%B0%E7%9A%84%E5%A4%A7%E6%9C%AC%E9%92%9F%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%9B%BE%E7%89%87%E6%98%AF%E9%83%91%E5%B7%9E",
-      "source": "baidu",
-      "category": "general",
-      "summary": "国庆前后多位中国游客爆料，在伦敦购买的大本钟文创冰箱贴印刷的实为郑州西亚斯学院伦敦街照片，在巴黎购买的埃菲尔铁塔海报背景是杭州天都城居民楼。爆料网友称回国后才发现货不对板，直呼“气笑了”，相关离谱文创事件引发网友热议调侃。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-06T14:06:12.063Z",
+      "publishedAt": "2026-10-06T19:35:01.672Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-10-06T14:06:13.640Z"
+  "generatedAt": "2026-10-06T19:35:03.674Z"
 }
