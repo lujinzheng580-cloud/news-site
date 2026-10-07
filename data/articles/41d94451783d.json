@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "41d94451783d",
+    "title": "谷歌推出全新 macOS 应用 AI Edge Foresight，支持离线记录会议纪要",
+    "url": "https://www.ithome.com/1/010/214.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/214.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 7 日消息，谷歌现已推出全新 macOS 应用 AI Edge Foresight，向苹果用户展示 EmbeddingGemma 2 端侧多模态模型的实力。这款应用可以帮助用户处理线上、线下会议笔记，支持完全离线运行。\n\n据介绍，这款应用采用 EmbeddingGemma 2 模型，它可以调用 Mac 的麦克风和系统音频，自动结合用户的笔记，整理出润色的线上、线下会议纪要。\n\n同时，这款应用还支持实时问答功能，用户可以使用会议内容和其他知识库，向 AI 询问各种问题。\n\nIT之家注意到，这款应用兼容 Apple 芯片的 Mac 计算机，用户可免费下载。\n\nhttps://developers.google.com/edge/foresight\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T09:21:11.227Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

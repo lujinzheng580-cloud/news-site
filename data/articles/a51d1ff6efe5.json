@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a51d1ff6efe5",
+    "title": "微软 Win11 任务栏测试列表视图，沿用 WinXP 显示思路",
+    "url": "https://www.ithome.com/1/010/199.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/199.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 7 日消息，科技媒体 Windows Latest 今天（10 月 7 日）发布博文，报道称在 Windows 11 系统中，微软正在测试任务栏窗口标题列表，沿用 Windows XP 的列表显示思路，同时保留默认缩略图模式。\n\n在 Windows XP 系统中，同一应用打开多个窗口后，用户无需展示窗口内容缩略图，可以通过列表查看、识别和切换各窗口的标题。同一应用的窗口合并为任务栏分组后，点击分组按钮，弹出窗口标题列表。\n\n而在 Windows 11 Build 26340.9596 预览版中，微软沿用 Windows XP 的列表显示思路，只是触发方式改为鼠标悬停。用户鼠标悬停于任务栏应用图标后，可用“应用图标＋窗口标题”列表替代缩略图预览。\n\n设置方面，用户可以打开设置应用，在个性化 → 任务栏中调整预览显示方式，下拉菜单包含缩略图（Thumbnail）与列表（List），默认仍为缩略图。选择列表后，鼠标悬停于任务栏应用图标时，仅显示应用图标及窗口标题。\n\nIT之家援引博文介绍，附上相关对比图片如下：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T09:21:11.229Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

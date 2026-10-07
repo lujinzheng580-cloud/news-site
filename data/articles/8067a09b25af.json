@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8067a09b25af",
+    "title": "Newtech 推出 2 盘位桌面 NAS 设备 Ness1300，基于奔腾 G7400",
+    "url": "https://www.ithome.com/1/010/233.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/233.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 7 日消息，日本企业 Newtech 当地时间 9 月 30 日宣布推出 2 盘位的桌面型 NAS 设备 Ness1300。\n\nIT之家了解到，这一型号基于英特尔奔腾 Gold G7400 处理器，运行 Windows Server IoT 2025 for Storage Standard 操作系统。\n\nNess1300 三维 154×270×188 (mm)，配备 8GB DDR5-4800 内存和 240GB M.2 PCIe SSD 系统存储，搭载专用硬件 RAID1 控制器 \"Kite\"，提供 RJ-45、VGA、COM、BMC 管理接口以及多个 USB-A。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T09:21:11.225Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
