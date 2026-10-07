@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "71aa1f44bd76",
+    "title": "微软、OpenAI 遭美国多家地方媒体起诉，被指侵犯版权",
+    "url": "https://www.ithome.com/1/010/257.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/257.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 7 日消息，据科技媒体 neowin 今天报道，微软和 OpenAI 被埃默里奇报业（Emmerich Newspapers）等美国地方媒体起诉。原告指出，这两家科技巨头蓄意窃取他们数万篇版权文章，用于训练 AI 模型。\n\n原告指出，微软和 OpenAI 已经通过窃取的内容赚到数十亿美元，然而出版商并没有分到一分钱。提起诉讼的机构还认为，两家公司绕过了付费墙等限制系统，且没有取得授权。\n\n据IT之家了解，本次诉讼的原告 —— 埃默里奇报业是一家位于美国密西西比州的大型私营报业集团，同时为路易斯安那州和阿肯色州用户提供服务。本次诉讼的原告还有 Ojai Media、Coopwood Publishing、Coopwood Magazine、Coopwood Media Group 和 Coopwood Newspapers 等集团。\n\n此外，上述原告认为微软和 OpenAI 侵犯了《版权法》和《数字千年版权法》，他们希望两家公司支付损害赔偿，并寻求法院颁布禁令，将模型中的侵权训练数据删除。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T16:50:57.619Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

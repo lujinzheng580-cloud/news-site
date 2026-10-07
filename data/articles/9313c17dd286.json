@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9313c17dd286",
+    "title": "谷歌 Gmail 新功能曝光：Gemini 帮你回邮件",
+    "url": "https://www.ithome.com/1/010/279.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/279.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 7 日消息，科技媒体 Android Authority 今日报道称，Gmail 应用最新版（v2026.09.28）APK 拆解显示，谷歌或许正在为 Gmail 新增 Gemini 智能体，让用户可以通过 AI 自动回复邮件。\n\nIT之家从原报道获悉，最新版 Gmail 应用已经出现多段相关代码。我们透过这些隐藏注释可以看到，该功能上线后，AI 收件箱可能会在待办事项旁边显示“使用 Gemini”按钮。用户点击后即可让 Gemini 查看收件箱，如果遇到需要回复的邮件，UI 可能会弹出“起草回复”选项。\n\n同时，当 AI 无法确定下一步操作时，会寻求用户帮助，部分邮件发送前也需要人工确认。相关字符串显示，对于需要用户输入或确认的任务，功能可能会显示“需要你的输入”状态。随后，用户可以点击“提供输入”按钮，向 Gemini 提供完成任务所需的具体信息。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T16:50:57.618Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
