@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "358ebe145f31",
+    "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存",
+    "url": "https://www.ithome.com/1/010/313.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/313.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，英伟达发布 DGX Station for Windows，定位为桌面级 AI 超级计算机，旨在让开发者、研究人员和数据科学团队在本地运行大规模 AI 模型，将于 2026 年第四季度上市。\n\nIT之家援引博文介绍，DGX Station 搭载 NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip，配备 72 核 Grace CPU、Blackwell Ultra GPU，以及最高 748GB 统一内存。\n\n其中包括 252GB HBM3e GPU 内存和 496GB LPDDR5X CPU 内存，AI 算力最高可达 20 PFLOPS，支持运行参数规模最高约 1 万亿的模型。\n\n与传统高性能工作站相比，DGX Station 的核心卖点在于将数据中心级硬件、统一内存和 NVIDIA AI 软件栈压缩到桌面设备中。开发者可以在本地进行模型微调、推理、智能体开发和生成式 AI 应用测试，减少数据上传云端带来的延迟、成本和隐私压力。\n\nNVIDIA 官方还将 DGX Station 与 Windows 生态结合，意味着开发者可在熟悉的 Windows 环境中使用本地大模型能力，并探索 AI 智能体、Copilot 和混合智能应用。\n\n其最高功耗达到 1,600W，并需要 20A 电路，显示出这款设备虽然采用桌面形态，但更接近一台面向专业用户的本地 AI 基础设施。\n\n微软 Surface Laptop Ultra 发布会专题",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T21:53:54.849Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9e5b55db5b3e",
+    "title": "英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生",
+    "url": "https://www.ithome.com/1/010/319.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/319.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，CEO 纳德拉、Windows 负责人帕万 · 达武鲁里均登台演讲，英伟达 CEO 黄仁勋后半段压轴登场。\n\n黄仁勋登台时，特意将自己的手机交给了助理，所以我们今天没办法看到这位大佬拨通什么神秘电话。\n\n黄仁勋和纳德拉坐下来后聊起了 Windows 95。这款操作系统第一次集成了 DirectX，让开发者能够更加容易地为 Windows 系统开发游戏。\n\nIT之家注意到，黄仁勋在聊天中表示：“如果没有 Windows，就不会有 GeForce；如果没有 GeForce，CUDA 并不会问世，深度学习等技术也就无从谈起。”\n\n同时在那个年代，计算机图形显示硬件正处在蜕变时期，当时市面主流的解决方案是使用 2D 显示卡 +3D 加速卡游玩游戏。而英伟达率先在 1995 年推出 NV1，融合了两种显示卡。但由于采用非主流的二次曲面技术，导致无法兼容 D3D 标准，最终销量惨淡。\n\n后续英伟达放弃了原有的偏执，在 1997 年推出了 RIVA 128。该公司将微软 D3D 作为第一优先级进行驱动优化。凭借单卡整合高性价比、率先支持 AGP 接口，迅速在市场站稳了脚跟。\n\n微软 Surface Laptop Ultra 发布会专题",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T21:53:54.847Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

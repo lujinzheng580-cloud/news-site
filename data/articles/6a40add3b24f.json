@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6a40add3b24f",
+    "title": "MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数",
+    "url": "https://www.ithome.com/1/010/308.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/308.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的活动中，微软表示正计划将 MAI Code 1.1 Flash 模型（包含 1300 亿个参数）引入 Windows 11 设备。\n\n作为 6 月发布的 MAI-Code-1-Flash 的升级版，MAI Code 1.1 Flash 现已集成到 GitHub Copilot 与 VS Code 等开发环境中，用于日常编码、仓库问答、重构、工具调用等场景。\n\n微软计划进一步将其整合到 Windows 系统中，该模型采用 3-bit 量化，已缩小 80%，上下文窗口大小为 256K。IT之家附上相关图片如下：\n\n定位方面，该模型主要是在 Copilot 里高频、低成本、低延迟地帮你把活干完，在真实开发流程中规划、推理并执行任务，同时尽量用更少的 token、更低的成本完成。\n\n性能方面，相比 6 月版本，MAI-Code 1.1-Flash 在 GitHub Copilot CLI 的 Terminal-Bench 2.1 上提升约 22%，在 .NET 任务上提升约 15%；同时输出 token 流速度提升约 25%，完成任务所需 token 减少约 25%。\n\n多模态方面，新增“看图写代码 / 理解图”的能力，可直接读取截图、架构图、UI 草图等图像输入，加速从设计到实现的流程（6 月版为纯文本）。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T21:53:54.850Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

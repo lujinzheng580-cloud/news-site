@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 7 日消息，谷歌公司昨天宣布，其 AI 生成内容检测网站 SynthID 已面向全球用户开放，用户可使用该产品检测图片、视频或音频是否由 AI 生成。\n\n据介绍，该网站使用 SynthID 识别媒体内容是否由 AI 生成。作为参考，谷歌 2023 年推出 SynthID，这是一种嵌入在 Nano Banana、Veo 和 Lyria 模型的隐形水印。除此之外，OpenAI、英伟达和 Kakao 也支持该工具。\n\n谷歌已经将 SynthID 验证功能集成到 Gemini 应用和 Google Chrome 中。谷歌表示，目前用户每天发起的内容验证请求已经达到 100 万次。不过需要注意的是，该工具的检测结果并非 100% 准确。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-07T16:50:57.614Z",
+    "publishedAt": "2026-10-07T21:53:54.854Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
