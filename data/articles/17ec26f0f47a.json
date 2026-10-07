@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "17ec26f0f47a",
+    "title": "微软承认 Outlook for Microsoft 365 经典版存在搜索故障：邮件移动后结果不更新",
+    "url": "https://www.ithome.com/1/010/156.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/156.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 7 日消息，微软于 2026 年 9 月 29 日更新支持文档，承认 Outlook for Microsoft 365 经典版存在 Server Assisted Search 搜索故障。该问题影响在线模式下的邮箱搜索，搜索结果无法随邮箱内容变化而更新。\n\nIT之家注：Server Assisted Search 是微软在 Outlook 中使用的服务端辅助搜索机制，由云端搜索服务协助返回邮箱内容结果。其设计目标是提升在线邮箱中的搜索覆盖与响应能力，但本次故障显示结果列表未能同步反映邮件状态变化。\n\n在线模式是指 Outlook 直接连接 Exchange Online 或 Exchange 服务器读取邮件数据的运行方式。与缓存模式不同，在线模式通常不将完整邮箱副本保存在本地，因此搜索更依赖服务器端服务。\n\n在问题表现方面，用户在“当前文件夹”范围内搜索邮件后，若将某条结果拖动至相邻文件夹，该邮件仍会保留在搜索结果中。用户点击该结果时后，Outlook 会显示错误信息，而正常情况下，被移动的邮件应从原搜索结果中消失。\n\n微软说明，该故障同样可能出现在为邮件设置类别、标记已读或未读的操作后。微软已将该问题升级至 Outlook 团队，并列为 Hotfix 处理。官方状态为“修复中”，但尚未公布修复版本的预计发布时间。\n\n临时解决方案上，微软建议用户禁用 Server Assisted Search。禁用后，经典版 Outlook 将回退至 Windows Desktop Search，即旧版 Windows 桌面搜索机制。\n\n然后创建名为 DisableServerAssistedSearch 的 DWORD 值，并将其数值设为 1。该操作仅影响当前 Windows 用户账户下的 Outlook 搜索配置。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-07T02:39:35.842Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
