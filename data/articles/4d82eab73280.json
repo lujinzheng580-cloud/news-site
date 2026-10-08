@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4d82eab73280",
+    "title": "不满 Mistral 表现，德国搜索引擎 Ecosia 押注中国开源 AI 模型",
+    "url": "https://www.ithome.com/1/010/539.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/539.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，据《政治报》前天报道，德国搜索引擎 Ecosia 最近选择放弃法国 AI 模型 Mistral，转而选择中国开源 AI 模型。\n\nEcosia 创始人兼 CEO 克里斯蒂安 · 克罗尔接受采访时表示：“我们对 Mistral 的质量感到失望，该模型如今已落后竞争对手一整年。”\n\n今年 5 月，Ecosia 宣布放弃美国 OpenAI 方案，将 AI 服务供应商切换为 Mistral。据克罗尔所述，这次合作并不算顺利，公司经常遇到服务器过载等技术问题。\n\nIT之家从原报道获悉，Ecosia 还担心 Mistral 是否符合环保目标。法国能源结构中核电占比较高，且该公司对 Mistral 是否能保持中立表示质疑。克罗尔解释称：“Mistral 依赖国际投资者资金，因此并不算真正意义上的主权企业。”\n\n这名 CEO 还认为，中国积极推动开源大模型发展，对欧洲来说是一大机遇。尽管欧洲错过了 AI 模型发展第一阶段，但现在他们可以利用日益强大的开源模型，而不必投入数十亿美元自行训练前沿 AI。\n\n所以 Ecosia 如今选择与 Melious 合作，使用中国的 Qwen、GLM 和 Kimi 模型。这让他们的成本降低一半，还获得了性能提升。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-08T08:02:25.008Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "90d6e46a1af0",
+    "title": "《毁灭战士》游戏移植到售价约 8000 美元的哈苏 X2D 相机：触摸屏移动，快门按钮开火",
+    "url": "https://www.ithome.com/1/010/464.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/464.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，科技媒体 Tom's Hardware 今天（10 月 8 日）发布博文，报道称独立相机研究员 Radium Wang 将《毁灭战士》游戏移植到哈苏 X2D。该相机售价接近 8,000 美元（IT之家注：现汇率约合 53,700 元人民币），配备 1 亿像素中画幅传感器。\n\n该项目属于“Hasselblad-X-System-CIM-Firmware-Research-Feature-Extensions” GitHub 仓库。演示中，X2D 的触摸屏承担方向控制。使用者通过屏幕操作角色移动，并借助相机快门按钮发射武器。\n\n这并非首次有人将《毁灭战士》（Doom）安装到相机上，IT之家曾于 8 月报道，开发者 lauris-nl 利用佳能开源的第三方扩展固件框架“Magic Lantern”，改造佳能于 2010 年推出的 EOS 550D 单反相机，让其能够像掌机一样，通过直接读取 SD 存储卡运行初代和第二代《毁灭战士》游戏。\n\n《毁灭战士》是 id Software 于 1993 年在 DOS 上推出的第一人称射击游戏，由于足够小、代码开放、依赖极少，因此不少开发者热衷于在各个硬件设备上移植运行该游戏。\n\n在游戏中，玩家扮演一名被派往火星基地的太空陆战队员，以高速移动、密集枪战、迷宫式关卡和秘密房间为核心，独自穿过基地、火星卫星和地狱，击退恶魔并寻找出口。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-08T08:02:25.010Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
