@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 8 日消息，谷歌云今天在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位“通用工作智能体”，支持 Gemini Enterprise 、Workspace 以及第三方服务。\n\n谷歌表示，Gemini Agent 只需要用户给出目标就能完成工作，支持回答问题、处理知识型工作、创建媒体内容，以及编写程序。\n\n例如，当你的经理用邮件要求你制作项目最近进展 PPT 时，Workspace Intelligence 会认为该任务可以由 AI 完成，用户只需点一下按钮就能交给 Gemini 继续。\n\n除了充当个人助理之外，Gemini 智能体还可以用作“团队成员”。它可以在团队中担任 PM、财务分析师等。\n\nIT之家注意到，目前该智能体支持 Gemini 和 Claude 模型，未来还将兼容各种闭源、开源模型。官方将提供 API，让开发者将 Gemini Agent 集成到第三方应用中。\n\nGemini 智能体当前处于私人预览阶段，预计很快将面向符合条件的 Workspace 客户广泛开放，支持部分 Business 和 Enterprise 方案。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-08T15:40:42.147Z",
+    "publishedAt": "2026-10-08T20:51:38.719Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
