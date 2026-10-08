@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "59b9e67a5129",
+    "title": "微软 Win10/Win11 新版 Outlook 本月将上线自动拼写检查，发送前自动校对",
+    "url": "https://www.ithome.com/1/010/332.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/332.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，科技媒体 NeoWin 昨日（10 月 7 日）发布博文，报道称微软计划 10 月开始，面向新版 Outlook（Windows 版与网页版）推出自动拼写检查功能，用户可在发送前自动完成拼写校对。\n\nIT之家援引博文介绍，用户可在设置中开启“发送前自动检查拼写”，启用后系统将在每次发送邮件前自动执行拼写校对。该功能依赖 Microsoft Editor（微软编辑器）能力，并纳入 Office 互联体验体系，需保持联网与相关权限开启。\n\n在 AI at Work（原 Microsoft 365）路线图中，微软表示若用户不想为每封邮件手动检查拼写，或担心忘记检查，可设置 Outlook 在发送前代为完成。\n\n该功能主要面向两类用户：经常在邮件中出现拼写错误者，以及容易在发送前忘记运行拼写检查者。开启后，用户无需在每次点击“发送”前手动启动拼写检查流程。\n\n功能推送将分阶段实施。定向发布（Targeted Release）预计于 2026 年 10 月中旬启动，10 月底完成。面向全球的常规发布将于 11 月中旬开始，预计 12 月初完成部署。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-08T01:44:36.222Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

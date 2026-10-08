@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "5cba1723efed",
+    "title": "HPE 发布 4 款基于 AMD EPYC 9006 处理器的 ProLiant Gen13 服务器",
+    "url": "https://www.ithome.com/1/010/385.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/385.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，HPE（慧与）当地时间昨日发布了 4 款基于 AMD EPYC（霄龙）9006 服务器 CPU 处理器的 ProLiant Gen13 服务器。\n\nIT之家了解到，这些机型支持自动 SED 加密、多人授权许可，还增强了后量子密码学 (PQC) 安全性。\n\n将于今年晚些时候率先上市的 HPE ProLiant DL525 Gen13 是一款紧凑的 1U 单路系统，至高拥有 256 个 CPU 核心，支持 16 通道内存，兼容标准 DDR5 RDIMM 和 MRDIMM，提供 PCIe Gen6 连接，适用于欺诈检测、市场数据处理、风险与定价、EDA、仿真、人工智能推理。\n\nHPE ProLiant DL585a Gen13 则采用双路设计，支持多达 8 张双槽 PCIe GPU，可满足 AI 推理、虚拟化、RAG 模型微调、分析、代理式 AI 等工作负载的需求。\n\n针对大规模的计算密集型应用，HPE 则带来了符合 OCP 标准的 ProLiant XD245 和 ProLiant XD285：前者为 1OU 四节点液冷，最多支持 8 颗 CPU；后者则采用数据中心基础设施兼容性更为优秀的 2OU 二节点风冷设计。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-08T01:44:36.210Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7878c002be54",
+    "title": "GitHub Copilot 不再纯云端 AI 模型：Surface Laptop Ultra 本地推理吞吐量最高每秒 63 词元",
+    "url": "https://www.ithome.com/1/010/330.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/330.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，微软宣布 GitHub Copilot 将在本月底前支持本地 AI 模型推理，开发者可在云端模型与设备端模型之间自动或手动切换。\n\nGitHub Copilot 是微软推出的 AI 编程助手，可集成于 Visual Studio Code、CLI 等工具，根据代码上下文生成补全、解释或重构建议。\n\nGitHub Copilot 目前依赖云端托管模型，由协调器根据性能、成本与准确性路由请求。微软计划在本月底扩展该机制，允许 Copilot 自动选择云端模型与本地 AI 模型，后台协调推理任务。\n\n微软为 GitHub Copilot 用户提供两种模式：自动编排或强制使用设备端模型。用户可在 GitHub Copilot CLI、Copilot 应用与 Visual Studio Code 中设置偏好。\n\n本地模型选择支持指定提供程序、模型或端点，开发者可通过 Windows ML 选择 MAI Code 1.1 Flash，或连接 OpenAI 兼容的本地端点并选用其暴露的模型。\n\n微软推出 MAI Code 1.1 Flash“混合专家”模型，总参数 1370 亿，活跃参数 68 亿，采用量化与推测解码技术优化响应速度与内存占用。\n\n该模型在 Surface Laptop Ultra 上实测显示，复杂任务中的峰值内存使用率、Token 利用率与处理速度均显著提升。解码吞吐量测试显示，提示长度从 2K 到 256K Token 时，吞吐介于每秒 40 至 63 个词元。IT之家附上相关图片如下：\n\n微软 Surface Laptop Ultra 发布会专题",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-08T01:44:36.222Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
