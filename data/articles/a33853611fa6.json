@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a33853611fa6",
+    "title": "谷歌为 Pixel 手机开发新人脸解锁算法，改善暗光环境解锁体验",
+    "url": "https://www.ithome.com/1/010/714.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/714.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，据科技媒体 Android Headline 今天报道，谷歌似乎在为 Pixel 系列手机开发“Face Active Illumination”功能，可利用屏幕发出的光照亮人脸，改善暗光环境下的人脸解锁体验。\n\n据报道，谷歌 Pixel 手机的人脸解锁功能在环境光良好的情况下表现尚可，当用户进入光线昏暗的房间时，它就显得力不从心。如今，Android 17 QPR3 Beta 1 系统已经留下一些代码痕迹，表明谷歌正在优化人脸解锁算法。\n\n据悉，该功能可以在屏幕亮起时提高亮度，照亮用户脸部来提升解锁速度，其中还带有一个控制亮度等级的选项。不过由于该功能暂未开发完成，因此没有太多功能可以展示。据此前的传闻，谷歌正在探索红外技术，因此 Pixel 新机未来可能会配备更先进的人脸扫描方案。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-08T15:40:42.145Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "03ab5964621b",
+    "title": "铠侠首款 EDSFF E1.L 外形规格固态硬盘 LD4 发布，采用 BiCS8 QLC 闪存",
+    "url": "https://www.ithome.com/1/010/719.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/719.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 8 日消息，KIOXIA（铠侠）当地时间今日发布了其首款采用 EDSFF E1.L“尺”外形规格的固态硬盘产品 —— LD4。该系列基于第八代 (218L) BiCS FLASH QLC NAND 闪存。\n\nKIOXIA LD4 系列专为高密度 1U 服务器和读取密集型存储应用而设计，目标用户为超大规模数据中心级工作负载和横向扩展 (scale-out) 环境。\n\n其采用 PCIe Gen5 ×4 接口，符合 NVMe 2.0e、OCP 数据中心 NVMe SSD 2.6 规范，当前提供 15.36TB 和 30.72TB 两种容量，未来可扩展至 122.88TB。\n\n铠侠现已向特定客户交付 LD4 系列的样品，这款 SSD 也将在本月中旬的 2026 OCP 全球峰会上展出。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-08T15:40:42.144Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
