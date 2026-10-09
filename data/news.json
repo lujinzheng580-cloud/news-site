@@ -2,149 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "f294cb497b33",
-      "title": "美团：将提高超重、体积大、步行上下楼等较难配送订单计费权重",
-      "url": "https://www.ithome.com/1/011/088.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.850Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6e13ea016a5d",
-      "title": "微博 CEO 王高飞再谈尊界 V800 刹车踏板事件，称暂停交付、查车厂台架实验记录比较合理",
-      "url": "https://www.ithome.com/1/011/089.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.849Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "de5c1742fc93",
-      "title": "打折还是 MOVA 猛：P70S 活水洗地扫拖机器人 3299 → 999 元 20:00 开抢",
-      "url": "https://www.ithome.com/1/011/090.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.849Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "eabc7d3ea664",
-      "title": "消息称中汽中心紧急向各大车企发出关于制动踏板总成材质调研问卷，着重关注非金属材质应用",
-      "url": "https://www.ithome.com/1/011/091.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.849Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0d0b6bab800a",
-      "title": "ANBERNIC 预览双屏掌机 RG DDS：高通骁龙 G2 Gen 2，内置伸缩式触控笔",
-      "url": "https://www.ithome.com/1/011/093.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.849Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "938bb39c7b3d",
-      "title": "滥用盒马鲜生平台售后规则：一女子 3 个月恶意“仅退款”399 件商品被警方依法采取刑事强制措施",
-      "url": "https://www.ithome.com/1/011/094.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.848Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "59ef0de46f9f",
-      "title": "经典策略游戏《冰汽时代》10 月 19 日登陆任天堂 Switch 平台，首发价 20.99 美元",
-      "url": "https://www.ithome.com/1/011/095.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.848Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "48d7f47f9c29",
-      "title": "懂车帝：网传内部整顿通知截图系 AI 生成，相关信息均为谣言",
-      "url": "https://www.ithome.com/1/011/096.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.848Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8cb0a62096f2",
-      "title": "利民 DYNAMIC VISION 360 ARGB 一体式水冷散热器发售：冷头配 5 英寸可旋转面板，549 元起",
-      "url": "https://www.ithome.com/1/011/097.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.848Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "9bfe3e0586b3",
-      "title": "VGN 霓虹 75 Turbo 磁轴键盘首销：0.005mm RT 精度、双 8KHz 回报率，439 元",
-      "url": "https://www.ithome.com/1/011/100.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.847Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c68c26561689",
-      "title": "小米“米家洗衣机健康洗三筒 11kg”开售，国补到手价 3499 元",
-      "url": "https://www.ithome.com/1/011/107.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.847Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "67f2f3e3fa4a",
-      "title": "2027 款深蓝 L06 及追风版正式上市，售价 11.49 万元起",
-      "url": "https://www.ithome.com/1/011/108.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.847Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c9f59f0d73c0",
-      "title": "5 分钟充好，比亚迪闪充国庆期间累计服务超 122 万车次",
-      "url": "https://www.ithome.com/1/011/110.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.847Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "f55e24f85e14",
       "title": "华为鸿蒙电脑 9 月体验报告发布：全新沉浸光感、图库 AI 修图、小艺任务模式等",
       "url": "https://www.ithome.com/1/011/111.htm",
@@ -152,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.847Z",
+      "publishedAt": "2026-10-09T23:56:50.355Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.846Z",
+      "publishedAt": "2026-10-09T23:56:50.355Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.846Z",
+      "publishedAt": "2026-10-09T23:56:50.355Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.846Z",
+      "publishedAt": "2026-10-09T23:56:50.354Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.846Z",
+      "publishedAt": "2026-10-09T23:56:50.354Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.845Z",
+      "publishedAt": "2026-10-09T23:56:50.354Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.845Z",
+      "publishedAt": "2026-10-09T23:56:50.354Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.845Z",
+      "publishedAt": "2026-10-09T23:56:50.354Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.845Z",
+      "publishedAt": "2026-10-09T23:56:50.353Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +108,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.844Z",
+      "publishedAt": "2026-10-09T23:56:50.353Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.844Z",
+      "publishedAt": "2026-10-09T23:56:50.353Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +130,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.844Z",
+      "publishedAt": "2026-10-09T23:56:50.353Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.844Z",
+      "publishedAt": "2026-10-09T23:56:50.352Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.844Z",
+      "publishedAt": "2026-10-09T23:56:50.352Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.843Z",
+      "publishedAt": "2026-10-09T23:56:50.352Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +174,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.843Z",
+      "publishedAt": "2026-10-09T23:56:50.352Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +185,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.843Z",
+      "publishedAt": "2026-10-09T23:56:50.352Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.843Z",
+      "publishedAt": "2026-10-09T23:56:50.351Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.842Z",
+      "publishedAt": "2026-10-09T23:56:50.351Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.842Z",
+      "publishedAt": "2026-10-09T23:56:50.351Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +229,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.842Z",
+      "publishedAt": "2026-10-09T23:56:50.351Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.841Z",
+      "publishedAt": "2026-10-09T23:56:50.350Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +251,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.841Z",
+      "publishedAt": "2026-10-09T23:56:50.350Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +262,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.841Z",
+      "publishedAt": "2026-10-09T23:56:50.350Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +273,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.840Z",
+      "publishedAt": "2026-10-09T23:56:50.349Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.840Z",
+      "publishedAt": "2026-10-09T23:56:50.349Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.840Z",
+      "publishedAt": "2026-10-09T23:56:50.349Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.839Z",
+      "publishedAt": "2026-10-09T23:56:50.349Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.839Z",
+      "publishedAt": "2026-10-09T23:56:50.349Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +328,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.839Z",
+      "publishedAt": "2026-10-09T23:56:50.348Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +339,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.838Z",
+      "publishedAt": "2026-10-09T23:56:50.348Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +350,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.838Z",
+      "publishedAt": "2026-10-09T23:56:50.348Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +361,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.837Z",
+      "publishedAt": "2026-10-09T23:56:50.348Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,29 +372,194 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:37.837Z",
+      "publishedAt": "2026-10-09T23:56:50.347Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "942c5fb153b1",
-      "title": "宋佳集齐三大奖",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%8B%E4%BD%B3%E9%9B%86%E9%BD%90%E4%B8%89%E5%A4%A7%E5%A5%96",
-      "source": "baidu",
-      "category": "general",
-      "summary": "10月9日，第35届电视剧“飞天奖”颁奖典礼在山东烟台举行。宋佳凭借《山花烂漫时》获得优秀女演员奖。至此，宋佳成为内娱首位凭同一部剧集齐三大奖“一串三”的女演员。此前，宋佳已凭《山花烂漫时》中对张桂梅校长的出色演绎，拿下白玉兰与金鹰两座最佳女主角奖杯。",
+      "id": "f6ebdd26201d",
+      "title": "小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测",
+      "url": "https://www.ithome.com/1/011/159.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
-      "tags": "[\"baidu\"]"
+      "publishedAt": "2026-10-09T23:56:50.347Z",
+      "tags": "[\"ithome\"]"
     },
     {
-      "id": "cd9f7b2ea585",
-      "title": "飞天奖获奖名单",
-      "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
-      "source": "baidu",
+      "id": "d260ff097f4d",
+      "title": "我国成功发射卫星互联网低轨 27 组卫星",
+      "url": "https://www.ithome.com/1/011/160.htm",
+      "source": "ithome",
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:50.347Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "dc2f798685e3",
+      "title": "苹果首款智能家居中枢新线索，HomeView 商标曝光",
+      "url": "https://www.ithome.com/1/011/161.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.346Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "db4c45ce72fa",
+      "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
+      "url": "https://www.ithome.com/1/011/162.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.346Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c568dce7c5ba",
+      "title": "谷歌预告 10 月 12 日将推新品，预估为 Fitbit Edge 手环",
+      "url": "https://www.ithome.com/1/011/163.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.346Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0b23f8f6a6c1",
+      "title": "德国交通部提出异议后，特斯拉在欧洲市场将 FSD 更名为“特斯拉辅助驾驶”",
+      "url": "https://www.ithome.com/1/011/164.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.346Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "70a2869b68f2",
+      "title": "部分用户反馈谷歌 Gboard 输入法 Shift 键失灵，导致无法输入大写字母",
+      "url": "https://www.ithome.com/1/011/165.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.345Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "257d0fd2f953",
+      "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
+      "url": "https://www.ithome.com/1/011/166.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.345Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6026950b9167",
+      "title": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程",
+      "url": "https://www.ithome.com/1/011/167.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.345Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2d80e1a1d5f9",
+      "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
+      "url": "https://www.ithome.com/1/011/168.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.344Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6c7c8b165244",
+      "title": "古尔曼爆料苹果 iPhone Duo 折叠屏手机“独有彩蛋”：首次开机能显示自定义用户名",
+      "url": "https://www.ithome.com/1/011/169.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.344Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a3570538f3ba",
+      "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
+      "url": "https://www.ithome.com/1/011/170.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.343Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "12f0c0f65f98",
+      "title": "苹果 Home 应用新特性：iPhone 靠近门铃，灵动岛预览视频画面",
+      "url": "https://www.ithome.com/1/011/171.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.343Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9a223e9b11a4",
+      "title": "2026 巴黎车展下周见，中国品牌创纪录独占三分之一",
+      "url": "https://www.ithome.com/1/011/172.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.342Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "aaec29eb1ebf",
+      "title": "保时捷 1-9 月交付 17.85 万辆汽车同比下降 16%，中国市场同比下降 33%",
+      "url": "https://www.ithome.com/1/011/173.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:50.342Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5207b2e7aa35",
+      "title": "巴拿马7.6级强震",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%BF%E9%A9%AC7.6%E7%BA%A7%E5%BC%BA%E9%9C%87",
+      "source": "baidu",
+      "category": "general",
+      "summary": "据中国地震台网正式测定，北京时间10月10日01时56分，巴拿马（北纬7.50度，西经80.65度）发生7.6级地震，震源深度10千米。首都巴拿马城震感强烈。地震后不久，该国又发生多次5级余震。官方尚未发布人员伤亡和财产损失报告。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "9424af1ddf4b",
+      "title": "普京特朗普通话 俄将向全球供应石油",
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D+%E4%BF%84%E5%B0%86%E5%90%91%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E7%9F%B3%E6%B2%B9",
+      "source": "baidu",
+      "category": "general",
+      "summary": "俄罗斯总统普京9日晚通过总统官网发布声明，称当天在同美国总统特朗普通话中，确认俄将向美国和全球市场提供石油和石油产品。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -548,40 +570,29 @@
       "category": "general",
       "summary": "我国城市地下管网普遍“年龄大、欠账多”，大量管道铺设于20世纪80、90年代，存在材质老化、腐蚀严重等问题，小区管网跑冒滴漏、淤堵破损等“带病运行”情况也比较常见。管网老旧会带来燃气泄漏、供水污染、城市内涝等风险。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "e3d3df63e24f",
-      "title": "王仁君获“飞天奖”优秀男演员奖",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BB%81%E5%90%9B%E8%8E%B7%E2%80%9C%E9%A3%9E%E5%A4%A9%E5%A5%96%E2%80%9D%E4%BC%98%E7%A7%80%E7%94%B7%E6%BC%94%E5%91%98%E5%A5%96",
+      "id": "1d52f4d7d0cb",
+      "title": "中小银行大额存单利率逆势上调",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E5%88%A9%E7%8E%87%E9%80%86%E5%8A%BF%E4%B8%8A%E8%B0%83",
       "source": "baidu",
       "category": "general",
-      "summary": "10月9日晚，第35届“飞天奖”、第29届“星光奖”颁奖典礼在山东烟台举行。王仁君凭借《浴血荣光》获优秀男演员奖。",
+      "summary": "国有大行7月起重启长期大额存单，存款竞争压力下沉至中小银行。锡商银行推出年化2%的3年期大额存单，邯郸银行也上新多款存单。业内称，中小银行上调利率属于防御性揽储，稳定存款规模，但受监管、净息差约束，利率进一步上行空间有限。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "52c90ff186eb",
-      "title": "多家医院、卫生院暂停夜间门诊",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E3%80%81%E5%8D%AB%E7%94%9F%E9%99%A2%E6%9A%82%E5%81%9C%E5%A4%9C%E9%97%B4%E9%97%A8%E8%AF%8A",
+      "id": "ef2d0d0ab04b",
+      "title": "巴拿马强震 大楼震颤房屋成片倒塌",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E5%BC%BA%E9%9C%87+%E5%A4%A7%E6%A5%BC%E9%9C%87%E9%A2%A4%E6%88%BF%E5%B1%8B%E6%88%90%E7%89%87%E5%80%92%E5%A1%8C",
       "source": "baidu",
       "category": "general",
-      "summary": "近期多地医疗机构宣布暂停夜间门诊。10月8日福建漳州附属口腔医院停晚间门诊；贵州道真中医院、大方达溪镇卫生院也先后调整，原因含优化资源、医护短缺、设备老化。各机构日间门诊正常开放，夜间急症可走急诊或转至其他院区就诊。",
+      "summary": "中国地震台网正式测定：10月10日01时56分巴拿马发生7.6级地震，震源深度10千米。现场画面显示，建筑桥梁剧烈摇晃，房屋成片倒塌，天花板掉落，民众紧急奔逃。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "37a47ada08be",
-      "title": "倪萍：迟蓬今天不获奖也没关系",
-      "url": "https://www.baidu.com/s?wd=%E5%80%AA%E8%90%8D%EF%BC%9A%E8%BF%9F%E8%93%AC%E4%BB%8A%E5%A4%A9%E4%B8%8D%E8%8E%B7%E5%A5%96%E4%B9%9F%E6%B2%A1%E5%85%B3%E7%B3%BB",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -592,40 +603,51 @@
       "category": "general",
       "summary": "10月6日，恒安集团董事局主席施文博的追思仪式在福建晋江举办。施文博于9月29日离世，享年78岁。家属遵从其遗愿，捐款2000万元用于慈善事业。作为福建知名企业家，他行事低调淡泊，被称作最淡泊的福建首富。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "91fe137d6471",
-      "title": "商场新“三件套”",
-      "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E6%96%B0%E2%80%9C%E4%B8%89%E4%BB%B6%E5%A5%97%E2%80%9D",
+      "id": "942c5fb153b1",
+      "title": "宋佳集齐三大奖",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%8B%E4%BD%B3%E9%9B%86%E9%BD%90%E4%B8%89%E5%A4%A7%E5%A5%96",
       "source": "baidu",
       "category": "general",
-      "summary": "今年中秋、国庆假期前后，北京多家商场引入主题市集、首店、IP首展新场景吸引顾客。因“逛商场”难成独立出行理由，商场借新鲜感带动客流与销售额大增，如北京朝阳合生汇国庆销售额近2.5亿元。未来商场招商将从传统零售向体验型、情绪型业态倾斜。",
+      "summary": "10月9日，第35届电视剧“飞天奖”颁奖典礼在山东烟台举行。宋佳凭借《山花烂漫时》获得优秀女演员奖。至此，宋佳成为内娱首位凭同一部剧集齐三大奖“一串三”的女演员。此前，宋佳已凭《山花烂漫时》中对张桂梅校长的出色演绎，拿下白玉兰与金鹰两座最佳女主角奖杯。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "7fb24a096bf2",
-      "title": "马化腾姚顺雨罕见同框",
-      "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%A7%9A%E9%A1%BA%E9%9B%A8%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86",
+      "id": "52c90ff186eb",
+      "title": "多家医院、卫生院暂停夜间门诊",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E3%80%81%E5%8D%AB%E7%94%9F%E9%99%A2%E6%9A%82%E5%81%9C%E5%A4%9C%E9%97%B4%E9%97%A8%E8%AF%8A",
       "source": "baidu",
       "category": "general",
-      "summary": "10月8日，广东省委书记黄坤明到深圳市腾讯总部调研，考察其人工智能等领域研发进展。在座谈交流时，55岁的腾讯创始人马化腾与28岁的腾讯AI科学家姚顺雨罕见同框相邻而坐。此画面引发网友热议，纷纷赞叹马化腾状态年轻及姚顺雨起点高。",
+      "summary": "近期多地医疗机构宣布暂停夜间门诊。10月8日福建漳州附属口腔医院停晚间门诊；贵州道真中医院、大方达溪镇卫生院也先后调整，原因含优化资源、医护短缺、设备老化。各机构日间门诊正常开放，夜间急症可走急诊或转至其他院区就诊。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "2823086e35fd",
-      "title": "倪萍祝福李乃文好好活着",
-      "url": "https://www.baidu.com/s?wd=%E5%80%AA%E8%90%8D%E7%A5%9D%E7%A6%8F%E6%9D%8E%E4%B9%83%E6%96%87%E5%A5%BD%E5%A5%BD%E6%B4%BB%E7%9D%80",
+      "id": "bf3364680b04",
+      "title": "超强厄尔尼诺形成 如何防备",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%BD%A2%E6%88%90+%E5%A6%82%E4%BD%95%E9%98%B2%E5%A4%87",
       "source": "baidu",
       "category": "general",
-      "summary": "10月9日，倪萍在飞天奖现场与胡军为综艺项目开奖时，大赞胡军和李乃文有“活人感”，并真挚祝福李乃文“好好活着”。此前，她近期先后送走敬一丹和彭玉老师，对此颇有感触，表示希望每个人都要好好活着。",
+      "summary": "国家气候中心监测显示，2026年9月，超强厄尔尼诺已形成，系1951年有监测以来最强一次。预计未来三个月，赤道中东太平洋海表温度还将继续升高，并在秋末冬初达到峰值。我们需要做好哪些防备和应对？请看专家分析解读。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "9651e5dee330",
+      "title": "赵丽颖发文祝贺王仁君拿奖",
+      "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%91%E6%96%87%E7%A5%9D%E8%B4%BA%E7%8E%8B%E4%BB%81%E5%90%9B%E6%8B%BF%E5%A5%96",
+      "source": "baidu",
+      "category": "general",
+      "summary": "10月9日晚，第35届“飞天奖”、第29届“星光奖”颁奖典礼在山东烟台举行。王仁君凭借《浴血荣光》斩获优秀男演员奖，赵丽颖发文向他送上祝贺。",
+      "imageUrl": "",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,31 +658,9 @@
       "category": "general",
       "summary": "取经路上八戒想赚零花钱，刷到高薪线上兼职、游戏低价代充广告后动心。伪装成商家的白骨精先用小额返利获取信任，再借解锁任务、充值解冻等理由诱导其不断转账。孙悟空识破骗局及时提醒八戒。警方提醒，刷单、游戏代充多为先小利再收割，切勿轻信。",
       "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "58289346745a",
-      "title": "胡军李乃文架着欧豪走红毯",
-      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%86%9B%E6%9D%8E%E4%B9%83%E6%96%87%E6%9E%B6%E7%9D%80%E6%AC%A7%E8%B1%AA%E8%B5%B0%E7%BA%A2%E6%AF%AF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "10月9日，飞天奖红毯秒变《大哥小助理》线下见面会。胡军、李乃文一左一右“架”着欧豪入场，俩老戏骨秒变贴身保镖。欧豪排面拉满，签名完李乃文还顺手接笔，动作熟练得像干了十年助理。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "280b13b30b76",
-      "title": "“我不小心把丈夫落在高速上了”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E4%B8%88%E5%A4%AB%E8%90%BD%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A%E4%BA%86%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "10月2日清晨，安徽铜陵交警接到报警，一名女子驾车时误把丈夫遗落在高速上。男子犯困换妻子开车，妻子未确认丈夫上车就驾车离开，导致男子在应急车道冒雨步行求助。后续他被好心司机带至收费站，交警到场确认其安全。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-09T19:50:38.631Z",
+      "publishedAt": "2026-10-09T23:56:51.293Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-10-09T19:50:40.345Z"
+  "generatedAt": "2026-10-09T23:56:54.593Z"
 }
