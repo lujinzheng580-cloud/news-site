@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "fd7fc43448eb",
+    "title": "66.1 分登顶：Odyssey-3 基础世界模型登场，AI 开始理解真实世界",
+    "url": "https://www.ithome.com/1/010/954.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/954.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 9 日消息，Odyssey 昨日（10 月 8 日）发布博文，宣布推出 Odyssey-3 系列基础世界模型，其 Odyssey-3 Pro 在 Physics-IQ Verified 视频到视频基准测试中取得 66.1 分，创该榜单最高纪录。\n\nIT之家注：基础世界模型（Foundation World Model）是指从大量视觉观测中学习物理、动态与因果关系的通用 AI 模型。它可预测物体如何移动、交互及情境如何随时间演变，并用于模拟环境或训练机器人、车辆等系统的控制策略。\n\nPhysics-IQ Verified 是由 Anates Labs 与 DeepMind 联合开发的物理行为基准测试。它要求模型续写真实物理实验视频，并将预测结果与实际结果比较，覆盖流体动力学、光学、固体力学、磁学和热力学。\n\n模型方面，Odyssey-3 系列基础世界模型分为标准版和 Pro 版本，标准版本平衡物理精度与生成成本；而 Pro 版物理预测能力更强。\n\n架构方面，Odyssey-3 采用自回归扩散变换器架构，可从提示生成具身环境。用户在生成过程中移动视角、采取动作或引入事件后，模型会结合既有观测与最新输入，实时预测环境如何变化。\n\n本次预览版支持第一人称与第三人称导航，也支持独立相机移动。用户可在环境中移动或触发事件，观察模型对环境状态的响应。\n\n性能在 WorldMark 评估中，Odyssey-3 在第一人称风格化、第三人称真实与第三人称风格化三类环境中均排名第一，得分分别为 77.2、79.0 与 76.3。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-09T07:26:49.387Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

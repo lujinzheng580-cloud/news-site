@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "668be530fa63",
+    "title": "Counterpoint：无需担忧 HBM 内存需求放缓，更高堆叠仍是行业趋势",
+    "url": "https://www.ithome.com/1/010/920.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/920.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 9 日消息，机构 Counterpoint Research 韩国当地时间昨日根据其内部审查结果表示，最近整个存储器行业对 HBM 需求放缓的担忧“基于错误信息”。\n\n机构宣称，高堆叠 HBM 内存的普及趋势将持续下去，更多 NVIDIA（英伟达）Rubin GPU 转向 12Hi HBM4，而 ASIC 解决方案中也没有出现仅有 4 层堆叠的 HBM 内存。\n\n该机构认为，对于 AI XPU 的工作负载而言，确保带宽和容量比降低成本更为重要。\n\n카운터포인트 “HBM4 탑재량 축소설 과도”, 삼성 실적엔 청신호\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-09T07:26:49.389Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

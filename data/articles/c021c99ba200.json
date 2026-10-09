@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c021c99ba200",
+    "title": "90 → 64 天：全球最大网站证书颁发机构 Let's Encrypt 明年 2 月起缩短证书有效期",
+    "url": "https://www.ithome.com/1/010/908.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/908.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 9 日消息，全球最大的网站证书颁发机构 Let's Encrypt 于 10 月 7 日发布公告，宣布自 2027 年 2 月 10 日起，将免费 SSL / TLS 证书有效期从 90 天缩短至 64 天。\n\nSSL / TLS 证书用于验证网站与用户之间的加密连接。在 Let's Encrypt 于 2016 年初推出前，证书有效期通常为 1 至 3 年；该机构最初采用 90 天有效期，以推动当时尚不普及的自动续期机制，并促进 HTTPS 部署。\n\nIT之家曾于 2025 年 12 月报道，Let's Encrypt 宣布计划 2028 年，其公信 TLS 证书有效期将从 90 天减半至 45 天。\n\n该机构将于 2026 年 10 月 14 日开放测试，网站管理员可主动加入测试，在正式生效前验证证书签发、部署及续期流程是否兼容新周期。\n\n缩短证书有效期可降低私钥泄露或证书错误分配后的影响范围。Let's Encrypt 表示，64 天有效期延续这一逻辑，并计划于 2028 年将默认有效期进一步降至 45 天。\n\nLet's Encrypt 同时缩短授权重用周期：从 30 天降至 10 天，并计划于 2028 年降至 7 小时。管理员应确认 ACME 客户端支持 ARI、配置续期失败或证书过期提醒，并利用测试期验证自动化流程，以避免 2027 年 2 月后出现证书意外过期。\n\n《Let's Encrypt 宣布 TLS 证书有效期减半：2028 年全面缩至 45 天，同步推出 DNS-PERSIST-01 持久验证》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-09T07:26:49.390Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
