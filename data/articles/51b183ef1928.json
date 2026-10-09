@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "51b183ef1928",
+    "title": "苹果调整 iPhone 更新排序，推动 iOS 26 用户升级 iOS 27",
+    "url": "https://www.ithome.com/1/010/775.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/775.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 9 日消息，科技媒体 MacRumors 今天（10 月 9 日）发布博文，报道称苹果已调整 iPhone 系统更新显示顺序，将 iOS 27.0.1 置于主要位置，更主动地引导 iOS 26 用户升级至 iOS 27。\n\nIT之家援引博文介绍，仍在运行 iOS 26 的 iPhone 用户打开在“设置”应用的“通用” → “软件更新”路径，此前位于页面首位的是 iOS 26.7.1，不过近期苹果已调整为 iOS 27.0.1。\n\n苹果于 9 月 14 日发布 iOS 27。本次调整后，iOS 26.7.1 被移至“其他可用”区域，iOS 27.0.1 则成为用户首先看到的系统更新。\n\n苹果未强制 iPhone 用户安装 iOS 27。用户仍可选择继续使用 iOS 26，但苹果建议至少升级安装 iOS 26.7.1，避免存在于 CoreGraphics 的安全漏洞。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-09T01:08:02.520Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

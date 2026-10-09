@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8c1b576da634",
+    "title": "iPhone 18 Pro 等机型碰一下搞定配置：苹果和 LG 合作智能家居产品将支持“未通电先配对”",
+    "url": "https://www.ithome.com/1/010/752.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/010/752.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 9 日消息，消息源 @itspdfu 昨日（10 月 8 日）在 X 平台发布推文，通过挖掘 iOS 27 代码以及分析 LG 设备固件，发现 LG 即将推出的智能门锁和恒温器等家居配件，可能支持 HomeKit 独有的“未通电轻触设置”（tap to set up without power）功能。\n\n这一功能可减少智能门锁、恒温器等设备初次安装时的步骤：用户无需先接电、进入配对模式或手动输入网络信息，安装体验更接近“贴一下即完成预备设置”。IT之家附上相关截图如下：\n\n在用户体验方面，用户只需将 iPhone 18 Pro 等机型靠近设备，即可通过 NFC 预先写入配对身份和 Wi‑Fi／Thread 网络凭证；设备通电后自动入网，并由家庭中枢完成 Matter 配置。\n\n技术实现方面，该流程基于 Apple 的 CoreHAP 私有 API HAPNFCReaderSession，与标准 Matter NFC Commissioning 分开实现。\n\n在传感器方面，LG 门锁与恒温器固件中出现 NXP SE051H 安全元件；固件据称将 Matter NFC 小程序替换为 HomeKit 专用小程序，因此 NFC 预配置可能仅限 Apple Home。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-09T01:08:02.525Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
