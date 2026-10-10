@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d19350126482",
+    "title": "消息称 Meta 已搁置向 Anthropic 出租 AI 算力的计划",
+    "url": "https://www.ithome.com/1/011/431.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/431.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 10 日消息，《华尔街日报》在一篇当地时间昨日的报道中提到，Meta 已搁置向 Anthropic 出租 AI 算力的计划。\n\n报道指出，Anthropic 首席执行官 Dario Amodei 今年早些时候曾亲自致电 Meta 首席人工智能官汪滔 (Alexandr Wang)，希望从这家竞争对手处租赁 AI 计算芯片。Meta 就此事进行过内部讨论，最终做出了暂不提供的决定。\n\n随着 Muse 系列自研模型的逐步发布，Meta 的 AI 业务从早些时候的低潮中快速恢复，自身对算力的需求也迅速增长。此时若选择向 Anthropic 出售算力可算是“资敌”行为。\n\n报道提到，算力资源分配正影响人工智能人才的就业选择，Transformer 架构核心作者 Noam Shazeer 之所以二次离职谷歌就与算力不足有关。与此同时，大量的算力建设承诺最终落空，限制了 AI 产业的发展。\n\n《2 年 100 亿美元：消息称 Anthropic 拟租赁 Meta 的 AI 算力》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-10T11:24:20.959Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
