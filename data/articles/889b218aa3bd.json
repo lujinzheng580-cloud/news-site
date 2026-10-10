@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "889b218aa3bd",
+    "title": "Win11 26H2 装机设置已封堵“点击了解更多按钮绕过登录微软账户”方案",
+    "url": "https://www.ithome.com/1/011/218.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/218.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 10 日消息，消息源 @TheBobPony 昨日（10 月 9 日）在 X 平台发布推文，爆料称在 Windows 11 26H2 系统的首次装机设置（OOBE）中，微软公司已封堵使用“了解更多”超链接绕过登录微软账号方案。\n\nIT之家曾于 9 月 13 日报道，用户不需要命令提示符、注册表编辑器或虚假微软账户，安装过程也不要求断开 Wi‑Fi，用户完成开箱体验设置后，联网进入“让我们添加 Microsoft 账户”页面，可点击“登录选项”下方段落中的小型“了解更多”链接，可以绕过 Windows 11 家庭版强制登录微软账号。\n\n不过消息源指出在 Windows 11 26H2 系统中，该链接已无法绕过账户要求。他在 X 上表示，微软近期从服务器端修复了这一漏洞。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-10T05:38:22.814Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

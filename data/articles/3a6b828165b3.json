@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3a6b828165b3",
+    "title": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小",
+    "url": "https://www.ithome.com/1/011/219.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/219.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 10 日消息，人工智能实验室 Underdog AI 本月发布了 Saluki 27B 模型。该模型是 Qwen3.8-27B 的 2-bit 量化调优版本，仅保留文字 I/O 能力，文件大小则仅有 7.89 GB。\n\nUnderdog 表示，Saluki 针对智能体应用设计，长于日常推理和工具使用，数学表现则相对逊色。其工具选择和多工具并行调用表现甚至优于全尺寸的 Qwen3.8-27B。\n\nSaluki 模型使用标准的 llama.cpp 格式，可在标准的 llama.cpp 以及基于它构建的应用程序中加载，无需任何自定义编译。\n\nhttps://underdog.ai/underdog-27b\n\nhttps://underdog.ai/saluki\n\nhttps://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-10T05:38:22.814Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
