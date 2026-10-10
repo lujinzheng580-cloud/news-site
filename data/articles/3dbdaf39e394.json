@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3dbdaf39e394",
+    "title": "代码显示谷歌正为 Gmail 应用内置 Google Chat 聊天功能开发 HDR Emoji 表情功能",
+    "url": "https://www.ithome.com/1/011/498.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/498.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 10 日消息，外媒 Android Authority 在拆解谷歌 Gmail 应用 2026.10.05.993506826 版本时，发现谷歌正计划开发 HDR Emoji 表情功能。\n\nIT之家获悉，新版应用包代码中出现了“以高动态范围（HDR）显示受支持的表情符号，并增强亮度与对比度（Display-supported emoji in high dynamic range (HDR) with enhanced brightness and contrast）”的描述，这意味着谷歌正在为 OLED 面板机型开发相应功能。\n\n根据目前的布局，相应“HDR 表情符号”开关位于 Gmail 应用内集成的 Google Chat 聊天功能中，在开启后能够让表情符号呈现更高的亮度和对比度，从而提升视觉效果。\n\n除此之外，外媒认为后续谷歌 Gmail / Google Chat  应用还有可能支持用户自行上传带有 HDR 效果的图片，作为自定义 HDR 表情发送。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-10T16:21:12.827Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
