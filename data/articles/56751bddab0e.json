@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "56751bddab0e",
+    "title": "代码显示 Meta 正为 Quest 头显开发“Theater Home”虚拟影院环境功能，支持动态氛围灯效",
+    "url": "https://www.ithome.com/1/011/642.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/642.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 11 日消息，据外媒 UploadVR 报道，Meta 正在为 Quest 系列 VR 头显开发全新的虚拟影院环境“Theater Home”，目前相应代码已现身 Horizon OS 2.9 公开测试版。\n\n目前，数据挖掘者兼安全研究人员 ToastConcern 已成功利用代码构建了相应虚拟影院环境，在启用功能后，用户可以在窗口控制栏中找到名为“Theater”的按钮，点击后用户便会进入影院环境。\n\n除此之外，代码还显示虚拟影院环境的荧幕具有名为“Dynamic Ambience”的氛围灯效功能，系统可根据当前电影画面边缘色彩在荧幕周围渲染一圈光晕效果。\n\n值得注意的是，Meta 近期正积极推动现有媒体和流媒体平台融入 Horizon OS，为即将推出的 Meta VR Glasses 做准备，后续 Theater Home 究竟会成为单人观影空间，还是会成为多人共同观看的线上社交环境，仍有待观察。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-11T11:33:42.478Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

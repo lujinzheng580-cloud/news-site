@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "afb92f21e059",
+    "title": "类原生安卓系统 LineageOS 24 更新发布，基于 Android 17",
+    "url": "https://www.ithome.com/1/011/627.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/627.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 11 日消息，类原生安卓系统 LineageOS 今日正式发布了 LineageOS 24 版本更新，基于 Android 17 打造。\n\nLineageOS 官方表示，自从 Android 17 于六月发布以来，LineageOS 团队一直在努力重新调整所有的变更和功能。Android 17 的第一个版本主要包含迭代改进和一些界面 / 用户体验的改进，但由于 LineageOS 团队之前在适应谷歌最近几个版本的大规模重构，因此能够比预期更快地构建基于 Android 17 的代码库。\n\n2025 年 8 月至 2026 年 10 月的安全补丁已合并到 LineageOS 18.1 至 24.0 版本。此外，截至 2025 年 11 月的安全补丁已合并用于遗留分支 15.1、16.0 和 17.1。\n\nLineageOS 24 中，许多 App 已更新为 Material Design 3 Expressive 设计，包括 Canvas 图像编辑器、Catapult 安卓 TV 启动器、Jelly 浏览器等；此外，平板和电视的布局也进行了大幅优化。\n\nIT之家从更新公告获悉，安装 LineageOS 也变得更简单了一点，该团队正在推出针对 ADB、Fastboot 等几种常见设备安装方式的浏览器刷机工具，这些工具使用 WebUSB 直接与浏览器中的兼容设备通信，减少了寻找、安装和运行独立刷写工具的需求。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-11T11:33:42.480Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
