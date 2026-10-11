@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "aeae5fe7dffd",
+    "title": "微软为 Linux 7.4 贡献 Hyper-V 半虚拟化 IOMMU 驱动，已进入-next 分支",
+    "url": "https://www.ithome.com/1/011/700.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/700.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 11 日消息，据科技媒体 Phoronix 今天报道，微软为即将发布的 Linux 7.4 贡献全新内核驱动。目前该驱动已进入 IOMMU 子系统的 -next 分支，可在 Hyper-V 的 Linux 客户机虚拟机使用。\n\n据介绍，这款半虚拟化 IOMMU 驱动可通过 HYPERV_PVIOMMU Kconfig 配置选项启用。可让 Hyper-V 上的 Linux 客户机为分配给虚拟机的设备，提供内核级 DMA 保护。\n\nIT之家从原报道获悉，该驱动同时适用于 Intel VT-d 和 AMD IOMMU 系统。如果进展顺利，Linux 7.4 正式版预计将在 12 月底发布。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-11T16:47:39.756Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
