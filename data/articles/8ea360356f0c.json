@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8ea360356f0c",
+    "title": "OpenAI 宣布 GPT-6.1 Sol 默认上下文长度从 272k 提升至 500k，增加约 80%",
+    "url": "https://www.ithome.com/1/011/736.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/736.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 12 日消息，OpenAI 的 Thibault Sottiaux（Tibo）今日宣布，已将 Codex 和 Work 环境下 GPT-6.1 Sol 的默认上下文长度提升至 500k，相比此前的 272k 增加了约 80%。\n\nTibo 表示，尽管 OpenAI 未来还会继续提高上限，但这一调整已能显著降低上下文压缩的触发频率，并能更从容地处理那些需要长期保留大量上下文与复杂细节的任务。\n\n该数值经过充分测试，对绝大多数用户而言都是体验与性能的最佳平衡点（sweet spot）。\n\n当然，如果您希望调高或调低，依然支持手动设置，GPT-6.1 Sol 支持的最大上下文长度上限为 1M。\n\nIT之家注意到，配合本次调整，当从订阅中扣除使用量时，OpenAI 将不会对 GPT-6.1 Sol 收取长上下文费用。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-12T00:24:12.941Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
