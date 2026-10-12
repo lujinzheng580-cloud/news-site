@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6c5ad40e5b46",
+    "title": "火狐 Firefox 158 浏览器发布，默认启用 JPEG XL 图像支持",
+    "url": "https://www.ithome.com/1/012/125.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/125.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 12 日消息，Mozilla 今天推出火狐 Firefox 浏览器 158 版本，最大的亮点是默认启用 JPEG XL 图像支持。\n\n官方表示，JPEG XL 可作为 WebP、JPEG、PNG 和 GIF 等图像格式的替代方案。浏览器请求图像时默认使用的 HTTP Accept 请求头，已支持 JPEG XL 图像格式，此前版本需通过实验性选项才可开启。\n\nFirefox 158 还改进了智能窗口（IT之家注：Smart Window）表单填写功能。用户点击表单字段，或选择从来源中填充内容时，可以更快地完成表单填写。\n\n此外，该浏览器现已支持 CSS 类型化算术运算，允许使用 calc () 等函数对两个数据类型相同、但单位不同的值进行除法运算。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-12T22:53:06.925Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

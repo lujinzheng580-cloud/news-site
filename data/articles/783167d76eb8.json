@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "783167d76eb8",
+    "title": "阿里千问发布 QwenGyre，面向超长程智能体任务的在线强化学习框架",
+    "url": "https://www.ithome.com/1/012/066.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/066.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 12 日消息，阿里千问今日正式发布 QwenGyre，这是一款面向长程智能体任务的在线强化学习框架。\n\n据官方介绍，当智能体承担复杂工作，一次执行往往持续数小时，模型与环境之间有数百轮相互依赖的交互，累计处理百万级 token。QwenGyre 通过弹性调度与轨迹处理，让这类超长程任务成为有效的训练来源，同时带来能力与效率提升。\n\nQwenGyre 能够把 GPU 分成若干计算单元，任务每结束一批，空出的单元就转入训练，就像项目组里谁先交差、谁先加入复盘。还在跑的任务完全不受打扰，进度和状态原地保留，连之前算过的缓存都整体搬走，不必重头再来。新空出的单元直接加入本轮训练，谁算得快谁多干，最后由核心单元汇总结果，完成一次参数更新。\n\nIT之家注意到，QwenGyre 可通过 Token-in Token-out 记录每段输出生成时的真实上下文，按共享前缀组织成轨迹树，只把被选中的路径展开为训练样本。同时，超时但部分完成的任务也能通过 Partial Scoring 提供有用反馈，不浪费任何一步努力。\n\n跑分方面，官方在 NL2RepoBench 在线强化学习实验中，以每次 rollout 约 70 万 token 的任务开展训练，48 步训练后模型通过率从 52.5% 提升至 58.5%。相同 GPU 预算下，QwenGyre 相对 Async 实现 1.78× 的端到端加速，训练分数与 Async、Colocate 接近。在 Qwen3.6-122B 上的跨任务验证中，NL2RepoBench、DeepSWE、TerminalBench 三类任务均获得端到端提速。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-12T22:53:06.932Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
