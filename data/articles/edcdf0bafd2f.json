@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "edcdf0bafd2f",
+    "title": "消息称三星电子开发 zNAND-T 与 zNAND-I 闪存，分别优化吞吐量与随机性能",
+    "url": "https://www.ithome.com/1/011/871.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/871.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 12 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子正在开发多款针对人工智能负载优化的 NAND 闪存产品，除此前已公布的 zNAND-O 外还有 zNAND-T 与 zNAND-I。\n\n报道指出，zNAND-T 的 \"T\" 代表 \"Throughput\"（吞吐量）。其类似于闪迪和 SK 海力士提出的 HBF 概念，为数据中心 AI 半导体的需求优化读写带宽表现，采用 TSV 堆叠 NAND Die。\n\n而 zNAND-I 的 \"I\" 则是象征随机性能的 IOPS 的简写，强调少量数据频繁读写操作中的表现，KV Cache 卸载就属于此类场景。\n\n三种 zNAND 各有专长，针对不同的应用负载，代表着 NAND 闪存正从通用型产品转向定制化。\n\n《固态硬盘未来可扩展至 PB 容量：SK 海力士介绍 AIN Family 产品组合》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-12T06:24:02.379Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

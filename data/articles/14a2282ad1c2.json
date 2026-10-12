@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "14a2282ad1c2",
+    "title": "阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy，10 月 12 至 25 日独家限免",
+    "url": "https://www.ithome.com/1/011/852.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/011/852.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 12 日消息，阶跃 StepFun 今日宣布，阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy。2026 年 10 月 12 日至 10 月 25 日，在 WorkBuddy 开启独家限免。\n\n据IT之家此前报道，9 月 20 日，阶跃推出旗舰模型 Step 5 Preview，面向 AI 编程、软件工程、专业知识工作、金融等场景，提升模型执行真实世界 Agentic 任务表现，10 月 15 日开源完整权重。\n\n该模型采用稀疏 MoE 混合专家架构，总参数量 600B、激活参数 27B，支持 100 万 Token 上下文窗口，原生支持文本与视觉输入。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-12T06:24:02.381Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
