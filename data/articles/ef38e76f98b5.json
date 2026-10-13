@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ef38e76f98b5",
+    "title": "面壁智能发布新一代端侧多模态大模型 MiniCPM-V 4.7，仅 3GB 内存可实现 13+ token/s 解码速度",
+    "url": "https://www.ithome.com/1/012/483.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/483.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，面壁智能今天宣布推出新一代端侧多模态大模型 MiniCPM-V 4.7，提供 35B-A3B 和 1B 两种规格，其中 35B-A3B 是 MiniCPM-V 系列首个 MoE 模型。\n\n据官方介绍，这款模型基于最新 LES（前瞻专家调度）推理加速技术，其中 35B-A3B 版本是首个支持端侧无损流畅运行的开源 MoE 模型，在 iPhone 17 Pro Max 上以仅 3GB 内存达到 13+ token/s 的解码速度。\n\nIT之家了解到，MiniCPM-V 4.7 同时支持 iOS、安卓和鸿蒙，并适配 Intel、AMD、Arm、瑞芯微、后摩等芯片平台，覆盖更多移动设备与本地计算场景。同步开源 Self-Replay Fine-Tuning (SRFT) 微调方案，帮助开发者低成本扩展模型能力和减少遗忘，方便二次开发。\n\n此外，该模型 35B-A3B 版本在 Instruct 模式下，以更短的推理时间取得比 Qwen3.6 35B-A3B 更高的综合得分；1B 版本相比 MiniCPM-V 4.6 持续提升基础能力，并在综合得分和推理效率上均显著领先 Qwen3.5 0.8B。\n\nMiniCPM-V/README_zh.md at main · OpenBMB/MiniCPM-V · GitHub\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T11:00:27.888Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

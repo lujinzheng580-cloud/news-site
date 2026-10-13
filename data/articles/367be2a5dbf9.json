@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "367be2a5dbf9",
+    "title": "TCL 展示 X5 智慧 CPE：峰值下行速率可达 7Gbps，支持本地多智能体调度",
+    "url": "https://www.ithome.com/1/012/488.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/488.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，TCL 当地时间今日在奥地利维也纳举行的 Network X 2026 大会上展示了其旗舰 CPE 设备 X5。\n\nTCL 宣称 X5 的定位是一款综合性的智能 AI 5G CPE，具备自然语言交互、AI 网络优化、应用感知流控、主动诊断和自恢复、可扩展的 AI 服务平台等功能，专为寻求优质宽带体验的家庭和小型企业而设计，可满足远程办公、游戏、智能家居连接等各种需求。\n\nTCL X5 支持 3GPP Release 18 标准，理论峰值下行链路速率可达 7.01 Gbps。其采用 8Rx 射频架构，拥有 4 根 13dB 定向 C 波段天线、4 根全向 C 波段天线，下行链路吞吐量比 4Rx 设计提升多达 51%。\n\n此外，其采用统一智能体架构，支持本地多智能体调度，拥有集成模型和技能库，以及统一的运行时环境。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T11:00:27.887Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

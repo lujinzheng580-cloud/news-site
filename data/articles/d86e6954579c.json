@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d86e6954579c",
+    "title": "华硕发布 NVIDIA MGX 服务器 XA P2N-E2，支持 RTX PRO 6000 Blackwell 双卡",
+    "url": "https://www.ithome.com/1/012/422.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/422.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，华硕 (ASUS) 当地时间昨日在 2026 OCP 全球峰会上发布了 2U 服务器 XA P2N-E2。\n\n这一产品基于 NVIDIA（英伟达）MGX 架构，配备 Vera CPU 和最多 2 块 RTX PRO 6000 Blackwell 服务器版本 GPU，专为代理式 AI 与强化学习工作负载打造，可应对代码执行、工具调用、沙盒运算等任务。\n\n华硕还展示了一系列其它服务器产品，包括 Vera Rubin NVL72 平台的 XA VR721-E3、结合气冷 CPU 与液冷 GPU 系统的 XR R1I12B-M1BHFS、双路 EPYC 9006 的 1U 系统 RS700A-E14B-R16U、AMD 平台气冷 AI 方案 ESC8000A-E13P 等。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T11:00:27.891Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

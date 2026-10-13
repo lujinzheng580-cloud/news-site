@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "db9361db1a85",
+    "title": "特朗普集团旗下 Trump Mobile 移动网络公司遭黑客入侵，3615 名用户个人信息泄露",
+    "url": "https://www.ithome.com/1/012/477.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/477.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，综合外媒 International Cyber Digest 报道，黑客组织 BYOD 发布公告，声称已窃取并公开 3615 名 Trump Mobile 用户的个人信息，包含用户姓名、电子邮箱地址、电话号码、家庭住址及订单详情等均遭泄露。\n\n外媒指出，目前公开的信息尚未显示攻击者提出了赎金要求，而 Trump Mobile 也尚未回应媒体置评请求。\n\n关于入侵途径，BYOD 组织向 International Cyber Digest 表示，他们利用信息窃取程序感染了  Trump Mobile 背后公司 Liberty Mobile 里一名员工的设备；不过外媒 Cybernews 认为黑客是利用了远程访问木马（RAT）获得了 Trump Mobile 隐私信息。\n\nBYOD 声称，其在取得员工设备的访问权限后，将目标转向暴露在外的 Trump Mobile 子域名，目前其仍能够控制 Trump Mobile 旗下一个客户管理后台。BYOD  还提供了一张后台截图，其中显示了一名客户的个人信息。不过，相关后台访问权限目前尚未得到独立确认。\n\nTrump Mobile 于 2025 年 6 月推出时，官方曾承诺，该业务将“彻底改变手机行业”。然而，此次用户数据泄露事件及其后续争议，正让这一品牌的实际表现与最初的宣传形成鲜明对比。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T11:00:27.889Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
