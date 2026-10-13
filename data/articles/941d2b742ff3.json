@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "941d2b742ff3",
+    "title": "铠侠推出 DLC 版本 CM9 企业级固态硬盘，支持冷板液冷",
+    "url": "https://www.ithome.com/1/012/166.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/166.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，KIOXIA（铠侠）美国当地时间昨日宣布推出 CM9-DLC 固态硬盘。这一企业级 SSD 采用 EDSFF E3.S 外形规格，在常规版本 CM9 的基础上添加了对 DLC（直接液体冷却，冷板液冷）的支持。\n\nCM9-DLC 意味着客户可在单一服务器机架上完全采用液体冷却，用一套散热系统同时覆盖算力与存力组件。\n\nCM9-DLC eSSD 符合 PCIe 5.0、NVMe 2.0、NVMe-MI 1.2c 规范，支持 OCP 数据中心 NVMe SSD v2.5 规范，支持双端口配置。\n\n其容量可达 32TB 级，提供 1DWPD 读取密集型和 3DWPD 混合负载型版本，顺序读写性能分别至高可达 14.8 GB/s 和 11 GB/s ，4KiB 随机性能分别至高可达 3400K IOPS 和 800K IOPS，非常适合 SSD 上下文缓存应用场景。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T03:28:09.745Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

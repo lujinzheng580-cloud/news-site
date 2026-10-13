@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4d8331797569",
+    "title": "部分三星 Galaxy S24/S25/S26 系列手机反馈升级 One UI 9 后无法进入主屏幕",
+    "url": "https://www.ithome.com/1/012/249.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/249.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，科技媒体 Android Authority 昨日（10 月 12 日）发布博文，报道称部分 Galaxy S26/S25/S24 系列手机用户反馈，在安装升级 One UI 9 更新进入设置界面后，显示 XML“访问被拒绝”错误，且无法跳过进入主屏幕。\n\n在影响机型方面，根据 Reddit 社区、X 社交媒体等用户反馈，Galaxy S24 系列、Galaxy S25 系列、Galaxy S26 系列及部分折叠屏机型出现该问题，但目前尚不清楚具体影响范围。\n\n在错误表现形式方面，根据用户反馈可以正常 OTA 安装更新，并能正常启动，但在启动进入设置流程后，点击欢迎设置界面后屏幕显示 XML“Access Denied”错误，无法继续设置或进入主屏幕。IT之家附上相关截图如下：\n\n爆料人 Fahad Ali Javed 称，错误可能源自三星服务器端为遏制固件泄露所做的更改。三星尚未证实这一说法，也未公开说明故障原因或修复时间表。\n\n临时修复方案上，部分用户报告，完全断开网络后可绕过该错误。另有用户表示，稍后重启即可恢复正常，提示服务器端状况可能已经改变。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T03:28:09.737Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

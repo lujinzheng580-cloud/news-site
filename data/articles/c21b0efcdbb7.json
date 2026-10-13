@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c21b0efcdbb7",
+    "title": "民间新项目：让破解版索尼 PS5 运行微软 XBOX 云游戏，支持 1080P@60FPS 串流",
+    "url": "https://www.ithome.com/1/012/174.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/174.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，科技媒体 Wccftech 昨日（10 月 12 日）发布博文，报道称开发者 RafaelNGP 在 GitHub 发布 PSBOX Cloud Gaming，这个非官方客户端可以在已破解的 PlayStation 5 游戏主机上，首次成功运行微软 XBOX Cloud Gaming，并支持最高 1080P@60FPS 串流。\n\nIT之家援引博文介绍，玩家通过 PSBOX Cloud Gaming 非官方客户端，可以在已破解的 PlayStation 5 游戏主机上，浏览 XBOX 云端游戏库，并以 1080p60 分辨率串流游戏。\n\n软件支持将最多 4 个 DualSense 手柄映射为 Xbox 控制器，用户可在 PS5 上以常规方式登录 Xbox 账户，并通过电视上的代码使用手机完成登录。\n\nPSBOX Cloud Gaming 完整支持 DualSense 手柄，并将其映射为 Xbox 控制器。用户也可使用 PS5 系统键盘填写游戏内的文本字段。用户还可调用 PS5 GPU，通过 AMD FSR 1 或 Anime4K 将画面提升至 4K，从而在 PS5 显示设备上获得更高分辨率输出。\n\n安装流程包括从 GitHub 下载 .zip 文件、解压至指定文件夹、等待 Homebrew 加载器挂载该应用，随后启动并登录。该软件目前仍处于早期状态，部分测试者报告宏块、粉色伪影等视频问题，以及 DualSense 手柄振动异常。\n\n除 Xbox Cloud Gaming 外，RafaelNGP 还在用户提出需求后新增 Xbox Remote Play 支持。该功能可将用户已拥有的 Xbox 主机上的游戏串流至 PS5，但该能力在最初版本中尚未可用，开发者在数日后发布更新补齐。\n\n《索尼 PS5 破解后成功运行初代 Xbox 游戏，微软 Xbox 360 与 PC 游戏支持也在开发中》\n\n《借助 PS5X 模拟器，开发者成功在 Xbox Series X 上运行 PS5 游戏》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T03:28:09.743Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

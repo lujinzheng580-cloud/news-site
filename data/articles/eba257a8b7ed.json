@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "eba257a8b7ed",
+    "title": "Marvell 发布第二代 CXL 内存扩展控制器，率先支持 6 通道、4 主机",
+    "url": "https://www.ithome.com/1/012/170.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/170.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 13 日消息，Marvell（美满）当地时间本月 12 日发布了第二代 Structera X 系列 CXL 内存扩展控制器，包括 3406 和 3506 两款产品。\n\nStructera X 3406 / 3506 上行侧支持 CXL 3.2 / PCIe Gen 6；下行侧则在行业内率先配备 6 个内存通道，3406 支持 18 个 DDR4 RDIMM 上的 9TB 内存、3506 支持 12 个 DDR5 RDIMM 上的 6TB 内存。\n\n这两款芯片的另一业界首创则是可在最多 4 台主机间共享这一庞大的内存池。此外，Structera X 3406 / 3506 的 LZ4 压缩吞吐量较上代提高了 5 倍，达到 250GB/s，实现 2~3 倍有效内存容量；支持企业级 RAS、PQC 安全性。\n\nIT之家获悉，Marvell Structera X 3406 / 3506 CXL 内存扩展控制器预计将于 2027Q1 出样。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-13T03:28:09.744Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
