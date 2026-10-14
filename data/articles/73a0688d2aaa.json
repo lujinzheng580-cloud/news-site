@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "73a0688d2aaa",
+    "title": "提升视听体验：苹果第四代 Apple TV 4K 首次支持 AV1 和杜比视界 Profile 8.1",
+    "url": "https://www.ithome.com/1/012/883.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/883.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 14 日消息，根据苹果官方技术规格页面，2026 款 Apple TV 4K（也称第四代）首次支持 AV1 硬件解码与 Dolby Vision Profile 8.1，两项能力均未出现在第三代 Apple TV 4K 的规格页中。\n\nIT之家注：AV1 是一种由开放媒体联盟开发的开放视频编解码器，用于在传输前压缩视频。其目标是在相近画质下降低数据量，常用于流媒体平台，设备需具备相应解码能力才能播放该格式内容。\n\nA19 芯片内置全新专用 AV1 解码器。苹果表示，该解码器可在占用更少带宽的情况下，提供更高效、更高质量的流媒体播放。苹果尚未公布哪些应用将提供 AV1 流。使用 HEVC 或 H.264 编码的服务仍可按原有方式播放。\n\nDolby Vision Profile 8.1 是杜比视界动态 HDR 格式的一种配置文件。杜比视界内容按不同 Profile 封装，播放设备必须支持对应 Profile 才能以杜比视界方式呈现。\n\n苹果 Apple TV 4K 第三代仅列出 Profile 5，第四代则同时列出 Profile 8.1 与 Profile 5，可接受两种配置文件的杜比视界内容。\n\nDolby Vision Profile 8.1 与 Profile 5 的核心区别在于封装方式与兼容性：Profile 5 是杜比视界专用的单层封装，不向下兼容 HDR10；Profile 8.1 在 HDR10 基础层之上加入杜比视界动态元数据。支持杜比视界的设备可读取动态元数据；不支持杜比视界的设备仍可依据 HDR10 基础层播放，因而具备更好的设备兼容性。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-14T07:25:51.922Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

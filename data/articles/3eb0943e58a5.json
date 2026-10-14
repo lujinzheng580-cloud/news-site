@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3eb0943e58a5",
+    "title": "Rust 编写：开发者挑战 Adobe 后再挑战微软，Office 三件套替代品上线",
+    "url": "https://www.ithome.com/1/012/820.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/820.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 14 日消息，科技媒体 NeoWin 昨日（10 月 13 日）发布博文，报道称在推出 ArtCraft 挑战 Adobe 的 Creative Suite 套件后，开发者兰登 · 托马斯（Brandon Thomas）调用 Claude AI 模型，又向微软 Office 发起挑战。\n\n托马斯昨日发布 WordCraft、GridCraft 和 DeckCraft，分别定位为 Microsoft Word、Excel 和 PowerPoint 的免费替代品，三款应用均采用 Rust 语言编写，并由 Claude AI 辅助编码打造。\n\n在兼容平台上，WordCraft、GridCraft 和 DeckCraft 兼容 Windows、macOS 和 Linux 原生版本，同时支持 BSD 系统，并通过 WebAssembly 提供浏览器版本。\n\nWordCraft 支持 Ribbon 界面、文档样式、表格、修订、批注、拼写和语法检查以及邮件合并。该应用可打开和保存 DOCX 文件，兼容 ODT、RTF、HTML、Markdown 和纯文本，并能导出 PDF。\n\nGridCraft 内置超过 500 个函数的公式引擎，支持动态数组、条件格式、图表、表格和 PivotTables。其原生格式为 XLSX，兼容 CSV 和 TSV，也能导入旧版 XLS 工作簿，但尚未保留部分格式和嵌入对象。\n\nDeckCraft 支持主题、幻灯片布局、形状、图片、表格和图表，并提供切换效果、动画、演示者视图和全屏放映。用户可打开和保存 PPTX 文件，并将演示文稿导出为 PDF 或图像格式。\n\n该媒体指出，三款应用目前仍处于开发阶段，属于早期项目。相关代码已发布在 GitHub 的 WordCraft、GridCraft 和 DeckCraft 仓库，用户可自行获取和测试。\n\n点此前往 GitHub 访问 WordCraft\n\n点此前往 GitHub 访问 GridCraft\n\n点此前往 GitHub 访问 DeckCraft\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-14T07:25:51.928Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

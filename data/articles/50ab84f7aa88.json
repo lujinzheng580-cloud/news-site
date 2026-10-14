@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "50ab84f7aa88",
+    "title": "映泰推出基于英特尔 \"Wildcat Lake\" 处理器的 BIWCL-PAT 工业单板计算机",
+    "url": "https://www.ithome.com/1/012/831.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/831.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 14 日消息，映泰 (BIOSTAR) 昨日宣布推出基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 BIWCL-PAT 工业单板计算机 (SBC)。\n\n这一 SBC 尺寸为 148×102 (mm)，拥有 1 个 DDR5 SO-DIMM 内存模组插槽，3 个 M.2 插槽分别扩展 SSD 存储、蜂窝网络、WLAN 连接，配备 2 个 2.5GbE RJ-45，通过 HDMI 2.1、DisplayPort 1.4、LVDS 支持三路视频信号输出。\n\n其还具备 2 组 USB 10Gbps、4 组 USB 480Mbps、2 组 RS232/422/485、2 组 RS232、1 组 8bit 数字 I/O，支持 9~24V DC 供电，工作环境温度范围 0~+60℃。\n\n映泰表示，BIWCL-PAT 专为系统集成商 (SI) 设计，可应用于工业自动化、AIoT、边缘计算、HMI、POS、自助服务机等场景。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-14T07:25:51.926Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
