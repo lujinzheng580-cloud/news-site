@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a3f0e40293e3",
+    "title": "不兼容 VESA：苹果壁挂版智能家居中枢 HomeView 需配专属支架",
+    "url": "https://www.ithome.com/1/012/665.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/665.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 14 日消息，科技媒体 AppleInsider 昨日（10 月 13 日）发布博文，报道称由于没有配套的螺丝孔，苹果壁挂版智能家居中枢 HomeView 并不支持 VESA 标准。\n\nIT之家注：VESA 是视频电子标准协会制定的显示设备安装接口标准，常见于显示器、电视及部分平板设备。符合该标准的设备背部设有标准化螺丝孔，可搭配通用壁挂支架、悬臂支架或桌面支架使用。\n\nHomeView 未设置 VESA 螺丝孔，因此不兼容市面上常见的 VESA 壁挂支架。设备背部配备 USB-C 接口和一个小型凸起结构，可能对应苹果指定的专用安装点。\n\n壁挂版则不附带支架，用户需另行选购苹果提供的壁挂配件，或等待第三方厂商推出兼容产品。目前苹果和施耐德 Schneider Home 合作推出两款壁挂方案。\n\n售价 59.95 美元（现汇率约合 402 元人民币）的 Power Mount 支持自行安装，可将 HomeView 连接至附近电源插座；售价 79.95 美元（现汇率约合 536.1 元人民币）的硬接线方案则直接接入家庭电力系统。\n\n苹果还计划未来推出售价 129.95 美元（现汇率约合 871.3 元人民币）的以太网供电（PoE）支架。该支架将为 HomeView 提供有线供电，并支持直接连接互联网。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-14T01:46:21.803Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
