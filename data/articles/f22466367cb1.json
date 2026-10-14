@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f22466367cb1",
+    "title": "KDE Plasma 6.8 桌面环境发布：恰逢 KDE 诞生 30 年、彻底告别 X11 会话",
+    "url": "https://www.ithome.com/1/013/068.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/013/068.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 14 日消息，KDE Plasma 6.8 桌面环境今日正式发布，恰逢 KDE 成立 30 周年。本次更新带来不少变化，最重要的是不再支持 X11 会话运行桌面环境，全面转向 Wayland。\n\nIT之家了解到，基于 X11 的软件仍能通过 XWayland 兼容层，在 Plasma 正常工作。在可预见的未来，KDE 应用仍将继续支持 X11。\n\n同时，KDE 的下一代主题系统 Union 如今已进入 Beta 阶段，旨在提供统一的应用程序样式管理方案，不同应用更容易保持一致风格。\n\n此外，本次更新还带来了远程桌面、双向剪贴板、默认启用三重缓冲等改进。窗口管理方面也新增了键盘快捷键，按下 Meta + Ctrl + Page Up 或 Page Down，即可在任务管理器中的任务之间切换。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-14T13:01:40.983Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

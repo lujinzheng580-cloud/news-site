@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a71e3de2ce92",
+    "title": "xMEMS 宣布其 µCooling 全硅固态主动散热芯片进入量产阶段",
+    "url": "https://www.ithome.com/1/012/978.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/012/978.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 14 日消息，微机电领域初创企业 xMEMS 当地时间昨日宣布，其 µCooling 全硅固态主动散热芯片进入量产阶段。\n\nxMEMS µCooling 通过硅上薄膜压电材料的高频膨胀收缩产生超声机械运动，并通过芯片上的精密微阀阵列转化为高速空气脉冲，从而将热量从热源带走。其厚度低至 1.13mm，具备 IP68 防尘防水。\n\n此次量产的产品分别为中尺寸的 XMC-2400 和大尺寸的 XMC-4800。前者可提供 28ml/s 流量和 1300Pa 背压，适用于 XR 眼镜等边缘 AI 设备；后者则具有 48ml/s 流量和 1100Pa 背压，适用于智能手机和数据中心固态硬盘。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-14T13:01:40.987Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
