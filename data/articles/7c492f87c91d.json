@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7c492f87c91d",
+    "title": "微软承认部分 Win11 设备不兼容 10 月更新，导致远程桌面连接故障",
+    "url": "https://www.ithome.com/1/013/220.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/013/220.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 15 日消息，科技媒体 bleepingcomputer 昨日（10 月 14 日）发布博文，报道称微软承认在启用“管理员保护”功能的 Windows 11 设备上，若用户安装 10 月累积更新，可能会出现远程桌面（Remote Desktop）连接故障。\n\nIT之家此前报道，微软于 2024 年开始在 Windows 11 24H2 中测试“管理员保护”（Administrator protection），并于 2025 年 10 月可选更新中上线，目前已在 Windows 11 26H2 系统中广泛推行。\n\n“管理员保护”是微软为 Windows 11 引入的底层安全架构功能，主要用于解决管理员权限被滥用或盗用的核心痛点，启用该功能之后，在执行任何需要管理员权限的操作（例如安装新软件、更改系统时间或注册表）时，强制要求用户先通过 Windows Hello 的集成身份验证来确认身份。\n\n根据微软公告内容，在启用“管理员保护”的 Windows 11 设备上，非管理员用户尝试使用远程桌面连接到这些充当主机的设备时，连接可能会失败。系统通常会弹出 0xC000000D 错误代码，并显示“传递给函数的令牌无效（The token that was passed to the function is invalid）”的提示信息。\n\n由于许多企业的组策略和安全基准已默认开启了该项保护，这直接影响大量企业用户的日常远程办公与运维。微软官方目前已将该问题标记为“已缓解（Mitigated）”状态，并正在加紧制定永久性的修复补丁。\n\n作为临时解决方案，微软建议 IT 管理员可以通过现有的策略管理工具，暂时关闭“管理员保护”功能（例如在 Microsoft Intune 或组策略中重置“用户账户控制：管理员批准模式”策略），以恢复非管理员用户的远程连接权限。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-15T04:46:06.263Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

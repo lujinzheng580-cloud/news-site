@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "777e4d7a5716",
+    "title": "苹果首款智能家居中枢 HomeView 自带温 / 湿度传感器，能与 LG / 施耐德恒温器同步环境数据",
+    "url": "https://www.ithome.com/1/013/265.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/013/265.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 15 日消息，科技媒体 MacRumors 今天（10 月 15 日）发布博文，报道称苹果首款智能家居中枢 HomeView 内置温度和湿度传感器，可以监测室内状况，并将读数共享给 LG 电子和施耐德电气的新型恒温器。\n\n根据苹果官方补充说明，HomeView 能够实时监测室内的温度和湿度变化，联动“苹果智能家居收藏系列”（Apple Home Collection）相关配件，同步家庭环境数据。\n\nHomeView 还可以借助 iPhone 的端侧 AI 算力，启动“自适应温度”（Adaptive Temperature）功能，根据家中是否有人、夜间作息等场景，全自动调整全屋的空调与新风系统，省去了传统智能家居繁琐的定时设置。\n\n温度和湿度传感功能针对室内家庭环境优化，环境温度约为 15℃ 至 30℃，相对湿度约为 30% 至 70%。在长时间高音量播放音频的情况下，精度可能会降低。启动后需要一些时间校准传感器，之后才能显示结果。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-15T04:46:06.261Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

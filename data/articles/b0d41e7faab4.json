@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b0d41e7faab4",
+    "title": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口",
+    "url": "https://www.ithome.com/1/013/268.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/013/268.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 15 日消息，阶跃今天正式释放 Step5Preview 权重。本次开放：BF16 与 FP8 模型权重、技术博客、配套开源开发工具。\n\n据官方介绍，Step 5 Preview 面向长程 Agent 任务而设计，采用稀疏 MoE 架构，总参数量 600B、每 token 激活参数仅 27B，支持 100 万 token 上下文窗口，原生支持文本与视觉输入，在 AI 编程、软件工程、专业知识工作和金融等场景表现突出。近期，Step 5 Preview 在 OpenRouter 周调用量、日调用量榜单中均位居全球第二。\n\n目前，模型权重已上线 Hugging Face 和 ModelScope，并提供面向多种芯片平台和推理框架的适配支持。开发者可以通过 vLLM 或 SGLang 部署兼容 OpenAI 接口的 API 服务，也可以使用 Transformers 进行离线推理，将模型接入自己的数据、工具和系统，构建智能体、应用、工作流与服务。\n\nIT之家注意到，官方同步公开的技术博客，介绍了 Step 5 Preview 如何通过架构与训练的协同优化，支持更长、更复杂的 Agent 任务。关键设计包括：\n\n92 层窄深架构：为隐式多跳推理提供更深的计算路径，同时控制参数规模与计算成本。\n\nSparse GQA：通过块级索引与稀疏计算合并，降低百万 token 上下文的计算开销。其中，8 token 块级索引可将索引与 top-k 选择开销降至原来的 1/8。\n\n更稳定的训练：在关键状态与参数上保留 FP32 精度，结合细粒度梯度裁剪，缓解深层网络中的激活异常增长与梯度尖峰。\n\n百万级可验证环境：覆盖软件工程、科学推理、机器学习研发和专业知识工作，并持续校准任务难度、多样性与评估可靠性。\n\n面向长程任务的强化学习：将上下文压缩纳入端到端策略训练，让 Agent 学习整理任务状态、继续执行；结合更精细的奖励归因，提升长轨迹的学习效果。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-15T04:46:06.261Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

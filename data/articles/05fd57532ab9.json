@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "05fd57532ab9",
+    "title": "DeepSeek崩了",
+    "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
+    "source": "baidu",
+    "sourceId": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
+    "category": "general",
+    "summary": "10月15日，北京时间早上8点后，DeepSeek网页和APP显示“服务器暂时不可用”。 DeepSeek官方信息显示对话服务部分中断、DeepSeekV4.1 FlashAPI服务部分中断，网页/API性能下降，官方正在排查问题、定位原因。",
+    "content": "10月15日，北京时间早上8点后，DeepSeek网页和APP显示“服务器暂时不可用”。 DeepSeek官方信息显示对话服务部分中断、DeepSeekV4.1 FlashAPI服务部分中断，网页/API性能下降，官方正在排查问题、定位原因。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-15T04:46:07.200Z",
+    "tags": "[\"baidu\"]",
+    "viewCount": 0
+  }
+}
