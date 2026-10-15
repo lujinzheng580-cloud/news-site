@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "bc9059031843",
+    "title": "Ubuntu 26.10 正式发布：搭载 GNOME 51 与 Linux 7.3，Rust 核心工具迁移完成",
+    "url": "https://www.ithome.com/1/013/633.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/013/633.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 15 日消息，Canonical 今晚正式发布 Ubuntu 26.10，代号“Stonking Stingray”。作为 Ubuntu 26.04 LTS 之后的过渡版本，该版本将获得 9 个月支持，持续至 2027 年 7 月。\n\n据 Canonical 官方新闻稿，Ubuntu 26.10 完成了 Rust 版核心工具的全面迁移，默认命令行工具已 100% 运行在基于 Rust 的 uutils 实现之上。此前因兼容性问题被保留的最后三个 GNU 命令 ——cp、mv 和 rm，已在本次发布中完成切换。这标志着 Canonical 自 Ubuntu 25.10 启动的 Rust 核心工具过渡正式收官，其目标是在不改变用户使用习惯的前提下，提升基础系统组件的内存安全性。\n\n桌面环境方面，Ubuntu 26.10 搭载 GNOME 51。新桌面在动画流畅度和交互响应上有所提升，显示器亮度设置现在可在重启和 HDR 切换后保持，多显示器排列的居中贴靠功能得到改进。设置应用新增了自动屏幕旋转选项，并支持在连接外接鼠标时自动禁用触控板。文件应用改进了多选拖拽时的计数显示和通知分组，日历在月视图下的响应速度更快。文档查看器 Papers 新增了为 PDF 添加可视化签名的功能，需注意该签名属于注释性质，不具备加密验证能力。另一个值得关注的变更是 GNOME 51 在设置中移除了对 WEP 无线加密标准的支持，这一过时且不安全的协议不再出现在网络配置选项中。\n\n内核与图形栈方面，Ubuntu 26.10 搭载 Linux 7.3。由于上游 7.3 的最终版本在发布时尚未就绪，首发镜像中的内核基于 7.3-rc6 构建。图形栈更新至 Mesa 26.2，改善了对现代 GPU 的支持并扩展了 Vulkan 能力。硬件兼容性新增了对高通 Snapdragon X Elite 和 X2 Elite 笔记本的初步支持，同时为部分 Snapdragon X Elite 机型的内置摄像头提供了驱动支持。此外，Ubuntu 26.10 首次提供了 RISC-V 桌面镜像，支持 SpacemiT K3 和 SiFive BigSky 平台。\n\n应用管理方面，Ubuntu 的 App Center 现在使用统一的详情页面展示 Snap 和 DEB 包的信息，将发布者、评分、权限、版本、包大小、截图和描述集中呈现。App Center 还新增了独立的驱动管理页面，用户可以在其中查看和选择可用的 NVIDIA 驱动分支，无需借助单独的配置工具。系统现在还能在需要时为播放多媒体文件安装缺失的编解码器，部分专有编解码器仍不在默认安装范围内。\n\nUbuntu 26.10 引入了名为 Myna 的实验性语音转文字工具预览版。用户可以按住可配置的快捷键，在焦点应用中进行听写。Myna 的转写完全在本地运行，录音不会发送到网络服务。该工具目前并未预装，Canonical 表示其功能在稳定版发布前仍可能调整。\n\n安全层面的更新同样显著。Ubuntu 26.10 采用 OpenSSL 4，新增对加密客户端问候（ECH）的支持，扩展了 QUIC 功能，并在后量子密码学方面有所推进。基于 Rust 的 Sequoia PGP 实现已进入 Ubuntu 主仓库，但传统 GnuPG 工具仍然可用。TPM 支持的完整磁盘加密（FDE）现在可以在没有硬件信任根的设备上安装，前提是同时在 TPM 密钥上设置 PIN 或密码短语。此外，Canonical 在企业身份集成方面支持了 Microsoft Entra ID 的密码和多因素认证登录，用户可以在桌面、终端、SSH 会话以及 Polkit 对话框中通过 Microsoft Authenticator 或一次性验证码完成认证。\n\nUbuntu 26.10 的桌面和服务器安装镜像已在官方服务器开放下载。对于优先考虑稳定性和长期维护的用户，Canonical 仍建议继续使用 Ubuntu 26.04 LTS。\n\nIT之家附官网地址：https://ubuntu.com/download/desktop\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-15T14:27:31.906Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
