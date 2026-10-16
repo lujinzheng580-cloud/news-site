@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c46fa42826c2",
+    "title": "索尼撤回对 Xperia 10 VI 的系统更新承诺，原定三次大版本更新改为两次",
+    "url": "https://www.ithome.com/1/014/132.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/132.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 16 日消息，索尼昨日在官网发布公告，确认 Xperia 10 VI 将不会获得 Android 17 更新。索尼承认这一决定与最初的承诺不符，并向用户致歉。\n\n索尼表示，该机型在发布时曾承诺提供三次 Android 系统大版本更新，但经过详细技术评估后，由于设备存储配置的限制，Xperia 10 VI 无法支持符合索尼标准的 Android 17 升级体验，因此决定不提供此次更新。\n\n索尼于上月开始向旗舰机型 Xperia 1 VIII 推送 Android 17，同时公布了一份符合条件的机型列表，Xperia 10 VI 并不在其中，这引发了外界对该机型更新计划的疑虑。\n\nTI 之家注：Xperia 10 VI 于 2024 年发布，搭载高通骁龙 6 Gen 1 芯片，配备 8GB 内存和 128GB 存储，出厂预装 Android 14。按照索尼的更新计划，该机已于 2025 年 2 月升级至 Android 15，2025 年 10 月升级至 Android 16，Android 17 本应是其最后一次大版本更新。\n\nAndroid Authority 指出，索尼提到的“存储配置限制”具体指向何种技术问题尚不明确，索尼从未说明该机采用的是 UFS 2.2 还是其他类型的存储。不过，获得 Android 17 更新的 Xperia 10 VII 同样配备 128GB 存储，而其他厂商搭载 UFS 2.2 存储的多款设备也将推送 Android 17 更新。\n\n索尼在公告中强调，该问题仅涉及 Xperia 10 VI 的技术规格，不会影响其他 Xperia 机型。安全更新承诺保持不变，索尼将继续为 Xperia 10 VI 提供自产品发布之日起四年的安全更新。按此计算，安全更新将持续至 2028 年 5 月。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-16T14:09:26.466Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "39941d038240",
+    "title": "腾讯混元记忆框架 Hy Memory 2.0 发布开源，专用模型性能超 Opus5",
+    "url": "https://www.ithome.com/1/014/108.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/108.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 16 日消息，腾讯混元官方今日宣布推出智能体记忆框架 Hy Memory 2.0 版本，并开源专用模型、记忆框架和 MemHub 应用三层能力。\n\nHy Memory 2.0 三层能力既能独立使用，也能组合成一套完整的 Memory 解决方案。目前 Hy Memory 已在腾讯内部金融、资讯、知识管理、办公 Agent、社交娱乐和游戏等领域的多个业务中使用。\n\n据腾讯介绍，Hy Memory 2.0 的框架层负责聊天、工作、代码三类记忆的存储、更新与进化，开发者可通过 SDK 将其接入 Agent。\n\n腾讯方面表示，该框架是业界首个提出工作记忆与代码记忆的记忆框架。在聊天、工作、代码三类场景的 4 个 Benchmark 上，Hy Memory 对比 Mem0、MemOS、EverOS、OpenViking、RepoMemory 和 Simple RAG 等开源框架均取得第一。具体而言，工作记忆在 MemoryArena 的旅行规划与组合购物任务上平均分 55.31%，领先次优的 EverOS 10.2 个百分点；代码记忆在 CodeMemoryBench 上代码问答准确率 64.2%、代码任务解决率 35.6%，在 SWE-ContextBench 上代码任务解决率 28.3%，高于 MemOS 和 Mem0 的 25.3%；聊天记忆在 LoCoMo 上准确率 72.6%，高于 EverOS 的 71.9%，同时每题使用的 Token 从 1,159 降至 703，减少 39.3%。\n\n聊天记忆方面，Hy Memory 2.0 从零散事实升级为完整事件脉络，能够将跨时间、跨对话的分散内容以事件为主体梳理出时间、地点、人物等关键要素。遇到需要结合多条线索回答的问题时，Hy Memory 会先合并重复信息、剥离前后冲突，再将清晰记忆交给模型。工作记忆与代码记忆为 2.0 版本新增能力，使用多个维度记忆一项任务，按时间规整所有信息更新，包含任务目标、已确定的做法和阶段结果，以及可复用的经验与适用条件。复用经验时，Hy Memory 会先判断当前是否符合该经验的适用条件，仅在符合时精准采取对应经验作为辅助。针对长程任务，每次继续开启任务前，Hy Memory 会先判断当前在处理哪一件事，再找回相关决定、仍然适用的经验以及历史工作过程。\n\n模型层面，Hy-Memory-30A3B 专为记忆场景训练，约 3B 激活参数。据 arXiv 论文信息，该模型在 Mem0、MemOS 和 Hy-Memory 三套框架上训练，在固定 20% 基准子样本的四套评测框架上均排名第一，宏观平均得分 55.49%，高于 Claude Opus 5 的 54.62%。\n\n在接入 Hy Memory、Mem0、MemOS、EverMemOS 四套记忆系统测试中，Hy-Memory-30A3B 得分 55.49，高于 Opus5 的 54.62、DeepSeek V4.1 Flash 的 53.64，以及 Qwen3-30B-A3B 的 44.37。\n\n应用层面，MemHub 是本地记忆管理应用，提供 CLI 和 Mac 端 APP 两种使用方式。用户授权关联应用后，MemHub 可导入各工具的历史会话，并通过内置的 Hy Memory SDK 沉淀为本地记忆，此后各工具产生的新会话可实时同步汇入同一份记忆。\n\nMemHub 支持以插件形式一键接入 AI 工具，用户在任一已关联工具内发起任务，MemHub 均可管理和使用相关记忆作为上下文补充。目前覆盖 WorkBuddy、Cursor、Codex、Pi、Qwen Code、Hermes、DeepSeek Harness 和 OpenCode 等 10 种 AI 工具，涵盖商业编程工具与开源 Agent。\n\n目前，Hy Memory SDK 与 MemHub 已在 GitHub 开源，Hy-Memory-30B-A3B 模型权重已在 Hugging Face 发布。\n\n腾讯混元表示，将继续和更多业务深度协同，在真实场景中打磨记忆能力，让 Agent 在更长的任务、更多的工具之间保持连续。\n\nHy Memory SDK&MemHub：https://github.com/Tencent-Hunyuan/Hy-Memory\n\nHy-Memory-30B-A3B 模型权重下载：https://huggingface.co/tencent/Hy-Memory-30B-A3B\n\n《腾讯混元发布 Hy-Memory：打造记忆力超强的 Agent 第二大脑》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-16T14:09:26.467Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
