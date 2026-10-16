@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "832ffebf9cb0",
+    "title": "消息称 DeepSeek 将 Harness、Web、App、Platform 团队整合成立“产品部”",
+    "url": "https://www.ithome.com/1/013/970.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/013/970.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 16 日消息，据澎湃新闻今日报道，有消息称 DeepSeek 最近将 Harness 团队以及 Web、App、Platform 团队整合成“产品部”，负责公司的所有的产品、设计和研发工作，崔添翼任产品部负责人。\n\n10 月 16 日，崔添翼向澎湃新闻表示，该消息属实。\n\n公开资料显示，DeepSeek 的 Agent Harness 团队组建于今年 3 月，负责人崔添翼毕业于浙大计算机专业，拥有 6 枚 ACM 亚洲区域赛金牌，曾在顶级量化机构 JaneStreet 任职九年，今年 3 月加入 DeepSeek。\n\n据IT之家此前报道，DeepSeek Harness 桌面端 v0.2 预览版于 9 月 29 日正式发布，并提供开箱即用的 macOS 和 Windows 桌面端安装包，已上线 DeepSeek 官网。\n\nDeepSeek Harness（简称 dsh）是由 DeepSeek 于 2026 年 8 月开源的一款智能体（Agent）运行时框架，采用 MIT 许可证，以 TypeScript 编写。\n\nDeepSeek Harness 最突出的特点是“一切皆插件”（Everything is a Plugin），包括模型、工具、技能、会话、沙箱、存储、智能体循环、调度、UI 等，所有 Agent 能力都通过底层插件系统 Cordis 以插件形式提供。\n\n《DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-16T09:19:52.282Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
