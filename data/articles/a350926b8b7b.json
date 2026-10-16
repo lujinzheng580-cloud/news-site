@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 16 日消息，Windows Latest 今日报道称，微软正在测试一款代号为“Project Odeon”的应用。该应用通过微软商店分发，采用与 Windows 11 系统“设置”几乎相同的界面和图标。\n\n据 Windows Latest 实测，这款应用暂时不会取代“设置”，而是可以与其并行运行。微软尚未正式公布该项目，也没有确认是否计划面向公众发布。\n\n目前，Project Odeon 在微软商店中被标记为“Preview”（预览版），发布者为 Microsoft Corporation，版本号为 1.0.9.0。该应用要求 Windows 11 版本号为 26100 或更高的系统，并且在测试中需要启用开发模式才能安装。\n\nWindows Latest 在运行 Build 26340.9616 的 Hyper-V 虚拟机中进行了测试。结果显示，Project Odeon 能够读取电脑名称、网络状态和待安装的 Windows 更新等信息，但部分数据与系统原有的“设置”应用不一致。\n\n例如，在“关于”页面中，Project Odeon 显示存储容量为 125.9GB，而系统原有的“设置”显示容量为 381GB，其中已使用 68GB。另外，该应用还存在部分页面未完成、链接不可用等问题。\n\n这款应用还内置了隐藏的预览模式。通过启动参数 --preview 可进入包含虚拟账户、模拟硬件信息、示例设置和六张虚拟壁纸的测试环境。该模式下的一切都是假的，随意更改也不会影响 Windows 实际设置。\n\n其主页会显示一个名为“Microsoft Dev Box AMD 16vCPU/64GB/2048GB”的设备，名为“Enterprise-Preview-PC”；设备信息卡列出了一个 64 核 AMD EPYC 7763 处理器、64GB 内存和 build 26694.5000 的配置；而“关于”页面则切显示为一个“Preview 8-core” 处理器和 32GB 内存的配置。甚至连 Windows 信息部分也被标记为“预览设备”。\n\n从安装包文件来看，Project Odeon 还包含多个辅助程序，涉及账户管理、打印机设置、电脑重命名、时区调整、启动应用管理和卸载更新等功能。Windows Latest 据此推测，微软可能正在尝试将部分系统设置界面与底层操作拆分，使应用通过独立的辅助组件执行需要更高权限的任务。\n\n目前，微软尚未公布 Project Odeon 的正式用途、公开发布时间，也没有确认它会取代现有“设置”应用或加速控制面板退役。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-16T18:06:12.058Z",
+    "publishedAt": "2026-10-16T21:14:37.254Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
