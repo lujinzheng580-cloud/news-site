@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e9117a6ccbd7",
+    "title": "微软完成 SOTA 基模 MAI-Base-2 预训练，性能强于所有参测开源权重模型",
+    "url": "https://www.ithome.com/1/013/835.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/013/835.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 16 日消息，Microsoft（微软）当地时间昨日宣布，其已经完成了新一代 SOTA 基础模型 MAI-Base-2 的预训练工作。这一模型在性能方面强于所有参测开源权重模型。\n\nMAI-Base-2 总参数规模达 2.8T，活跃参数规模 80B，在 6,000 个 NVIDIA GB200 GPU 上历经 38 天训练而成。在整个训练过程中，该模型平均浮点算力利用率为 21%、有效吞吐量为 89%。\n\n根据微软的说法，MAI-Base-2 的预训练算力效率是 DeepSeek-V4-Pro-Base 的 4~12 倍。\n\n微软表示，三项举措对于 MAI-Base-2 的成功预训练尤为重要：科学规模化、模型-基础设施协同设计、数据规模化。在完善 MAI-Base-2 的同时，这家科技巨头已启动 MAI-Base-3 的准备工作。\n\n《在 OpenAI 擅长的领域打败 OpenAI：微软称自研模型仅凭对方 1/4 算力就超越同类产品》\n\nhttps://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-16T04:41:36.258Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
