@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "fd8473e8c221",
+    "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
+    "url": "https://www.ithome.com/1/014/407.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/407.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，英伟达个人计算业务高级副总裁 Jeff Fisher 昨日在台北出席 RTX Spark 相关活动时回应了 RTX 5090 停产相关传闻，明确表示相关消息不属实。\n\n他强调，这款显卡仍是英伟达非常重要的核心产品，后续将继续供货。但他也同时承认，当前供应链产能确实受到限制，英伟达正努力推动产品进入市场。\n\n此前，消息人士 MEGAsizeGPU (@Zed__Wang)  10 月 10 日爆料称，英伟达将不再向 GeForce RTX 50 系列游戏显卡分配 GB202，并将原本用于该卡的 GB202 芯片转向 RTX PRO 专业卡。\n\n相关传闻还提到，英伟达可能推出配备 24GB 显存的 RTX 5080，以填补高端游戏显卡市场的产品空缺。不过，这些说法当时并未获得英伟达官方证实。\n\n近日，RTX 5090 的市场供应状况也加剧了外界猜测。Tom's Hardware 此前报道称，美国零售商 Micro Center 已将该显卡标记为“不再销售”（Not Carried），部分零售渠道的相关产品也出现缺货情况。但显卡在零售渠道难以买到，并不等同于厂商已经正式宣布停产。\n\nFisher 还强调了游戏业务对英伟达的重要性。他表示，如果没有游戏业务和 GeForce，就不会有今天的英伟达；GeForce 推动了 CUDA 的发展，而 CUDA 相关的计算能力也为当前 AI 市场的发展奠定了基础。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T17:17:50.776Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
