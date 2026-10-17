@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d4ea0ebbe75a",
+    "title": "Linux 内核爆出 9.3 分超高危漏洞，可“越狱”虚拟机攻击宿主机",
+    "url": "https://www.ithome.com/1/014/222.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/222.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，Debian 在最新安全公告中，披露存在于 Linux 内核的“关键”（Critical）漏洞，CVSS 3.1 评分高达 9.3 分，攻击者可利用 IPv4 校验和元数据校验缺陷，从虚拟机客户机突破隔离边界，影响宿主机。\n\n根源方面，该漏洞追踪编号为 CVE-2026-99999，问题源于 Linux 网络栈对延迟校验和处理不当：当带有异常 checksum_start 元数据的数据包进入 IPv4 处理流程后，skb_checksum_help () 可能在内核已经解析并信任 IPv4 头之后，改写其中的关键字段。\n\n研究人员称，攻击者可借此使内核将原本 20 字节的 IPv4 头误判为 60 字节，进而读取逻辑数据包之外的宿主机内存，并在受控实验环境中实现进一步写入与宿主机代码执行。\n\n影响方面，该漏洞并非 KVM 本身的缺陷，而是宿主机 Linux 网络栈的问题；但在 KVM 等虚拟化环境中，恶意客户机可能借此攻击宿主机，因此对云厂商、多租户沙箱和虚拟化平台风险尤其突出。\n\n修复方面，上游修复补丁为 6785011f8b16，标题为“ipv4: validate checksum_start before completing checksum”，已在 Linux 6.12.113、6.18.57、7.2.11 及 7.3-rc7 等版本中修复。\n\n对于用户而言，运行 Linux 虚拟化、云主机或容器沙箱的机构应尽快升级内核至已修复版本，尤其是 Debian、Ubuntu、RHEL 及各类公有云镜像用户。\n\nPwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T01:35:41.758Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
