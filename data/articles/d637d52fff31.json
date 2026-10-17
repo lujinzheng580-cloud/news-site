@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d637d52fff31",
+    "title": "Win11 首个原生支持“锁定隐私浏览”的浏览器：Firefox 可自动上锁隐私窗口",
+    "url": "https://www.ithome.com/1/014/238.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/238.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，报道称 Mozilla 正在为火狐 Firefox 桌面版浏览器开发一项“锁定隐私浏览窗口”功能，支持用户锁定“隐私浏览”窗口，防止他人在电脑无人看管时查看浏览内容。\n\n功能描述方面，当 Windows、macOS 等桌面系统进入睡眠状态、启动屏幕保护程序或用户注销后，Firefox 将自动锁定隐私浏览窗口；重新打开后，用户需要通过 Touch ID、Face ID 或 PIN / 密码等操作系统级身份验证方式解锁。\n\nIT之家援引博文介绍，该功能主要补足隐私浏览模式的一个常见漏洞，传统隐私模式虽然不会在会话结束后保存浏览历史，但如果用户忘记关闭窗口，任何能接触到电脑的人都可能直接查看页面、标签页或登录状态。锁定机制相当于为隐私窗口增加一道“二次门锁”。\n\n安卓版 Firefox 浏览器目前已提供类似功能，用户可用生物识别或 PIN 锁定隐私标签页，并在切换回隐私标签时要求验证。不过，Firefox 并非首个实现该能力的桌面浏览器，Safari 已在 Mac 上支持锁定隐私浏览。但若功能如期推出，Firefox 可能成为首个在 Windows 上原生提供该功能的主流浏览器，Chrome、Edge 和 Opera 目前只能借助第三方扩展程序来实现此功能。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T06:15:32.203Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "91aa494d8620",
+    "title": "JetBrains 的本地 AI 编程工具 Junie Local 已 Day 0 适配英伟达 RTX Spark：吞吐最高每秒 55 个词元",
+    "url": "https://www.ithome.com/1/014/242.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/242.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，JetBrains 昨日（10 月 16 日）发布公告，宣布旗下本地 AI 编程工具 Junie Local 已 Day 0 适配英伟达 RTX Spark 平台，同时对于 Windows 系统的支持已由实验阶段升级为稳定版。\n\nIT之家援引博文介绍，用户可在符合要求的电脑上，让 AI 读取代码、修改文件并运行测试。官方表示，工具无需注册或订阅，不收取词元（Token）费用，也不设使用配额，相关代码不必上传云端。\n\n在性能方面，JetBrains 称，Junie Local 在英伟达 RTX Spark 平台上的初步测试中，生成速度最高可达每秒 55 个词元。\n\n在硬件要求方面，JetBrains 扩大了硬件选择，除 RTX Spark 设备外，搭载至少 24GB 显存、采用 Ampere 或更新架构 RTX 显卡的电脑也可运行，包括 RTX 3090、4090 及 32GB 显存的 5090。系统需使用对应架构的 Windows 11，安装 581 或更新版本的英伟达驱动，并预留约 20GB 磁盘空间。\n\n新版安装程序可自动检查显卡与驱动、部署模型，并按可用 GPU 内存调整上下文容量，让 AI 尽可能保留更多代码和对话记录。用户可选择 Qwen3.6-27B 或 JetBrains 提供的融合模型。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T06:15:32.202Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

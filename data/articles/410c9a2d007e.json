@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "410c9a2d007e",
+    "title": "Win11 用户还能再用 3 年：微软老牌虚拟化组件 App-V Server 扩展支持至 2029 年",
+    "url": "https://www.ithome.com/1/014/258.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/258.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，报道称微软扩展支持 App-V Server（微软应用虚拟化服务器），支持期限延长至 2029 年 10 月 9 日。\n\nIT之家注：App-V 是微软于 2008 年通过 Microsoft Desktop Optimization Pack（MDOP）推出的应用虚拟化技术，其前身来自微软收购的 Softricity 公司及其 SoftGrid 产品。\n\n功能方面，App-V Server 主要将 Win32 应用以“流式”方式集中分发到用户设备，无需在每台电脑上完成完整本地安装；企业曾广泛用它来简化软件部署、降低终端管理负担。\n\n微软原本计划于 2026 年 4 月停止支持，此次延长支持并不代表 App-V Server 恢复功能开发。微软明确表示，该产品不会获得新增功能或功能性改动，扩展支持主要是在必要时提供安全补丁。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T06:15:32.199Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
