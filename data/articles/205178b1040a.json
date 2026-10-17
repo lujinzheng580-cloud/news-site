@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 17 日消息，据外媒 Wccftech 报道，开发者 abhi245y 基于资深 AI 工程师 Mert Cobanov 的 PS5LM（llama.cpp 移植项目），开发了原生 GPU 应用 PS5LM Plus，让经过破解的 PS5 主机能够在本地运行 Qwen3.8-27B 等大型语言模型。\n\nIT之家获悉，PS5LM 的早期版本主要依靠 CPU 运行模型，执行 27B 参数模型时，平均每分钟只能生成约 1 个 token。为提升性能，开发者 abhi245y  移植了 Mesa 开源项目中的 AMD RADV 驱动，并通过 Vulkan 计算接口让 llama.cpp 能够作为原生应用在 PS5 上运行。这项改动将可用内存从约 6GB 提升至 11.4GB，使主机能够运行经过高度量化的 Qwen3.8-27B 模型。\n\n得益于 PS5 较高的内存带宽（448GB/s），Qwen3.8-27B 的生成速度可达每秒 20.9 个 token。测试期间，GPU 使用率达到 100%，CPU 使用率仅为 2%。对于规模更小的模型，PS5 还能实现更高的生成速度，例如 Gemma 4 E4B 约为每秒 61 个 token，Llama 3.2 3B 则达到每秒 124 个 token。\n\n除了利用 PS5 的 GPU 加速模型推理，PS5LM Plus 还内置网页聊天界面，并可通过局域网 8081 端口提供 API 服务，用户可通过同一网络中的其他设备访问页面，与本地运行的模型对话。该项目还兼容 OpenAI 和 Anthropic API，方便 opencode、Codex、Claude Code 等工具调用 PS5 上运行的模型。\n\n对于一台主要面向游戏设计的主机而言，PS5 能够充当本地 AI 服务器，为大模型推理提供 GPU 加速，展示了其硬件在游戏之外的应用潜力。不过，该机配备的 16GB RAM 统一内存仍然限制了模型的选择和运行质量。此外，运行原生版 llama.cpp 需要先对 PS5 进行越狱，可能会导致游戏机及 PSN 账号被封禁等风险。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-17T11:05:45.843Z",
+    "publishedAt": "2026-10-17T14:13:40.243Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

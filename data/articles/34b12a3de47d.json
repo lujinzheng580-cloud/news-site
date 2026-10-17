@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "34b12a3de47d",
+    "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
+    "url": "https://www.ithome.com/1/014/390.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/390.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，据 Wccftech 今日报道，华硕推出了旗下首款英特尔 Arc Pro B70 显卡，面向 AI 推理及工作站市场。华硕此前缺席了英特尔 Arc 独立显卡的多个世代，此次推出新品意味着其再次加入英特尔独立显卡产品阵营。\n\n华硕这款产品名为 UGen Intel Arc Pro B70 32GB GDDR6，采用英特尔 Xe2 架构的 Big Battlemage GPU，配备 32GB GDDR6 ECC 显存、32 个 Xe 核心和 256 个 XMX AI 引擎，INT8 AI 算力最高可达 367 TOPS，典型板卡功耗 310W。\n\n该卡采用双槽设计和涡轮式散热结构，配备 1 个 HDMI 接口和 3 个 DisplayPort 接口，使用 PCIe 5.0 x16 接口，显存带宽为 608GB/s。\n\n华硕表示，该卡支持 vLLM、llama.cpp、Ollama、PyTorch、OpenVINO、oneAPI 和 Vulkan 等 AI 框架及工具。用户还可以通过多卡配置扩展显存容量，最多支持 4 张显卡协同工作，合计提供 128GB 显存，以运行更大规模的 AI 模型。\n\n价格方面，华硕暂未在产品页面公布 UGen Intel Arc Pro B70 32GB 的具体售价。同类英特尔 Arc Pro B70 显卡的市场价格通常在 1,299 美元至 2,000 美元（IT之家注：现汇率约合 8,701 元至 13,397 元人民币）以上，具体价格取决于产品型号及销售渠道。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T14:13:40.240Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
