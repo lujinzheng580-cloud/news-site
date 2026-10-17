@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "5558798ecc1b",
+    "title": "DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真",
+    "url": "https://www.ithome.com/1/014/328.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/328.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型（API 调用方式与价格保持不变，仍使用 deepseek-flash 即可访问最新模型）。\n\n据深度求索官方介绍，此次更新在性能与成本之间实现了帕累托改进：在各项基准测试中，新版本的模型能力较上一版 V4.1 Flash 有明显提升，同时任务运行时间与输出长度均有缩短，使单次调用的综合成本下降。\n\nHLE (w/o tools): 42.6 (44.0)\n\nTerminal-Bench 4.0: 42.3\n\nAutomation-Bench v1.0.6: 60.5\n\nAgents' Last Exam: 35.4\n\nApex Bench v1.1: 72.1\n\nChartography (w/tools): 83.0\n\nBabyVision (w/tools): 92.5\n\nZeroBench-main (w/tools): 51.0\n\nDeepSeek 表示，新模型在提升性能的同时，还缩短了模型的任务运行时间与输出长度，让用户能够以更低成本、更快速度完成任务，在多个 Harness 下达到新的性能-费用帕累托最优。\n\n另外，DeepSeek 特别针对 DeepSeek Harness、腾讯 CodeBuddy、WorkBuddy 等平台做了适配优化，建议用户将 DeepSeek Harness 升级至 0.2.1-rc.1 或更高版本以获取完整适配。\n\n在能力维度上，V4.1-Flash-1017 引入了一项值得注意的变化：通过基于自反馈的强化学习训练，模型在从零构建完整项目方面的能力得到增强，覆盖游戏开发、3D 建模等场景。\n\n官方称这一改进使模型能够承接更多“许愿式”编程请求，即在提示词和素材参考极为有限的条件下直接生成可运行的项目成果。官方演示案例显示，在 DeepSeek Harness 环境中，新版本以极短的交互轮次完成了完整项目的搭建。\n\n同时，DeepSeek V4.1-Flash-1017 的模型权重已同步开放下载。DeepSeek 在 HuggingFace 和 ModelScope 上均提供了权重文件，延续了 V4.1 Flash 以 MIT 许可证开源的策略。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T11:05:45.850Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

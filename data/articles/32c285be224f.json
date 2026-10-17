@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "32c285be224f",
+    "title": "Anthropic 宣布 10 月 29 日从模型选项中移除 Claude Haiku 4.5",
+    "url": "https://www.ithome.com/1/014/312.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/312.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 17 日消息，Anthropic 于当地时间 10 月 15 日宣布，自 2026 年 10 月 29 日起，Claude Haiku 4.5 将从 Free、Pro 和 Max 套餐的模型选择器中移除，覆盖网页端、桌面端和移动端的常规聊天，以及 Claude Cowork 和 Claude Design 功能。\n\n在 10 月 29 日之前，用户仍可在模型选择器的“More models”选项中选用 Haiku 4.5；到期后该条目将从列表中消失，若用户当前选中的正是 Haiku 4.5，Claude 会自动将其切换至 Haiku 5.5。\n\n此次调整不影响 Haiku 4.5 在 Claude Code、Team 与 Enterprise 套餐以及 Claude Platform（API）中的可用性。Team 和 Enterprise 套餐及通过 Anthropic API 使用 Haiku 4.5 的开发者均不受此变更波及。\n\n对于用户已有的 Haiku 4.5 对话，Anthropic 明确不会删除任何内容。10 月 29 日之后重新打开这些对话并继续输入时，回复将由 Haiku 5.5 继续生成，用户仍可在对话中随时切换至其他模型。若需保留聊天副本，可随时通过 Claude 的数据导出功能获取。\n\nIT之家此前报道，Haiku 5.5 于 2026 年 10 月 7 日正式发布，是 Haiku 系列首个支持可设置思考程度的模型，上下文窗口扩展至 100 万 tokens，最大输出提升至 128K tokens，在编码和智能体任务上的表现较 Haiku 4.5 有明显改进。\n\n价格方面，Anthropic 称 Haiku 5.5 的平均运行成本较 Haiku 4.5 下降约 75%；对于不超过 10 万 tokens 的提示，成本降幅可达 90%，而 Haiku 系列此前约 90% 的请求都落在这一长度区间内。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-17T11:05:45.853Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
