@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "15b8f6a75686",
+    "title": "Win11 为何仍保留 MS-DOS 时代的文件名？微软解释：数十年兼容性包袱难以摆脱",
+    "url": "https://www.ithome.com/1/014/601.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/601.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 18 日消息，据科技媒体 Windows Latest 今天报道，Win11 26H2 是微软今年最新的操作系统，但其中的部分核心文件，如 kernel32.dll、user32.dll 和 ntoskrnl.exe 等，看起来像是为 MS-DOS 编写的。这些文件遵循 8.3 旧命名规范，微软至今保留是为了兼容性。\n\n据报道，8.3 是 MS-DOS 时代使用的文件命名规则：文件名在句号前最多只能有 8 个字符，句号后最多 3 个字符。且所有文件名只能使用 ASCII 字符，不能包含空格，也不允许出现多个句号。System32 文件夹里，一些最古老的文件仍然遵循这些规则，而 Windows 安全中心等新组件就没有这种包袱。\n\n同时，MS-DOS 会以大写形式显示文件名，因此 Windows 处理文件时默认不分大小写，kernel32.dll 和 KERNEL32.DLL 实际上指的是同一个东西。\n\n至于限制为什么是 8 个字符和 3 个字符，微软资深员工 Raymond Chen 称这是 CP/M 沿袭的规则。不过他本人并不知道 CP/M 为什么选中这两个数字。毕竟 CP/M 的目录格式中有两个保留字节，理论上可以将文件名长度扩展至 10.3。\n\n此外 Raymond Chen 推测，微软数十年没有更改文件名的原因在于，假如程序是通过文件名与某个 DLL 建立链接，那么文件名变了的话，程序就找不到它了。\n\n到了 Windows 95 ，微软也没有要求系统驱动器必须支持长文件名，部分原因在于，使用漫游配置文件的企业可能依赖无法处理长文件名的服务器。直到 WinXP，长文件名才成为必需条件。\n\n哪怕到了 21 世纪之后，长文件名还是带来了历史包袱，Windows 可以为每个长文件名生成短文件别名，如果安装程序要将 shellstyle.dll 复制到一个已经存在 shellstuff.dll 的文件夹中，新文件很可能会被命名为 SHELLS~2.DLL。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-18T16:34:34.368Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
