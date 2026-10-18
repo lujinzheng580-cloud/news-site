@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "898416677177",
+    "title": "OpenCode 遭攻击：部分用户 OpenAI、Anthropic 等 API 密钥外泄",
+    "url": "https://www.ithome.com/1/014/434.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/434.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 18 日消息，OpenCode 宣布，昨晚（当地时间 10 月 16 日）发生了一起安全事件，涉及大规模“蒸馏攻击”，影响了 1.4% 的 OpenCode Console 用户。\n\n我们已于今天上午（当地时间 10 月 17 日）通过电子邮件通知了所有受影响用户。如果您未收到邮件，则说明您未受此事件影响；受影响的仅为关联了外部服务提供商的部分用户。\n\n由于事件仍在处理中，目前我们无法透露更多细节，但我们正与 Anthropic、OpenAI 和谷歌合作，共同采取补救措施。\n\n网友分享的邮件显示，OpenCode 称有人未经授权访问了该公司正处于停用流程中的一个旧系统。\n\n该公司提醒称，存储在用户工作区中的 API 密钥（如 OpenAI、Anthropic 的密钥）可能已经泄露。一旦有人获取了这些密钥，便可以账户持有者的名义发起请求，从而产生相关费用。\n\n在相关讨论中，多名用户反映出现了意料之外的费用支出。其中一位用户称，其 Anthropic 账户产生了 400 美元（IT之家注：现汇率约合 2,679 元人民币）的未经授权扣费；另一位用户则表示，其谷歌服务使用费用高达约 200 欧元（现汇率约合 1,505 元人民币），且项目因“过度滥用”已被暂停。\n\n此外，还有用户提到，在收到 OpenCode 关于此次安全事件的通知之前，他们就已经先收到了来自 OpenAI 和 Anthropic 的服务使用提醒。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-18T04:10:22.177Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
