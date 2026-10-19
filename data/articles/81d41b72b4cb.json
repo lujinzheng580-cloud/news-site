@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "81d41b72b4cb",
+    "title": "非主题 / 模拟器！网友成功让小米 Redmi Note 12 手机刷入 iOS 16 系统，项目同步开源",
+    "url": "https://www.ithome.com/1/014/838.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/838.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 19 日消息，据网友 Makr 分享，其成功将一部小米 Redmi Note 12 4G 手机刷入 iOS 16 系统。\n\n据称，这不是主题、启动器或模拟器，而是直接把苹果开源的 XNU 内核（苹果用于 Darwin 系统的混合内核）+ iPhone X 原版用户界面移植了过来。系统设置“关于本机”页面显示系统版本号为 iOS 16.7.16、机型为 iPhone X，触摸和音量键均能正常使用。\n\n作为参考，2023 年 3 月，小米举行了主题为“third time's a charm”发布活动，为海外用户带来了 Redmi Note 12 系列手机。此次面向海外用户发布的 Redmi Note 12 系列共有四款新机，分别为 Redmi Note 12（4G 版本）、Redmi Note 12 5G、Redmi Note 12 Pro 以及 Redmi Note 12 Pro+。\n\n其中，Redmi Note 12 配备 6.67 英寸 FHD+ 分辨率显示屏，支持 120Hz 刷新，搭载骁龙 685 移动平台和 5000mAh 电池，后置 5000 万像素主摄。Redmi Note 12 5G 与前者配置基本保持一致，仅在处理器方面更换成了骁龙 4 Gen1 移动平台。\n\n据IT之家此前报道，开发者 j0sh1x 在 10 月 7 日公布了一项复古硬件移植项目，展示了他在 HTC HD2 上成功运行 iOS 7 的成果，并公开了相关 XNU 内核及硬件支持代码。公开信息显示，该项目目前已经能够让 iOS 用户态组件在 HTC HD2 上运行，触摸屏也已实现工作。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-19T07:37:02.538Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f07b221946e9",
+    "title": "日本线上漫画平台“Renta!”通报遭黑客入侵，现已暂停服务",
+    "url": "https://www.ithome.com/1/014/827.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/014/827.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 19 日消息，据外媒 ITMedia 报道，日本线上漫画平台“Renta!”今天通报网站服务器遭黑客入侵，平台现已暂停服务，公司仍在调查本起黑客非法访问事件的具体情况及影响范围。\n\n外媒表示，除了“Renta!”外，近期 NTT Solmare 运营的电子书平台“Comic Seymour”于 10 月 16 日也通报宣布遭到非法访问，截至当前也仍未确定恢复时间。\n\n综合IT之家先前报道，日本近期黑客攻击事件频发，对此日本总务省下辖的情报通信研究机构 (NICT) 当指出，该国近期发生的一系列数据泄露事件至少部分与 “A2B”（应用到后端）攻击有关。\n\n这类攻击始于对公开 Android 应用程序的分析。恶意行为者从中了解到与之通信的服务器和 API，根据其特点对服务器进行针对性攻击。如果服务器存在漏洞，就可能导致个人信息或其它敏感数据泄露。\n\n该机构建议 Android 应用程序发布方以“确认入侵”“检查漏洞”“应用临时缓解措施”应对 \"A2B\" 攻击。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-19T07:37:02.540Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
