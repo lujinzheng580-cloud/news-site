@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ac51deb8f3bc",
+    "title": "超睿科技公布高性能 RISC-V 处理器核 UR-CP400：RVA23 合规，2027Q1 交付",
+    "url": "https://www.ithome.com/1/015/413.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/413.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 20 日消息，超睿科技 (UltraRISC) 在第六届 RISC-V 中国峰会 (RISC-V Summit China 2026) 上公布了高性能 RISC-V 处理器核 UR-CP400。这一 IP 计划于 2027 年第 1 季度交付。\n\n该内核 IP 符合 RVA23 规范，支持 RVV1.0 矢量扩展。其采用乱序 8 发射与 14 级流水线设计，在 FPGA 仿真配置下 SPECint_base2006 指标超过 22/GHz。\n\nIT之家了解到，UR-CP400 支持面向多层云环境的虚拟化增强，同时针对代理式人工智能进行了针对性的硬件设计优化。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-20T09:39:52.258Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

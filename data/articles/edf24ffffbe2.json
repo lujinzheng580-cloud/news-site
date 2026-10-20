@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "edf24ffffbe2",
+    "title": "X 平台调整推荐算法：更侧重用户停留时长和贴文完读率",
+    "url": "https://www.ithome.com/1/015/449.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/449.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 20 日消息，埃隆 · 马斯克今天宣布，X 平台主页“时间线”推荐算法迎来两项更新：引入全新 AI 排序模型，更准确地预测用户停留时长，算法将优先推荐完读率高的贴文。\n\n随后 AI 领域研究人士 Rohan Paul 解读道，本次改进之前，X 平台就将贴文完读率列为排序模型预测的用户行为指标之一，新模型主要是优化已有系统。\n\n同时，第二项改动发生在更靠前的检索阶段。该系统会将用户和每篇贴文转换为向量，再从用户未关注的账号中找出与其最接近的内容。用户关注账号发布的贴文则由另一套独立系统提供，因此该系统决定哪些陌生人的贴文可以进入时间线（IT之家注：Timeline;TL）。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-20T09:39:52.255Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
