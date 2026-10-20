@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a4558e9be117",
+    "title": "三星承认 One UI 9 更新存在 Bug：用 Good Lock 模块定制后状态栏图标“不听指挥”",
+    "url": "https://www.ithome.com/1/015/196.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/196.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 20 日消息，科技媒体 Android Authority 昨日（10 月 19 日）发布博文，报道称三星承认部分 Galaxy 手机升级 One UI 9 稳定版更新后，使用官方 Good Lock 的 QuickStar 模块自定义状态栏后，可能会出现图标异常情况。\n\nIT之家：Good Lock 是三星的个性化工具套件，而 QuickStar 是其中的一个功能模块，主要负责定制 Galaxy 手机的状态栏和下拉快捷设置面板。用户可以决定“屏幕顶部显示什么、时钟放在哪里，以及下拉菜单怎么用”等。\n\n根据部分用户反馈，在升级 One UI 9 稳定版后，使用 Good Lock 的 QuickStar 模块自定义状态栏后，系统图标会对错误的开关作出反应：例如开启“勿扰模式”后，原本消失的 Wi-Fi 图标意外恢复显示；而关闭网络指示器，Wi-Fi 图标反而消失。\n\n三星 Good Lock 支持团队已回应称，开发人员已确认该问题，涉及用户在某些情况下开启或关闭系统图标时的行为异常。修复方面，官方表示由于需要修改底层平台软件并经过进一步审查，三星目前无法给出具体发布时间。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-20T04:37:47.245Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
