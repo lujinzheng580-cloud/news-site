@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "dd05b3e3c6c1",
+    "title": "微软为 Windows Server 2025 引入快速计算机恢复功能，可通过 Windows Update 查找修复方案",
+    "url": "https://www.ithome.com/1/015/600.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/600.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 20 日消息，微软确认，安装 2026 年 10 月安全更新后，Windows Server 2025 正式支持快速计算机恢复（Quick machine recovery，QMR）功能。\n\n根据微软上周发布的更新说明，该功能可帮助服务器在遭遇严重启动故障时，通过 Windows 恢复环境（WinRE）从 Windows Update 查找并应用相应修复方案。\n\n快速计算机恢复主要面向因系统配置变更、驱动程序或更新问题等原因而无法正常启动的设备。启用该功能后，服务器可进入 WinRE 并联网搜索适用的修复方案，减少管理员手动介入的需求。IT之家提醒，恢复效果取决于微软是否提供了适用于相关故障的修复方案。\n\n该功能在 Windows Server 2025 中默认处于禁用状态。管理员需要通过组策略进行配置，可在“计算机配置 > 管理模板 > 系统 > 快速计算机恢复”路径下启用云修复和自动修复相关选项。\n\n微软建议管理员根据实际部署环境配置策略，并先在试点服务器上验证效果，再逐步扩大应用范围。\n\n微软表示，安装 2026 年 10 月安全更新或后续更新的 Windows Server 2025 版本均可使用该功能。此次更新不会自动改变服务器原有的默认恢复行为，管理员仍需主动启用相关配置。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-20T18:46:17.624Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
