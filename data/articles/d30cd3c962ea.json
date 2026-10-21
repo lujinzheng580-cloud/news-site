@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 21 日消息，开源 JavaScript 运行时环境 Node.js 今日针对 26.x、24.x 和 22.x 系列版本发布安全更新，修复 10 余个安全漏洞，包含 4 个高危漏洞。\n\n该漏洞影响 Node.js 26.x、24.x 和 22.x。\n\n感谢 hasanfleyah 的报告，并感谢 jasnell 修复该问题。\n\n该漏洞影响 Node.js 26.x 和 24.x。\n\n感谢 hasanfleyah 的报告，并感谢 jasnell 修复该问题。\n\n该漏洞影响 Node.js 26.x、24.x 和 22.x。\n\n感谢 anagnorisis2peripeteia 的报告，并感谢 mcollina 修复该问题。\n\nNode.js 存在一项缺陷，其 Brotli 解码器可能发生越界写入，从而导致远程代码执行。\n\n该漏洞影响 Node.js 26.x、24.x 和 22.x。\n\n感谢 mcollina 的报告，并感谢 aduh95 修复该问题。\n\n该漏洞影响 Node.js 26.x、24.x 和 22.x。\n\n感谢 hasanfleyah 报告此漏洞，并感谢 jasnell 修复该问题。\n\n该漏洞影响 Node.js 26.x、24.x 和 22.x。\n\n感谢 br41ny 报告此漏洞，并感谢 mcollina 修复该问题。\n\n该漏洞影响 Node.js 26.x、24.x 和 22.x。\n\n感谢 gesposito 报告此漏洞，并感谢 panva 修复该问题。\n\n感谢 startimeash 报告此漏洞，并感谢 mcollina 修复该问题。\n\n感谢 malikhamzaiqbal 报告此漏洞，并感谢 jasnell 修复该问题。\n\n该漏洞影响 Node.js 26.x、24.x 和 22.x。\n\n感谢 0xoroot 报告此漏洞，并感谢 RafaelGSS 修复该问题。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-21T15:34:23.922Z",
+    "publishedAt": "2026-10-21T19:40:26.157Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
