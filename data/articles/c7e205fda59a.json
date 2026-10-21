@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c7e205fda59a",
+    "title": "微软优化 Win11 文件管理器 OneDrive 右键菜单：统一 AI 访问入口",
+    "url": "https://www.ithome.com/1/015/696.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/696.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 21 日消息，在 MC1515940 公告中，微软宣布将于下月（2026 年 11 月）中旬开始，优化 Windows 11 文件管理器里的“OneDrive”右键菜单，调整部分 Copilot 关联的 AI 操作选项。\n\n科技媒体 NeoWin 指出，当前 Windows 11 用户在文件管理器中右键点击某个文件，在 OneDrive 的二级目录下会看到包括“摘要”、“创建常见问题解答”、“比较文件”、“提问”、“解释图像”、“比较图像”和“提取文本”等 Copilot 操作选项，但这些选项功能又和一级目录的“Ask Copilot”存在一些重叠。\n\n而根据公告内容，微软计划将这些 Copilot 操作统一收纳到“Ask Copilot”入口，但依然保留相关功能，用户仍然可以通过右键菜单中的“Ask Copilot”、鼠标悬停在项目上时出现的 Copilot 按钮，或者 OneDrive 活动中心中的 Copilot 操作来使用这些功能。IT之家附上相关图片如下：\n\n该媒体认为微软把原本分散在右键菜单中的多个 AI 动作，整合到更统一的 Copilot 入口，减少普通用户右键点击后跳出的选项数量，也让 AI 功能的使用路径更一致。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-21T05:21:51.708Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "055a1ed7e706",
+    "title": "微软升级 OneDrive，支持直接在线编辑 HTML 与 Markdown 文件",
+    "url": "https://www.ithome.com/1/015/792.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/792.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 21 日消息，在今天举办的 OneDrive + Copilot 主题活动中，微软宣布用户今后可以在 OneDrive 中直接编辑 HTML 和 Markdown 文件，而不必依赖本地编辑器或频繁切换工具。\n\n针对 HTML 文件，用户无需每次都回到源代码界面，OneDrive 支持在渲染后的页面上直接修改文字内容。系统还提供“源代码实时预览”并排显示模式，便于网页开发者和内容创作者同时查看代码与效果；需要展示成品时，也可切换至全屏模式。\n\nMarkdown 方面，OneDrive 新增所见即所得（WYSIWYG）编辑器，并配备常见富文本工具栏。用户可以像编辑普通文档一样调整格式，但文件保存后仍保持 Markdown 格式，方便继续用于技术文档、知识库或 AI 智能体指令。IT之家附上相关截图如下：\n\n微软展示了 Markdown 文件的实时共同编辑能力，多名用户可同时处理同一份文件。这一功能有望提升团队在文档、项目说明和 AI 提示词管理上的协作效率。\n\n微软还优化共享文档库的查找体验，共享库现在可出现在 OneDrive 搜索结果和文件选择器中，用户无需进入 SharePoint 或其他入口即可更快定位团队资料。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-21T05:21:51.701Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

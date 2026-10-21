@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f613bf83e89b",
+    "title": "消息称亚马逊 AWS 面临数据中心供电瓶颈，AI 算力机架无法按时启用",
+    "url": "https://www.ithome.com/1/015/702.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/702.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 21 日消息，外媒 Business Inside 北京时间本月 19 日报道称，亚马逊云科技 (AWS) 旗下部分数据中心面临供电能力瓶颈，导致订购的机架级 AI 算力系统无法按时启用。\n\nAWS 在今年 8 月预计，其每个月将收到价值 30 亿美元（IT之家注：现汇率约合 200.74 亿元人民币）左右的机架。知情人士透露，其中部分设备因供电不足只能暂时存放在临时仓库。AWS 正密切监控其数据中心供电进程，综合各种手段加速电力就绪。\n\nAWS 还调整了其“货到付款”的惯例，在供应链的早期阶段就取得机架的所有权。这有利于 AWS 确保算力资源的供应，但也意味着其需要承担机架投运延误带来的损失。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-21T05:21:51.707Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

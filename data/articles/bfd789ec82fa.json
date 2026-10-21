@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "bfd789ec82fa",
+    "title": "消息 NVIDIA 下代 Groq LPU 芯片转向 3D 堆叠 DRAM，放弃大 SRAM 方案",
+    "url": "https://www.ithome.com/1/015/760.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/760.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 21 日消息，韩媒 ZDNET Korea 当地时间昨日报道称，NVIDIA（英伟达）的下代 Groq LPU AI 推理加速器芯片有望采用基于 TSV（硅通孔）工艺的 3D 堆叠 DRAM 方案。\n\n当前一代的 Groq LPU 采用了大容量 SRAM 的缓存设计，提供快速解码输出。但 SRAM 有着容量较小、制程升级密度收益有限的问题，在大型模型表现和芯片迭代上存在固有局限。\n\nIT之家注意到，同样采用大 SRAM 技术路线的 Cerebras 此前已预告未来的 CS-6 将 3D 垂直集成 DRAM。\n\n《Cerebras 揭秘 CS-6 晶圆级进化：颠覆性 3D 堆叠，首次垂直集成 DRAM》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-21T05:21:51.704Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

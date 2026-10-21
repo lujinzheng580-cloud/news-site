@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8212127461e9",
+    "title": "威联通推出 USB4 大容量 JBOD 扩展设备、PCIe 双口 USB4 扩展卡",
+    "url": "https://www.ithome.com/1/015/686.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/686.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 21 日消息，威联通 (QNAP) 昨日推出 2 款 USB4 大容量 JBOD（硬盘组合）存储扩展设备，分别是 8 盘位桌面式的 TL-D810TC4、12 盘位 2U 机架式的 TL-R1210TC4-RP。\n\n两款设备均提供 3.5\" / 2.5\" 硬盘位（支持 HDD / SSD），提供 1 个 USB-C 40Gbps 接口，适配 Windows 与 QNAP NAS 设备。TL-D810TC4 额外支持 macOS 设备，TL-R1210TC4-RP 则配备双电源。\n\n威联通还带来了 QXP-40G2UC。这款 PCIe AIC 可为搭载英特尔或 AMD 处理器的 NAS 设备提供 2 个 USB-C 40Gbps 接口。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-21T05:21:51.710Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

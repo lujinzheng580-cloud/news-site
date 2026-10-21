@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1151ee637b39",
+    "title": "小米 MiMo-V2.5-Pro 模型今日下线，替换为 V2.6-Pro 后将支持多模态理解",
+    "url": "https://www.ithome.com/1/015/709.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/015/709.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 21 日消息，据小米 MiMo 文档公布，随着 MiMo 模型的持续迭代，新版本在效果与性能上已全面超越旧版本，mimo-v2.5-pro / mimo-v2.5 模型已于今天（21 日）上午 10 时正式下线。\n\n自 2026 年 10 月 14 日 18:00（UTC+8）起，mimo-v2.5-pro 和 mimo-v2.5 的请求将自动路由至 mimo-v2.6-pro 和 mimo-v2.6-flash。相关参数处理规则如下：\n\n在思考模式下，mimo-v2.6-flash，mimo-v2.6-pro 模型不支持 temperature 和 top_p 自定义，模型实际传参为 temperature:1.0 和 top_p:0.95。\n\n若在使用 mimo-v2.5 时自定义了参数，则自动路由至 mimo-v2.6-flash 时会继承 mimo-v2.5 的传参；若请求中未指定 max_completion_tokens，系统将自动使用 mimo-v2.6-flash 的默认值，如下表：\n\n据IT之家了解，小米 9 月 22 日凌晨正式发布并开源了全新的 Xiaomi MiMo-V2.6 系列，包含 Pro 与 Flash 两个原生全模态模型。\n\nMiMo-V2.6 系列沿用 V2.5 系列的 API 定价：Flash 为每百万词元输入 1 元、每百万输出 2 元；Pro 为 3 元和 6 元，并提供 99% 缓存折扣。在同等智能水平下，价格仅为海外模型的 1/20 至 1/60。\n\n《小米 MiMo-V2.6 发布：Pro 与 Flash 双版本价格不变，超越 Kimi K3、GLM-5.3 成为当前 AA 指数排名最高的开源模型》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-21T05:21:51.706Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
