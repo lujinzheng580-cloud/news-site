@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "be8f69beddbb",
+    "title": "米哈游联合清华北大等高校发布开源 GameScaling 游戏模型，覆盖 0.8B 至 27B 参数规模",
+    "url": "https://www.ithome.com/1/016/575.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/016/575.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 22 日消息，有用户发现，米哈游崩坏 AI 研发团队、清华大学、北京大学、中国科学院大学、香港大学、新加坡国立大学等机构联合推出了 GameScaling 系列游戏模型并已经开源。\n\n研究团队围绕游戏场景中的模型规模扩展规律（Scaling Law）展开研究，并发布了覆盖 0.8B 至 27B 参数规模的 8 个模型检查点。\n\n该项目团队在 GitHub 页面描述称，该系列模型基于 Qwen3.5 视觉语言模型继续预训练，训练数据涉及键盘和鼠标操作的游戏过程。IT之家从官方获悉，该模型能够接收当前游戏画面及此前的部分画面、操作记录，并生成后续的键盘和鼠标操作指令，以控制游戏角色行动。\n\n在游戏场景方面，GameScaling 支持《我的世界》《毁灭战士》等不同类型的游戏任务，包括在《我的世界》中采矿、合成物品和对抗僵尸，在《毁灭战士》中战斗与寻路，以及在密室场景中完成解谜和逃脱任务。\n\n根据项目提供的技术说明，模型每次调用会生成覆盖约 200 毫秒的操作序列，其中包含 6 个、每个持续 33 毫秒的操作步骤，以及鼠标移动和滚轮指令。项目介绍还提到，该系列模型面向实时游戏交互设计，具体运行速度会受到模型规模、硬件配置和推理负载等因素影响。\n\n该系列共开源 8 个模型版本，分别为 0.8B、2B、9B 和 27B 四种参数规模，每种规模各有 S1、S3 两个版本。其中，S1 仅使用《我的世界》游戏数据进行训练，S3 则采用多游戏混合数据，《我的世界》数据占比为 27%，各版本均使用了 1600 小时的游戏数据进行训练。\n\n在硬件需求方面，项目仓库列出了不同模型的显存占用及推理部署方式。0.8B、2B 和 9B 版本的权重均可在单张 GPU 上部署；27B 版本则需要两张 GPU 进行张量并行推理。\n\n项目提供推理客户端、提示词模板、操作解析代码和示例程序，并支持通过 vLLM 部署模型服务。代码与模型权重采用 Apache 2.0 许可证。\n\n研究团队还发布了相关论文《Scaling in Games: Continued Pre-Training for Embodied Agents in Diverse Virtual Worlds》，探讨通过持续预训练提升模型在多种虚拟游戏环境中的操作能力。用户可通过项目主页、GitHub 仓库及 Hugging Face 模型库获取相关资料和模型权重。\n\n主页：gamescaling.github.io\n\nGitHub 仓库：github.com/THUSI-Lab/GameScaling\n\nHuggingface 地址：huggingface.co/THUSI-Lab/GameScaling\n\narxiv 论文：arxiv.org/abs/2610.28698\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-22T12:30:20.794Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
