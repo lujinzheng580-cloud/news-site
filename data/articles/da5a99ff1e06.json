@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "da5a99ff1e06",
+    "title": "铭凡推出 M2 Slim 迷你主机：基于酷睿 3 处理器 304，板载 LPDDR5X 内存",
+    "url": "https://www.ithome.com/1/016/736.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/016/736.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 22 日消息，MINISFORUM（铭凡）现已推出基于英特尔酷睿 3 处理器 304 五核 \"Wildcat Lake\" 的 M2 Slim 迷你主机。\n\nIT之家注意到，铭凡此前推出了同样使用该处理器的 M2 Air。两款产品整体规格类似，但 M2 Slim 从配备 CSO-DIMM 内存插槽变为板载 LPDDR5X-7467，新增板载 UFS 3.1 闪存支持，PCIe Gen4 M.2 SSD 盘位从 4 通道降至 2 通道，取消 1 个全功能 USB-C 10Gbps。\n\nM2 Slim 三维 112×112×37.15 (mm)，质量 0.44kg，内置英特尔 AX211 无线网卡（支持 Wi-Fi 6E & 蓝牙 5.4），提供 2 个 2.5GbE RJ-45、1 个 USB-C 40Gbps、2 个 HDMI 2.0，还有 microSD 读卡器。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-22T17:35:33.637Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
