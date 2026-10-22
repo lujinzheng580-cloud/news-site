@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "260071f6f3f8",
+    "title": "充分调动 iPhone Duo 体验：苹果给适配 App 发“身份证”，《绝区零》等首批支持",
+    "url": "https://www.ithome.com/1/016/768.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/016/768.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 23 日消息，苹果公司昨日（10 月 22 日）发布博文，宣布将会在 App Store 应用商店内，引入全新的 Made for iPhone Duo 标志，用于标识已适配苹果首款折叠 iPhone Duo 的应用和游戏。\n\n该标识将于 10 月 23 日，即 iPhone Duo 在部分市场正式发售当天，出现在相关应用的 App Store 产品页面上。\n\n苹果表示，获得标识的应用代表不只是“能在大屏上运行”，更能充分利用 iPhone Duo 的内外双屏、更大显示区域以及折叠形态。\n\n开发者可通过 iOS 27.1 SDK、SwiftUI 和 UIKit 等工具，让应用在展开、半折叠和切换内外屏时自动调整布局；Xcode 27.1 也新增了 iPhone Duo 模拟器，便于开发者在不同折叠角度下测试应用。\n\n在苹果展示的适配案例中，Netflix 可在内屏完整播放影视内容，并在外屏提供短视频信息流；亚马逊 Prime Video 支持半折叠状态下将视频与演职员信息分屏显示。IT之家附上相关图片如下：\n\n微软 Word 和 Outlook 则提供更接近桌面电脑的多栏布局，Zoom 也能在内屏同时呈现视频会议画面与共享内容。\n\n除上述应用外，Paramount Plus、NYT Cooking、Yelp、Lyft 和美联航等服务也已完成或即将完成适配。苹果称已有超过 50 款第三方应用完成优化或正在适配，并有超过 2,000 名开发者参加了全球 19 个城市的 50 多场线下开发活动。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-22T23:56:32.202Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
