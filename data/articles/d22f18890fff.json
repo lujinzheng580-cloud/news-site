@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d22f18890fff",
+    "title": "振华推出 VGA 12+4PIN 过电流保护转接线，支持视觉、听觉双重警告",
+    "url": "https://www.ithome.com/1/016/325.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/016/325.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 22 日消息，振华 (Super Flower) 近日推出了 VGA 12+4PIN 过电流保护转接线。这一产品拥有明确的公母区分，具备 ARGB 灯光 + 蜂鸣器的视觉、听觉双重同步警告机制。\n\n这款转接线可及时侦测显卡电流状态，当某一 +12V 线路电流≥9.5A 而＜12A 或两条 +12V 间电流差＞6A 时（持续 10s），其会进入橘色 LED + 短促哔声的提示状态。\n\n而当某一 +12V 线路的电流＞12A 且持续 10s 时，该转接线将进入报警模式：先是 180s 的红灯 LED + 长鸣，若用户还不介入处置则红灯续亮 15s 并触发显卡黑屏保护。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-22T06:31:06.316Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
