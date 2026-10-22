@@ -2,369 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "345e74dddeb7",
-      "title": "北汽星钽 5X 预售 13.99 万元起：方盒子加华为乾崑 ADS 5 Pro",
-      "url": "https://www.ithome.com/1/016/103.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.053Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "dfc60d7b530b",
-      "title": "比亚迪仰望“HU”超豪华行政轿车官宣将在阿联酋亮相",
-      "url": "https://www.ithome.com/1/016/104.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.053Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "438a4acb9e9d",
-      "title": "OpenAI 宣布入驻谷歌云平台：进一步拓展其在微软以外的业务，Gemini Agent 和 Antigravity 用户可用最新前沿模型",
-      "url": "https://www.ithome.com/1/016/105.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.052Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f5f9b7b34848",
-      "title": "国内首个“筷子夹火箭”方案：大航跃迁首飞箭“跃迁一号”增压输送二级出流试验圆满成功",
-      "url": "https://www.ithome.com/1/016/106.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.052Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "84e686920b28",
-      "title": "英伟达 621.01 Game Ready 驱动发布：针对《影之刃零》《使命召唤：现代战争 4》等新游戏提供优化，支持微软 Advanced Shader Delivery 技术",
-      "url": "https://www.ithome.com/1/016/107.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.052Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5859f579dfab",
-      "title": "主动限制金融类应用操作能力，豆包手机助手更新拒绝操作应用清单",
-      "url": "https://www.ithome.com/1/016/108.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.052Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "226d87d0344e",
-      "title": "小米雷军：智能网联汽车“下半场”比的不仅是车有多聪明，而是生态有多强大",
-      "url": "https://www.ithome.com/1/016/110.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.052Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e31890cceb4f",
-      "title": "《电动汽车动力蓄电池在役检测试验方法》国标发布，2027 年 3 月起实施",
-      "url": "https://www.ithome.com/1/016/111.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.052Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4a58853d599a",
-      "title": "《我的世界》游戏官方整活，与达美乐推出方形披萨",
-      "url": "https://www.ithome.com/1/016/112.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.051Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "df1919a38523",
-      "title": "东风汽车：自主研发的新一代快充型混合固液电池 2027 年将规模化应用",
-      "url": "https://www.ithome.com/1/016/113.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.051Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4e4f663c08cf",
-      "title": "雷军：小米已经构建全球最大规模消费级 IoT 平台，截至二季度末设备连接数超 11 亿台",
-      "url": "https://www.ithome.com/1/016/114.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.051Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "41e3a340c461",
-      "title": "微软发布 PowerToys 0.102 更新：新增鼠标按键锁定、自动隐藏指针等功能",
-      "url": "https://www.ithome.com/1/016/116.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.051Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7dd532780e21",
-      "title": "欧洲 PEGI 整顿开箱机制游戏评级，《宝可梦 Go》《EA Sports FC》上调至 16+",
-      "url": "https://www.ithome.com/1/016/117.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.051Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6b2f1d45edbd",
-      "title": "奇瑞尹同跃：中国车企出海要谦虚低调，坚决不能打价格战",
-      "url": "https://www.ithome.com/1/016/118.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.051Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4b1a1c8e1fd2",
-      "title": "打破物理铁律：天文学家发现首颗绿色恒星，距离地球约 280 光年",
-      "url": "https://www.ithome.com/1/016/120.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.050Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e2cdf8db1e90",
-      "title": "为预防 PHP 安全漏洞，芬兰政府临时关闭部分网站",
-      "url": "https://www.ithome.com/1/016/121.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.050Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e645db711b3e",
-      "title": "AMD 为 Linux 开发锐龙 CPU 超频驱动，可调 PPT、TDC、EDC 参数",
-      "url": "https://www.ithome.com/1/016/122.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.050Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4a4250b621de",
-      "title": "李斌：基于世界模型架构 + 闭环强化学习的蔚来智能辅助驾驶系统，已部署超 95 万辆智能电动汽车",
-      "url": "https://www.ithome.com/1/016/123.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.050Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "89ecec15863c",
-      "title": "微软 XGP 订阅 10 月第二波入库阵容公布：含《最终幻想 7 重制版》等",
-      "url": "https://www.ithome.com/1/016/124.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.050Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c26929ee4ee2",
-      "title": "黄仁勋 GTC 柏林反驳 AI 终结软件论：工具公司将迎来更多使用者",
-      "url": "https://www.ithome.com/1/016/125.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.050Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6885ac967c62",
-      "title": "网易 UU 远程官宣与荣耀团队深度合作，覆盖 WIN 平板远程游戏、办公等场景",
-      "url": "https://www.ithome.com/1/016/126.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.049Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "56a41af8f345",
-      "title": "赛力斯张兴海：安全始终是第一位，也是企业必须无条件扛起的第一责任",
-      "url": "https://www.ithome.com/1/016/127.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.049Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8d211ce44b3b",
-      "title": "英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市",
-      "url": "https://www.ithome.com/1/016/128.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.049Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8c756d573f6e",
-      "title": "维信诺官宣 iQOO Neo12 手机超冠屏行业唯一搭载「天空之镜」发光材料",
-      "url": "https://www.ithome.com/1/016/130.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.049Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fc32662f9c77",
-      "title": "消息称《上古卷轴 6》预计 2028 年发售，有望成 XBOX Helix 次世代主机独占游戏",
-      "url": "https://www.ithome.com/1/016/131.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.049Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "7b5faf3e556d",
-      "title": "史泰博遭黑客入侵：攻击者劫持员工会话生成超 1.5 万张礼品卡，面值逾 500 万美元",
-      "url": "https://www.ithome.com/1/016/132.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.049Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "cfe9b83516b3",
-      "title": "苹果 iPhone Duo 更新 iOS 27.2 后可使用 Apple Pencil",
-      "url": "https://www.ithome.com/1/016/133.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.048Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f999929e0e5b",
-      "title": "OpenAI 联手 PerturbAI：让近 2000 个 AI 智能体一起搞科研，加速新药研发",
-      "url": "https://www.ithome.com/1/016/134.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.048Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c145957359dd",
-      "title": "SpaceX 盘中暴涨 11% 市值超台积电：与特斯拉合并传闻 + 超预期业绩",
-      "url": "https://www.ithome.com/1/016/135.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.048Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "073e6c1031d5",
-      "title": "荣耀 WIN 2 × 三角洲行动职业赛事联名款真机首曝，采用曼德尔砖涂装设计",
-      "url": "https://www.ithome.com/1/016/136.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.048Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1f4a5538d09f",
-      "title": "谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定",
-      "url": "https://www.ithome.com/1/016/137.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.048Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "44487fdf92be",
-      "title": "黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付",
-      "url": "https://www.ithome.com/1/016/138.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.047Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "94a5269687f7",
-      "title": "因安全问题，马来西亚禁止公务员使用 Waze 导航应用",
-      "url": "https://www.ithome.com/1/016/139.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.047Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "6886c976a82a",
       "title": "宁德时代回应“投资者对明年行业需求担忧”：2027 年行业需求依旧可期，没有市场预期的那么悲观",
       "url": "https://www.ithome.com/1/016/140.htm",
@@ -372,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.047Z",
+      "publishedAt": "2026-10-22T01:24:33.292Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.047Z",
+      "publishedAt": "2026-10-22T01:24:33.292Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.046Z",
+      "publishedAt": "2026-10-22T01:24:33.292Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +42,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.046Z",
+      "publishedAt": "2026-10-22T01:24:33.292Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +53,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.046Z",
+      "publishedAt": "2026-10-22T01:24:33.292Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.046Z",
+      "publishedAt": "2026-10-22T01:24:33.292Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.045Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.045Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.045Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +108,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.045Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.044Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +130,29 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.044Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "628985c3c3b5",
+      "title": "Meta 2026 财年第三财季归母净利润 98.6 亿美元，同比增长 264%",
+      "url": "https://www.ithome.com/1/016/163.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6039bd066bda",
+      "title": "德州仪器 2026 财年第三财季归母净利润 24.25 亿美元，同比增长 78%",
+      "url": "https://www.ithome.com/1/016/164.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +163,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.044Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "859635c5dd21",
+      "title": "特斯拉 2026 财年第三财季归母净利润 7.87 亿美元，同比下降 43%",
+      "url": "https://www.ithome.com/1/016/167.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,29 +185,359 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.043Z",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "8ab2fb8d3744",
-      "title": "年轻人盯上养老院里的新职业",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%85%BB%E8%80%81%E9%99%A2%E9%87%8C%E7%9A%84%E6%96%B0%E8%81%8C%E4%B8%9A",
+      "id": "b737aac74d65",
+      "title": "Omdia 称宽屏折叠手机成新风口，2026 预计占总折叠面板出货的 44%",
+      "url": "https://www.ithome.com/1/016/170.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "49237a445841",
+      "title": "剑桥分析数据丑闻余波未平，Meta 被判向新墨西哥州赔付 250 亿美元",
+      "url": "https://www.ithome.com/1/016/171.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.291Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "90d14e68464b",
+      "title": "沃尔玛推出自有智能体网关，AI 可代用户下单购物",
+      "url": "https://www.ithome.com/1/016/172.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "55447c4a3c51",
+      "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+      "url": "https://www.ithome.com/1/016/173.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f9250120462b",
+      "title": "微软员工总数十年来首次下降，截至 6 月底雇员约 22.3 万人",
+      "url": "https://www.ithome.com/1/016/174.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9b39be0419f8",
+      "title": "通用汽车安吉星服务将全面升级：引入 AI 助手，还能帮你控车、排障",
+      "url": "https://www.ithome.com/1/016/175.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "29c3a1c2a7e5",
+      "title": "iPhone Duo 明日开售，纽约第五大道苹果旗舰店提前布置巨型模型",
+      "url": "https://www.ithome.com/1/016/176.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b0b02d93719f",
+      "title": "看点播内容恐也要缴 180 英镑年费：英国拟将流媒体平台纳入电视牌照制度",
+      "url": "https://www.ithome.com/1/016/177.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4fcd391faad0",
+      "title": "应对加州富人税：Meta 向扎克伯格配发 C 类无投票权股份，换其扎根加州 8 年承诺",
+      "url": "https://www.ithome.com/1/016/178.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1bda1e813f85",
+      "title": "苹果首款折叠 iPhone Duo 屏下摄像头媒体评价：镜头藏住了，画质没跟上",
+      "url": "https://www.ithome.com/1/016/179.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "97f6d407837f",
+      "title": "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
+      "url": "https://www.ithome.com/1/016/180.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cd30a8beb853",
+      "title": "IT早报 1022：苹果 iPhone Duo 三方应用界面首曝；问界、神木警方回应汽车碰撞起火司机遇难事件；马斯克暗示 SpaceX+ 特斯拉合并；荣耀 WIN 2 手机发布...",
+      "url": "https://www.ithome.com/1/016/181.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6b7196bd6d4f",
+      "title": "全国首创：浙江移动率先实现全省范围停机状态 110 双向回拨",
+      "url": "https://www.ithome.com/1/016/182.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "718a3c93e013",
+      "title": "SpaceX 与特斯拉若合并，马斯克财富有望增加 1100 亿美元",
+      "url": "https://www.ithome.com/1/016/183.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b1196e98b7af",
+      "title": "苹果首款折叠 iPhone Duo 海外媒体评价汇总：外屏处理琐事，内屏留给沉浸",
+      "url": "https://www.ithome.com/1/016/184.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.290Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6dc0166f6a56",
+      "title": "EA 启动成本削减计划：裁员 400 人、关闭 BioWare 工作室，并取消《质量效应》新作",
+      "url": "https://www.ithome.com/1/016/185.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.289Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "396572758fbb",
+      "title": "Meta CEO 扎克伯格：长期烧钱的 Muse 和 Reality Labs 终于盈利在望",
+      "url": "https://www.ithome.com/1/016/186.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.289Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "02413dc79a65",
+      "title": "苹果首款折叠 iPhone Duo 运行温度高吗？海外媒体评测汇总",
+      "url": "https://www.ithome.com/1/016/188.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.289Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f92efb9c32fd",
+      "title": "特斯拉：将在今年年底前向客户销售 Cybercab 无人驾驶出租车",
+      "url": "https://www.ithome.com/1/016/189.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.289Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8224f8d52c9a",
+      "title": "Win11 搜索迎“史诗级更新”之际，曝微软考虑重新研究 Win 键功能",
+      "url": "https://www.ithome.com/1/016/190.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.289Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "802976bf49ff",
+      "title": "苹果首款折叠 iPhone Duo 首批海外评价：Touch ID 指纹解锁体验不如 Face ID 方案",
+      "url": "https://www.ithome.com/1/016/191.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.289Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d45c099968e5",
+      "title": "华为双十一焕新季全场景新品发布会官宣定档，10 月 28 日见",
+      "url": "https://www.ithome.com/1/016/192.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.289Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6e3435562331",
+      "title": "初探苹果 iPhone Duo 铰链耐用性：约 3.2 万次折叠后开合手感基本如初",
+      "url": "https://www.ithome.com/1/016/194.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.288Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "87e1b432af36",
+      "title": "国内自主研制的最大规格直缝焊管机投产，最大直径 2.8 米",
+      "url": "https://www.ithome.com/1/016/195.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.288Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f3093a90da2a",
+      "title": "特斯拉：上季度北美 75% 的新车买家订阅了 FSD",
+      "url": "https://www.ithome.com/1/016/196.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.288Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e3e51ba9cae3",
+      "title": "小米 REDMI Book 2027 系列笔记本官宣 10 月 27 日发布，72Wh 电池主打移动办公",
+      "url": "https://www.ithome.com/1/016/197.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.288Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "76728af56eec",
+      "title": "一加 Ace 7/Pro 手机官宣 10 月 29 日发布：定位“性能直升”的双旗舰",
+      "url": "https://www.ithome.com/1/016/198.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.288Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5842db488187",
+      "title": "Hey OnStar 登场：通用汽车推出 OnStar AI，能看懂车辆、听懂车主表述",
+      "url": "https://www.ithome.com/1/016/200.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.288Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e488cbec5cdd",
+      "title": "工业和信息化部工业软件标准化技术委员会成立",
+      "url": "https://www.ithome.com/1/016/202.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.287Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "33dd24ca18a1",
+      "title": "《赛博朋克 2077》发布《边缘行者 2》版本更新 2.5：双持武器、新服装、新任务",
+      "url": "https://www.ithome.com/1/016/204.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-10-22T01:24:33.287Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6fca52931aec",
+      "title": "年轻人开始喝水了 超市货架也在变",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%96%9D%E6%B0%B4%E4%BA%86+%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E4%B9%9F%E5%9C%A8%E5%8F%98",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，随着养老行业新职业不断出现，越来越多年轻人盯上养老服务师岗位。与养老护理员不同，养老服务师更侧重需求评估、照护方案制定和机构管理。今年6月，养老服务师职业资格制度发布，为年轻人打开了职业上升空间。",
+      "summary": "年轻人兴起“喝大水”风潮，放弃奶茶甜水，改喝1.5至2升大瓶装白水，既省钱、减少糖分负担，也借此获得生活掌控感。商超大包装饮品被放到显眼位置，但瓶装水行业竞争加剧，整体销量反而下滑。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "161756a5151c",
-      "title": "王虹再获大奖",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%99%B9%E5%86%8D%E8%8E%B7%E5%A4%A7%E5%A5%96",
+      "id": "bdc491509470",
+      "title": "地铁站内看书5小时被扣15元",
+      "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E7%9C%8B%E4%B9%A65%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%A315%E5%85%83",
       "source": "baidu",
       "category": "general",
-      "summary": "日前，求是科技基金会发布2026年度“求是杰出科学家奖”名单，新晋菲尔兹奖得主王虹获奖。邓稼先、施一公、颜宁等曾获该奖。",
+      "summary": "近日，广州地铁回应“乘客站内看书5小时被扣15元超时费”。工作人员称，乘车时限为270分钟，超时须按线网最高票价补交，因地铁非长时间滞留场景。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -548,84 +548,84 @@
       "category": "general",
       "summary": "从托举“东方红一号”卫星的“长征一号”运载火箭，到我国第一艘攻击型核潜艇“长征一号”，再到战略核潜艇长征18号艇，它们有个共同的名字——“长征”。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "6b64798e4d75",
-      "title": "PHP出现严重漏洞 多国紧急下线",
-      "url": "https://www.baidu.com/s?wd=PHP%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E+%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E4%B8%8B%E7%BA%BF",
+      "id": "cebec99dadef",
+      "title": "中国这一冠 等了20年",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%BF%99%E4%B8%80%E5%86%A0+%E7%AD%89%E4%BA%8620%E5%B9%B4",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，PHP被曝存在严重安全漏洞，且已有黑客开始利用漏洞发起攻击。由于PHP支撑全球约75%的可识别编程语言网站，荷兰、芬兰、法国等多国政府机构紧急下线网站规避风险，PHP开发团队随后发布修复版本。",
+      "summary": "第54届世界体操锦标赛21日结束女子团体决赛，中国队以165.764分夺冠，时隔20年再次登上世锦赛女团最高领奖台，并获得2028年洛杉矶奥运会团体参赛资格。这是中国女队继2006年后第二次夺得世锦赛团体冠军。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "a510ab0d9d6a",
-      "title": "红果把观众的时间标好了价",
-      "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E6%8A%8A%E8%A7%82%E4%BC%97%E7%9A%84%E6%97%B6%E9%97%B4%E6%A0%87%E5%A5%BD%E4%BA%86%E4%BB%B7",
+      "id": "60cea6ece7ac",
+      "title": "广东一小区疑现大量骨灰房？当地通报",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%96%91%E7%8E%B0%E5%A4%A7%E9%87%8F%E9%AA%A8%E7%81%B0%E6%88%BF%EF%BC%9F%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5",
       "source": "baidu",
       "category": "general",
-      "summary": "红果短剧以应用内广告变现，每千次曝光报价25元。平台借免费短剧获庞大流量，制作方却陷收益困局。此前2023年字节推出红果颠覆付费格局，今年红果取消部分保底转分账。随后制作方反映分账不透明，近期AI漫剧万播收益降至1-2元难养团队。目前腾讯绿泡泡入局，以最高100%激励争抢制作团队。",
+      "summary": "10月22日凌晨，广东台山市海宴镇人民政府通报“某小区住宅内疑似存放骨灰”事件。经查，网上提及的20余间房间内未发现存放骨灰，现场无聚众祭祀痕迹，也未发现骨灰转移痕迹。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "89241f1c132c",
-      "title": "14家银行叫停或限制个人异地存款",
-      "url": "https://www.baidu.com/s?wd=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE",
+      "id": "5ab969e0dbfc",
+      "title": "5个“伤眼习惯”正在透支你的眼睛",
+      "url": "https://www.baidu.com/s?wd=5%E4%B8%AA%E2%80%9C%E4%BC%A4%E7%9C%BC%E4%B9%A0%E6%83%AF%E2%80%9D%E6%AD%A3%E5%9C%A8%E9%80%8F%E6%94%AF%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，民营银行个人“异地存款”业务整改工作持续推进。记者近日多方致电15家区域性民营银行获悉，已有14家机构明确叫停或限制个人“异地存款”相关业务。但存量业务不受即时影响，需按照监管时间表完成处置。",
+      "summary": "据统计，我国每3人中就有1人正遭受不同程度的干眼困扰，而很多人的日常习惯，正在让眼睛提前“报废”。5个“伤眼习惯”正在透支眼睛，这份干眼症护眼攻略请收好。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "bdde43af2338",
-      "title": "赵露思被质疑自费购买高定",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%A2%AB%E8%B4%A8%E7%96%91%E8%87%AA%E8%B4%B9%E8%B4%AD%E4%B9%B0%E9%AB%98%E5%AE%9A",
+      "id": "83d6e2a6214e",
+      "title": "致敬伟大的胜利",
+      "url": "https://www.baidu.com/s?wd=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E7%9A%84%E8%83%9C%E5%88%A9",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，赵露思在芭莎红毯身着高定礼服，时尚博主爆料其是自费购置。目前工作室与礼服品牌均未发声，此事引发网友热议。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "074501100670",
-      "title": "幼童坠亡12分钟到底发生了什么",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E7%AB%A5%E5%9D%A0%E4%BA%A112%E5%88%86%E9%92%9F%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
+      "id": "a86924c23fe7",
+      "title": "超强台风蔷琵逼近中国",
+      "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD",
       "source": "baidu",
       "category": "general",
-      "summary": "重庆一名2岁幼童被出门遛狗的父亲独自留在家中12分钟，不幸从18楼坠亡。法医推测孩子踩阳台澡桶、抱着被子翻出窗外。警方称会全面调查这12分钟内的相关事实，核查是否存在故意加害、放任危险等情形，排除其他可能性，再结合证据判断是否符合立案条件。",
+      "summary": "10月22日06时，中央气象台继续发布台风蓝色预警。第30号台风“蔷琵”中心位于台北市东南约750公里洋面。预计“蔷琵”向西北方向移动，逐渐向台湾东北部沿海靠近，强度继续减弱，23日夜间进入东海南部海域。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "fd6288fbbbad",
-      "title": "曝张小斐芭莎红毯救场",
-      "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E5%B0%8F%E6%96%90%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E6%95%91%E5%9C%BA",
+      "id": "b8c526b4ba82",
+      "title": "法国总统：坚决杜绝骚乱重演",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E9%AA%9A%E4%B9%B1%E9%87%8D%E6%BC%94",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，芭莎盛典红毯现场直播镜头空档一分多钟，张小斐临时提前出场救场，从容走完红毯稳住现场节奏并获好评。此前网曝有人不满顺序耍脾气，疑似是蔡文静。",
+      "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "019eef25aa2f",
-      "title": "纪念活动男子吹响冲锋号 全场沸腾",
-      "url": "https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%E7%94%B7%E5%AD%90%E5%90%B9%E5%93%8D%E5%86%B2%E9%94%8B%E5%8F%B7+%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE",
+      "id": "c284ab81984b",
+      "title": "我想记住你的名字 走你所走的长路",
+      "url": "https://www.baidu.com/s?wd=%E6%88%91%E6%83%B3%E8%AE%B0%E4%BD%8F%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97+%E8%B5%B0%E4%BD%A0%E6%89%80%E8%B5%B0%E7%9A%84%E9%95%BF%E8%B7%AF",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，天津一场长征胜利90周年纪念活动散场后，一名男子吹响冲锋号，瞬间全场沸腾。",
+      "summary": "老红军及后代讲述长征记忆，缅怀湘江战役牺牲的红军英烈。亲历者及家属回忆飞夺泸定桥、三过雪山等艰难历程。目前全国红军小学已达500所，宁夏固原师生坚持31年徒步祭英烈，长征系列火箭已飞行671次。后人以多种形式传承红色基因，致敬英雄。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,18 +636,18 @@
       "category": "general",
       "summary": "近日，网传“央国企付费内推、直签保录”的招聘信息引发关注。经多部门提示，这类大多是求职骗局，正规央国企招聘不收费。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "a49e081f312c",
-      "title": "“把我撂得高高的 我都哭了”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%8A%8A%E6%88%91%E6%92%82%E5%BE%97%E9%AB%98%E9%AB%98%E7%9A%84+%E6%88%91%E9%83%BD%E5%93%AD%E4%BA%86%E2%80%9D",
+      "id": "ae13f88c4398",
+      "title": "中国体操女队终结美国7连冠",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E9%98%9F%E7%BB%88%E7%BB%93%E7%BE%8E%E5%9B%BD7%E8%BF%9E%E5%86%A0",
       "source": "baidu",
       "category": "general",
-      "summary": "1936年10月9日，红一方面军与红四方面军在会宁会师。几十年之后，亲历这一历史性一幕的红军老战士，还记得当时的情景。红军老战士万曼琳：“把我撂得高高的，撂高我只怕摔下，我都哭了。”1936年10月22日，红一方面军与红二方面军在将台堡会师。三大主力红军齐聚西北，宣告了历时两年的长征胜利结束。",
+      "summary": "北京时间10月22日，2026年体操世锦赛在荷兰鹿特丹结束了女子团体决赛的争夺。由张清颖、柯沁沁、杜思雨、邱祺缘和张怡涵组成的中国队以165.764分的成绩夺得冠军，一举终结美国队的连冠记录，时隔20年再夺世锦赛冠军。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +658,9 @@
       "category": "general",
       "summary": "近日，在《什么意思夫妇》路演现场，有小姑娘吐槽小沈阳边提包边甩刘海走的名场面。小沈阳随即现场复刻该动作，展现那股劲儿还在，被调侃“甩的不是刘海，是刻在骨子里的喜剧”。",
       "imageUrl": "",
-      "publishedAt": "2026-10-21T22:48:18.748Z",
+      "publishedAt": "2026-10-22T01:24:34.134Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-10-21T22:48:21.023Z"
+  "generatedAt": "2026-10-22T01:24:37.019Z"
 }
