@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9adb2bc37730",
+    "title": "拿铁熊猫推出 Sigma 2 单板计算机，搭载英特尔酷睿 Ultra X7 处理器 358H",
+    "url": "https://www.ithome.com/1/016/835.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/016/835.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 23 日消息，智位机器人 (DFRobot) 旗下拿铁熊猫 (LattePanda) 团队近日推出了高性能单板计算机 Sigma 2。这一型号基于英特尔酷睿 Ultra X7 处理器 358H，板载 64GB LPDDR5X-8533 内存。\n\nSigma 2 尺寸为 146×202 (mm)，集成涡轮风扇散热器，拥有丰富的扩展性。其专为边缘 AI 计算和嵌入式 AI 应用设计，适合全天候本地 AI 服务、私有服务器、家庭实验室、NAS、工业计算、计算机视觉、自主机器人等场景。\n\n其正面提供 2 个雷电 4、2 个 USB-A 10Gbps、2 个 USB-A 480Mbps、1 个 OCuLink 2i (PCIe Gen4)、2 个 10GbE LAN、1 个 HDMI 2.1、1 个 RS-232/485 接针、1 个 USB 480Mbps 接针，此外还有 RP2350 拓展出的 GPIO。\n\n而在反面，这款 SBC 提供 4 个 M.2 插槽，除一个用于接驳 PCIe / CNVio3 无线网卡的外，分别为 PCIe Gen5 ×2、PCIe Gen4 ×4、PCIe Gen4 ×1，支持部署 SSD 存储或 M.2 加速卡；此外还有 eDP 1.5、触控面板 I²C 接口等。\n\nIT之家了解到，拿铁熊猫 Sigma 2 单板计算机包含 1TB SSD 存储的配置预售价为 2,599 美元（IT之家注：现汇率约合 17,383 元人民币）。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-23T04:32:55.172Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

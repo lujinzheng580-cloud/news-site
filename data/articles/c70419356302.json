@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c70419356302",
+    "title": "微软回应“XBOX 掌机曾想抛弃 Win11”报道：Helix OS 仍基于 Windows 开发",
+    "url": "https://www.ithome.com/1/016/858.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/016/858.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 23 日消息，微软 XBOX 首席技术官斯科特 · 范 · 弗利特（Van Vliet）于 10 月 21 日在 X 平台发布推文，回应强调微软 Helix OS 依然基于 Windows 系统构建，目前 XBOX 团队正和 Windows 团队紧密合作，开发下一代游戏设备。\n\n科技媒体 Windows Latest 昨日（10 月 22 日）发布博文，报道称该事件可以追溯到 10 月 20 日，微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）接受《财富》专访，报道称针对 XBOX 下一代游戏主机系统，微软内部曾引发分歧。IT之家附上相关截图如下：\n\n知情人士透露，Windows 团队希望下一代 XBOX 掌机运行“精简版 Windows 家庭版”，而 XBOX 团队则希望自建并掌控游戏系统，从而减少后台进程、提升游戏性能和续航。甚至有 Xbox 高管一度威胁，若必须采用 Windows 就放弃掌机项目。\n\n弗利特在社交平台上回应表示，Helix OS 是基于 Windows 构建的，相关报道“既歪曲了技术工作，也歪曲了团队之间的关系”。\n\n该媒体指出“基于 Windows”并不等于掌机会像普通 PC 那样直接进入 Windows 11 桌面，微软 XBOX 游戏产品长期使用经过大幅裁剪的 Windows 内核，界面和后台机制均针对游戏优化。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-23T04:32:55.169Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
