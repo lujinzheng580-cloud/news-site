@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b24015c899cf",
+    "title": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏",
+    "url": "https://www.ithome.com/1/017/453.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/017/453.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 24 日消息，英伟达已确认，最新发布的 GeForce Game Ready Driver 621.01 显卡驱动存在一项 Bug。\n\n部分用户反馈，在 Chrome、Edge 等浏览器或 VLC 媒体播放器中播放视频时，屏幕会突然冻结或短暂黑屏，数秒后才恢复正常。目前，英伟达已确认存在该问题，并向受影响用户收集崩溃转储文件，以进一步调查原因。\n\n相关用户表示，异常主要出现在视频播放期间，部分情况下，在浏览器播放视频的同时启动游戏也会触发故障。出现问题后，显示画面通常会在数秒内自行恢复，无需重启电脑。\n\n目前，已有多名 RTX 5080 用户反馈遇到这一问题，也有 RTX 4090 用户反馈类似情况。部分受影响系统的 Windows 事件查看器中出现与英伟达显示驱动程序 nvlddmkm 相关的事件 ID 153，另有用户报告 Windows LiveKernelEvent 141 和 117 错误，这些记录与 GPU 超时及驱动崩溃恢复有关。\n\n根据 GAZlog 和英伟达官方论坛上的用户反馈，将驱动回退至 10 月 6 日发布的 GeForce 617.42 后，该问题便得到解决，但具体原因仍有待英伟达确认。\n\n《英伟达 621.01 Game Ready 驱动发布：针对〈影之刃零〉〈使命召唤：现代战争 4〉等新游戏提供优化，支持微软 Advanced Shader Delivery 技术》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-24T13:22:18.007Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
