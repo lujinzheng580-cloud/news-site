@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9752795d5e33",
+    "title": "MOD 社区立功：英特尔 Arc XMX 内核非官方移植 AMD FSR 4.1.2",
+    "url": "https://www.ithome.com/1/017/378.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/017/378.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 24 日消息，科技媒体 Wccftech 昨日（10 月 23 日）发布博文，报道称 OptiScaler MOD 社区已将 AMD 最新的 FSR 4.1.2 神经网络超分辨率模型移植至 Intel Arc 显卡，并借助 Arc 的 XMX 矩阵加速核心实现硬件加速。\n\n本次非官方移植针对 Intel XMX 硬件，重点优化 FSR 4 INT8 DLL。相比依赖通用着色器运行，XMX 加速能显著降低超分耗时，让 AMD 的 AI 超分技术在 Intel 平台上更接近原生体验。\n\n社区基准测试显示，在 Intel Arc A770 上以 1080p、Quality 模式运行《巫师 3：狂猎重制版》时，FSR 4.1.2 Lite 的平均帧率为 101.5 FPS，超分耗时 0.75 毫秒；原生 XeSS SR 为 101.1 FPS、0.84 毫秒。IT之家附上相关截图如下：\n\n在 Arc B580 上运行《光与影：33 号远征队》的 Balanced 模式时，FSR 4.1.2 Lite 耗时约 0.59 毫秒，几乎追平 XeSS SR 的 0.58 毫秒。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-24T09:09:58.790Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1d27a04c2fd4",
+    "title": "腾讯 WorkBuddy 接入模型 Kimi-K3.1-Pro，支持 100 万上下文",
+    "url": "https://www.ithome.com/1/017/412.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/017/412.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 24 日消息，今日，腾讯 WorkBuddy 宣布已接入模型 Kimi-K3.1-Pro。据介绍，WorkBuddy 同步接入高速版模型 Kimi K3.1 Pro Highspeed，同等智能，输出速度约 2-3 倍。目前资源紧张，现阶段仅对“企业旗舰版”及“个人订阅用户”优先开放。\n\n据介绍，Kimi K3.1 Pro 是全新 K3.1 系列的第一个模型，也是 Kimi 迄今能力最强的 3 万亿级参数模型，支持 100 万上下文。K3.1 Pro 在代码、3D 创作、金融研究和其他长程 Agent 能力上的提升尤为显著。\n\nIT之家注意到，在 Kimi K3.1 Pro 的研发中，大幅增加了强化学习（RL）环节的算力投入。在代码、Agent 和知识类基准上，K3.1 Pro 达到或接近最强闭源模型的水平。Terminal-Bench 4.0 通过真实环境中资源受限的终端任务考察编程智能体的能力，每项任务均设有严格的专项测试。K3.1 Pro 在此项评估中得分 65.7%，超过 GPT-6 Astra（58.2%），与 Claude Opus 5.5（66.4%）仅有微弱差距。\n\nKimi K3.1 Pro 模型擅长 3D 创作与空间推理。在 BenchCAD 基准测试中，K3.1 Pro 借助工具得分 92.7%，接近 Claude Opus 5.5 的 96.2% 和 GPT-6 Astra 的 95.9%。该基准考察通过生成 CAD 代码，从多视角渲染图重建 3D 模型的能力。\n\n凭借更强的推理与工具调用能力，Kimi K3.1 Pro 能够端到端交付完整的金融工作流。在外部基准上，K3.1 Pro 在 OfficeQA Pro v2 和 SpreadsheetBench v2 两项基准测试中分别得分 64.4 和 36.3 ，均取得当前最优成绩（SoTA）。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-24T09:09:58.783Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
