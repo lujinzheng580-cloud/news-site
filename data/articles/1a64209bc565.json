@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 25 日消息，韩国知名游戏企业 KRAFTON（魁匠团）旗下人工智能分支 KRAFTON AI 本周公布了其从头训练的 Raon-1 mini 模型的预览版本，该模型的正式版和后续的更大模型即将推出。\n\nRaon-1 mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能，以 Apache 2.0 许可开源。KRAFTON AI 还在官网提供限时免费 API 试用。\n\nKRAFTON AI 表示，预览版的 Raon-1 mini 在编程与智能体任务上与 Meta 的 Muse Glimmer 30B 相当，同时速度更快、内存效率更高；此外其能进行自然的对话。\n\nhttps://raon-mini.krafton.ai/en\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-25T13:57:14.414Z",
+    "publishedAt": "2026-10-25T17:35:02.464Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
