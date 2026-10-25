@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "68394635eec0",
+    "title": "索尼 PS5 破解新进展：已可直接运行 Steam 游戏库中的 Windows 游戏",
+    "url": "https://www.ithome.com/1/017/540.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/017/540.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 25 日消息，PS5 的破解社区几乎每周都有新进展。现在破解后的 PS5 可以直接从 Steam 游戏库下载 Windows 游戏并在本机运行，不需要借助 PC 串流。\n\n实现该功能的工具是 Playden for PS5，这是开发者莱奥拉巴托（leolobato）推出的早期测试版启动器，移植自 macOS 版本的 Playden。用户可以扫码登录 Steam，浏览游戏库、下载游戏，还能在 PS5 主界面通过独立图标启动游戏。底层依托 prospero-win，也就是 Wine 在 PS5 上的移植版本，图形渲染部分由 DXVK 负责。和在 PS5 上安装 Linux 系统不同，它不需要单独引导另一套系统，Playden 本身就是一个普通的 PS5 应用。\n\nIT之家注意到，项目开发推进速度很快。首个公开版本在 10 月 12 日发布，0.5.0 版本借助 VKD3D-Proton 新增 Direct3D 12 支持，更新日志称这项改动让《赛博朋克 2077》《深岩银河》这类游戏具备了运行条件。本周更新的 0.6.0 版本新增 USB 和 FTP 导入游戏功能、120Hz 输出以及 4K 分辨率选项。当然，该项目仍处在实验阶段。兼容列表里虽然有不少可以正常运行的游戏，但大多是老作品和独立游戏，例如《半衰期 2》《辐射：新维加斯》《吸血鬼幸存者》，还有大量游戏会闪退或者无法启动。\n\n带有内核级反作弊的游戏无法运行，需要 EA App 这类第三方启动器的作品暂时也不支持。开发者同时提醒，Steam 登录令牌会以未加密形式保存在主机中。网上已经流出两段演示视频：Reddit 用户 u/Cevap 演示了《传送门》的实机游玩，X 平台用户 @v7dt1 展示了在 PS5 上加载完整 Steam 游戏库的效果。打算尝试的用户建议先备份云存档，程序漏洞有可能覆盖存档文件。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-25T04:48:01.453Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
