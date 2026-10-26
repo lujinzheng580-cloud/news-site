@@ -11,7 +11,7 @@
     "content": "IT之家 10 月 26 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子、SK 海力士两家 DRAM 制造商计划在 2027 年第 2 季度实现八层堆叠 (8Hi) HBM4 内存堆栈的全面量产并向 NVIDIA（英伟达）出货。\n\n三星电子、SK 海力士当前产出的 HBM4 内存主要为容量更大的 12Hi 版本。但这也意味着单一堆栈中包含更多 DRAM Die，同等带宽成本更高、堆栈更少，且堆叠更高也意味着良率的下滑。\n\n报道宣称英伟达在 2026Q3 就 8Hi HBM 供应事宜同两大原厂进行了认真讨论。这一计划变更主要是因为英伟达考虑在 Rubin Ultra 和标准 Rubin 中应用 8Hi HBM4 (E)，优化整体供应。\n\nIT之家注意到，英伟达已将 HGX Vera Rubin NVL8 和 HGX Rubin NVL8 的规格调整为系统合计 2TB HBM4，这应该对应着 8Hi 32GB 的 HBM4 堆栈。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-26T11:27:31.871Z",
+    "publishedAt": "2026-10-26T17:36:19.131Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
