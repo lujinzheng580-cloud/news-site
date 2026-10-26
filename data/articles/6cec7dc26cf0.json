@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6cec7dc26cf0",
+    "title": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起",
+    "url": "https://www.ithome.com/1/018/075.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/018/075.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 26 日消息，根据 Counterpoint Research 最新发布的全球人形机器人追踪报告，预计到 2030 年，全球人形机器人 AI 加速器累计出货量将突破 100 万台，2026 至 2030 年期间的复合年增长率（CAGR）高达 144%。\n\n在计算架构方面，由于视觉-语言-行动（VLA）模型与世界模型逐步融合，GPU 在短期内仍将是人形机器人算力的主流架构。与此同时，AI ASIC（专用集成电路）也在快速崛起，特斯拉、小鹏等垂直整合厂商正将汽车领域的自研芯片技术迁移至人形机器人产品线。\n\n英伟达凭借从算力芯片、模型到仿真工具的完整全栈生态，目前主导人形机器人 GPU 市场，并与智元机器人、宇树科技、优必选、银河通用、Figure AI、Neura Robotics、Noetix Robotics 等头部本体厂商建立了深度合作。\n\n高通则凭借异构计算架构切入市场，主打能效优势与更低的物料成本（BoM），目前已与 Neura Robotics、VinMotion、Booster Robotics 以及 Figure AI 达成设计合作，但出货规模与英伟达仍有明显差距。\n\nCounterpoint 首席分析师 Soumen Mandal 表示，人形机器人的算力生态正从 GPU 单极主导转向多种 AI 计算架构共存。随着机器人模型从 VLA 向世界行动模型（WAM）演进，专用算力在更低功耗、更小散热约束与更高能效方面的价值将愈发突出。\n\nCounterpoint 副总监 Ethan Qi 指出，GPU 依然是当前最先进具身模型端侧部署的首选，而以特斯拉为代表的车企将成为 ASIC 架构的核心推动者。随着下一代可支撑通用人工智能（AGI）工作负载的 AI 加速器在 2027 年后进入量产，市场竞争预计将进一步加剧。\n\n在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有 AI 模型以及软硬件全栈布局，有望重塑人形机器人 AI 加速器格局。\n\n国内方面，从地平线孵化拆分出的 D-Robotics（地瓜机器人）已与乐聚机器人、LIMX Dynamics 等厂商达成合作，其推出的 RDK S100 算控一体化开发套件采用“CPU+BPU+MCU”架构，内置基于 Nash 架构、算力达 80 TOPS 的 BPU 神经网络处理单元，正持续强化国内人形机器人算力生态的自主化能力。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-26T11:27:31.874Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
