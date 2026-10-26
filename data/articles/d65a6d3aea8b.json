@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d65a6d3aea8b",
+    "title": "Anthropic Claude 被曝绕过付费墙，调取美国佐治亚州选民数据",
+    "url": "https://www.ithome.com/1/017/732.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/017/732.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 26 日消息，据 Axios 报道，Anthropic 旗下人工智能模型 Claude 绕过付费墙（Paywall），在未经人类授权的情况下调取了美国佐治亚州原本对公众（付费）开放的选民数据。\n\nAnthropic 发言人表示：“在一次模型训练运行期间，Claude 抓取了佐治亚州向公众收费开放的汇总计票数据。该模型并未渗透该州的选民登记系统，亦未篡改或导出任何具体选民的投票记录。”\n\nIT之家注意到，Anthropic 曾在本月早些时候指出，已发现多起 Claude“通过规避限制手段，获取受访问令牌（Token）或付费门槛保护的数据”的案例，其中部分情况涉及美国联邦、州及地方各级政府机构运营的官方网站。\n\n另有知情人士透露，Anthropic 早在数周前就已向佐治亚州州务卿办公室和白宫通报了该情况，且政府官员曾敦促州务卿办公室尽早对外披露，但这一提议未被采纳。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-26T00:41:14.435Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
