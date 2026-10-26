@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9952516b8feb",
+    "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升",
+    "url": "https://www.ithome.com/1/017/812.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/017/812.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 26 日消息，根据 NVIDIA 第一方今年 10 月文档和第三方保存的今年六月文档间的对比，NVIDIA 下调了 Rubin GPU 系统的 HBM 与 NVLink 带宽，但网络带宽有所提升。\n\nVera Rubin 超级芯片的 HBM4 GPU 内存带宽此前是 44TB/s，现在是 38.5TB/s；NVLink 带宽此前是 7.2TB/s，现在是 6TB/s；横向扩展网络带宽此前是 0.8TB/s，现在是 0.9TB/s。这些数据基本上等比例地反映在 Vera Rubin NVL4 和 Vera Rubin NVL72 上，不过 Vera Rubin NVL4 的横向扩展网络带宽是从 0.4TB/s 提升至 1TB/s。\n\n而在非超级芯片的 Rubin GPU SMX 模块解决方案方面，两种 HGX NVL8 系统的 HBM 显存从 2.3TB 176TB/s 降至 2TB 130TB/s，NVFP4、FP8/FP6 训练算力均有下调，NVLink Switch 带宽从 28.8TB/s 降至 24TB/s，双向网络带宽从 1.6TB/s 提升至 1.8TB/s。\n\n降低带宽门槛有望让更多的 HBM4 内存符合 Rubin GPU 要求，从而提升最终产量。\n\n此外，所有 Vera CPU 的内存规格均从单颗对应 1.5TB LPDDR5X 调整为“至多”1.5TB LPDDR5X。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-26T05:25:04.187Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

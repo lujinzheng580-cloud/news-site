@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3bf7e9aa2067",
+    "title": "瓦尔基里推出 PG 系列氮化镓 PC 电源：ATX 3.1 全模组铂金，至高 1200W",
+    "url": "https://www.ithome.com/1/017/834.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/017/834.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 26 日消息，瓦尔基里 (Valkyrie, Vk) 现已推出 PG 系列 PC 电源。其采用标准长 ATX 外形规格，符合 ATX12V 3.1 和 PCIe CEM 5.1 规范，配套全模组线材，获得 80 PLUS 与 PPLP 铂金转换效率认证。\n\nPG 系列电源应用氮化镓 (GaN) 半导体材料，电解电容与固态电容均来自日系品牌，主电容耐温 105℃，配备拥有撞色端子塑壳的 16AWG 镀锡铜芯 600W 12V-2×6 线材，采用主动式 PFC + 同步整流 + LLC + DC-DC 电路拓扑，可承受 235% 整机峰值负载。\n\n该电源配备 12025 风扇，支持智能启停模式；具备 OVP、OCP、SCP、VUP、OPP、OPP 安全防护，使用海拔上限 5000m，享受 10 年质保。\n\n瓦尔基里为 PG 系列 PC 电源提供黑色洛基与白色梅林 2 种主题外观，850W 售 599 元、1000W 售 699 元、1200W 售 799 元。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-26T05:25:04.185Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
