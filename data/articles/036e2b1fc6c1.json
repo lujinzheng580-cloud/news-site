@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "036e2b1fc6c1",
+    "title": "20 分钟压力测试：苹果 iPhone Duo 驾驭散热能力比三星 Galaxy Z Fold8 手机更强",
+    "url": "https://www.ithome.com/1/018/267.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/018/267.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 27 日消息，科技媒体 Tom's Guide 于 10 月 25 日发布实验室测试博文，对比了苹果 iPhone Duo 和三星 Galaxy Z Fold8 两款折叠手机的散热表现。\n\n本次测试使用 3DMark Wild Life Extreme 压力测试，持续约 20 分钟。测试结果来看，iPhone Duo 虽然机身表面温度更高，但持续性能明显领先，在稳定性、最高分和最低分三项指标上均胜出。\n\n测试采用 FLIR One 热成像摄像头记录机身背面温度。结果显示，Galaxy Z Fold8 的热量集中在靠近 CPU 的顶部区域，并逐渐扩散至背板和右侧屏幕。\n\n而 iPhone Duo 则将热量更均匀地分散到机身与屏幕的更大面积上。在同一位置测量，iPhone Duo 表面温度约为 103 华氏度（IT之家注：约 39.4 摄氏度），高于 Galaxy Z Fold8 的约 96 华氏度（约 35.6 摄氏度）。\n\n性能方面，iPhone Duo 的压力测试稳定性达到 67.9%，Galaxy Z Fold 8 仅为 51.4%；两者最佳循环得分分别为 7,639 分和 7,047 分，最低循环得分则为 5,184 分和 3,626 分。这意味着 iPhone Duo 在长时间高负载下更能维持图形性能。\n\n该媒体分析认为差异主要来自散热架构：iPhone Duo 配备 VC 散热系统，可将处理器热量快速导出并分散至机身；Galaxy Z Fold8 采用相对基础的散热材料，热量更易积聚在处理器附近。测试期间，Galaxy Z Fold 8 的内部核心温度从 95 华氏度升至 113 华氏度。\n\n对重度手游用户而言，这一结果具有参考价值：在 20 至 30 分钟高强度游戏中，更好的散热有助于维持更高帧率、减少卡顿。当然，该测试属于合成基准，实际表现仍会因应用、环境温度和系统调度而有所不同。\n\n《苹果首款折叠 iPhone Duo 运行温度高吗？海外媒体评测汇总》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-27T06:45:13.352Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
