@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2cee947347a4",
+    "title": "因后端 PHP 程序存在安全隐患，卡普空《街头霸王 5》PS4 与 Steam 版线上功能全面暂停",
+    "url": "https://www.ithome.com/1/018/584.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/018/584.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 27 日消息，卡普空今天发布紧急通知，将暂时停止销售 PS4 版和 Steam 版《街头霸王 5》游戏。\n\nIT之家了解到，卡普空此次停售是为了消除游戏后端 PHP 程序的安全隐患，目前游戏的在线功能暂时无法使用。修复工作完成之前，玩家仅可游玩离线模式，官方也在 PlayStation Store 和 Steam 平台暂时下架本作。\n\n此外，卡普空《生化危机》系列游戏的门户网站也暂时无法访问，目前正进行 PHP 版本升级。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-27T12:46:14.446Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

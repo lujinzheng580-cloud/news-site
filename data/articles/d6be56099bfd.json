@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d6be56099bfd",
+    "title": "消息称主要中系 CSP 与三星电子、SK 海力士洽谈服务器内存长期供应合同",
+    "url": "https://www.ithome.com/1/018/547.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/018/547.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 27 日消息，韩国《每日经济新闻》当地时间今日报道称，包括阿里巴巴、腾讯、字节跳动在内的中国主要云服务供应商 (CSP) 已在同三星电子、SK 海力士洽谈服务器内存长期供应协议 (LTA)。\n\n主要中系 CSP 与两大韩国 DRAM 制造商的谈判涉及服务器级 DDR 产品和 LPDDR。当前 x86 阵营的服务器 CPU 仍基本为 DDR 内存，Arm 服务器 CPU 则部分使用 LPDDR。相较 DDR，LPDDR 拥有更高带宽与能效，但服务器场景中的成熟度仍相对不足。\n\n报道提到，部分 DRAM 客户甚至要求签署十年期供应协议，这不仅大幅超出传统 LTA 的一年，也显著长于当前 LTA 常见的 3~5 年。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-27T12:46:14.448Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
