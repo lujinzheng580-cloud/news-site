@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1d625faa0c97",
+    "title": "英特尔 28 核 Nova Lake-S 早期跑分曝光：单核性能超 285K 和 AMD R9 9950X3D",
+    "url": "https://www.ithome.com/1/018/658.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/018/658.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 27 日消息，VideoCardz 昨日从 PassMark 的非公开基准数据库中挖出了一批标记为“Intel 0000”的测试记录，预计为英特尔下一代 Nova Lake-S 桌面处理器。\n\n其中一条 28 核 Nova Lake-S 样品的单核成绩最高达到 5210 分，比酷睿 Ultra 9 285K 的 5059 分高出约 3%，比 AMD 锐龙 9 9950X3D 的 4805 分高出约 8%，比酷睿 i9-14900KF 高约 12%。\n\n但由于是早期 ES 样品，其多核性能反而不及现有产品。PassMark 显示该样品实际睿频仅为 4.8GHz，远低于零售版可能达到的频率。\n\n28 核样品的 CPU Mark 总分最高为 61509 分，另一条记录为 60964 分。作为对比，酷睿 Ultra 9 285K 的同期基线为 67274 分，锐龙 9 9950X3D 为 72065 分。按 61509 分计算，28 核 Nova Lake-S 在多核性能上落后 285K 约 8.5%，落后 9950X3D 约 15%，略强于酷睿 i9-14900KF。\n\n除此之外，VideoCardz 还发现了四条 8 核 Nova Lake-S 的记录，标注为嵌入式平台，其中之一单核成绩 5085 分，同样小幅超过 285K 的 5059 分，但 CPU Mark 总分仅为 23478 分，其余三条在 9004 至 19168 分之间波动。这更像是开发阶段配置差异，而非产品本身的性能问题。\n\n根据目前已知信息，Nova Lake-S 将换用 LGA1954 插槽，引入 bLLC 大容量末级缓存，双计算芯片型号最高 288MB，直接对标 AMD 的 3D V-Cache。\n\n其中，28 核版本预计将在 2027 年第一季度首发，而采用双计算芯片、最高 52 核的旗舰 sku 要等到 2027 年年中才会发布，定位偏向 HEDT。\n\n《最强 Nova Lake 笔记本电脑处理器：28 核心英特尔酷睿 Ultra 9 4995HX 曝光》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-27T18:37:56.956Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
