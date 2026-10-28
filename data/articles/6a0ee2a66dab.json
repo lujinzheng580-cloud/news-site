@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6a0ee2a66dab",
+    "title": "“比苹果 Spotlight 更好用”：外媒初探微软 Win11 无 Bing 搜索体验",
+    "url": "https://www.ithome.com/1/018/737.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/018/737.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 28 日消息，科技媒体 Windows Latest 今天（10 月 28 日）发布博文，报道称微软正在向更多 Windows 11 用户，推送“无必应搜索”体验。\n\n用户可打开设置应用，在“设置 > 隐私和安全 > 搜索”路径下，关闭网页搜索建议及 Microsoft Store 建议，让开始菜单搜索回归以本地应用、文件、文件夹和系统设置为核心的界面。\n\n用户关闭该功能后，搜索首页将不再展示 Bing 热词、小测验、每日冷知识以及 MSN 相关内容，取而代之的是更简洁的最近本地搜索记录。用户也可手动删除不需要的历史条目，减少干扰性推荐。IT之家附上相关截图如下：\n\n实际体验方面，关闭网页搜索后，输入关键词可更快匹配本机应用、文件和设置；系统还增强拼写错误的容错能力，例如输入“Otl”或“Putlook”仍可能找到 Outlook。若本机没有匹配内容，用户更可能看到“未找到结果”，而不是跳转网页搜索。\n\n该媒体编辑表示他平时还在使用苹果 MacBook，他个人认为在应用检索速度和界面整洁度上，去除 Bing 后的 Windows 搜索体验要优于 macOS Spotlight，不过该结论仍属个人体验。\n\n《微软 Win11 预览版优化原生测速体验，不再开浏览器跳转 Bing》\n\n《初探 Win11 新版搜索体验：离线也能即时响应，自然语言可直接更改系统设置》\n\n《微软展示全新 Win11 搜索体验：从查找文件转向理解用户意图》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-28T01:47:44.673Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
