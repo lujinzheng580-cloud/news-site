@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "958d56edd123",
+    "title": "初探苹果 macOS 27 触控体验：窗口“红绿灯”按钮会变大",
+    "url": "https://www.ithome.com/1/019/259.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/019/259.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 29 日消息，科技媒体 AppleInsider 今天（10 月 29 日）发布博文，在现场体验配备 PROLED XDR 显示屏的首款触控 MacBook Pro 后，认为苹果并未把 macOS 改成 iPad 式界面，而是为触控操作做了局部适配。\n\n现场演示的苹果首款触控 MacBook Pro 运行 macOS 27 系统，仍保留键盘和触控板。在界面上最直观的变化是窗口左上角的红、黄、绿控制按钮，用户手指触碰后会放大，更容易准确点按。IT之家附上相关演示视频如下：\n\n在官方新闻稿中，苹果称在这款触控 MacBook Pro 上，还支持滑动滚动、双指缩放、拖动幻灯片等常见手势，用户也可双击窗口进入全屏，或滑动窗口让其平铺排列。\n\n在触控细节方面，Safari 的标签页在拖动排序时会抬起并放大，长按可调出触控专属菜单。\n\n在 Finder 应用中，苹果为“编辑标签”菜单也扩大了选项间距，让小尺寸控件更容易被指尖准确点选。\n\n在日历应用中，日程事件新增了触控专用的圆形缩放手柄，用户可以直接用手指调整事件时长或范围，而不必依赖精确的鼠标指针。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-28T20:21:02.998Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
