@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "06f09ef30fa3",
+    "title": "Ubiquiti 推出 UniFi 长距离交换机，可在 800m 距离通过网线提供 13W 功率",
+    "url": "https://www.ithome.com/1/018/933.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/018/933.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 28 日消息，Ubiquiti 当地时间 10 月 26 日宣布推出 UniFi 长距离交换机。该设备搭配兼容的户外长距离终端可将 PoE 供电延伸到 800m 的距离，简化户外网络部署。\n\n该网络交换机提供 8 个支持 PoE+++ 的 100MbE RJ-45、1 个 1GbE RJ-45、1 个 1GbE SFP，集成 1.3W 触控屏。其总 PoE 功率达 630W，单端口 PoE 输出功率可达 90W，在 100m 上可提供 71.3W、在 800m 上可提供 13W。\n\nUbiquiti UniFi Long-Range Switch 8 PoE 交换机本体售价 249 美元（IT之家注：现汇率约合 1,664 元人民币），每个户外长距离终端则是 99 美元（现汇率约合 661.4 元人民币）。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-28T08:13:17.297Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
