@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "64a5888094f1",
+    "title": "微软 Win11 安全中心换新颜：操作更清爽、状态更清楚、提示更好懂",
+    "url": "https://www.ithome.com/1/019/266.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/019/266.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 29 日消息，科技媒体 Windows Central 昨日（10 月 28 日）发布博文，报道称微软升级 Windows 安全中心（Windows Security）应用，在最新 1000.29680.0.1000 版本中重绘用户界面，从而更契合 Windows 11 整体风格。\n\n界面上，新版 Windows Security 应用重点更新导航、页面布局、字体、间距、颜色、控件与对话框等视觉元素，让其更符合 Windows 11 的现代设计语言。\n\n更新了导航和布局：Windows Security 的页面现在使用更一致的布局和导航，并且在不同的窗口大小下表现更佳。\n\n现代化的控件和对话框：更新控件、状态指示器、字体、间距、颜色和其他视觉元素，以在整个应用程序中提供更一致的体验。\n\n更清晰的状态和操作：微软改进了 Windows 安全中心的状态信息和可用操作的呈现方式。\n\n改进的设备安全信息：在受支持的受管设备上，设备安全详细信息现在可以逐步加载，以便更快地显示可用信息，同时改进了进度、错误、刷新和性能监控体验。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-29T00:16:58.300Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
