@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "fdfeffa695cf",
+    "title": "开发者成功在小米 REDMI K90 Pro Max 上运行苹果 iOS 17 系统，后续项目将开源",
+    "url": "https://www.ithome.com/1/019/409.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/019/409.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 10 月 29 日消息，近期大量开发者成功将苹果 iOS 系统移植到各种手机上运行，例如开发者 @江灵夏草 便发文，宣布已成功在小米 REDMI K90 Pro Max 上运行 iOS 17 系统，目前该移植项目已完成多项核心硬件的驱动适配，涵盖 GPU 图形渲染、多核 CPU 调度、120Hz 屏幕显示以及 USB 数据通道。\n\n该开发者表示，相应项目后续将正式开源至 UniXNU 代码仓库，面向全球技术社区开放，邀请开发者共同参与功能迭代与问题修复。\n\n后续，开发者将继续推进剩余模块调试，目标是完成 Wi-Fi 模块、屏幕亮度调节以及 IPA 安装包侧装功能，若后续条件成熟，还计划搭建私有服务器环境拓展更多系统级功能。\n\n不过受限于硬件驱动的适配门槛，当前仍有大量外围硬件尚未打通，相机模组、电源按键、音量按键、蜂窝通信基带以及扬声器等日常常用功能均无法正常使用，距离完整的日常使用体验仍有较大差距。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-29T06:19:41.510Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

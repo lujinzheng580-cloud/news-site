@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "cbc8fecc2b99",
+    "title": "Altera 公布 Agilex 2X 系列 FPGA，支持边缘物理 AI 应用",
+    "url": "https://www.ithome.com/1/019/438.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/019/438.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 29 日消息，FPGA（现场可编程门阵列）企业 Altera 美国当地时间 28 日公布了其全新产品组合 Agilex 2X。这一系列新品旨在支持包括边缘物理 AI 和为其提供动力的数字 AI 基础设施在内的全方位智能系统。\n\nAgilex 2X 基于 Altera 的成熟架构，同时引入了多项关键创新：增强型 AI 张量 DSP 模块、最新 Arm 内核、高带宽连接、端到端安全。这些改进为用户带来实际的体验优化。\n\n该产品家族包括 4 个具体的器件系列 Agilex 27 、Agilex 25、Agilex 23、Agilex 22，所有产品均支持一套相同的软件堆栈。\n\n此次率先推出的 Agilex 27 面向处理和带宽密集型应用。其采用第三代 HyperFlex 互连结构，实现了 1.8 倍的代际能效提升；支持自适应逻辑模块模式；提供至高 256Gbps 可配置收发器、800G / 1.6T 以太网硬化 IP、DDR5 / LPDDR5X / LPDDR6 内存接口、MIPI C-PHY 2.1 与 D-PHY 3.0、UCIe。其工程样品芯片预计将于 2027 年下半年推出。\n\n此外，Agilex 25 提供高性能架构和嵌入式计算，针对多种场景优化了 I/O、收发器、外围；Agilex 23 集成嵌入式计算、实时处理、功能安全功能；Agilex 22 非常适合以 I/O 为中心的系统。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-29T06:19:41.503Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

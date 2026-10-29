@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "44bac344f4d7",
+    "title": "AMD FSR SDK 2.4 发布，为 Vulkan 图形 API 带来 \"Redstone\" 特性",
+    "url": "https://www.ithome.com/1/019/408.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/019/408.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 29 日消息，AMD 当地时间 28 日发布了 2.4 版本的 FSR 软件开发套件。这是首个支持 Vulkan 的 FSR \"Redstone\" 版本，为该图形 API 带来了与 DirectX 12 相同的超分辨率与帧生成功能。\n\nAMD 提到，当前使用 AMD FSR 3.1 进行图像放大或帧生成的 Vulkan 游戏不会通过驱动程序自动升级到基于机器学习的 FSR 超分辨率或帧生成，因为这些升级仅适用于 DirectX 12 游戏。\n\nFSR SDK 2.4 也正式在 AMD Radeon RX 6000 系列独立显卡、多款锐龙 APU 上支持 FSR 超分辨率 4.1.2。需要注意的是，Radeon RX 6000 和锐龙 AI Max 处理器使用的是 Radeon 7000 系列同款 INT8 模型，而其余 APU 则仅支持大小不到一半的精简优化模型。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-29T06:19:41.511Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
