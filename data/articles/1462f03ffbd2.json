@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "1462f03ffbd2",
+    "title": "月之暗面 Kimi 接入谷歌 Gmail、云端硬盘和日历",
+    "url": "https://www.ithome.com/1/019/782.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/019/782.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 29 日消息，月之暗面今天在海外宣布，Kimi 现已接入谷歌 Gmail、Google Drive 和日历，用户可通过 Plugins（插件）页面启用。\n\n据官方介绍，用户现在可以总结 Gmail 邮件对话、查找 Google Drive 的文件，还能利用 Google 日历规划每日行程。所有操作均通过安全的 OAuth 授权机制进行。\n\nIT之家了解到，Kimi 插件是接入 Kimi AI 的外部工具与服务扩展，能够让 Kimi 在处理任务时直接调用第三方能力或自动化执行操作。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-29T19:16:03.058Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
