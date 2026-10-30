@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "70a0070b8e26",
+    "title": "热启动最高提速 33%：微软给 Win11 装上“加速器”，惠及 Edge / Chrome 等浏览器",
+    "url": "https://www.ithome.com/1/019/883.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/019/883.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 30 日消息，科技媒体 Windows Central 昨日（10 月 29 日）发布博文，报道称本月面向 Windows 11 25H2/26H2 的可选更新 KB5127936 中，微软引入“加速应用启动”新功能，已率先应用于 Microsoft Edge 浏览器，并计划向 Chrome 等浏览器开放。\n\n在运行机制方面，可以参考IT之家此前发布的《Edge 浏览器率先受益：微软优化 Win11 后台应用打开速度，绕过多余进程》文章，“加速应用启动”功能主要针对“热启动”，即应用已经在后台运行的情况。\n\n用户过去通过链接打开 Edge 后，Windows 需要先启动一个中间进程，判断 Edge 是否已在运行。新机制则让应用在首次启动时向系统注册，后续通过“开始”菜单、任务栏或受支持的链接打开时，Windows 可更快定位该应用，从而缩短响应时间。\n\nMicrosoft Edge 浏览器已率先享受该特性，在多任务负载较重时，Edge 的启动速度最高可提升 33%，平均提升约 15%。微软还在探索将该机制用于更快打开 PDF 文件。\n\n值得注意的是，微软并未将这项能力保留为 Edge 独占。公司已将相关代码贡献给 Chromium 开源项目，意味着 Chrome、Brave、Vivaldi 等基于 Chromium 的浏览器未来也有望接入加速启动。\n\n《微软发布 Win11 28000.3365 可选更新：Copilot 键可改键，Edge 支持加速启动》\n\n《Edge 浏览器率先受益：微软优化 Win11 后台应用打开速度，绕过多余进程》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-30T02:59:40.928Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
