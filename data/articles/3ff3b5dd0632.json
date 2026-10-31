@@ -11,7 +11,7 @@
     "content": "近日，DeepSeek Harness团队发文介绍Super-agent架构。该架构由Router统筹和Worker执行组成，使AI能持续在线、多任务并行，并基于群聊等外部事件主动响应，在后台静默修复Bug。此前传统Agent受单会话限制，难以多任务并行。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-10-31T17:56:54.623Z",
+    "publishedAt": "2026-10-31T21:23:33.908Z",
     "tags": "[\"baidu\"]",
     "viewCount": 0
   }
