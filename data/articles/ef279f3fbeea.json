@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ef279f3fbeea",
+    "title": "Anthropic 出手：Claude Opus 5.5 不再帮你“AI 复刻游戏”",
+    "url": "https://www.ithome.com/1/020/471.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/020/471.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 10 月 31 日消息，游戏媒体 gamedeveloper 今天（10 月 31 日）发布博文，报道称 Anthropic 已在 AI 编程工具 Claude Code 中，限制 Opus 5.5 模型帮助用户复刻特定现有游戏。\n\n开发者 @chasmmmmmmmmmmm 昨日（10 月 30 日）在 X 平台发布推文，称 Claude Code 在 10 月 27 日前后，为 Opus 5.5 模型新增了一条无法关闭的规则：\n\n可以制作原创游戏、某一类型的游戏，以及基于用户自有设计与素材的游戏；不得复刻某个具体现有游戏，即使改名或自称原创也不行。\n\nAnthropic 技术成员 Addy Osmani 随后回应称，公司已在 Claude Code 的提示词中加入两句引导内容，以避免其“重现他人的特定游戏”。他强调，使用 Claude 侵犯知识产权违反平台使用政策，而原创游戏、类型化游戏及使用自有素材开发的游戏仍可正常进行。IT之家附上相关截图如下：\n\n根据目前公开信息，这项“禁止复刻特定现有游戏”的限制仅明确针对 Opus 5.5 模型中的 Claude Code。Anthropic 表示，他们在 Opus 5.5 的 Claude Code 提示词中加入了“两句引导内容”，让模型避免重现他人特定游戏。报道并未说明 Anthropic 已将同样规则推广到其他 Claude 模型或所有 Claude Code 版本。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-31T06:51:47.991Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

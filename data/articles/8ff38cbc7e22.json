@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8ff38cbc7e22",
+    "title": "告别“网页套壳”：微软完善 Win11 原生框架 WinUI 体验，减少内存占用",
+    "url": "https://www.ithome.com/1/020/443.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/020/443.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称微软于 10 月 27 日发布 Windows App SDK 2.6.4，进一步完善 Windows 11 原生应用框架 WinUI 体验，规避“网页套壳”应用的内存占用问题，提升应用稳定性和兼容性，并增强 AI 功能。\n\nIT之家附上 Windows App SDK 2.6.4 更新内容如下：\n\n简化 Language Model API 访问：不再要求应用先解锁 Language Model Limited Access Feature (LAF) 才能使用 Language Model API；变更标识为 LanguageModel_RemoveLimitedAccessFeatureRequirement。\n\n升级 ONNX Runtime ：内置 ONNX Runtime 更新至 1.27.1，用于改善 Windows AI / 机器学习相关运行时能力。\n\n修复文本控件关闭崩溃：当 TextBox、RichEditBox 等文本控件在应用关闭时仍存活，而 XAML core 正在销毁，可能触发访问冲突崩溃；该问题已修复，变更标识为 CCoreServices_InputServicesTeardownOrder。\n\n可靠性与诊断修复：官方说明该版本还包含覆盖 WinUI 3、应用生命周期、通知、Composition 和 Windows AI 的可靠性及诊断改进。\n\n在 9 月 29 日发布的 Windows App SDK 2.5.4 实验版中，微软进一步补齐 WinUI 缺失的基础功能，已整合 TableView、Chart 以及 InkCanvas / InkToolbar，开发者可通过 WinUI Gallery 3.0 试用，但微软明确表示这些控件尚未达到可用于正式产品的成熟度。\n\n这项变化直指 Windows 11 应用生态的一个老问题：由于 WinUI 长期缺少数据表格、图表和手写输入等基础控件，不少开发者转向 Electron、WebView2 等 Web 技术构建桌面应用。\n\n该媒体指出这意味着未来 Windows 11 上的办公、财务、笔记和管理类应用有望更轻、更快、更贴近系统体验。但能否真正减少“网页套壳”应用，仍取决于这些实验性功能何时转正，以及微软能否继续补齐性能、设计器工具和更完整的控件生态。\n\n新增的 TableView 支持展示、排序、筛选、分组和编辑大量记录，并提供列宽调整、冻结列、模板列、编辑校验和虚拟化行等功能；微软的演示应用可处理 11 列、5000 条交易数据。\n\nChart 则提供折线图、面积图和柱状图，支持类别与时间轴、图例、数据标签及多数据系列。InkCanvas 与 InkToolbar 让应用原生支持触控笔、手指和鼠标书写，可用于笔记、签名和批注等场景。\n\n新控件仍有明显限制，TableView 并非完整的 DataGrid 替代品，暂不支持电子表格式交互、多行选择、多列排序、多级分组和列顺序调整；Chart 也缺少饼图、缩放和平移等常见能力。\n\n微软在 Build 2026 上承认 WinUI 存在“大量功能缺口”，并开始推动开发者回归原生开发。除新增控件外，Windows App SDK 2.5.4 还修复了导致内存持续增长的资源跟踪问题，并改进了 .NET 应用中不可达 WinUI 对象的清理机制。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-31T06:51:47.994Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

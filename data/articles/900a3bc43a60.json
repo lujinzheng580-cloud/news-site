@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "900a3bc43a60",
+    "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度",
+    "url": "https://www.ithome.com/1/020/474.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/020/474.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 31 日消息，AI 编程工具 OpenCode 今天（10 月 31 日）在 X 平台发布推文，宣布启动 Operation Cheepseek 第四阶段，订阅用户可使用价值 100 美元（现汇率约合 667 元人民币）的 DeepSeek V4.1 Flash 模型额度。\n\nIT之家注：Operation Cheepseek 是 OpenCode 推出的低成本高额度模型使用计划，由“cheap（便宜）”和“DeepSeek”组合而来，主要是为订阅用户提供远超订阅价格的 DeepSeek V4.1 Flash 调用额度。\n\n该计划主要面向每月 10 美元（现汇率约合 66.7 元人民币）的 OpenCode Go 订阅用户，让他们能以低价获得 DeepSeek V4.1 Flash 的大额模型用量：\n\n第一阶段：提高 DeepSeek V4.1 Flash 用量，额度价值为 30 美元（现汇率约合 200.1 元人民币）\n\n第二阶段：将原本限时提升的额度转为永久有效，额度价值为 60 美元（现汇率约合 400.2 元人民币）\n\n第三阶段：配合 OpenCode 达成 10 万 GitHub Stars 庆祝，取消峰谷限制，额度价值为 80 美元（现汇率约合 533.6 元人民币）\n\n第四阶段：再次提高订阅内模型用量，形成“10 美元（现汇率约合 66.7 元人民币）订阅、100 美元（现汇率约合 667 元人民币）模型额度”的杠杆，额度价值为 100 美元（现汇率约合 667 元人民币）\n\nDeepSeek V4.1 Flash 是 DeepSeek 于 9 月发布的原生多模态混合专家模型，总参数量为 552B，支持文本与图像输入、函数调用、智能体工作流，以及最高约 100 万 token 的上下文窗口。其输入侧每 token 激活约 8B 参数、输出侧约 16B 参数，因此面向长上下文和智能体式任务时具有较低推理成本。\n\n对普通开发者和 AI 编程工具用户而言，额度提升后最直接的影响是：在同样的 OpenCode 订阅下，可以完成更多代码生成、代码审查、文档理解、多轮工具调用和长文档分析任务。\n\n不过，100 美元（现汇率约合 667 元人民币）额度并不等同于现金余额，会按模型调用计费折算的使用价值；实际可用量仍会受请求频率、上下文长度、输入输出规模及平台速率限制影响。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-31T06:51:47.990Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

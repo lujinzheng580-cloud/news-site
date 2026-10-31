@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a0d7f5cd5197",
+    "title": "微软给用户吃“定心丸”：OneDrive 用户名枚举攻击风险有限，已限流遏制",
+    "url": "https://www.ithome.com/1/020/462.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/020/462.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 10 月 31 日消息，就企业客户关注的 OneDrive URL 探测问题，微软公司回应表示：攻击者通过批量访问 OneDrive 或 SharePoint 链接，可能枚举出用户主体名称（UPN），进而用于精准网络钓鱼、撞库、暴力破解或社会工程攻击。\n\n不过微软把这种“用户名枚举”归类为低风险侦察手段，认为其本质是被动的，本身无法绕过身份验证、直接获取账户权限。\n\n微软解释称，OneDrive 和 SharePoint 的 URL 中常包含 UPN，攻击者可以据此判断某个用户身份是否存在。更值得注意的是，这类 URL 探测行为不会出现在 Microsoft Entra 登录日志或 Microsoft Purview 中，因此安全团队目前难以直接发现、也无法收到相关告警。\n\n微软并非完全放任该风险，若某个客户端反复尝试访问大量不存在的 OneDrive 站点集合，微软可能对该 IP 进行限流；在限制期内，该客户端访问 OneDrive 站点时会收到 HTTP 429“请求过多”错误，从而提高批量枚举的难度。\n\nIT之家援引博文介绍，微软强调，真正的风险在于“后续攻击”：攻击者拿到有效用户名后，可能发起更有针对性的钓鱼邮件、凭证填充或冒充沟通。\n\n对此微软建议给账户启用多因素身份验证（MFA），配置条件访问（Conditional Access）和登录风险策略，部署钓鱼防护，并持续开展员工安全意识培训。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-31T06:51:47.992Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
