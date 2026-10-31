@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3ff3b5dd0632",
+    "title": "DeepSeek重磅发布：AI开始指挥AI干活",
+    "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB",
+    "source": "baidu",
+    "sourceId": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB",
+    "category": "ai",
+    "summary": "近日，DeepSeek Harness团队发文介绍Super-agent架构。该架构由Router统筹和Worker执行组成，使AI能持续在线、多任务并行，并基于群聊等外部事件主动响应，在后台静默修复Bug。此前传统Agent受单会话限制，难以多任务并行。",
+    "content": "近日，DeepSeek Harness团队发文介绍Super-agent架构。该架构由Router统筹和Worker执行组成，使AI能持续在线、多任务并行，并基于群聊等外部事件主动响应，在后台静默修复Bug。此前传统Agent受单会话限制，难以多任务并行。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-10-31T17:56:54.623Z",
+    "tags": "[\"baidu\"]",
+    "viewCount": 0
+  }
+}
