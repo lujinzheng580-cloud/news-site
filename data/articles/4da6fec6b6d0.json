@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4da6fec6b6d0",
+    "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+    "url": "https://www.ithome.com/1/020/645.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/020/645.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 1 日消息，OpenAI 发布公告，宣布从 12 月开始，随着将 Work 的智能体能力引入至 ChatGPT 主要体验中，Plus、Pro 以及 Business 订阅方案的用户将在 ChatGPT 与 Codex 之间共享统一的使用额度。\n\nIT之家获悉，在 ChatGPT 和 Codex 上的用量将统一按 Token 进行计量。额度的实际消耗速度取决于选用的模型及任务复杂度，而即时对话（Instant Chat）不占用额度。\n\n官方表示，正在全面推进过渡筹备工作，以确保用户工作流程不受干扰。预计绝大多数用户等待额度重置的频率不会高于此前。\n\n届时，用户可以在设置 → 使用量（Settings → Usage）中统一查看合并后的剩余额度及下次重置时间。若额度耗尽，用户可以选择等待额度自动重置、升级订阅方案，或是增购点数（Credits）来继续使用相关功能。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-01T00:21:37.216Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

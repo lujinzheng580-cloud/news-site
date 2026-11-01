@@ -2,138 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "f154eac7137b",
-      "title": "影史经典《海上钢琴师》11 月 13 日再次内地重映，豆瓣评分 9.3",
-      "url": "https://www.ithome.com/1/020/574.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.102Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1c534b5f36f5",
-      "title": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”",
-      "url": "https://www.ithome.com/1/020/575.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.101Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "083a543c9eec",
-      "title": "涉电动汽车、App 适老化等，500 多项国家标准下月实施",
-      "url": "https://www.ithome.com/1/020/577.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.101Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "8c780751b63f",
-      "title": "机械革命推出 JG02M 与 JG03M 电竞鼠标：54g 轻量化，79.9 元起",
-      "url": "https://www.ithome.com/1/020/578.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.101Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ff498912ba53",
-      "title": "乐元素 UE5 二游《白银之城》定档 12 月 14 日全球公测，登陆 PC、PS5 及移动平台",
-      "url": "https://www.ithome.com/1/020/582.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.101Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6c5c90e8cd03",
-      "title": "马斯克发“笑脸”评论币安遭黑客攻击新闻，赵长鹏称现在不适合开玩笑",
-      "url": "https://www.ithome.com/1/020/583.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.100Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "140add0a3b1d",
-      "title": "Waymo 无人驾驶出租车长期霸占充电桩，美国电车车主不胜其扰",
-      "url": "https://www.ithome.com/1/020/585.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.100Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ada44110e67d",
-      "title": "宏碁非凡 Go Air 新增 16+512GB 存储版本：酷睿 Ultra 5 125H 售 6999 元，999g 轻薄设计",
-      "url": "https://www.ithome.com/1/020/586.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.100Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c4637e38710a",
-      "title": "漫步者花再 x 影驰 NEW CYBER 星曜娘 LUNA 联名海景房音响上市：内置立体手办 + 彩屏交互，售 1599 元",
-      "url": "https://www.ithome.com/1/020/588.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.100Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "905db756b911",
-      "title": "全新一代智己 LS6 首月交付突破 8000 台，19.79 万元起",
-      "url": "https://www.ithome.com/1/020/589.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.100Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "221e47658bf1",
-      "title": "马斯克再撕比尔盖茨：一边资助攻击我的人，一边做空特斯拉",
-      "url": "https://www.ithome.com/1/020/590.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.099Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ba4632f64434",
-      "title": "山东海阳核电项目三期工程开工：单台机组提升至 130 万千瓦，将成全球最大非能动核电基地",
-      "url": "https://www.ithome.com/1/020/591.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.099Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "c712f46263c2",
       "title": "总投资约 295 亿，全球首条印刷 OLED G8.6 代产线 TCL 华星 t8 项目设备正式搬入",
       "url": "https://www.ithome.com/1/020/592.htm",
@@ -141,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.099Z",
+      "publishedAt": "2026-11-01T00:21:37.227Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +20,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.099Z",
+      "publishedAt": "2026-11-01T00:21:37.227Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +31,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.098Z",
+      "publishedAt": "2026-11-01T00:21:37.226Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +42,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.098Z",
+      "publishedAt": "2026-11-01T00:21:37.226Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.098Z",
+      "publishedAt": "2026-11-01T00:21:37.226Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.098Z",
+      "publishedAt": "2026-11-01T00:21:37.226Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.097Z",
+      "publishedAt": "2026-11-01T00:21:37.225Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +86,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.097Z",
+      "publishedAt": "2026-11-01T00:21:37.225Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.097Z",
+      "publishedAt": "2026-11-01T00:21:37.225Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +108,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.096Z",
+      "publishedAt": "2026-11-01T00:21:37.225Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.096Z",
+      "publishedAt": "2026-11-01T00:21:37.225Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.096Z",
+      "publishedAt": "2026-11-01T00:21:37.224Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +141,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.096Z",
+      "publishedAt": "2026-11-01T00:21:37.224Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.095Z",
+      "publishedAt": "2026-11-01T00:21:37.224Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.095Z",
+      "publishedAt": "2026-11-01T00:21:37.224Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.095Z",
+      "publishedAt": "2026-11-01T00:21:37.223Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.095Z",
+      "publishedAt": "2026-11-01T00:21:37.223Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +196,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.094Z",
+      "publishedAt": "2026-11-01T00:21:37.223Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.094Z",
+      "publishedAt": "2026-11-01T00:21:37.223Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.094Z",
+      "publishedAt": "2026-11-01T00:21:37.223Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.093Z",
+      "publishedAt": "2026-11-01T00:21:37.222Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.093Z",
+      "publishedAt": "2026-11-01T00:21:37.222Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +251,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.093Z",
+      "publishedAt": "2026-11-01T00:21:37.222Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.092Z",
+      "publishedAt": "2026-11-01T00:21:37.222Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +273,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.092Z",
+      "publishedAt": "2026-11-01T00:21:37.221Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.091Z",
+      "publishedAt": "2026-11-01T00:21:37.221Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.091Z",
+      "publishedAt": "2026-11-01T00:21:37.221Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.090Z",
+      "publishedAt": "2026-11-01T00:21:37.221Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,29 +317,194 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.090Z",
+      "publishedAt": "2026-11-01T00:21:37.220Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "53fed259a8c7",
-      "title": "央视曝光：2388元的蜜丸检出镇痛药",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A2388%E5%85%83%E7%9A%84%E8%9C%9C%E4%B8%B8%E6%A3%80%E5%87%BA%E9%95%87%E7%97%9B%E8%8D%AF",
+      "id": "0fe0d7ac17d7",
+      "title": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+      "url": "https://www.ithome.com/1/020/633.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.220Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f3a11a34e7f8",
+      "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动",
+      "url": "https://www.ithome.com/1/020/634.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.220Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2b80f5b95af3",
+      "title": "微软 Turn 10 与 Playground Games 游戏工作室合并，《极限竞速》负责人 Dan Greenawalt 辞职",
+      "url": "https://www.ithome.com/1/020/635.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.219Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "32942528b8aa",
+      "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+      "url": "https://www.ithome.com/1/020/636.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.219Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "25f64ca4fa9e",
+      "title": "微信支付智慧经营机器人首次进店：支持迎宾、导购、点单等，基于腾讯混元打造",
+      "url": "https://www.ithome.com/1/020/637.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.219Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a8085d73c483",
+      "title": "Linux Mint 系统将重新支持合盖休眠，带来全新终端和文件预览功能",
+      "url": "https://www.ithome.com/1/020/638.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.219Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "61e2aa8c7376",
+      "title": "消息称华硕可能结束手机业务：现有产品纷纷下市，已无零售商提供报价",
+      "url": "https://www.ithome.com/1/020/639.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.218Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b202eb7135d5",
+      "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+      "url": "https://www.ithome.com/1/020/640.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.218Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "73411905b4ba",
+      "title": "IT早报 1101：苹果中国官网上线 Apple 智能介绍页面；新款小米 SU7 Ultra 无伪装实车曝光；我国首次载人登月任务乘组计划由三人组成...",
+      "url": "https://www.ithome.com/1/020/641.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.218Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4cacf082843b",
+      "title": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+      "url": "https://www.ithome.com/1/020/642.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.217Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "28b44a8ad950",
+      "title": "联电 CEO 王石：成熟制程明年预计将涨价约 10%",
+      "url": "https://www.ithome.com/1/020/643.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.217Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "48554fe935f0",
+      "title": "BLG 2:0 HLE：英雄联盟 S16 全球总决赛 8 强诞生，LPL 赛区三支队伍晋级",
+      "url": "https://www.ithome.com/1/020/644.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.216Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4da6fec6b6d0",
+      "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+      "url": "https://www.ithome.com/1/020/645.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.216Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7871911f3772",
+      "title": "日本首家大疆、哈苏概念旗舰店开业，主打融合体验",
+      "url": "https://www.ithome.com/1/020/646.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.215Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "82e2c8dcee37",
+      "title": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+      "url": "https://www.ithome.com/1/020/647.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.215Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8594f9daa55e",
+      "title": "多地小学老师转岗教中学",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%BD%AC%E5%B2%97%E6%95%99%E4%B8%AD%E5%AD%A6",
       "source": "baidu",
       "category": "general",
-      "summary": "一款号称专治腰腿疼痛的白芷蝮蛇丸，标注为方便食品，售价高达2388元一罐。央视曝光，该产品违规添加元胡，其天然含镇痛药罗通定；它成本仅约41元，五年销售额超1100万元，商家还伪造资质证书，涉案负责人已被采取刑事强制措施。",
+      "summary": "近期，多地在小学老师出现“富余”而中学老师存在缺口的情况下，通过将部分老师转岗至初中任教，解决小学老师过剩而中学师资不足的矛盾。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "e655f06ff1e6",
-      "title": "“毛孩子”的饭碗没那么好端了",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D%E7%9A%84%E9%A5%AD%E7%A2%97%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD%E7%AB%AF%E4%BA%86",
+      "id": "aa21d7241ea6",
+      "title": "31省份居民消费榜：谁最能花钱",
+      "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E5%B1%85%E6%B0%91%E6%B6%88%E8%B4%B9%E6%A6%9C%EF%BC%9A%E8%B0%81%E6%9C%80%E8%83%BD%E8%8A%B1%E9%92%B1",
       "source": "baidu",
       "category": "general",
-      "summary": "10月30日，六家宠物食品上市公司三季报出炉。第三季度其营收合计约52.28亿元，归母净利润合计约1.47亿元，同比下降约62.34%，均增收不增利。收入放缓后，原材料涨价、汇率波动及销售投入增加挤压利润。目前行业进入洗牌期，企业正寻找高端功能主粮等细分机会并重新安排投入。",
+      "summary": "最新发布的《中国统计年鉴2026》披露2025年31省份居民人均消费支出数据。分析显示，消费金额最高的京沪两地消费倾向反而最低，呈“高收入、低倾向”；甘肃等中西部省份因刚性支出占比高，消费倾向较高。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -482,84 +515,84 @@
       "category": "business",
       "summary": "本周，一组经济数据新鲜出炉，海洋经济彰显发展韧性，绿色电力保障更加充足，消费品以旧换新激活内需潜力，多点协同发力，尽显中国经济发展活力。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "8542c8ee4b77",
-      "title": "人民日报评朱之文被“黑粉”举报",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%9C%B1%E4%B9%8B%E6%96%87%E8%A2%AB%E2%80%9C%E9%BB%91%E7%B2%89%E2%80%9D%E4%B8%BE%E6%8A%A5",
+      "id": "8bba46f78ac5",
+      "title": "29.9元3小时的无人自助KTV开遍县城",
+      "url": "https://www.baidu.com/s?wd=29.9%E5%85%833%E5%B0%8F%E6%97%B6%E7%9A%84%E6%97%A0%E4%BA%BA%E8%87%AA%E5%8A%A9KTV%E5%BC%80%E9%81%8D%E5%8E%BF%E5%9F%8E",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，人民日报刊文评“大衣哥”朱之文遭黑粉举报致十余场演出取消一事，称是否劣迹须权威认定，恶意举报不能成伤人“暗器”，也应保护被举报者权益。",
+      "summary": "国庆期间，平价无人自助KTV在县城爆火。该业态因技术成本降低及契合年轻人消费习惯迅速扩张，国内已涌现数千家门店。但当前入局者激增导致赛道快速饱和，曾流传的“一年回本”神话不再。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "557c9390af6e",
-      "title": "夫妻因一餐5个菜闹到要离婚",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A",
+      "id": "87863326bab7",
+      "title": "国乒男单全部出局",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E9%83%A8%E5%87%BA%E5%B1%80",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，一对夫妻因做5个菜闹到民政局要离婚。丈夫认为一家三口吃5个菜太浪费；妻子则表示两人异地一月才见一次，这桌菜是盼望已久的团聚心意。媒体评价，很多婚姻裂痕并非原则大事，婚姻最难之处在于读懂对方没说出口的爱。",
+      "summary": "11月1日，2026WTT蒙彼利埃冠军赛男单四强出炉，国乒男单已全部出局，连续三届无缘该赛事冠亚军。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c4449eca138a",
-      "title": "女子买的侏儒猪长到200斤 1天遛5小时",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E4%BE%8F%E5%84%92%E7%8C%AA%E9%95%BF%E5%88%B0200%E6%96%A4+1%E5%A4%A9%E9%81%9B5%E5%B0%8F%E6%97%B6",
+      "id": "eb2c62c842d6",
+      "title": "高市屡次引导外国领导人向日旗鞠躬",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%B1%A1%E6%AC%A1%E5%BC%95%E5%AF%BC%E5%A4%96%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%90%91%E6%97%A5%E6%97%97%E9%9E%A0%E8%BA%AC",
       "source": "baidu",
       "category": "general",
-      "summary": "日前，马女士网购了一只商家宣称患侏儒症的宠物猪，几个月后小猪竟长成200多斤普通肉猪。如今每月饲养开销至少两三千元，她只能骑车带它去没人的地方遛5小时。马女士借此提醒大家勿轻信虚假宣传。",
+      "summary": "据悉，高市早苗屡次引导外国领导人向日旗鞠躬。此前，高市曾试图引导美国总统特朗普、孟加拉国总理拉赫曼、德国总理默茨等向日旗鞠躬。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "535c8760565f",
-      "title": "无锡队夺苏超冠军",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A0%E9%94%A1%E9%98%9F%E5%A4%BA%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B",
+      "id": "21efcae73fc2",
+      "title": "国乒包揽女单四强",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "北京时间11月1日，2026WTT蒙彼利埃冠军赛女单1/4决赛，陈熠4比0横扫佐藤瞳，晋级女单四强。至此，中国队的王艺迪、孙颖莎、蒯曼、陈熠包揽女单四强。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "7851925f00bd",
-      "title": "卖650万捐赠房产要缴450万的税",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E",
+      "id": "7733b3841376",
+      "title": "全网戒不掉的红果怕“捧杀”",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E6%88%92%E4%B8%8D%E6%8E%89%E7%9A%84%E7%BA%A2%E6%9E%9C%E6%80%95%E2%80%9C%E6%8D%A7%E6%9D%80%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "目前，上海徐汇区一对无儿无女的老夫妇遗赠房产与积蓄救助先心病患儿遇阻。老人离世后，基金会在处置房产变现时却遇高额税费。一套房产650万元，要缴450万元的税。",
+      "summary": "10月26日，传媒人秦朔发文称中国互联网进入“字节时间”，指红果短剧日活1.68亿、人均单日观看125分钟成“杀时间大王”。抖音副总裁李亮随后连续发文反驳，称该说法极不严谨且有“捧杀”风险，双方展开交锋。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "3ff3b5dd0632",
-      "title": "DeepSeek重磅发布：AI开始指挥AI干活",
-      "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E5%8F%91%E5%B8%83%EF%BC%9AAI%E5%BC%80%E5%A7%8B%E6%8C%87%E6%8C%A5AI%E5%B9%B2%E6%B4%BB",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "近日，DeepSeek Harness团队发文介绍Super-agent架构。该架构由Router统筹和Worker执行组成，使AI能持续在线、多任务并行，并基于群聊等外部事件主动响应，在后台静默修复Bug。此前传统Agent受单会话限制，难以多任务并行。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1dba3a338a43",
-      "title": "孙颖莎4比3早田希娜",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C",
+      "id": "50dd502910de",
+      "title": "孙颖莎把早田希娜打哭了",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8A%8A%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E6%89%93%E5%93%AD%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "10月31日，蒙彼利埃冠军赛1/4决赛中，孙颖莎决胜局顶住压力，4-3战胜早田希娜，取得对早田希娜的22连胜，晋级女单四强。",
+      "summary": "11月1日，早田希娜在比赛中看笔记对战孙颖莎。战至9比9的关键时刻，双方陷入谁不失误谁赢的胶着局面。最终早田希娜落败被打哭，孙颖莎取得对阵早田希娜的22连胜。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "cbb4cac35176",
+      "title": "BLG 2比0 HLE",
+      "url": "https://www.baidu.com/s?wd=BLG+2%E6%AF%940+HLE",
+      "source": "baidu",
+      "category": "general",
+      "summary": "11月1日，在英雄联盟2026全球总决赛瑞士轮第八日比赛中，来自中国大陆LPL赛区的二号种子BLG战队，以2:0的比分战胜来自韩国LCK赛区的二号种子HLE战队，成功晋级八强。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -570,97 +603,64 @@
       "category": "general",
       "summary": "广西警方近日查处一起网络造谣案件，一男子编造“石场死了三个”的虚假信息并发布，构成虚构事实扰乱公共秩序。‌‌该男子已被警方依法行政拘留五日‌。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "9db492041792",
-      "title": "福建发现新物种",
-      "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%8F%91%E7%8E%B0%E6%96%B0%E7%89%A9%E7%A7%8D",
+      "id": "557c9390af6e",
+      "title": "夫妻因一餐5个菜闹到要离婚",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%9B%A0%E4%B8%80%E9%A4%905%E4%B8%AA%E8%8F%9C%E9%97%B9%E5%88%B0%E8%A6%81%E7%A6%BB%E5%A9%9A",
       "source": "baidu",
       "category": "general",
-      "summary": "科研人员在福建省永安天宝岩国家级自然保护区发现大型真菌新物种海氏暗盘菌。针对网友关心的能否食用问题，科研人员提醒，该物种食用性尚未深入研究，参照同类型暗盘菌资料大概率不可食用，野外遇见切勿采摘品尝。",
+      "summary": "近日，一对夫妻因做5个菜闹到民政局要离婚。丈夫认为一家三口吃5个菜太浪费；妻子则表示两人异地一月才见一次，这桌菜是盼望已久的团聚心意。媒体评价，很多婚姻裂痕并非原则大事，婚姻最难之处在于读懂对方没说出口的爱。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "192f2bc219ca",
-      "title": "首部AI电影成本千万周票房不到150万",
-      "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "首部AI院线电影《三星堆：未来往事》自10月23日上映一周票房仅149.5万元。因成片效果被指粗糙，出品方博纳影业股价曾跌停。此前博纳欲打造AI影视制作等新盈利点，但目前该业务体量极小，未能扭转亏损局面。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "4052c1ad1484",
-      "title": "顾客用金包铜当金条典当骗走130.1万",
-      "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%94%A8%E9%87%91%E5%8C%85%E9%93%9C%E5%BD%93%E9%87%91%E6%9D%A1%E5%85%B8%E5%BD%93%E9%AA%97%E8%B5%B0130.1%E4%B8%87",
+      "id": "c4449eca138a",
+      "title": "女子买的侏儒猪长到200斤 1天遛5小时",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%9A%84%E4%BE%8F%E5%84%92%E7%8C%AA%E9%95%BF%E5%88%B0200%E6%96%A4+1%E5%A4%A9%E9%81%9B5%E5%B0%8F%E6%97%B6",
       "source": "baidu",
       "category": "general",
-      "summary": "",
+      "summary": "日前，马女士网购了一只商家宣称患侏儒症的宠物猪，几个月后小猪竟长成200多斤普通肉猪。每月饲养开销至少两三千元，因猪体型过大，她不敢在附近遛，只能骑车带它去偏僻的地方。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "fe3bfef432ec",
-      "title": "江苏首富夫妇身家一年暴涨1120亿",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E9%A6%96%E5%AF%8C%E5%A4%AB%E5%A6%87%E8%BA%AB%E5%AE%B6%E4%B8%80%E5%B9%B4%E6%9A%B4%E6%B6%A81120%E4%BA%BF",
+      "id": "e655f06ff1e6",
+      "title": "“毛孩子”的饭碗没那么好端了",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%9B%E5%AD%A9%E5%AD%90%E2%80%9D%E7%9A%84%E9%A5%AD%E7%A2%97%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD%E7%AB%AF%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "10月27日，《2026胡润百富榜》发布。陈建华、范红卫夫妇以3020亿元首次跻身前十位列第六，登顶江苏首富。过去一年其财富暴涨1120亿元，增量仅次于首富张一鸣。",
+      "summary": "六家宠物食品上市企业三季报出炉：第三季度归母净利合计约1.47亿元，同比下降62.34%，前三季度均增收不增利，佩蒂、乖宝降幅超八成。目前行业进入洗牌期，企业正寻找高端功能主粮等细分机会并重新安排投入。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "5775d5e5aca8",
-      "title": "胡歌陈龙跨界当新闻主播手忙脚乱",
-      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%AD%8C%E9%99%88%E9%BE%99%E8%B7%A8%E7%95%8C%E5%BD%93%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E6%89%8B%E5%BF%99%E8%84%9A%E4%B9%B1",
+      "id": "aef1bdb0994e",
+      "title": "德总统在华发声：世界历史上前所未有",
+      "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E6%80%BB%E7%BB%9F%E5%9C%A8%E5%8D%8E%E5%8F%91%E5%A3%B0%EF%BC%9A%E4%B8%96%E7%95%8C%E5%8E%86%E5%8F%B2%E4%B8%8A%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，胡歌与陈龙在东方卫视最新栏目《一路前行》第三季中跨界担任新闻主播。二人登上播报台反复演练，并走进演播厅分享当地最新进展。此前，胡歌中学时期曾在上海教育电视台《阳光少年》节目当过主持人，此次可谓回归老本行。",
+      "summary": "10月29日，德国总统施泰因迈尔在北京大学发表演讲，称赞中国经济发展“世界历史上前所未有，深为钦佩”，希望两国加强交流合作。此前他于27日起访华，在安徽、北京参访。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "aa21d7241ea6",
-      "title": "31省份居民消费榜：谁最能花钱",
-      "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E5%B1%85%E6%B0%91%E6%B6%88%E8%B4%B9%E6%A6%9C%EF%BC%9A%E8%B0%81%E6%9C%80%E8%83%BD%E8%8A%B1%E9%92%B1",
+      "id": "12d5706bcac7",
+      "title": "美国中期选举最大“十月惊奇”出现了",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%9C%80%E5%A4%A7%E2%80%9C%E5%8D%81%E6%9C%88%E6%83%8A%E5%A5%87%E2%80%9D%E5%87%BA%E7%8E%B0%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "最新发布的《中国统计年鉴2026》披露2025年31省份居民人均消费支出数据。2025年全国人均消费支出29476元，同比增长4.4%，仅7个东部沿海省份超全国平均线。分析显示，消费金额最高的京沪两地消费倾向反而最低，呈“高收入、低倾向”；甘肃等中西部省份因刚性支出占比高，消费倾向较高。",
+      "summary": "近日，美国阿拉斯加州参议院选战因民主党候选人佩尔托拉团队涉嫌招募“搅局候选人”演变为本届中期选举最大“十月惊奇”。特朗普呼吁展开刑事诉讼，司法部已于29日扩大刑事调查范围并发出数十份传票。",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "3147d2763354",
-      "title": "女子花3元买彩票中1439万",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD1439%E4%B8%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "10月29日，吉林张女士凭一张3元追加投注单式票兑走大乐透一等奖，奖金1439万余元，该注大奖于10月26日开出。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6f6e6f2487af",
-      "title": "多地密集开始放秋假",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%AF%86%E9%9B%86%E5%BC%80%E5%A7%8B%E6%94%BE%E7%A7%8B%E5%81%87",
-      "source": "baidu",
-      "category": "general",
-      "summary": "越来越多地方推行中小学春秋假。其中，山东多个城市下周开始放休假。部分地区秋假时间为11月4—6日，一部分地区秋假时间为11月5日、6日、9日，还有部分地区秋假时间为11月6日、9日、10日，均与11月7日、8日周末衔接，形成5天小长假。",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:23:33.908Z",
+      "publishedAt": "2026-11-01T00:21:37.962Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-10-31T21:23:35.814Z"
+  "generatedAt": "2026-11-01T00:21:40.332Z"
 }
