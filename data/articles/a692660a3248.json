@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a692660a3248",
+    "title": "响应欧盟 AI 法案，Grok 模型生成的文本将添加隐形水印",
+    "url": "https://www.ithome.com/1/020/721.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/020/721.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 1 日消息，SpaceXAI 将于 11 月 7 日起为 Grok 模型生成的文本添加隐形水印。检测器通过识别该信号，判断一段文本是否带有肉眼不可见水印。\n\n官方表示，本次调整是为了响应欧盟《人工智能法案》要求，全球所有地区的 SpaceXAI API 均已启用水印，包含 grok-4.7、grok-4.6、grok-4.5、grok-4.3、grok-4.20 reasoning、grok-4.20 non-reasoning 和 grok-4.20 multi-agent 模型，团队管理员可选择为某款模型单独关闭水印。\n\nIT之家注意到，这种隐藏式水印并非通过隐藏字符或元数据实现，而是融入模型生成文本时对 Token 的选择过程。\n\nAI 治理观察者安德鲁 · 库兰（IT之家注：Andrew Curran）则对此表示，目前还没有为文字加入隐形水印的模型仅有北美地区 ChatGPT。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-01T06:42:27.102Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
