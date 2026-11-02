@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "96eb445210e4",
+    "title": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温",
+    "url": "https://www.ithome.com/1/021/239.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/239.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 2 日消息，海光信息 (HYGON) 今日在 2026 年世界互联网大会乌镇峰会发布了 14XX 系列 CPU，这是其 1000 系列端侧 CPU 中首款面向工业控制场景的产品。\n\n海光 14XX 系列集成 C86 CPU 内核、高速缓存、GPU 模块，兼容 DDR4/DDR5 内存，提供 10 条 PCIe Gen4 通道、多路串口，支持 DisplayPort、HDMI 双路视频信号输出；支持 -40℃ ~ +105℃ 宽温作业，支持 7×24 全天候连续运行，提供 10 年长周期供货。\n\n其 TDP 功耗低至 10W；支持虚拟化；集成 SM2、SM3、SM4 国密算法引擎，支持可信执行环境与安全启动；配套 SDK、实时操作系统、开发平台及工业通信、安全等基础软件；支持 EtherCAT、Modbus、MQTT、OPC UA 等常见工业协议。\n\n海光表示，14XX 系列 CPU 应用场景广泛覆盖流程自动化、离散自动化、仪器仪表与嵌入式电子系统，以及工业物联网与泛工业等核心领域，为各类严苛工业场景提供底层算力支撑。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-02T19:42:41.589Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
