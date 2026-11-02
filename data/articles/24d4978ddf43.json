@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "24d4978ddf43",
+    "title": "微软确认：受支持的 Win10 设备现可直接升级至 Win11 26H2",
+    "url": "https://www.ithome.com/1/020/846.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/020/846.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 2 日消息，据科技媒体 neowin 昨天报道，微软于今年 9 月底推送 Win11 26H2。此次更新采取分阶段推送形式，逐步推送至符合条件的设备，并未立即向所有用户开放。这种策略是为了避免更新出现重大问题时，导致大量设备无法工作。\n\n微软几天前确认，Windows 11 26H2 分阶段推送已经取得重要进展，目前已向 25H2 和 24H2 设备全面开放。在此之后，微软已经将 26H2 推送范围扩大至所有符合升级条件的设备，包括处于扩展支持阶段的 Win10 电脑。\n\n如果您的设备还没有收到 Windows 11 26H2 更新，那么可以考虑手动下载 eKB5121794 启用包。它可以激活 Windows 11 25H2 和 24H2 中已经存在、但处于某种休眠状态的 26H2 功能。\n\n不过需要注意的是，该启用包并不支持较旧的 Windows 系统，也不能为 Windows 10 直接升级。如果您希望全新安装 26H2，那么可以从微软媒体创建工具（IT之家注：MCT）获取 KB5127648 ISO 文件。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-02T01:52:47.318Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
