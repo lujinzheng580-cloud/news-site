@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f9acd4684fd6",
+    "title": "苹果 Safari 27.3 测试版浏览器上线：适配 iPhone Duo，引入垂直标签、Siri 帮你管网页",
+    "url": "https://www.ithome.com/1/021/863.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/863.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 4 日消息，苹果公司今天（11 月 4 日）推送 iOS / iPadOS / macOS 27.3 首个 Beta 开发者预览版，升级 Safari 27.3 测试版，引入垂直标签页、自适应深色模式，以及扩展 Siri AI 支持三项体验。\n\n本次 Safari 27.3 测试版最大的亮点，在于引入垂直标签页让用户更方便地浏览完整页面标题，减少打开大量网页后难以辨认的问题。Mac 和 iPad 用户可通过“视图”菜单开启，iPhone 用户则需前往 Safari 设置启用，而且已适配苹果首款折叠 iPhone Duo。IT之家附上相关截图如下：\n\n自适应深色模式主要面向尚未提供深色外观的网站。该功能借助 Apple Intelligence 分析网页，在适用页面顶部提示用户开启，并调整浅色背景、文字对比度、图形配色及阴影。网站开发者也可通过添加标签，阻止这一功能修改页面外观。\n\nSiri AI 则进一步结合网页内容与浏览操作。用户查看冗长的商品介绍后，可直接询问商品重量；也能通过语音将标签页归组、关闭某个网站的全部标签页，或清除指定网站过去 20 天的浏览记录。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-03T22:28:50.102Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

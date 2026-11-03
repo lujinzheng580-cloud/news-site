@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "43e95bcde3a6",
+    "title": "苹果 watchOS 27.3 首个开发者预览版 Beta 上线音频智能功能：支持全天谈话划重点 / 回顾 15 秒对话",
+    "url": "https://www.ithome.com/1/021/864.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/864.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT 之家 11 月 4 日消息，苹果公司今天（11 月 4 日）面向开发者，推送 watchOS 27.3 首个开发者测试版，为 Apple Watch Series 12 和 Apple Watch Ultra 4 带来 Siri 回顾（Siri Recap）与 Live Rewind 两项音频智能功能。\n\n在苹果官方支持页面上，显示上述两项功能适用于 Apple Watch Series 12 和 Apple Watch Ultra 4，目前仅支持英语，且需要 Apple 智能和 Siri AI（Beta 版）。\n\nIT 之家此前报道，Siri Recap 定位类似自动化的对话备忘录，通过“环境聆听”（ambient listening），从日常对话中记录概括性信息，帮助用户回顾可能遗漏的事项或重点。\n\n而 Live Recap 可显示最近 15 秒实时对话的文字转录，方便用户快速回顾刚才说了什么。此外 Apple Watch 还可监听婴儿哭声、门铃和警笛等重要环境声音。\n\n隐私方面，苹果表示，两项功能均不会识别或标注说话者，文字片段和摘要采用端到端加密。原始音频由 S11 芯片的专用硬件隔离区处理后立即删除，不会创建或保存录音。\n\nLive Rewind 即使在静音模式下也会发出提示音；Siri Recap 提供的是简要概括，而非逐字记录，并会排除财务信息、政府签发的身份标识等敏感内容。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-03T22:28:50.102Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
