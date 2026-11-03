@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "804df6bd17f9",
+    "title": "OpenAI 将合并 ChatGPT 对话与工作台标签页，Codex 仍保持独立",
+    "url": "https://www.ithome.com/1/021/615.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/615.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 3 日消息，据 TechCrunch 报道，ChatGPT 桌面端软件的界面布局容易让人感到困惑：它分为 ChatGPT 和 Codex 两大板块，而在 ChatGPT 板块内部，又设有对话（Chat）和工作台（Work）两个标签页。选项繁多，用户有时很容易搞不清自己当前所处的工作位置，以及项目文件到底保存在哪里。\n\n根据发给用户的一封邮件，OpenAI 正准备把 ChatGPT 里的对话标签页和工作台标签页合并，以此解决上述问题。OpenAI 表示，这项新功能会先向部分用户开放，收集反馈后再全面推送。\n\n邮件中写道：“这次调整之后，你可以在同一个界面里，从构思想法开始，直到让 ChatGPT 落地完成任务。你可以上传文件、调用插件，让 ChatGPT 搭建网站、制作演示文稿，或是帮你处理网页上的各类操作，同时随时查看、引导它的输出结果。Codex 在 ChatGPT 桌面应用中仍会作为独立功能保留。”\n\nOpenAI 同时提到，完成这次调整后，ChatGPT 和 Codex 将共用同一个词元（token）额度池。官方称该改动对大多数用户不会造成影响，但部分用户会因为使用场景和调用模型的不同，需要更频繁地等待额度重置。\n\nIT之家注意到，竞争对手 Anthropic 已经在 9 月把 Claude 的对话和协同办公功能整合到了同一个界面。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-03T09:20:57.828Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

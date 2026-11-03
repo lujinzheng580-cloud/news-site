@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "f15df3a1dc8d",
+    "title": "DeepSeek 网页 / API 服务出现部分中断，官方正在排查",
+    "url": "https://www.ithome.com/1/021/648.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/648.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 3 日消息，据IT之家小伙伴反馈，DeepSeek 今日下午出现服务故障，提示“服务器繁忙，请稍后重试”。\n\nDeepSeek 官方状态页面显示，今日（11 月 3 日）16:58，DeepSeek 网页 / API 出现部分中断，官方正在排查问题。\n\n对话服务、DeepSeek V4 Pro 和 V4.1 Flash 的 API 服务均出现问题，大家可以耐心等待一下。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-03T09:20:57.820Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
