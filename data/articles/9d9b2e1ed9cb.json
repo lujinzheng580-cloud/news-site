@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9d9b2e1ed9cb",
+    "title": "苹果 HomeView OS 探秘：支持液态玻璃调节，CarPlay 技术成“临时桥梁”",
+    "url": "https://www.ithome.com/1/021/300.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/300.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 昨日（11 月 2 日）发布博文，报道称苹果首款智能家居中枢 HomeView 所搭载系统高度封闭，对第三方开发者的限制远超此前预期。该系统目前没有 App Store，也不允许用户自行安装第三方应用，应用生态的开放性明显低于 iPhone、iPad 等设备。\n\n据开发者 Gui Rambo 与 Steve Troughton-Smith 在 Mastodon 上分享的测试结果，HomeView OS 实际基于 tvOS 27.2 的某个版本，虚拟机中却错误显示为 iOS 27.2.0。\n\n系统采用了名为 BreadBoard 的新启动器，并配有名为 CupBoard 的独立控制中心界面，延续了苹果以“Board”命名系统核心组件的传统。\n\n更引人关注的是，HomeView 的应用运行机制似乎大量借用了 CarPlay API。开发者获得的 CarPlay SDK 可用于 HomeView 项目，应用界面由开发者提供模板，再由 HomeView 负责渲染；系统内部甚至将这一功能称为“PebblePlay”。\n\n不过，该实现目前似乎只支持音频和视频类应用，导航、聊天等应用无法被索引或正常运行。IT之家附上相关截图如下：\n\n尽管限制重重，测试者仍成功在 HomeView OS 中原生启动了 Broadcasts 应用，只是功能受限。这表明系统并非完全无法运行 CarPlay 生态之外的应用，只是苹果尚未提供正式、开放的安装与分发渠道。\n\n在用户体验层面，HomeView 的设置界面与 iPhone、iPad 高度相似，支持搜索和滑动输入，还提供“液态玻璃”视觉效果强度调节，用户可在更透明与更不透明之间选择。\n\n系统应用普遍需要身份验证，用户可使用个人 iPhone、iPad，或通过设备内置摄像头完成识别；在光线不足或面部阴影较重时，屏幕亮度会临时提高以辅助识别。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-03T01:51:16.713Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

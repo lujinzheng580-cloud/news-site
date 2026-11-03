@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "82ef8a52d166",
+    "title": "AMD 核显路线图曝光：搭载 RDNA 5+ 的 Zen 7“Grimlock”处理器预计 2029 年登场",
+    "url": "https://www.ithome.com/1/021/288.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/288.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 3 日消息，硬件爆料人士 Kepler_L2 在 NeoGAF 论坛上透露，AMD 计划在 2029 年推出采用 RDNA 5+ 核显及 Zen 7“Grimlock”架构的 APU 产品，隶属于“Grimlock”家族。\n\nNeoGAF 论坛上有用户猜测，RDNA 5 架构可能会在 2028 年或更晚下放至普通 APU 产品线。Kepler_L2 对此回复称：“RDNA5+ in 2029 with Grimlock”，意指 RDNA 5+ 将于 2029 年随 Grimlock 到来。\n\nKepler_L2 此前还曾透露，AMD 正在调整 APU 产品线的核显架构布局。对于不需要高性能核显的产品，例如办公笔记本，以及搭配高性能独立显卡的笔记本，AMD 可能继续沿用 RDNA 3.5 架构，直至 2029 年；定位较高的产品则计划采用 RDNA 5。\n\n另外，AMD 上个月发布的 HIPRT 3.2 光线追踪库预发布版本已经加入对 Medusa 系列的支持，涉及 gfx1170、gfx1171 和 gfx115E 三个硬件标识。其中，gfx115E 被认为属于 RDNA 3.5 架构，而 gfx1170 和 gfx1171 则与 RDNA 4m 有关。这意味着 Medusa 系列可能同时采用不同核显架构，至少部分型号仍会使用 RDNA 3.5，而非全面升级至 RDNA 5。\n\n此前有关 Medusa Point 的爆料还提到，该系列可能采用 RDNA 4m 架构。RDNA 4m 相当于 RDNA 3.5 的优化版，支持 FSR 4。相比之下，Medusa Halo 则被认为有望采用 RDNA 5 核显。\n\n《AMD 核显路线图分化：RDNA 5 专攻高端，中端 APU 坚守 RDNA 3.5 直至 2029 年》\n\n《AMD Ryzen AI Max+ 395 发布：16 核 Zen 5 + 40 核 RDNA 3.5，全球首款可运行 70B LLM 的 Windows 11 AI+ PC APU》\n\n《AMD 尚未决定是否为 RDNA 3.5 核显提供 FSR 超分辨率 4.1 支持》\n\n《AMD 为下一代 Medusa APU 提前铺路，HIP-RT 3.2.0 新增三款 GPU 目标》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-03T01:51:16.716Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

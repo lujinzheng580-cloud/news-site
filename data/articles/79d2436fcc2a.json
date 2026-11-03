@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "79d2436fcc2a",
+    "title": "华擎 Z970 LiveMixer 与 Pro-A 主板现身海关记录，Nova Lake 中端平台进入出货准备阶段",
+    "url": "https://www.ithome.com/1/021/303.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/303.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 3 日消息，海关数据平台 NBD 的记录显示，华擎已有两款基于英特尔 Z970 芯片组的主板完成出货登记，型号分别为 Z970 LiveMixer WiFi 和 Z970 Pro-A WiFi。相关 PCB 的发货时间可追溯至 2026 年 9 月底，产地为越南。\n\nZ970 绑定的是英特尔下一代桌面平台 Nova Lake-S，插槽更换为 LGA-1954，配套 900 系列芯片组包括 Z990、Z970、B960、Q970 和 W980，其中 Z990 平台此前已有五款新主板通过海关注册，发货时间可追溯至 7 月。加上这两款 Z970，华擎在 900 系列上被记录到的主板型号已达到八个。\n\n英特尔 Nova Lake 预计在 CES 2027 期间发布，但主板厂商不可能等到明年才开始进行准备，所以通常会提前数月将样品或评估板送交渠道和评测方。\n\nZ970 的产品逻辑在于把 CPU 倍频超频下放到更低的价格区间。在此之前，英特尔仅允许 Z 系列芯片组支持 CPU 倍频调节，B 系列和 H 系列虽然可以超内存，但 CPU 超频始终被锁死。泄露规格显示，Z970 将开放倍频超频，而基频（BCLK）超频仍由 Z990 独占。\n\n接口方面，Z970 提供 34 条 PCIe 通道，其中 14 条为芯片组下行的 PCIe 4.0，芯片组本身不输出 PCIe 5.0，但 CPU 直出的 PCIe 5.0 通道仍可用于显卡和存储。\n\n华擎这两款型号直接沿用了现有 B860 主板的产品线命名。LiveMixer 面向内容创作者和直播用户，侧重接口数量和连接扩展性；Pro-A 则定位更主流、价格更克制的桌面装机。IT之家后续将保持关注。\n\n《英特尔 Nova Lake 平台加速推进，华擎 5 款 Z990 主板货运记录曝光》\n\n《华擎 DeskSlim X600 / B760 台式机支持英伟达 RTX PRO Blackwell 显卡》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-03T01:51:16.713Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
