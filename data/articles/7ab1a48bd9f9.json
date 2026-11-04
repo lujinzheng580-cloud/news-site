@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7ab1a48bd9f9",
+    "title": "英伟达发布 Game Ready 621.14 驱动：优化《魔兽世界：永恒》，修复视频黑屏问题",
+    "url": "https://www.ithome.com/1/022/438.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/022/438.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 4 日消息，NVIDIA（英伟达）发布 GeForce & RTX Spark Game Ready 621.14 显卡驱动，面向《魔兽世界：永恒》、《毁灭战士：黑暗时代》新内容及新增 DLSS 5 支持的游戏提供优化，并修复此前版本引入的视频播放异常问题。\n\nIT之家附官方公告链接（https://www.nvidia.com/en-us/geforce/news/world-of-warcraft-forever-geforce-rtx-spark-game-ready-driver）。\n\n为 《魔兽世界：永恒》 提供 Game Ready 优化，确保 GeForce RTX 平台最佳游戏体验；\n\n针对 《毁灭战士：黑暗时代 | 启示录》新增的屠戮模式 提供性能优化；\n\n在 《霍格沃茨之遗》 与 《战争雷霆》支持 DLSS 5 3D 引导神经网络渲染。\n\n修复 《使命召唤：现代战争 4》 中可能出现画面颜色显示异常的问题（问题编号 6972531）；\n\n修复升级至 GRD 621.01 后，部分 GeForce RTX 50 系列 GPU / RTX Spark 设备在视频播放时可能出现卡顿或黑屏的问题（问题编号 6979343）。\n\n该驱动适用于 GeForce RTX 系列桌面端、笔记本及 RTX Spark 设备，用户可通过 NVIDIA App 或官网下载更新。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-04T17:54:37.487Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
