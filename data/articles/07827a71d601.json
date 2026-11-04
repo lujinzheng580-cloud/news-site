@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "07827a71d601",
+    "title": "Linux 发行版 Fedora 45 正式发布： Anaconda 安装程序集成 Stratis 支持",
+    "url": "https://www.ithome.com/1/021/916.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/021/916.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 4 日消息，Fedora 官方当地时间本月 3 日正式发布了这一 Linux 发行版的 45 版本。此次发布覆盖该发行版的 Workstation、KDE Plasma Desktop、Server、Cloud、CoreOS、IoT 全部 6 种主要变体。\n\nFedora Linux 45 基于最新的 Linux 内核版本，拥有最新的桌面环境、开发工具和运行时库，为用户带来出色的“开箱即用”体验。\n\nFedora 官方特别强调，最新版本在 Anaconda 安装程序中集成了对 Stratis 存储的支持。Stratis 将现代企业级存储功能引入本地存储，同时将设备映射器、XFS 和 LUKS 集成到一个易于使用的界面中。\n\nhttps://fedoramagazine.org/announcing-fedora-linux-45/\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-04T02:39:56.830Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
