@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6222bd84caba",
+    "title": "日本运营商 NTT Docomo 发生全国性 5G SA 通信故障，官方建议切换至 4G",
+    "url": "https://www.ithome.com/1/022/941.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/022/941.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 5 日消息，日本运营商 NTT Docomo 今日发布公告，该公司的移动通信服务（5G SA 语音通话、数据通信、短信）出现使用异常，影响范围覆盖全日本。\n\n当地时间 11 月 05 日上午 11 点 18 分左右起出现该故障，本次故障的具体原因仍在持续调查中。截至目前的排查显示，包括故障发生前后，均未发现任何未授权访问痕迹或网络攻击迹象。\n\n据介绍，租用 DOCOMO 网络的虚拟运营商（MVNO）用户不受影响，未签约 5G SA 服务的普通 5G 及 4G 服务用户不受影响。\n\n官方表示，用户可尝试进入手机系统网络设置，将首选网络模式切换为 4G，随后重启手机或开关一次飞行模式，可能恢复语音通话、数据通信及短信服务的正常使用。\n\nIT之家注意到，NTT Docomo 旗下的 docomo 在线商城（docomo Online Shop）及 My docomo 昨日还遭遇了外部未授权访问，官方称已紧急实施系统维护并全面阻断了所有访问。经排查确认，在执行紧急维护前发生的未授权访问中，已导致部分客户信息泄露（包含姓名、住址、出生日期、手机号码、联络电话等）。\n\n目前，docomo 在线商城与 My docomo 的紧急维护同样在进行中，暂未发现新的信息泄露情况。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-05T11:37:25.623Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

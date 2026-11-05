@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d6fca742f662",
+    "title": "英特尔发布 32.0.101.9175 Game On 显卡驱动：支持《魔兽世界：无限》",
+    "url": "https://www.ithome.com/1/022/819.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/022/819.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 5 日消息，英特尔 Graphics Software 32.0.101.9175 显卡驱动（适用于 Arc）今日发布，这是一款 Non-WHQL 驱动包，支持锐炫 A、B 系列独显，以及搭载锐炫核显的第 1~3 代酷睿 Ultra 处理器。\n\nIT之家附官方公告链接：https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html\n\n新增 Game On 驱动支持：《足球经理 27》《影之刃零》《魔兽世界：无限》，覆盖锐炫 A、B 系列独显及酷睿 Ultra 核显平台。\n\n第 3 代酷睿 Ultra 处理器核显：修复《动物园之星 2》(DX12) 修改耐力游戏设置后可能出现间歇性应用崩溃问题。\n\n锐炫 B 系列独显：修复《使命召唤：现代战争 4》(DX12) 部分纹理渲染异常问题。\n\n锐炫 A 系列独显：修复《使命召唤：现代战争 4》(DX12) 纹理渲染异常；修复《战争机器：事变日》(DX12) 性能偏低。\n\n第 2 代酷睿 Ultra 处理器核显：修复《战争机器：事变日》(DX12) 性能偏低、《动物园之星 2》（DX12）设置修改后偶发崩溃问题，以及 Procyon AI 图像生成基准测试、Procyon AI 文本生成基准测试无法完成的问题。\n\n第 1 代酷睿 Ultra 处理器核显：修复《战争机器：事变日》(DX12) 性能偏低、《动物园之星 2》（DX12）设置修改后偶发崩溃问题。\n\n第 3 代酷睿 Ultra 处理器核显：《四海兄弟：故乡》(DX12) 在游戏过程中可能发生应用崩溃；《STALZONE》(DX12) 在教程结束后可能发生应用崩溃；《魔兽世界》正式服及经典怀旧服 (DX12) 开启光追后可能出现树木阴影闪烁；《无人深空》（Vulkan）加载进游戏时崩溃\n\n锐炫 B 系列独显：《暗区突围：无限》(DX12) 开启地形表面细分时可能发生应用崩溃；《STALZONE》(OpenGL) 在教程结束后可能发生应用崩溃；《魔兽世界》正式服及经典怀旧服 (DX12) 开启光追后可能出现树木阴影闪烁；DaVinci Resolve Studio 版 PugetBench 运行时偶发崩溃，建议将超时滑块调至 1500 秒或更高。\n\n锐炫 A 系列独显：除上述 B 系列已知问题外，还包括《怪物猎人：荒野》(DX12) 在游戏过程中可能发生应用崩溃。\n\n第 1、2 代酷睿 Ultra 处理器核显：《EA SPORTS FC 27》(DX12) 在部分第 2 代平台上可能发生应用崩溃；《STALZONE》(OpenGL) 在教程结束后可能发生应用崩溃；《魔兽世界》正式服及经典怀旧服 (DX12) 开启光追后可能出现树木阴影闪烁。\n\nIntel Graphics Software 通用问题：性能调节页面的风扇目标转速可能未按预期生效；共享 GPU 内存覆盖值与实际分配值不符；性能页面部分指标显示错误。\n\n性能调节功能目前处于 Beta 阶段，多 GPU 场景下可能一次性对多台设备应用更改，而非按 GPU 选择器单独设置。\n\n据 IT 之家了解，该驱动包还包含 Media SDK Runtime 21.0.1.35、oneVPL GPU Runtime 21.0.2.17、OpenCL 计算运行时、Vulkan 1.3 运行时、Arc Software & Drivers Installer 1.0.1315.13 等组件，支持 DirectX 12、Vulkan 1.4、OpenGL 4.6、OpenCL 3.0 等 API，适配 Windows 10（22H2）及 Windows 11 各版本系统。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-05T11:37:25.630Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
