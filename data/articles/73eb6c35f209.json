@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "73eb6c35f209",
+    "title": "蚂蚁百灵大模型 Ling 3.2 Flash 发布：三项基准超越 Claude Opus 5，前两周限时免费",
+    "url": "https://www.ithome.com/1/023/043.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/043.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 6 日消息，蚂蚁百灵官方团队今日宣布推出原生多模态模型 Ling-3.2-flash，拥有 560B 总参数、25B 激活参数、1M 上下文窗口。\n\n该模型从架构层面原生融合视觉与语言能力，支持图像、文本与视频输入，重点强化复杂视觉理解、多模态长程 Agent、3D 理解与交互、医疗多模态四大能力。\n\n在蚂蚁官方公布的评测结果中，Ling-3.2-flash 在三项基准上超过 Anthropic Claude Opus 5（max）：\n\nOmniDocBench1.5 得分 92.21，对比 90.56；\n\nZEROBench（Sub）得分 43.71，对比 39.52；\n\nVision2Web 得分 85.86，对比 80.20。\n\n在 DesignArena 图像转前端竞技场中，该模型以 1238 的 Elo 分数进入前十，与 Meta、DeepSeek 及 Anthropic 等竞品并列。\n\n该模型重点强化四大能力：复杂视觉理解面向图像与视频的深度推理与分析；多模态长程 Agent 要求在多步任务中持续保持目标一致，基于视觉与文本信息完成决策与执行；3D 理解与交互侧重三维场景与空间关系的解析；医疗多模态则覆盖医学影像理解与报告解读，辅助专业医疗分析。\n\n据介绍，560B 总参数与约 25B 激活参数的组合，是 Ling-3.2-flash 在能力与推理开销之间的核心权衡。这种模式通常对应混合专家（MoE）架构，模型在每次前向计算中仅调用部分参数，从而在保留大容量知识存储的同时控制单步计算成本。\n\n定价方面，Ling-3.2-flash 的 API 输入价格为每百万词元 0.30 美元（IT之家注：现汇率约合 2 元人民币），输出价格为每百万词元 0.90 美元（现汇率约合 6 元人民币），DesignArena 榜单指出这是同性能级别模型中最低的费率。\n\n其 API 已通过蚂蚁百炼平台上线，感兴趣的用户可通过对话页在线体验，并兼容 OpenAI 及 Anthropic 协议进行 API 调用，而且上线前 2 周限时免费体验。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-06T00:20:36.373Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

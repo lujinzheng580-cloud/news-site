@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "55f43eeed6dc",
+    "title": "Hugging Face CEO 称 AI“末日风险”接近于零，真正危险来自闭门造车",
+    "url": "https://www.ithome.com/1/023/045.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/045.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 6 日消息，当地时间昨日（11 月 5 日）在美国迈阿密举行的 WIRED 世界博览会上，开源 AI 平台 Hugging Face 首席执行官克莱门特 · 德朗格（Clément Delangue）表示，他对人工智能导致人类灭绝的概率（即 P (Doom)）评估“接近于零”。\n\n他认为，相比“AI 毁灭世界”的宏大担忧，更现实的风险是少数大公司在封闭环境中秘密开发前沿模型。德朗格称，AI 的主要风险并非来自开放生态，而是“少数闭门造车的参与者”。\n\n他主张，降低风险的关键是让更多开发者能够公开构建、审查和改进模型，从而形成相互制衡的生态系统。在他看来，开放权重模型不仅是技术选择，也是防止少数企业垄断人才、算力与 AI 能力的手段。\n\n德朗格还透露，Hugging Face 目前的 AI 开发者已超过 2,000 万，较英伟达今年 9 月宣布以 129.3 亿美元（IT之家注：现汇率约合 864.42 亿元人民币）收购该公司时公布的约 1,800 万用户继续增长。该公司还已售出 5 万台可通过 AI 编程的双足机器人 Microducks。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-06T00:20:36.371Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
