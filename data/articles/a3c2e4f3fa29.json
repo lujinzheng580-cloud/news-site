@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a3c2e4f3fa29",
+    "title": "美国橡树岭国家实验室携手 IBM、AMD 推出量子纠错协同设计平台",
+    "url": "https://www.ithome.com/1/023/222.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/222.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 6 日消息，美国能源部资助的橡树岭国家实验室旗下量子科学中心当地时间本月 5 日宣布携手 IBM 与 AMD 共同发布全新量子纠错协同设计平台。\n\n这一平台的首个部署方案集成了 IBM 的量子计算机和橡树岭实验室基于 AMD CPU 与 GPU 的 HPC 系统。AMD 的硬件可为量子纠错、解码优化、软件编排提供经典算力基础。\n\n研究人员可在该协同设计平台上评估经典计算和量子计算的紧密集成，从而推动量子纠错研究的发展，加速容错量子计算“硬操作”的增长，达成到 2028 年底实现 100 个逻辑量子比特运行 10 万次“硬操作”的目标。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-06T07:15:38.899Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
