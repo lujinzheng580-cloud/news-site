@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9292a8037b22",
+    "title": "Brightspeed 与英伟达洽谈，计划将 130 多座老旧电信建筑改造为小型数据中心",
+    "url": "https://www.ithome.com/1/023/543.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/543.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 6 日消息，据 The Information 报道，互联网电信服务提供商 Brightspeed 正与英伟达洽谈，计划将多座老旧电信建筑改造为小型数据中心。\n\nIT之家从原报道获悉，英伟达曾在此前向 Brightspeed 母公司阿波罗全球管理提出这一设想，后来他们要求英伟达提交书面方案。英伟达目前已按要求提交，正进一步获取相关信息，并希望实地考察这些建筑。\n\nBrightspeed 在美国拥有约 130 座建筑，其中大部分用于处理数据和语音通信流量。英伟达预计这些设施合计可提供约 1 吉瓦的算力，能容纳 2200 多个 Supermicro Vera Rubin NVL72 机柜。每个机柜包含 72 颗 Rubin GPU 和 36 颗 Vera CPU。\n\n尽管这些设施的现有供电能力已经能满足 GPU 运行需求，但改造工作并非简单地安装设备即可完成，英伟达仍需部署冷却系统及其他配套基础设施。上述改造项目依然需要获得许可和地方政府批准，不过与从零开始建设数据中心相比，改造具备审批程序少、社区反对较低的优点。\n\n此外，OpenAI 和 Anthropic 也一直在考虑建设多个类似的小型数据中心，尤其是在大型数据中心项目不断遭遇延期和当地社区反对的情况下。对于 AI 模型训练而言，在同一地点建设规模庞大、架构统一的计算集群仍然是更理想的选择。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-06T15:18:37.845Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
