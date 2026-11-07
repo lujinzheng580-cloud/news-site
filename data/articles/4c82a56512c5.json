@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4c82a56512c5",
+    "title": "谷歌给安卓版 Chrome 浏览器设置页“上色”，焕新引入 iOS 版彩色风格图标",
+    "url": "https://www.ithome.com/1/023/688.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/688.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 7 日消息，科技媒体 Android Authority 昨日（11 月 6 日）发布博文，报道称谷歌酝酿升级安卓版 Chrome 浏览器的设置页面，为各个设置条目加入彩色图标，并调整部分选项的分类。\n\n谷歌正在安卓版 Chrome Canary 中测试设置页面改版，新版最直观的变化，是设置主页面采用了与 iOS 版 Chrome 相近的彩色图标设计。\n\niOS 版此前已采用这类图标，安卓版此次调整让两个平台的视觉风格进一步靠拢。IT之家附上相关图片如下：\n\n选项方面，新版移除了“基本”和“高级”两个分组标题，设置项之间仍通过留白保持视觉区隔。此外，“地址栏”和“主页”选项并未被删除，而是据报道被整合至“外观”分类下。\n\n此次更新属于谷歌持续推进的设置页面重组。希望尝鲜的用户，可在 Chrome Canary 地址栏输入 chrome://flags，搜索并启用“Settings IA Reorganization”，随后按提示重启浏览器。不过，Canary 属于实验版本，体验可能不如稳定版完善。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-07T06:58:57.844Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3632d7da8f96",
+    "title": "CPU-Z、HWiNFO 接连加入支持，英特尔 Razor Lake 桌面及移动处理器曝光",
+    "url": "https://www.ithome.com/1/023/676.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/676.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 7 日消息，英特尔下下代处理器平台 Razor Lake 近日接连获得硬件检测工具的更新支持。\n\n首先，CPUID 发布的 CPU-Z 3.02 已加入对 Razor Lake 的支持，HWiNFO 最新测试版 v8.55-6115 则进一步增强了对 Razor Lake-H、Razor Lake-HX 和 Razor Lake-S 的识别支持。\n\nCPU-Z 3.02 于 11 月 4 日发布，新增 Intel Razor Lake 支持，同时加入对 AMD Radeon AI PRO R9700 显卡的识别，并修复 Broadwell-E 平台的 SPD 读取问题以及 Windows XP 下的验证问题。\n\nHWiNFO 官方版本历史显示，最新预发布版本 v8.55 Build 6115 除了增强对 Nova Lake-E 的支持，还加入了对 Razor Lake-H、HX 和 S 系列的增强支持。其中，H 系列和 HX 系列预计面向高性能移动设备，S 系列则对应桌面处理器。此前，HWiNFO 已于 2026 年 8 月加入 Razor Lake-AX 的初步支持。\n\n从目前曝光的信息来看，Razor Lake 预计将成为 Nova Lake 的后续产品，覆盖桌面、移动及高性能 APU 等不同平台。\n\n根据此前泄露的路线图，Razor Lake 预计在 2027 年末或更晚推出。作为参照，Nova Lake-S 桌面处理器预计要到 2027 年第一季度才会陆续上市。\n\n除此之外，HWiNFO v8.55 Build 6115 还新增了对 AMD Radeon RX 7500 显卡的识别支持。\n\nVideoCardz 指出，这款显卡此前并未由 AMD 正式发布，相关更新日志也没有披露 GPU 型号、显存规格。此前曝光的一款 Navi 33 原型卡曾配备 6GB GDDR6 显存，但尚不能确认它就是最终的 Radeon RX 7500。\n\n《英特尔多款 \"Raptor Lake Next\" 处理器现身海关舱单记录》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-07T06:58:57.849Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

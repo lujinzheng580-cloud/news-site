@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2fad7848ebdc",
+    "title": "微软 Win11 预览版改进登录体验：刷脸还在转，PIN 已能输入",
+    "url": "https://www.ithome.com/1/023/659.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/659.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 7 日消息，科技媒体 Windows Latest 今天（11 月 7 日）发布博文，在 Experimental 通道 Windows 11 Build 26340.9882 预览版上，测试微软引入的全新 Windows Hello 登录体验。\n\nIT之家曾于 10 月 22 日报道，微软正在测试 Windows Hello 登录改进，而这项改进已在今天发布的 Windows 11 预览版中出现。\n\n用户此前在 Windows 11 系统中启动 Windows Hello 人脸识别后，PIN 输入框通常隐藏在“登录选项”内。遇到识别不顺畅的情况后，用户要么继续等待，要么额外点击切换。新版则在摄像头扫描时同步显示输入框，提示“看向摄像头或输入 PIN 码”，让用户使用先通过验证的方式完成登录。\n\n报道实测显示，一台配备红外摄像头的联想笔记本安装新版后，无需修改注册表或借助第三方工具，即可看到新界面。人脸识别失败后，系统还会提供更直接的重试入口；同时配备指纹读取器和红外摄像头的设备，则可在同一界面呈现多种登录方式。\n\n《微软发布 Win11 多个预览版更新：改进 Windows Hello 登录体验》\n\n《微软正简化 Win11 登录体验：人脸、指纹与 PIN 可同时待命，用户无需手动切换》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-07T06:58:57.853Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
