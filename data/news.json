@@ -2,116 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "48e14e2b766c",
-      "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
-      "url": "https://www.ithome.com/1/023/752.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.704Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c87539af1e62",
-      "title": "推入式基站更方便：友望云朵 Max 洗地机 2599 → 499 元官方直降新低",
-      "url": "https://www.ithome.com/1/023/753.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.704Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1946b5cd9962",
-      "title": "荣耀 700 系列手机上线官网：Pro / 标准 / S 三杯、全系背屏设计",
-      "url": "https://www.ithome.com/1/023/754.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.704Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "047b5efe9fcc",
-      "title": "华为更多机型鸿蒙 HarmonyOS 7 系统转公测，含 nova 12 / 13 系列、畅享 70X 等",
-      "url": "https://www.ithome.com/1/023/755.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.703Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "298ff6cf0c49",
-      "title": "TrendForce：预计 2027 年翻新内存在智能手机市场渗透率达 7-9%",
-      "url": "https://www.ithome.com/1/023/756.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.703Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3ab5e9d18578",
-      "title": "韩国初创公司 Lutra 推出 HOA A1 相机：独特形态，可令摄影师与模特保持眼神交流",
-      "url": "https://www.ithome.com/1/023/757.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.703Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "95053394eba2",
-      "title": "DeepSeek 网页 / API 服务恢复正常，今天下午一度中断 45 分钟",
-      "url": "https://www.ithome.com/1/023/758.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.703Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c8aa31bd7631",
-      "title": "小米澎湃 HyperOS 4 近期修复进展公布，Xiaomi 17 系列手机多个问题优化",
-      "url": "https://www.ithome.com/1/023/760.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.702Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "51b20adc747f",
-      "title": "Newzoo 调查：在核心玩家中，实体游戏约占主机付费游戏库的 30%",
-      "url": "https://www.ithome.com/1/023/762.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.702Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "391a977c2564",
-      "title": "我国自主研制新型模块化“移动暖屋”将登陆南极：单个建筑面积 18m²，适应零下 40℃ 低温",
-      "url": "https://www.ithome.com/1/023/763.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.702Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "32788f76d235",
       "title": "深蓝汽车“车载洗脚装置”专利公布：脚盆能直接塞到座椅底下",
       "url": "https://www.ithome.com/1/023/764.htm",
@@ -119,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.702Z",
+      "publishedAt": "2026-11-07T18:38:02.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -130,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.702Z",
+      "publishedAt": "2026-11-07T18:38:02.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -141,7 +31,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.701Z",
+      "publishedAt": "2026-11-07T18:38:02.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -152,7 +42,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.701Z",
+      "publishedAt": "2026-11-07T18:38:02.993Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +53,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.701Z",
+      "publishedAt": "2026-11-07T18:38:02.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.701Z",
+      "publishedAt": "2026-11-07T18:38:02.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +75,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.700Z",
+      "publishedAt": "2026-11-07T18:38:02.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.700Z",
+      "publishedAt": "2026-11-07T18:38:02.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +97,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.700Z",
+      "publishedAt": "2026-11-07T18:38:02.992Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +108,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.700Z",
+      "publishedAt": "2026-11-07T18:38:02.991Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +119,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.699Z",
+      "publishedAt": "2026-11-07T18:38:02.991Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +130,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.699Z",
+      "publishedAt": "2026-11-07T18:38:02.991Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.699Z",
+      "publishedAt": "2026-11-07T18:38:02.991Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.698Z",
+      "publishedAt": "2026-11-07T18:38:02.990Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +163,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.698Z",
+      "publishedAt": "2026-11-07T18:38:02.990Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +174,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.698Z",
+      "publishedAt": "2026-11-07T18:38:02.990Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.698Z",
+      "publishedAt": "2026-11-07T18:38:02.990Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.697Z",
+      "publishedAt": "2026-11-07T18:38:02.989Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.697Z",
+      "publishedAt": "2026-11-07T18:38:02.989Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +218,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.697Z",
+      "publishedAt": "2026-11-07T18:38:02.989Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.696Z",
+      "publishedAt": "2026-11-07T18:38:02.989Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.696Z",
+      "publishedAt": "2026-11-07T18:38:02.988Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.696Z",
+      "publishedAt": "2026-11-07T18:38:02.988Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +262,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.695Z",
+      "publishedAt": "2026-11-07T18:38:02.988Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +273,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.695Z",
+      "publishedAt": "2026-11-07T18:38:02.988Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.695Z",
+      "publishedAt": "2026-11-07T18:38:02.988Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +295,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.694Z",
+      "publishedAt": "2026-11-07T18:38:02.987Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +306,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.694Z",
+      "publishedAt": "2026-11-07T18:38:02.987Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +317,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.693Z",
+      "publishedAt": "2026-11-07T18:38:02.987Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +328,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.693Z",
+      "publishedAt": "2026-11-07T18:38:02.986Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +339,150 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:05.692Z",
+      "publishedAt": "2026-11-07T18:38:02.986Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2eb7882a42e3",
+      "title": "千公里信号单程传输仅 3.43 毫秒！我国新一代通信网技术取得新突破",
+      "url": "https://www.ithome.com/1/023/816.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.986Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "fb41bf44bcd2",
+      "title": "东方底蕴 + 前沿科技：比亚迪超豪华行政旗舰轿车“仰望鼎曜”全球首秀",
+      "url": "https://www.ithome.com/1/023/817.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.986Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "bc7ee22b224e",
+      "title": "个性化推荐机制被欧盟初步判定违反《数字服务法》，TikTok 否认相关指控称调查结果失实",
+      "url": "https://www.ithome.com/1/023/818.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.985Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "75e0cd9b0070",
+      "title": "比亚迪仰望鼎曜超豪华行政旗舰轿车官图发布：对开车门带雨伞、四座布局后排设香槟杯座",
+      "url": "https://www.ithome.com/1/023/820.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.985Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3893f59c02a0",
+      "title": "-30~10℃ 温控 + 可囤 140 斤肉：美的 100 升低霜小冰柜 388 元新低",
+      "url": "https://www.ithome.com/1/023/821.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.984Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "527cae6598d5",
+      "title": "马斯克再次表白中国，称赞中国汽车工业水平高",
+      "url": "https://www.ithome.com/1/023/822.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.984Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "17baba5c3f58",
+      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
+      "url": "https://www.ithome.com/1/023/823.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.984Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6eb9d1682c35",
+      "title": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
+      "url": "https://www.ithome.com/1/023/824.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.983Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "18f040babfa3",
+      "title": "比亚迪仰望鼎曜「山河鼎韵」限量版轿车设计细节公布，拥有专属外观内饰「棕岩白玉」及高定配置",
+      "url": "https://www.ithome.com/1/023/825.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.983Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a46d405d8b1e",
+      "title": "比亚迪仰望鼎曜「山河鼎韵」限量版全球限量发售，定金 30 万元",
+      "url": "https://www.ithome.com/1/023/826.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.983Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3024459bcaea",
+      "title": "比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里",
+      "url": "https://www.ithome.com/1/023/827.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.982Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8096e89604fa",
+      "title": "又一梦幻组合实现：网友成功将苹果 MacBook Pro 刷入华为鸿蒙 HarmonyOS 6 系统",
+      "url": "https://www.ithome.com/1/023/828.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.982Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "68925e951fbc",
+      "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
+      "url": "https://www.ithome.com/1/023/829.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:02.981Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +493,7 @@
       "category": "general",
       "summary": "11月7日18时，中央气象台继续发布暴雪、暴雨、寒潮及大风四项蓝色/黄色预警。预计11月7日20时至8日20时，北京、河北、辽宁等8省份部分地区有大到暴雪，辽宁西部、河北东北部局地特大暴雪。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -471,7 +504,7 @@
       "category": "general",
       "summary": "11月5日起，江苏江阴市中小学调整上学时间，计划本周落实到位，小学延至8:00到校。此前，全国多地已陆续探索延迟中小学到校时间，旨在保障学生充足睡眠。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -482,7 +515,18 @@
       "category": "general",
       "summary": "第九届中国国际进口博览会正在举办，展会进入第三天。物流生态专区是本届进博会服务贸易展区升级后设立的四大专区之一，聚焦解答“货怎么走”这一核心问题。和以往不同，今年专区不再单独展示运输能力，而是将物流融入完整的生态服务链。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "a6668567d1e0",
+      "title": "为什么今年双11的快递包装变烂了",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E7%9A%84%E5%BF%AB%E9%80%92%E5%8C%85%E8%A3%85%E5%8F%98%E7%83%82%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "今年双11期间，众多消费者反映收到的快递包装质量变差，纸箱软塌、破损，涉及纸巾等贴身用品引发卫生担忧。分析指出，此现象并非单一环节问题，品牌端降本与物流端高压分拣叠加，使包装破损沦为“被默认的损耗”。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -493,62 +537,29 @@
       "category": "general",
       "summary": "11月7日立冬，全国多地大幅降温，北京一家网红铜锅涮肉店排队超1000桌，门店称因立冬加周末等位时长超6小时。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "c32ada018c57",
-      "title": "老歌正在霸榜年轻人的歌单",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%AD%8C%E6%AD%A3%E5%9C%A8%E9%9C%B8%E6%A6%9C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%AD%8C%E5%8D%95",
+      "id": "9b9d855c64ff",
+      "title": "存储风暴压顶 小众手机在劫难逃",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E9%A3%8E%E6%9A%B4%E5%8E%8B%E9%A1%B6+%E5%B0%8F%E4%BC%97%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%8A%AB%E9%9A%BE%E9%80%83",
       "source": "baidu",
       "category": "general",
-      "summary": "老歌会以各种方式被重新听见，比如最近爆火的盆栽哥的《Hong Kong》，歌曲中完美融入的《季候风》，让我们重温了经典的港式风情。",
+      "summary": "据悉，华硕手机库存清零且无新机计划，魅族、黑鲨亦相继停摆。此前，国产小众手机已历经多轮洗牌，市场份额高度向头部集中。致命一击源于去年起存储芯片价格暴涨，小众厂商缺乏议价权，低端机型存储成本占比飙升至超40%。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "5702fec5a641",
-      "title": "买不起显卡 年轻人又挤进网吧包夜了",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%98%BE%E5%8D%A1+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%88%E6%8C%A4%E8%BF%9B%E7%BD%91%E5%90%A7%E5%8C%85%E5%A4%9C%E4%BA%86",
+      "id": "6f7d08695c32",
+      "title": "温瑞博0比4林昀儒",
+      "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E7%91%9E%E5%8D%9A0%E6%AF%944%E6%9E%97%E6%98%80%E5%84%92",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，七彩虹方面宣布正式执行新一轮工厂价格调整政策，英伟达RTX 50系列多款显卡渠道价格全面大幅上调。上游供给提价信号明确，为近两个月疯涨的显卡零售市场再添一把猛火。与此同时，大批失去“装机自由”的年轻人，开始涌入网吧和电竞酒店。",
+      "summary": "近日，WTT法兰克福冠军赛期间，男单1/4决赛上演焦点战，温瑞博以0比4负于林昀儒，四局比分为10-12、7-11、8-11、5-11。此战过后，温瑞博无缘赛事四强。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8c42d323afeb",
-      "title": "医生口中的“清淡饮食”到底指什么",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8F%A3%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E2%80%9D%E5%88%B0%E5%BA%95%E6%8C%87%E4%BB%80%E4%B9%88",
-      "source": "baidu",
-      "category": "general",
-      "summary": "专家澄清“清淡饮食”误区，指出其不等于吃素。专家强调，长期吃素或饮食单一易导致营养不良、肌肉流失，增加跌倒和骨折风险，反而不利于慢病管理。正确的清淡饮食需保证优质蛋白质摄入，食材多样化，烹饪以蒸煮炖为主、少油盐重做法。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c9c231f01e9c",
-      "title": "闫妮 干正事的时候一点都不微醺",
-      "url": "https://www.baidu.com/s?wd=%E9%97%AB%E5%A6%AE+%E5%B9%B2%E6%AD%A3%E4%BA%8B%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%80%E7%82%B9%E9%83%BD%E4%B8%8D%E5%BE%AE%E9%86%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，赵丽颖和闫妮在金鸡奖创投大会同框任主评审，闫妮状态引网友感慨其干正事不微醺、气场强大。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "1a5241e20fd7",
-      "title": "网购鸡蛋 开箱后被防护包装难倒了",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%B4%AD%E9%B8%A1%E8%9B%8B+%E5%BC%80%E7%AE%B1%E5%90%8E%E8%A2%AB%E9%98%B2%E6%8A%A4%E5%8C%85%E8%A3%85%E9%9A%BE%E5%80%92%E4%BA%86",
-      "source": "baidu",
-      "category": "general",
-      "summary": "老人网购鸡蛋，开箱后被防护包装难倒。包装为网格状并铺有稻谷壳，直接倒出易摔破，老人觉得可惜便一个个去抠。一般买40个需抠20分钟，买60个则需半小时。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -559,7 +570,29 @@
       "category": "general",
       "summary": "近日，赵丽颖作为主评审亮相金鸡电影创投大会。其早起上班喝咖啡提神的画面曝光，迷糊表情被赞可爱，原来赵丽颖早起上班也会有班味。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "2926a88792dd",
+      "title": "女子行李箱塞满衣服压缩后像砖头",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%A1%9E%E6%BB%A1%E8%A1%A3%E6%9C%8D%E5%8E%8B%E7%BC%A9%E5%90%8E%E5%83%8F%E7%A0%96%E5%A4%B4",
+      "source": "baidu",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "ab04b390330c",
+      "title": "《爸爸去哪儿3》重聚给康康庆生",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF3%E3%80%8B%E9%87%8D%E8%81%9A%E7%BB%99%E5%BA%B7%E5%BA%B7%E5%BA%86%E7%94%9F",
+      "source": "baidu",
+      "category": "general",
+      "summary": "11月7日晚，胡军晒出儿子康康18岁成人礼照片，《爸爸去哪儿3》的孩子们诺一、霓娜、轩轩、林大竣现身重聚，一起复刻名场面。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -570,97 +603,64 @@
       "category": "general",
       "summary": "11月7日报道，针对网传“多地禁用电动车挡风被最高罚500元”的消息，央视进行辟谣。各地对加装挡风被并未明令禁止，交警以提醒和劝导为主。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "d5b5cf4ba2d0",
-      "title": "乘客削苹果遇急刹车 水果刀插进心脏",
-      "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E5%89%8A%E8%8B%B9%E6%9E%9C%E9%81%87%E6%80%A5%E5%88%B9%E8%BD%A6+%E6%B0%B4%E6%9E%9C%E5%88%80%E6%8F%92%E8%BF%9B%E5%BF%83%E8%84%8F",
-      "source": "baidu",
-      "category": "technology",
-      "summary": "11月6日，山西临汾市人民医院透露，近日该院多学科协作成功抢救一名心脏被水果刀刺伤的危重患者。此前，患者乘车遇急刹车，正在削苹果的水果刀因惯性直插左胸，致多条动脉断裂及右心室破裂。目前患者术后恢复良好。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "45011e2c1e28",
-      "title": "吴奇隆被蜘蛛猴一脚踩头上",
-      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%A5%87%E9%9A%86%E8%A2%AB%E8%9C%98%E8%9B%9B%E7%8C%B4%E4%B8%80%E8%84%9A%E8%B8%A9%E5%A4%B4%E4%B8%8A",
+      "id": "2cbf24e4b9e6",
+      "title": "妻子偷拍丈夫出轨80余次构成侵权",
+      "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E5%81%B7%E6%8B%8D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A880%E4%BD%99%E6%AC%A1%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83",
       "source": "baidu",
       "category": "general",
-      "summary": "11月7日，吴奇隆在上海野生动物园给网红蜘蛛猴“豆豆”剥葡萄时被踩头，他吐槽“不剥皮就不吃，命真好”。此前豆豆因爱“挑衅”饲养员出圈。动物园工作人员回应称，豆豆就是这样，特别调皮。",
+      "summary": "吴女士因偷拍丈夫出轨的监控视频未被法院采信，目前已提起上诉，二审将于11月下旬开庭。此前，吴女士在离婚诉讼中提交80余次女性登门的偷拍材料试图证明丈夫存在婚姻过错。法院指出，其在卧室隐蔽安装摄像头全天候录制，取证方式严重侵害他人合法权益且违背公序良俗，不具备证据资格。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "73bb19ac091f",
-      "title": "“AI陈建斌”越来越逼真 陈建斌回应",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E9%99%88%E5%BB%BA%E6%96%8C%E2%80%9D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%80%BC%E7%9C%9F+%E9%99%88%E5%BB%BA%E6%96%8C%E5%9B%9E%E5%BA%94",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "近日，针对“AI陈建斌”越来越逼真，陈建斌回应称，AI陈建斌提供的是丰富性和多样性，但现实中的自己提供的是灵魂、精神和深刻的东西，无法被替代。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "711f23946d8e",
-      "title": "雪落长城",
-      "url": "https://www.baidu.com/s?wd=%E9%9B%AA%E8%90%BD%E9%95%BF%E5%9F%8E",
+      "id": "a16cbd710115",
+      "title": "沪武高速潜山段发生多车追尾事故",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%AA%E6%AD%A6%E9%AB%98%E9%80%9F%E6%BD%9C%E5%B1%B1%E6%AE%B5%E5%8F%91%E7%94%9F%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85",
       "source": "baidu",
       "category": "general",
-      "summary": "11月7日立冬，北京延庆迎降雪，八达岭长城景区飘落雪花。网友惊叹：“北京雪落长城，上演一秒入冬。”",
+      "summary": "11月7日下午，沪武高速安徽潜山段发生多车追尾事故。一辆载有电池的货车发生自燃，后方多车追尾。目前事故伤亡情况仍在了解中，有人被送到医院治疗。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "06f236006f3f",
-      "title": "因为画地为牢被辞退了",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BA%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86",
+      "id": "f346040926f9",
+      "title": "蒯曼惜败早田希娜 无缘法兰克福赛4强",
+      "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC%E6%83%9C%E8%B4%A5%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C+%E6%97%A0%E7%BC%98%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E8%B5%9B4%E5%BC%BA",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，一网友发朋友圈自嘲“画地为牢”，周一被公司以工作态度不积极为由辞退。目前该网友已获得相应赔偿。“画地为牢”是近期走红的网络流行语，歌手许飞在节目中面对断联近二十年的厉娜，哽咽说出“我画地为牢，厉娜。”",
+      "summary": "北京时间11月7日，在2026年WTT法兰克福冠军赛女单1/4决赛中，蒯曼以3比4的比分不敌早田希娜，最终无缘女单四强。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "8d125711caf8",
-      "title": "哈工大硕士出摊卖气球走红",
-      "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B7%A5%E5%A4%A7%E7%A1%95%E5%A3%AB%E5%87%BA%E6%91%8A%E5%8D%96%E6%B0%94%E7%90%83%E8%B5%B0%E7%BA%A2",
+      "id": "62a5fe9af904",
+      "title": "北京已经下雪了广州人还在穿短袖",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B7%B2%E7%BB%8F%E4%B8%8B%E9%9B%AA%E4%BA%86%E5%B9%BF%E5%B7%9E%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%A9%BF%E7%9F%AD%E8%A2%96",
       "source": "baidu",
       "category": "general",
-      "summary": "10月3日，哈工大硕士陶伟胜在长沙卖气球的视频意外走红。起因是2025年其创业公司倒闭背债，为谋生选择卖气球。走红后他未急于变现，而是借流量参与公益与寻亲。",
+      "summary": "11月7日，立冬。北方的冷空气已经带着雨雪赶来，北京部分地区迎来降雪。千里之外的广州，小欧还在趁着“双十一”买短袖。据悉，广州今年夏天已持续234天，逼近最长夏日纪录。专家分析，此现象与全球变暖及厄尔尼诺有关。",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "060cd8a16ba7",
-      "title": "手机失控 “自动”购买9台大疆相机",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A4%B1%E6%8E%A7+%E2%80%9C%E8%87%AA%E5%8A%A8%E2%80%9D%E8%B4%AD%E4%B9%B09%E5%8F%B0%E5%A4%A7%E7%96%86%E7%9B%B8%E6%9C%BA",
+      "id": "81e2718466c4",
+      "title": "母羊产下双头羊崽 一体两头三只耳朵",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E7%BE%8A%E4%BA%A7%E4%B8%8B%E5%8F%8C%E5%A4%B4%E7%BE%8A%E5%B4%BD+%E4%B8%80%E4%BD%93%E4%B8%A4%E5%A4%B4%E4%B8%89%E5%8F%AA%E8%80%B3%E6%9C%B5",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，警方为崔某追回被盗资金并拦截12件涉案快递。此前，崔某在全民K歌收到“扣费警告”私信，下载不明软件致手机被植入木马远程控制，花呗4万余元额度被盗刷购买9台相机、3颗金豆发往厦门。民警接警后拔卡断网并追回2万余元，随后跨区联动厦门警方拦截包裹。",
+      "summary": "近日，凉山一农户家中母羊产下双头羊崽，一体两头、三只耳朵。目击者称：“羊的生命体征正常，能进食。”",
       "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "629473d3a653",
-      "title": "00后女生放弃读研去开军机",
-      "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E7%94%9F%E6%94%BE%E5%BC%83%E8%AF%BB%E7%A0%94%E5%8E%BB%E5%BC%80%E5%86%9B%E6%9C%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，00后女生韩梦毕业时放弃读研，选择跨界投身飞行，成为海军首批舰载机女飞行学员。入营后，她通过日复一日的加练弥补经验短板，最终拿到首批夜间着舰单飞考核入场券，并顺利完成考核。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-07T13:55:07.312Z",
+      "publishedAt": "2026-11-07T18:38:03.818Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-11-07T13:55:08.633Z"
+  "generatedAt": "2026-11-07T18:38:06.428Z"
 }
