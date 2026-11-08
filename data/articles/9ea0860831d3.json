@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9ea0860831d3",
+    "title": "微软 WinUI 3 原生注册表编辑器首次曝光，界面告别 Win95 时代设计",
+    "url": "https://www.ithome.com/1/023/877.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/877.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 8 日消息，科技媒体 Windows Latest 今日发文，报道称微软开源项目仓库 Microsoft.UI.Reactor 中出现一款原生 WinUI 3 注册表编辑器。该媒体编译后发现，这款注册表编辑器确实能使用，界面告别了 Win95 时代设计，看起来非常现代。\n\nIT之家从原报道获悉，微软仅在 10 月的一篇开发者博客中提到过注册表编辑器，并承诺将在下个月介绍示例应用。但官方并未发布相关介绍，因此这是外界首次看到 WinUI 3 原生开发的注册表编辑器。\n\n首先，新版注册表编辑器沿用了原版的双栏布局，为菜单元素留出了更多空间，看起来符合现代审美。树状图目录取消了黄色文件夹图标，地址栏使用 WinUI 文本框，窗口底部还增加了一个状态栏，用于显示当前路径。\n\n在 Windows 11 Build 26340.9882 系统中，这款注册表编辑器启动速度很快，流畅程度与原版 regedit.exe 相当。展开 HKEY_CLASSES_ROOT 时应用会短暂提示“正在加载”，随后才列出 .386、.3gp 和 .7z 等注册表项。HKEY_LOCAL_MACHINE\\SOFTWARE 则能够正常显示原版注册表编辑器中已有的注册表项和键值。\n\n同时注册表菜单展开时，会使用 WinUI 流畅的动画效果，窗口大小调整也很顺滑。我们通过“帮助”菜单的“关于”选项可以确认，这并不是一个简单的界面模型。弹出的对话框明确显示了“Registry Editor Reactor WinUI 3 Edition”字样。\n\n值得肯定的是，微软并没有简单地给 regedit.exe 套上一层现代化窗口。在示例项目的源代码中，一个独立的 RegistryService 类通过 .NET 的 Microsoft.Win32 API 读取和写入注册表，并能够捕获权限错误，避免应用因访问受保护的注册表项而崩溃。\n\n此外，这款注册表编辑器已经支持创建、重命名和删除注册表项，还可以添加字符串、二进制、DWORD、QWORD、多字符串和可扩展字符串等类型的键值，并支持通过“查找”功能（Ctrl+F）搜索注册表。但网络注册表和打印、加载配置单元和全部导出等功能暂未完全实现。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-08T08:03:46.905Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
