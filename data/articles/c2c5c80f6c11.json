@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c2c5c80f6c11",
+    "title": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行",
+    "url": "https://www.ithome.com/1/023/841.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/841.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 8 日消息，任天堂《塞尔达传说：时之笛》重制版于 11 月 5 日登陆了 Switch 2，但游戏发售后没过多久，就已经有人成功让其在越狱版 PlayStation 5 和 iPhone 上运行。\n\n在 PS5 方面，开发者 Vampinity 在 GitHub 上的 EglantinePS5 项目仓库中公布了测试结果。EglantinePS5 是一款移植到 PS5 平台的 Switch 模拟器，基于 Eden 模拟器开发。\n\nIT之家注意到，测试显示，在 PS5 12.40 版系统固件上，游戏已经能够读取存档，玩家操控林克（Link）走出自己的房子，进入科奇里森林（Kokiri Forest），运行帧率约为 15 至 20 FPS。\n\n不过，游戏运行几分钟后就会因内存不足而崩溃。与此同时，森林场景还存在严重的白色雾效问题，部分场景模型也无法正常显示。Vampinity 直言，目前的版本“距离能够正常游玩还差得很远”，并表示相关补丁是由 Claude 编写的。\n\n据悉，此次移植的大量着色器相关工作借鉴了 Lichii 模拟器的分支代码。此前，Lichii 已在游戏发售当天通过 Switch 2 模拟器成功让这款重制版在 PC 上运行。\n\niPhone 方面，开发者乔 · 蒋（Joe Jiang）展示了《时之笛》重制版在 iPhone 17 Pro Max 上运行的画面，游戏中的科奇里森林场景已经能够正常显示。\n\n乔 · 蒋表示，移植过程中最棘手的问题是内存限制。游戏运行大约需要 9 GB 内存，而 iOS 对单个应用的内存使用上限为 8192 MB（8 GB）。他声称，自己采用的方案能够在保证画面质量的同时，将场景加载时的内存峰值控制在仅 3.4 GB。\n\n据介绍，这种技术方案并非专门针对《时之笛》重制版开发。乔 · 蒋表示，其有望让任天堂 Switch 和 Switch 2 游戏运行在 iOS、iPadOS、Apple TV、Android 以及鸿蒙操作系统（HarmonyOS）设备上。\n\n目前，乔 · 蒋尚未公开发布这一方案。不过，这也不是第一款成功在 iPhone 上启动的 Switch 2 游戏。此前，任天堂 Switch 2 越狱方案首次公开后不久，《马力欧卡丁车世界》（Mario Kart World）就已经成功在 iPhone 上启动。\n\n至于 PS5 版本，则需要使用 Relapse 越狱方案，该方案支持 PS5 7.00 至 13.60 版系统固件。\n\n当然，无论是 iPhone 还是 PS5，目前都还无法提供真正实用的游戏体验。不过，任天堂恐怕不会乐于看到这款重制版在发售后如此迅速地突破平台限制。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-08T01:45:13.049Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

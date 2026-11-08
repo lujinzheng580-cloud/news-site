@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "aaeafbe0b718",
+    "title": "Backglow 应用上线：可让新款 MacBook Pro 发光苹果 Logo 随音乐律动",
+    "url": "https://www.ithome.com/1/023/839.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/023/839.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 8 日消息，由设计师胡安 · 布伊斯（Juan Buis）开发的一款名为“Backglow”的新应用，允许用户自定义新款 MacBook Pro 笔记本电脑顶盖上的发光苹果 Logo。\n\n该应用的免费版本允许用户手动调节苹果 Logo 的亮度，而且不受 MacBook Pro 屏幕亮度设置的影响。用户也可以一键彻底关闭 Logo 灯光，无需通过终端（Terminal）执行命令。\n\n免费版本还提供一种名为“Breathe”的呼吸模式，可以让苹果 Logo 的灯光缓慢、柔和地明暗交替，效果类似于老款 MacBook 上的睡眠指示灯。\n\n用户只需一次性付费即可解锁应用的 Pro 版本，限时售价 9 美元（IT之家注：现汇率约合 60.2 元人民币），之后将涨至 15 美元（现汇率约合 100.3 元人民币）。Pro 版本额外提供两种灯光模式：“Music”模式可以让苹果 Logo 的灯光跟随 Mac 上播放的音乐节奏变化；“Agents”模式则会在 Claude Code 执行任务时让 Logo 灯光持续闪烁式呼吸，当需要用户介入时则通过闪烁发出提醒。\n\n苹果从 2015 年开始逐步取消 MacBook 上的发光 Logo 设计，不过在新款 14 英寸和 16 英寸 MacBook Pro 上，苹果重新引入了这一设计，两款机型均配备触控 PROLED XDR 显示屏。\n\n在老款 MacBook 上，苹果 Logo 的光线来自屏幕背光。但 OLED 显示屏本身没有背光，因此苹果需要采用全新的技术方案。\n\n《Daring Fireball》作者约翰 · 格鲁伯（John Gruber）透露，苹果专门设计了一种定制光源，让 Logo 重新发光，同时不会增加笔记本电脑顶盖的厚度。至于苹果为何要重新采用这一设计，他听到一位苹果代表给出的回答是：“因为它很酷。”\n\n苹果在官方支持文档中表示，默认情况下，只要 Mac 处于唤醒状态，Logo 就会亮起。电脑会根据屏幕亮度以及环境光传感器检测到的周围光线条件，自动调节 Logo 的亮度。\n\n布伊斯表示，苹果 Logo 使用的是白色 LED 灯，不支持切换颜色。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-08T01:45:13.049Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
