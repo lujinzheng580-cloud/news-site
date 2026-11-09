@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "0ec290c80348",
+    "title": "V社为 SteamVR 推出 2.19.1 Beta 版本，大幅提升 Steam Link 串流画质",
+    "url": "https://www.ithome.com/1/024/532.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/024/532.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 9 日消息，Valve 现已为 SteamVR 推出 2.19.1 Beta 更新，号称提升了 Steam Link 串流时的画面质量，能够带来更清晰的文字、更准确的色彩以及更丰富的细节。\n\nValve 表示，此次更新带来的画质优化不仅适用于 VR 游戏串流，还覆盖 SteamVR 系统界面、桌面串流、第三方叠加层以及影院屏幕等场景，用户可以直观看到不同版本之间的区别。\n\n此外，Steam Link 现在默认采用更高的 PC VR 串流推荐渲染分辨率，目标设定为头显显示面板分辨率的 1.4 倍。Valve 还改进了色彩处理方式，在编码前使用质量更高的滤镜对颜色进行降采样，从而尽可能保留画面中的细微色彩信息。\n\nIT之家注意到，用户需要加入 SteamVR Beta 测试才能获取此次更新。具体操作是：启动 Steam 并进入游戏库，右键点击列表中的 SteamVR，选择“属性”，进入“游戏版本与测试版”选项卡，再选择“Beta - SteamVR Beta Update”即可获得最新测试版本。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-09T21:38:48.254Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

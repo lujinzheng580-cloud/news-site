@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a8e64036077f",
+    "title": "Meta 为 Quest 系列头显推送 Horizon OS 2.10 公测版：全新虚拟影院环境、小改系统启动器布局...",
+    "url": "https://www.ithome.com/1/024/527.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/024/527.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 9 日消息，Meta 近日开始向 Quest 系列头显推送 Horizon OS 2.10（v210）系统的公开测试频道（PTC）版本，带来全新的 Theater 虚拟影院环境，并重新设计系统启动器 Navigator 界面，同步改进了窗口缩放体验，IT之家整理具体更新内容如下：\n\nHorizon OS 2.10 PTC 最大的特性是新增了名为 Theater 的虚拟影院环境，采用大型家庭影院风格设计，并配备高分辨率纹理。与传统 VR Home 家庭环境不同，用户无需将其设置为默认主页，只需呼出窗口控制栏，点击新增的 Theater 按钮，即可进入该环境。\n\n进入 Theater 后，系统会切换至全新的影院空间，退出后则返回传统 VR Home 环境或透视模式。目前，相应环境已经兼容多款以媒体播放为主的应用，包括系统媒体播放器、浏览器、YouTube、Disney+ 和 Amazon Prime Video 等。\n\n此外，本轮更新还悄悄调整了 Navigator 系统启动器的布局，移除了 Me、People、Quick Controls 和 Environment / App 等入口，同时取消了 Library（库）页面左侧的筛选栏，最终将界面整合为 Search（搜索）、Library（库）和 Notifications（通知）三个标签页，整体更加简洁。\n\n此外，新版 Navigator 系统启动器还调整了隐私权限指示器的设计，如今系统应用调用或曾调用过的权限现在会以绿色显示，取代此前较为暗淡的紫色。此外，当用户运行沉浸式应用时，Library 按钮上方会出现一个更加醒目的气泡提示，提供直接退出当前应用的选项，解决了旧版界面中退出应用不够直观的问题。\n\n除了界面调整外，Horizon OS 2.10 PTC 还改进了窗口缩放行为，同时为 Chats 聊天应用加入虚拟形象视频通话功能。用户在通话过程中，可以点击通话控制栏中的视频图标，在虚拟形象视频通话和纯语音通话之间切换。\n\n此外，Meta 表示，Horizon OS 2.10 PTC 还改进了 Quest 访问网站的“真实性验证机制”，以便更好地确认目标网站及服务是否可信。不过目前尚不清楚这一改进具体是针对系统浏览器，还是属于 Horizon OS v85 引入的系统级反恶意软件服务，后续仍有待数据挖掘者分析。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-09T21:38:48.255Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

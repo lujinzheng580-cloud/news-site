@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "4a4b3b36050b",
+    "title": "代码显示谷歌正为 Meta VR Glasses 头显开发新版 YouTube App：全新 UI 界面、支持边看边浏览",
+    "url": "https://www.ithome.com/1/024/531.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/024/531.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 9 日消息，外媒 UploadVR 在拆解谷歌新版 YouTube App 时，发现谷歌正在为 Meta VR Glasses 头显开发新版沉浸式界面，整体体验将更加接近谷歌自家的 Android XR 平台。\n\nUploadVR 透露，新版界面采用重新设计的 UI，主播放窗口的布局与现有 Panel Mode 基本一致，同时引入类似 Horizon OS 原生应用的控制栏，用户可以通过该控制栏切换虚拟环境，或直接进入 Panel Mode，该功能允许用户将 YouTube 作为普通 2D 窗口打开，与系统中的其他应用同时使用。\n\n值得注意的是，新版 YouTube 还支持在播放视频的同时打开额外窗口浏览内容。用户可以在该窗口中搜索和选择其他视频，选中的内容随后会在主播放窗口中播放，无须退出当前沉浸式界面。\n\n此外，新版应用据称还进一步整合了 Meta 平台系统级虚拟键盘、主播放窗口提供用于拖动的控制手柄，以及专门用于调整窗口大小的角部控制点等 API，令交互方式与 Horizon OS 中的其他窗口保持一致。\n\n如今，随着 Meta VR Glasses 发布日期逐渐临近，Meta 正在推动整个软件生态更好地适配空间操作系统，预计新版 YouTube App 将在 Meta VR Glasses 上市同期正式上线，同样能够令 Quest 头显等产品获利。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-09T21:38:48.254Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
