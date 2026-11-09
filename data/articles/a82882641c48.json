@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a82882641c48",
+    "title": "开发人员推出 WatchPointer 应用，可将苹果 Apple Watch 作为电脑鼠标使用",
+    "url": "https://www.ithome.com/1/024/500.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/024/500.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 9 日消息，开发者 umarz317 宣布推出一款名为 WatchPointer 的应用，可利用苹果 Apple Watch 内置的陀螺仪，将其作为电脑鼠标使用，IT之家附项目地址（https://github.com/umarz317/WatchPointer）。\n\n据介绍，该应用整合了鼠标左键和右键功能，还能够通过旋转表冠滚动网页和文档内容，整体功能较为全面。\n\n在安装方式上，由于 Apple Watch 原生支持安装第三方应用，虽然 WatchPointer 目前尚未上架 App Store，但用户可以通过 Mac 电脑上的 Xcode，使用开发者权限将应用安装到手表中。不过，由于应用并非通过 App Store 正式发布，用户每隔 7 天就需要重新打开 Xcode 进行签名认证。\n\n至于 WatchPointer 未来能否登陆 App Store，让更多用户直接下载使用，目前来看可能性并不高。主要原因在于该应用会将 Apple Watch 的蓝牙 HID 功能伪装成蓝牙鼠标，而苹果对于自家设备在跨设备连接时改变原有用途有相应限制。\n\n尽管如此，这项改装项目仍然展现出相当大的创新潜力，也证明 Apple Watch 除了健康监测和通知管理之外，还能承担更多电脑外设的功能。考虑到苹果近年来逐渐重视不同设备之间的协同体验，未来是否会受到这类项目启发，在系统层面加入类似功能也值得关注。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-09T11:40:10.879Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
