@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "38d83d3aefa3",
+    "title": "微软升级 Win11 备份 / 还原功能：“恢复摘要”让换新电脑迁移更透明",
+    "url": "https://www.ithome.com/1/024/728.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/024/728.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 10 日消息，微软于 11 月 9 日发布公告，宣布“Windows 设置备份和还原”功能的多项升级，官方表示本次升级覆盖设备更换、系统重装与故障恢复场景，为企业环境增强 Windows 基础韧性能力。\n\n名称方面，该功能原名为“面向组织的 Windows 备份”（Windows Backup for Organizations），于 2026 年 7 月更名为“Windows 设置备份和还原”（Windows settings backup and restore）。\n\n“面向组织的 Windows 备份”是微软面向企业推出的 Windows 设置备份与还原功能，于 2025 年 5 月开启预览测试，于同年 8 月正式上线，目标是让员工在更换、重置或重装 Windows 设备时，尽量保留熟悉的系统设置，减少迁移和恢复成本。\n\n此次改进的核心，是让备份与恢复从“可选工具”变成企业设备管理的“基础能力”。微软已在符合条件的 Windows 11 26H2 设备上默认启用该功能，让员工在登录新设备或完成系统迁移后，能够更顺畅地恢复个性化设置和工作环境。\n\n微软还将“企业状态漫游”（Enterprise State Roaming，ESR）整合进同一套体验。使用同一 Microsoft Entra ID 账户的员工，在不同设备间切换时，可获得更连续的设置同步体验。微软强调，原有 ESR 能力均被保留，只是迁移到了新界面和统一流程中，许可要求也没有变化。\n\n为方便企业统一管理，微软还推出了 WindowsBackupAdmin PowerShell 模块。该模块基于 Microsoft Graph 测试版 API 封装，让 IT 管理员能够通过脚本和策略更精细地控制备份与还原行为，从而将该能力部署为组织范围内的“弹性基线”。\n\n微软近期上线了“恢复摘要”（Restore Summary）功能，向用户清晰展示恢复进度与结果，帮助员工在新设备上更快确认哪些设置已成功迁移，减少“到底恢复没有”的不确定感。微软表示，未来还会继续投入，把该功能打造成对员工更简单、对管理员更智能、对企业更具韧性的设备迁移方案。IT之家附上相关截图如下：",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-10T03:50:35.657Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

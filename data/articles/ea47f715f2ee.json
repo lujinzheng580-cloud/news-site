@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ea47f715f2ee",
+    "title": "测试延迟 70ms → 3ms：火狐 Firefox 浏览器积极适配 Win11 热启动提速功能",
+    "url": "https://www.ithome.com/1/024/696.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/024/696.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 10 日消息，科技媒体 NeoWin 昨日（11 月 9 日）发布博文，报道称继 Microsoft Edge 浏览器之后，Mozilla 的火狐 Firefox 有望成为第二款支持 Windows 11 系统“加速应用启动”功能的浏览器。\n\nIT之家此前报道，“加速应用启动”新功能，已率先应用于 Microsoft Edge 浏览器，主要针对“热启动”，即应用已经在后台运行的情况，最高可以提速 33%。该功能目前支持 Windows 11 25H2、26H1 和 26H2，并要求安装 2026 年 10 月及之后的非安全更新。\n\n在运行机制方面，以 Edge 浏览器为例，用户过去通过链接打开 Edge 后，Windows 需要先启动一个中间进程，判断 Edge 是否已在运行。\n\n新机制则让应用在首次启动时向系统注册，后续通过“开始”菜单、任务栏或受支持的链接打开时，Windows 可更快定位该应用，从而缩短响应时间。\n\n根据 Bugzilla 上公开的 Firefox 相关问题，Mozilla 产品经理 David Rubino 表示，团队已通过 Firefox 用于任务栏固定的解锁代码，成功访问微软的加速启动 API。\n\n该功能的实现仍在进行中。Mozilla 已将 widget.windows.accelerated_launch.enabled 首选项添加到实验性补丁中，该首选项默认处于禁用状态。\n\n初步本地测试显示，一个链接到达已在运行的 Firefox 实例，耗时从约 70 毫秒降至约 3 毫秒。不过，这一数据仅衡量请求到达已运行实例的速度，并不代表 Firefox 整体启动速度会提升 20 倍以上。\n\n《热启动最高提速 33%：微软给 Win11 装上“加速器”，惠及 Edge / Chrome 等浏览器》\n\n《微软 Edge 浏览器 157 稳定版发布，明确“加速应用启动”仅限 Win11 三个版本》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-10T03:50:35.661Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
