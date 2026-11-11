@@ -2,281 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "0b29226b228e",
-      "title": "唯一 L3 级架构猎装车：启境 GT7 纯电 / 增程新版型官宣 11 月 13 日上新",
-      "url": "https://www.ithome.com/1/025/138.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.856Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "bcf1586397be",
-      "title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
-      "url": "https://www.ithome.com/1/025/139.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.856Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "eb2280b304f1",
-      "title": "Figure AI 招聘夜班管理员照看人形机器人，时薪最高 45 美元",
-      "url": "https://www.ithome.com/1/025/140.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.855Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "272465bccd76",
-      "title": "北京、上海、浙江三地成立跨区域电商知识产权协同保护联盟",
-      "url": "https://www.ithome.com/1/025/142.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.855Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1db63178d696",
-      "title": "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
-      "url": "https://www.ithome.com/1/025/143.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.855Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0514037946ac",
-      "title": "英飞凌 2026 财年营收 163.53 亿欧元同比增长 12%，季度业绩再创纪录",
-      "url": "https://www.ithome.com/1/025/144.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.855Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "22921fda7eca",
-      "title": "希捷推出 FireCuda Forge 混合存储设备：可在机械硬盘和 SSD 间自动迁移数据，699 美元起",
-      "url": "https://www.ithome.com/1/025/145.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.854Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "bb1c314475ca",
-      "title": "升腾资讯 × 华为全球首发“双旗舰新品”：鸿蒙 HarmonyOS 台式机 + 笔记本，均搭载麒麟 X90 芯片",
-      "url": "https://www.ithome.com/1/025/146.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.854Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "118ec7b198bb",
-      "title": "阿里巴巴：拟分拆平头哥于香港联交所主板独立上市",
-      "url": "https://www.ithome.com/1/025/147.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.854Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "81cec621fb33",
-      "title": "7499 → 5623 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
-      "url": "https://www.ithome.com/1/025/149.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.854Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "02181c4c4ff8",
-      "title": "35kg 承重 + 自带 LED 照明：小米米家智能晾衣机 1S 国补后 949 → 435 元",
-      "url": "https://www.ithome.com/1/025/150.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.854Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "aabbe0f77acd",
-      "title": "支持微信来电接听 / 挂断：华为 WATCH GT7 系列手表推 HarmonyOS 7.0.0.123 更新",
-      "url": "https://www.ithome.com/1/025/151.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.853Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "dd1d075cc366",
-      "title": "国补后 2899 → 1085 元：小米智能门锁 4 Pro 双摄版破冰新低，AI 掌静脉识别技术、天地双摄大屏猫眼",
-      "url": "https://www.ithome.com/1/025/152.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.853Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ed10437aba33",
-      "title": "离 1 亿里程碑就差临门一脚，曝华为鸿蒙 HarmonyOS 装机量已破 9900 万台",
-      "url": "https://www.ithome.com/1/025/153.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.853Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "14f4fe181166",
-      "title": "我国算力总规模达 310 万 PFLOPS，位居世界第二",
-      "url": "https://www.ithome.com/1/025/154.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.853Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1afbdf642830",
-      "title": "荣耀 CEO 李健官宣 Magic9 系列旗舰手机销量突破 50 万台，称还有更多惊喜将揭晓",
-      "url": "https://www.ithome.com/1/025/159.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.852Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ec2d144d71e5",
-      "title": "7999 → 4184 元：微星“流光 X24 ”显示器国补直降，32\" 第四代 QD-OLED 面板、4K@240Hz",
-      "url": "https://www.ithome.com/1/025/160.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.852Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "97e9f7853038",
-      "title": "谷歌 DeepMind 用 AI 完成 Signal 协议形式化验证，数学证明其端到端加密可靠性",
-      "url": "https://www.ithome.com/1/025/161.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.852Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "cae98c837aa8",
-      "title": "2399 → 2055 元：iQOO Z11 Turbo 国补直降，第五代骁龙 8 与 2 亿主摄加持",
-      "url": "https://www.ithome.com/1/025/162.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.852Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "eef1fee93962",
-      "title": "华为鸿蒙 HarmonyOS 7.0.0.111SP12 Patch22 补丁包推送，部分机型可尝试与 Apple Watch 配对",
-      "url": "https://www.ithome.com/1/025/163.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.851Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "29bcc2d2b7dc",
-      "title": "大疆 DJI Mic Mini 2 迷你无线麦克风 599 → 220 元国补新低：三种音色预设、两级降噪、续航 48 小时",
-      "url": "https://www.ithome.com/1/025/165.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.851Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a30a279076e4",
-      "title": "资金足够撑到明年底，美国造车新势力 Lucid 获最大股东 17.5 亿美元贷款额度",
-      "url": "https://www.ithome.com/1/025/166.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.851Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1b11215a3c5f",
-      "title": "55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝 129 → 76 元国补新低",
-      "url": "https://www.ithome.com/1/025/167.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.851Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "057dc5b852a6",
-      "title": "曝小米 SU7 Ultra Extreme 现身北京小米汽车超级工厂，全身伪装但遮不住超大尾翼",
-      "url": "https://www.ithome.com/1/025/168.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.850Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5a1b1c3a9c8b",
-      "title": "2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价",
-      "url": "https://www.ithome.com/1/025/169.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.850Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "7993a9b64fc8",
       "title": "西门子 CEO 博乐仁：AI 不会取代人类，会用 AI 的人却能取代不会用 AI 的人",
       "url": "https://www.ithome.com/1/025/170.htm",
@@ -284,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.850Z",
+      "publishedAt": "2026-11-11T00:33:52.665Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.850Z",
+      "publishedAt": "2026-11-11T00:33:52.665Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.849Z",
+      "publishedAt": "2026-11-11T00:33:52.664Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.849Z",
+      "publishedAt": "2026-11-11T00:33:52.664Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +53,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.849Z",
+      "publishedAt": "2026-11-11T00:33:52.664Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +64,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.848Z",
+      "publishedAt": "2026-11-11T00:33:52.664Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +75,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.848Z",
+      "publishedAt": "2026-11-11T00:33:52.664Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.848Z",
+      "publishedAt": "2026-11-11T00:33:52.664Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.847Z",
+      "publishedAt": "2026-11-11T00:33:52.664Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.847Z",
+      "publishedAt": "2026-11-11T00:33:52.663Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.847Z",
+      "publishedAt": "2026-11-11T00:33:52.663Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.846Z",
+      "publishedAt": "2026-11-11T00:33:52.663Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +141,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.846Z",
+      "publishedAt": "2026-11-11T00:33:52.663Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.846Z",
+      "publishedAt": "2026-11-11T00:33:52.663Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +163,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.845Z",
+      "publishedAt": "2026-11-11T00:33:52.663Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.845Z",
+      "publishedAt": "2026-11-11T00:33:52.662Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.844Z",
+      "publishedAt": "2026-11-11T00:33:52.662Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.844Z",
+      "publishedAt": "2026-11-11T00:33:52.662Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,29 +207,348 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:33.843Z",
+      "publishedAt": "2026-11-11T00:33:52.662Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "e18abac972c0",
-      "title": "梁家辉获金鸡奖最佳男主角",
-      "url": "https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%B6%E8%BE%89%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92",
-      "source": "baidu",
+      "id": "95c46cf7df73",
+      "title": "CoreWeave 2026 财年前三季度报归母亏损 20.75 亿美元，同比亏损扩大 178.9%",
+      "url": "https://www.ithome.com/1/025/200.htm",
+      "source": "ithome",
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
+      "publishedAt": "2026-11-11T00:33:52.662Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cbf0943ff869",
+      "title": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件",
+      "url": "https://www.ithome.com/1/025/201.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.662Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cd5dc1722d31",
+      "title": "OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务",
+      "url": "https://www.ithome.com/1/025/202.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.661Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0b6a09feca20",
+      "title": "谷歌迄今最强模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全",
+      "url": "https://www.ithome.com/1/025/203.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.661Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cb04fb653931",
+      "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程",
+      "url": "https://www.ithome.com/1/025/204.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.661Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a79367ac767f",
+      "title": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一",
+      "url": "https://www.ithome.com/1/025/205.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.661Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9c8933f74977",
+      "title": "谷歌最强 VLA 机器人模型：Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗",
+      "url": "https://www.ithome.com/1/025/188.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.660Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "509125ae5d35",
+      "title": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告",
+      "url": "https://www.ithome.com/1/025/206.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.660Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ee02057f67c6",
+      "title": "微软 XBOX One 主机将支持《GTA6》云游戏，但 PC 玩家无缘",
+      "url": "https://www.ithome.com/1/025/207.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.660Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cc65a050898c",
+      "title": "谷歌宣布免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 网络自动切换和数百万 Wi-Fi 热点",
+      "url": "https://www.ithome.com/1/025/208.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.660Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b7d4d22e2986",
+      "title": "Anthropic 发布 IPO 路演视频正式启动最高 643.5 亿美元募资计划，估值约在 1~1.4 万亿美元",
+      "url": "https://www.ithome.com/1/025/209.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.660Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b8c0447943ba",
+      "title": "苹果为 AirPods 5/AirPods Pro 3 等耳机推送 9B47 固件更新",
+      "url": "https://www.ithome.com/1/025/210.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.660Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "625cc9f381fb",
+      "title": "再迎“iPhone X 时刻”：20 周年款苹果手机前瞻，整机如一块玻璃、按键将全固态",
+      "url": "https://www.ithome.com/1/025/211.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.659Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "685c7e8a8cd8",
+      "title": "拼多多送货上门新规 11 月 13 日生效：拒绝履约每单赔付 10 元",
+      "url": "https://www.ithome.com/1/025/212.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.659Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3439ef3d450b",
+      "title": "技嘉推出 RTX Spark 迷你主机 AI Top Aero，最高 128GB 统一内存",
+      "url": "https://www.ithome.com/1/025/213.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.659Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6c8d57383713",
+      "title": "铁路车次改革落地：普速列车 11 月 25 日换新号，第一批新车次列车车票今起陆续发售",
+      "url": "https://www.ithome.com/1/025/214.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.659Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ca386cd24235",
+      "title": "iFixit 拆解苹果首款触控 MacBook Pro：发光 LOGO 组件难维修",
+      "url": "https://www.ithome.com/1/025/215.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.659Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ffa4bb376f83",
+      "title": "索尼 PlayStation 服务型射击游戏《Fairgame$》已被取消，Haven Studios 工作室不会裁员",
+      "url": "https://www.ithome.com/1/025/216.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.658Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0229207ef73f",
+      "title": "Anthropic 七名联合创始人拟在 IPO 中各套现 2.5 亿美元",
+      "url": "https://www.ithome.com/1/025/217.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.658Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "cb4faa8bb16e",
+      "title": "微软游说美国政府放弃中国光模块进口限制，担忧拖慢 AI 数据中心建设",
+      "url": "https://www.ithome.com/1/025/218.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.658Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1fda0785211d",
+      "title": "首次开放其全平台：苹果启动 2027 Swift 学生挑战赛，获奖者直通 WWDC27 大会",
+      "url": "https://www.ithome.com/1/025/219.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.658Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7622eb93c768",
+      "title": "任天堂在美国设立新职位：系统性保存、整理经典游戏资料",
+      "url": "https://www.ithome.com/1/025/220.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.657Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5c96c8576fe7",
+      "title": "索尼、微软确认《GTA 6》成 PlayStation、Xbox 商店史上预购量最高游戏，具体数量未公布",
+      "url": "https://www.ithome.com/1/025/221.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.657Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "94ed9d02aae4",
+      "title": "经典塔防游戏回归：《植物大战僵尸：重植版》12 月 3 日登陆苹果 Apple Arcade",
+      "url": "https://www.ithome.com/1/025/222.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.657Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3e65e1732ee0",
+      "title": "谷歌发布 Android 17 QPR2 正式版及 Pixel 11 月更新，新增通知管理和隐私控制功能",
+      "url": "https://www.ithome.com/1/025/223.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.657Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "36ec67152b93",
+      "title": "IT早报 1111：Anthropic 启动最高 643.5 亿美元 IPO；全球最强模型 Claude Fable 5.2 登场；董明珠称因铜涨价致格力业绩下滑...",
+      "url": "https://www.ithome.com/1/025/224.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.656Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "785915c575a7",
+      "title": "苹果子公司 Claris 正测试「Harbor」应用：将 Mac 变身本地 AI 服务器",
+      "url": "https://www.ithome.com/1/025/225.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.656Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "1e7330d7dfac",
+      "title": "挑战微软 Win11：原生 AI 系统 KORA 登场，将率先适配高通骁龙 X2 Elite 芯片",
+      "url": "https://www.ithome.com/1/025/226.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.656Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4080cd42ba1c",
+      "title": "苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等",
+      "url": "https://www.ithome.com/1/025/227.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:52.655Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "8af5e8863845",
+      "title": "罗大佑怒批赖清德：不要脸到家了",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%97%E5%A4%A7%E4%BD%91%E6%80%92%E6%89%B9%E8%B5%96%E6%B8%85%E5%BE%B7%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8%E5%88%B0%E5%AE%B6%E4%BA%86",
+      "source": "baidu",
+      "category": "general",
+      "summary": "台湾歌手罗大佑怒批民进党及赖清德“不要脸到家”。他批评民进党主政下毫无标准，为赢不择手段，并提及蔡英文没有子女、赖清德儿子送美国，呼吁台湾人为了下一代觉醒。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "2d5ebe8a689a",
-      "title": "高叶获金鸡奖最佳女主角",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%8F%B6%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92",
+      "id": "dcf047675055",
+      "title": "高铁座椅USB口充手机越充越掉电",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85USB%E5%8F%A3%E5%85%85%E6%89%8B%E6%9C%BA%E8%B6%8A%E5%85%85%E8%B6%8A%E6%8E%89%E7%94%B5",
       "source": "baidu",
       "category": "general",
-      "summary": "11月10日晚，第39届中国电影金鸡奖颁奖典礼在福建厦门举行。高叶凭借电影《南京照相馆》中的精彩表现，获得最佳女主角奖。据悉，评委会提名的还有李思潼、宋佳、张子枫、陈丽君。",
+      "summary": "11月10日，有网友发帖称高铁座椅USB口充手机越充越掉电引发热议。随后记者致电12306客服获悉，列车充电口电压低于家用交流电，仅供应急补电。",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -515,95 +559,18 @@
       "category": "general",
       "summary": "11月5日至10日，第九届中国国际进口博览会在上海举行。11月6日，49家企业及机构签约参展第十届进博会企业商业展。今年，境外参展企业数量创新高，参展国家、地区和国际组织数量创新高，全球首发、亚洲首展、中国首秀数量创新高。进博会的含金量，还在上升。",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "403fc5dfac39",
-      "title": "中国最长地铁环线来了",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E5%9C%B0%E9%93%81%E7%8E%AF%E7%BA%BF%E6%9D%A5%E4%BA%86",
+      "id": "3b1ac884b7e8",
+      "title": "鲨鱼滞销 4条仅70元",
+      "url": "https://www.baidu.com/s?wd=%E9%B2%A8%E9%B1%BC%E6%BB%9E%E9%94%80+4%E6%9D%A1%E4%BB%8570%E5%85%83",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，武汉地铁12号线全线开通运营。经中国城市轨道交通协会确认，这是目前国内最长地铁环线。这一线路全长59.9公里，设37座地下车站，可与18条既有及规划线路实现换乘。",
+      "summary": "近期，有渔民在码头以4条70元甩卖兼捕的尖吻鲭鲨。9月中旬东海全面开渔后，渔民捕捞时常意外捕获鲨鱼。专家指其属濒危物种，呼吁捕获后放生。",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "e3aa131a5107",
-      "title": "梁家辉：不坐高铁准备走路回去",
-      "url": "https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%B6%E8%BE%89%EF%BC%9A%E4%B8%8D%E5%9D%90%E9%AB%98%E9%93%81%E5%87%86%E5%A4%87%E8%B5%B0%E8%B7%AF%E5%9B%9E%E5%8E%BB",
-      "source": "baidu",
-      "category": "general",
-      "summary": "11月10晚，金鸡奖颁奖典礼举行，梁家辉凭借在电影《捕风追影》中的精彩表现，获得影帝。后台采访时，他面对大家关心自己独自奔波，幽默回答不坐高铁走路回去。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8bd40e2cd8aa",
-      "title": "金鸡奖获奖名单",
-      "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
-      "source": "baidu",
-      "category": "general",
-      "summary": "11月10日晚，第39届中国电影金鸡奖颁奖典礼在福建厦门举行并揭晓获奖名单。其中，《南京照相馆》获最佳故事片奖，梁家辉凭借《捕风追影》获最佳男主角奖，高叶凭借《南京照相馆》获最佳女主角奖。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "e185e454e288",
-      "title": "Anthropic正式启动募资计划",
-      "url": "https://www.baidu.com/s?wd=Anthropic%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E5%8B%9F%E8%B5%84%E8%AE%A1%E5%88%92",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "11月10日，Anthropic正式启动首次公开募股（IPO）路演，并在官网发布相关路演视频。公司计划发行8.25亿股A类普通股，发行价区间为每股70至78美元，按发行价上限计算，基础发行规模最高约643.5亿美元。公司拟以代码“ANT”在纳斯达克全球精选市场上市。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6d5513982818",
-      "title": "十元小贴纸 硬控年轻人",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%81%E5%85%83%E5%B0%8F%E8%B4%B4%E7%BA%B8+%E7%A1%AC%E6%8E%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA",
-      "source": "baidu",
-      "category": "general",
-      "summary": "目前，售价十几元的造景贴纸凭借场景搭建和解压属性走红，正形成包含画师、店铺和分销商的生意链条。与传统手账不同，造景贴纸通常自带场景参考图和辅助线，玩家只需要将人物、家具、植物等不同元素贴到指定位置，就能完成一幅完整的场景作品。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "056c9d84ed67",
-      "title": "《给阿嬷的情书》斩获金鸡两项大奖",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E6%96%A9%E8%8E%B7%E9%87%91%E9%B8%A1%E4%B8%A4%E9%A1%B9%E5%A4%A7%E5%A5%96",
-      "source": "baidu",
-      "category": "general",
-      "summary": "11月10日晚，金鸡奖颁奖现场，粤产电影《给阿嬷的情书》斩获金鸡奖评委会特别奖与最佳编剧奖。导演发表感言，感谢阿嬷的启蒙、恩师的鼓励、编剧伙伴十年间的陪伴打磨，并致谢家乡潮汕赐予的动人故事与创作灵感。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f6dcb944229e",
-      "title": "阿里宣布平头哥赴港独立上市",
-      "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%AE%A3%E5%B8%83%E5%B9%B3%E5%A4%B4%E5%93%A5%E8%B5%B4%E6%B8%AF%E7%8B%AC%E7%AB%8B%E4%B8%8A%E5%B8%82",
-      "source": "baidu",
-      "category": "business",
-      "summary": "11月10日，阿里巴巴公告称，拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板独立上市。平头哥已于2026年9月11日向港交所递交保密上市申请。分平头哥目前是中国领先的全栈数据中心芯片供应商，相关芯片可提供系统级算力解决方案。分拆完成后，平头哥预计仍将为阿里巴巴子公司。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "980618894cd1",
-      "title": "湖南株洲物流仓库突发大火系谣言",
-      "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E6%A0%AA%E6%B4%B2%E7%89%A9%E6%B5%81%E4%BB%93%E5%BA%93%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，网传“湖南株洲一物流家具仓库突发大火”，引发热议，经属地消防部门核实，近期株洲市并未发生类似火灾，该帖文所述不实。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,40 +581,51 @@
       "category": "general",
       "summary": "11月10日，2026年金鸡奖最佳男主角：梁家辉 《捕风追影》。至此，梁家辉完成了三金影帝大满贯！！实至名归！！",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "fa85616d004c",
-      "title": "美股低开 英伟达开盘跌近3%",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25",
-      "source": "baidu",
-      "category": "business",
-      "summary": "11月10日，美股三大股指集体低开，道琼斯指数跌0.48%，标普500指数跌0.66%，纳斯达克综合指数跌0.83%。热门股票中，英伟达股价下跌2.77%，特斯拉跌1.53%，英特尔跌2.16%；苹果、谷歌-A、亚马逊等少数个股微涨。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "a497abf1e6e8",
-      "title": "七巨头260亿美元“押注”Anthropic",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%B7%A8%E5%A4%B4260%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%9C%E6%8A%BC%E6%B3%A8%E2%80%9DAnthropic",
-      "source": "baidu",
-      "category": "ai",
-      "summary": "当地时间11月9日，Anthropic发布两款新模型，在性能与价格上直接叫板OpenAI。而目前Anthropic最快于10日启动IPO路演，谷歌等7家科技巨头仍计划以发行价合计投入260亿美元进行私募配售。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "7122b2a27943",
-      "title": "梁家辉 影帝获奖感言",
-      "url": "https://www.baidu.com/s?wd=%E6%A2%81%E5%AE%B6%E8%BE%89+%E5%BD%B1%E5%B8%9D%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80",
+      "id": "1b175f3bf712",
+      "title": "扬州地震",
+      "url": "https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87",
       "source": "baidu",
       "category": "general",
-      "summary": "11月10日，梁家辉凭借《捕风捉影》获得金鸡奖影帝，成为继梁朝伟之后第二位“三金”影帝。梁家辉获奖感言：得奖不代表收工，而是好好演戏的开工时刻。",
+      "summary": "据中国地震台网正式测定，11月11日6时15分在江苏扬州市江都区发生3.9级地震，震源深度20公里，震中位于北纬32.62度，东经119.60度。",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "42e6b49009f2",
+      "title": "醉汉持刀闯入家中 男子反击致其死亡",
+      "url": "https://www.baidu.com/s?wd=%E9%86%89%E6%B1%89%E6%8C%81%E5%88%80%E9%97%AF%E5%85%A5%E5%AE%B6%E4%B8%AD+%E7%94%B7%E5%AD%90%E5%8F%8D%E5%87%BB%E8%87%B4%E5%85%B6%E6%AD%BB%E4%BA%A1",
+      "source": "baidu",
+      "category": "general",
+      "summary": "今年2月，河南平顶山一男子季某被同村醉酒男子持刀闯入家中，情急下用钢筋反击致对方死亡；季某已因涉嫌故意伤害罪被捕、案件进入审查起诉，其律师称属正当防卫。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "6a714a04e54a",
+      "title": "周杰伦老歌又爆火 《发如雪》热度飙升",
+      "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%80%81%E6%AD%8C%E5%8F%88%E7%88%86%E7%81%AB+%E3%80%8A%E5%8F%91%E5%A6%82%E9%9B%AA%E3%80%8B%E7%83%AD%E5%BA%A6%E9%A3%99%E5%8D%87",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，周杰伦老歌《发如雪》同时杀进多个榜单，昨晚11点同步收听超1万人，居热度榜第二、音乐指数榜第四。此次热度飙升系因该曲被用作短视频配乐，结合北方下雪点燃意境。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "46536b80d299",
+      "title": "扬州地震 网友：躺床上直接被摇醒",
+      "url": "https://www.baidu.com/s?wd=%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87+%E7%BD%91%E5%8F%8B%EF%BC%9A%E8%BA%BA%E5%BA%8A%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%A2%AB%E6%91%87%E9%86%92",
+      "source": "baidu",
+      "category": "general",
+      "summary": "11月11日6时15分，据中国地震台网正式测定，江苏扬州市江都区发生3.9级地震，震源深度20公里。震中距扬州市31公里，距南京市100公里。多名网友表示睡在床上直接被摇醒。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -658,9 +636,31 @@
       "category": "general",
       "summary": "11月10日晚，金鸡奖颁奖典礼在厦门举行。演员高叶凭借《南京照相馆》获最佳女主角奖。高叶发表感言表示，生在这片和平土地让她有了追梦底气。她回顾了自己从业二十年的历程，并感谢了观众、剧组同仁、家人及经纪人的支持。",
       "imageUrl": "",
-      "publishedAt": "2026-11-10T19:57:34.768Z",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "980618894cd1",
+      "title": "湖南株洲物流仓库突发大火系谣言",
+      "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E6%A0%AA%E6%B4%B2%E7%89%A9%E6%B5%81%E4%BB%93%E5%BA%93%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，网传“湖南株洲一物流家具仓库突发大火”，引发热议，经属地消防部门核实，近期株洲市并未发生类似火灾，该帖文所述不实。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "d3f6f311d5bd",
+      "title": "日本女子给前男友账号连续点赞获刑",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E7%BB%99%E5%89%8D%E7%94%B7%E5%8F%8B%E8%B4%A6%E5%8F%B7%E8%BF%9E%E7%BB%AD%E7%82%B9%E8%B5%9E%E8%8E%B7%E5%88%91",
+      "source": "baidu",
+      "category": "general",
+      "summary": "当地时间11月10日，日本东京一33岁女子因收到禁止令后仍给前男友账号点赞14次、转发1次，被判拘禁6个月、缓刑3年。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-11T00:33:53.478Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-11-10T19:57:35.917Z"
+  "generatedAt": "2026-11-11T00:33:55.007Z"
 }

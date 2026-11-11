@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3e65e1732ee0",
+    "title": "谷歌发布 Android 17 QPR2 正式版及 Pixel 11 月更新，新增通知管理和隐私控制功能",
+    "url": "https://www.ithome.com/1/025/223.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/223.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，谷歌于当地时间 11 月 10 日宣布向 Pixel 系列手机及平板电脑推送 Android 17 QPR2 正式版更新。\n\n此次更新比原定季度发布时间提前约一个月，同时整合了 2026 年 11 月 Pixel Feature Drop 功能更新和当月安全补丁，带来界面定制、通知管理、隐私控制及系统稳定性方面的多项改进。\n\n据 9to5Google 报道，QPR2 调整了主屏幕长按菜单的布局，并为系统主题增加了更灵活的颜色选择功能。用户进入「壁纸和风格」设置后，可以通过颜色选择滑块自定义系统强调色，还能在 Neutral、Soft、Bright 和 Bold 四种主题风格之间切换。\n\n同时，QPR2 系统状态栏也增加了自定义选项。用户可以进入「设置」中的「系统」菜单，选择显示全部通知图标、仅显示优先通知图标或隐藏通知图标，还可以控制静音、振动和电池百分比等系统状态图标的显示。\n\n在快捷设置方面，新版本增加了 Audio streams 和 Voice broadcast 两个快捷开关。电池图标则在设备充电或开启省电模式时显示轮廓。此外，系统将电池相关选项统一整合到「电池和充电」菜单中。\n\n通知和隐私管理也是此次更新的重点。Android 17 QPR2 对通知智能管理功能进行了整合，将通知摘要、通知分类和通知冷却等功能集中到通知设置中。同时，系统新增 Agents Dashboard（智能体控制面板），用户可以在「安全与隐私」设置中查看相关智能体控制选项。\n\n新版本还增加了 Private Compute Core 日志查看功能。Private Compute Core 是谷歌于 2021 年推出的独立安全运行环境，负责在设备本地处理 Now Playing、智能回复、实时翻译、实时字幕以及 Google Messages 垃圾信息检测等功能。此次更新允许用户查看相关数据处理日志。\n\nPixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 用户还将获得 HiLight 功能升级。此前该功能主要通过手机背面灯光提示来电和 Gemini 状态，此次开始支持重要联系人的短信通知。当用户将手机屏幕朝下放置时，如果收藏联系人发送消息，手机背面灯光会闪烁两次。\n\n此外，谷歌在 11 月 Pixel Feature Drop 中还公布了 Gemini Intelligence、Rambler 语音输入增强、个性化小组件以及 Pixel Search 等新功能。其中，Pixel 10 系列将获得更多 Gemini 智能体能力，支持处理多步骤任务；Pixel Search 则扩展至 Pixel 6 及更新机型。\n\n系统修复方面，谷歌此次针对 Pixel 设备公布了 33 项问题修复，涉及应用、音频、电池与充电、蓝牙、相机、网络连接、显示与图形、系统框架、性能、传感器、电话和用户界面等类别。\n\n具体包括修复部分场景下虚拟键盘无法弹出、媒体音量意外升高、未连接充电器却显示充电状态、蓝牙连接稳定性不佳、滚动动画卡顿，以及通知栏无法通过下滑手势展开等问题。Pixel 11 系列还修复了拍摄照片偶尔无法正常保存的问题。\n\n安全方面，2026 年 11 月 Android 安全补丁修复了多个安全漏洞。其中，11 月 1 日安全补丁修复 135 项问题，11 月 5 日安全补丁修复 97 项问题，涉及高危和严重级别漏洞。谷歌设备专属安全公告还列出了另外 166 项安全修复。\n\nIT之家注：此次 Android 17 QPR2 正式版覆盖 Pixel 6a、Pixel 7 系列、Pixel 8 系列、Pixel 9 系列、Pixel 10 系列、Pixel 11 系列，以及 Pixel Fold 和 Pixel Tablet。\n\n用户可以进入「设置」-「系统」-「系统更新」检查并安装 OTA 更新。此前参与 Android 17 QPR2 Beta 测试的用户，也可以通过小型更新包升级至正式版。谷歌表示，Android Beta Program 仍将继续开放，后续还会开展 QPR 和 Feature Drop 测试。\n\n《消息称谷歌 Android 17 全球占比仅 1%，安卓系统版本碎片化问题依旧严峻》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T00:33:52.657Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
