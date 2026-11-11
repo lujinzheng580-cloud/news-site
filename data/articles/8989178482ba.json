@@ -11,7 +11,7 @@
     "content": "IT之家 11 月 11 日消息，华为开发者联盟今日开启了 HarmonyOS 7 (API 26.0.1) Developer Beta 定向招募。目前新版本已开启推送，包体大小约 5.55GB，此次更新供开发者开发调测新版本 API 应用使用。\n\n作为参考，26.0.1 Beta1 在 26.0.0 的基础上，开发能力进一步增强：Ability Kit 新增子进程信息查询能力；ArkTS 容器集 Map 类新增多个更新 Map 映射关系的接口；ArkUI 新增预加载 NavDestination 页面、扩展动画组件的 C API 等能力；Basic Services Kit 新增 USB 管理、板级硬件查询；Core File Kit 新增卷管理能力；MDM Kit 新增打印机白名单、精确定时器等能力；新增车辆感知与用户识别能力等。\n\nHUAWEI Pura X Max 典藏版",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-11-11T15:24:47.690Z",
+    "publishedAt": "2026-11-11T22:11:51.959Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
