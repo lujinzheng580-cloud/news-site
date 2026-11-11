@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "626ec93c58d8",
+    "title": "部分用户反馈使用苹果首款触控 MacBook Pro 后出现不适，原因指向屏幕调光",
+    "url": "https://www.ithome.com/1/025/402.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/402.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，科技媒体 AppleInsider 昨日（11 月 10 日）发布博文，部分用户反馈在使用搭载 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 后，出现眼疲劳、头痛等不适症状。\n\n该媒体从苹果售后渠道获悉，多家 Apple Store 零售店的天才吧（Genius Bar）已收到相关投诉，部分零售商也观察到退货率略有上升，不过该报道未提供具体投诉数量及退货统计。\n\n该媒体深入研究后，认为导致用户使用后出现不适症状的根源，在于屏幕采用的脉冲宽度调制（PWM）技术。IT之家援引博文介绍，这种调光方式通过快速改变发光单元的亮灭时间控制亮度，即使肉眼看不出明显闪烁，也可能让部分敏感用户感到不适。\n\n报道称苹果首款触控 MacBook Pro 屏幕的 PWM 频率为 240Hz，闪烁幅度为 56%；作为对比，搭载 Mini LED 屏幕的 M4 Pro 机型，PWM 频率为 14,880Hz。\n\n在缓解措施方面，部分 iPhone 和 iPad mini 已提供“显示脉冲平滑”功能，可在低亮度下调整调光方式，但截至报道发布时，macOS 尚未提供对应选项。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T07:13:27.398Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ca34d6a480a3",
+    "title": "Nordic 推出支持边缘 AI 推理的 Wi-Fi SoC「nRF71」系列，待机功耗最高降低 1/20",
+    "url": "https://www.ithome.com/1/025/414.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/414.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，Nordic Semiconductor（IT之家注：诺迪克半导体）现已推出 nRF71 系列 Wi-Fi SoC，该产品内置 NPU，可直接在芯片上执行 AI 推理。\n\n据介绍，该系列芯片包含 nRF7120、nRF7120E 两种型号。前者支持双频 Wi-Fi 6，后者支持三频 Wi-Fi 6E，并搭载用于加速边缘 AI 推理的 Axon NPU。该系列芯片均支持低功耗蓝牙、Thread 和 Matter，并配备 4MB 片上非易失性存储器，以及 1MB 可供用户使用的内存。\n\n同时，该系列产品拥有超低功耗特性。与 nRF70 相比，nRF71 的待机功耗最高降低 1/20。借助内置 NPU，设备可以直接在芯片上执行关键词检测、异常检测和图像分类等 AI 推理，无需额外配备 AI 处理器。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T07:13:27.398Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "efbb6ece9345",
+    "title": "闪迪公布 eMMC 模组 iNAND CL EM181，面向嵌入式应用",
+    "url": "https://www.ithome.com/1/025/434.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/434.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，Sandisk（闪迪）当地时间昨日在 electronica 2026 慕尼黑电子展上公布了其面向各类嵌入式应用的新款 e.MMC 5.1A 闪存模组 SANDISK iNAND CL EM181。\n\nCL EM181 提供 64GB / 128GB / 256GB 三种容量版本，顺序读写分别为 300MB/s 和 225MB/s。其支持 SmartSLC 技术，具备 LDPC ECC 纠错，工作温度范围 -25~+85℃，采用符合 JEDEC 规范的 11.5×13 (mm) 封装。\n\n闪迪全球汽车和物联网业务市场总监 Russell Ruben 表示：\n\n许多物联网产品通常会在市场上销售多年，因此存储技术的连续性对制造商至关重要。\n\nSANDISK iNAND CL EM181 为客户提供了一条通往更新的 NAND 技术的途径，同时保留了成熟的 e.MMC 接口，并减少了对现有设计所需的更改。\n\n这是我们持续投资 e.MMC，用于物理人工智能、物联网和嵌入式应用的又一举措。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T07:13:27.397Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

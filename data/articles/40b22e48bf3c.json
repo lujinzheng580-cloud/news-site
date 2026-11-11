@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "40b22e48bf3c",
+    "title": "同比增 1860.32%：微软 11 月共修复 1235 个漏洞，刷新历年同月修复数纪录",
+    "url": "https://www.ithome.com/1/025/435.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/435.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，科技媒体 bleepingcomputer 今天（11 月 11 日）发布博文，报道称在本月补丁星期二活动日（11 月 10 日）中，微软共计修复 1,235 个漏洞，刷新补丁星期二活动日历年 11 月修复漏洞数纪录，仅次于 10 月创造的 1411 个漏洞修复数纪录。\n\n在修复漏洞数量纪录方面，2026 年 11 月修复 1,235 个漏洞，而 2025 年 11 月共修复 63 个漏洞，同比增长 1,860.32%。\n\n在“关键”（Critical）级别漏洞中，微软本月共计修复 66 个“关键”漏洞，其中 48 个是远程代码执行（RCE）漏洞，15 个是权限提升（EoP）漏洞，3 个是 Microsoft Edge 中的释放后使用（Use-After-Free）漏洞。\n\nIT之家援引博文介绍，附上 2026 年 11 月微软修复的漏洞类型数量：\n\n142 个 Microsoft Edge（基于 Chromium）漏洞\n\n在 1,235 个漏洞中，约有 639 个属于 Windows 或 Microsoft Windows 产品 / 组件。此外该统计数据不含微软本月初修复的 108 个漏洞，其中包括 1 个 Entra 设备注册漏洞、82 个 Mariner 漏洞和 25 个 Microsoft Edge 漏洞。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T07:13:27.397Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8439e1976826",
+    "title": "百度文心发布 ERNIE 5.5 Flash Preview 模型，11 月 25 日前开源权重",
+    "url": "https://www.ithome.com/1/025/451.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/451.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，百度文心大模型今日发布 ERNIE 5.5 Flash Preview，这是基于此前发布的 Base 模型的首个后训练版本。\n\n该模型总参数 280B，激活参数 14B，支持 1M 上下文，官方称在编程、3D 建模、知识工作、内容创作等方面表现出色。\n\n据介绍，ERNIE 5.5 Flash Preview 兼顾了智能水平和推理效率。在多项基准测试中，ERNIE 5.5 Flash Preview 取得了具有竞争力的得分，同时保持了极致的解码速度。模型 API 已在千帆平台上线，权重将于 11 月 25 日前开源。\n\n官方表示，ERNIE 5.5 Flash Preview 是后训练过程中的一个中间版本，尽管它已经取得同尺寸模型中较有竞争力的表现，但仍可能存在部分因训练不充分导致的能力缺陷。后训练仍在进行中，ERNIE 5.5 Flash 还在快速进化，将密切关注 Preview 模型在真实场景中的实际表现和用户反馈，并在后续正式版本中进行优化。\n\n《百度文心开源发布 ERNIE 5.5 Flash Base 高效基座模型，总参数 280B》\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T07:13:27.396Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

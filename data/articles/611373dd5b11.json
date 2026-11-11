@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "611373dd5b11",
+    "title": "AirPods 耳机充电盒秒变苹果 Mac 无线鼠标：体感移动 + 轻敲点击，还能“打鸭子”",
+    "url": "https://www.ithome.com/1/025/398.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/398.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，一位名叫 Andy Gao 的开发者本月上传了一个开源项目 AirPointer，可以把苹果 AirPods 无线耳机的充电盒变成 Mac 电脑的鼠标。\n\n从演示可以看到，Mac 电脑连接到 AirPods 充电盒后，电脑屏幕顶部显示弹窗，提示旋转充电盒，然后就可以用体感来移动电脑鼠标，轻敲充电盒就是点击鼠标。\n\n听起来似乎很鸡肋，但 Andy Gao 反手给出了一个使用场景 —— 玩游戏。他上传了一段视频，借助这套工具，可以实现类似 Wii 等早期游戏机的“打鸭子”玩法。\n\nIT之家查询该项目页面了解到，用户需要将 AirPointer 放进 Mac 的无障碍软件名单，这是实现操控鼠标的第一步。然后按照教程初始化即可使用，还支持随时按快捷键暂停功能。\n\nAirPointer：https://github.com/musubipapi/airpointer\n\n“打鸭子”小游戏：https://lastlight.gao.haus/\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T07:13:27.399Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

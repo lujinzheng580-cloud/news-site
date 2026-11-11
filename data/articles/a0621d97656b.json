@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a0621d97656b",
+    "title": "日本运营商 NTT Docomo 再度发生大规模通信故障，5G SA 通话、上网等受影响",
+    "url": "https://www.ithome.com/1/025/397.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/397.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 11 日消息，日本运营商 NTT Docomo 今日宣布，从日本时间上午 10:34（北京时间 09:34）起，公司的 5G SA 语音通话、数据通信和短信服务出现故障情况，影响范围覆盖日本全国，恢复时间未定。\n\nNTT Docomo 表示，目前使用 5G SA（IT之家注：独立组网）的用户可能无法正常使用手机通信服务（语音通话、数据通信及短信）。使用虚拟运营商的用户未受影响，未开通 5G SA 的 5G 用户以及 4G 用户也不受影响。\n\n同时，用户可以尝试在网络设置中选择 4G，并重启手机或开关飞行模式来恢复通信服务。对于此次故障给用户造成的不便，NTT Docomo 深表歉意。\n\n《日本运营商 NTT Docomo 发生全国性 5G SA 通信故障，官方建议切换至 4G》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-11T07:13:27.399Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
