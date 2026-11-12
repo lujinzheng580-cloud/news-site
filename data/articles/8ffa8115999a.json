@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "8ffa8115999a",
+    "title": "航运巨头马士基遭数据泄露，勒索团伙索要 500 万美元赎金",
+    "url": "https://www.ithome.com/1/025/893.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/893.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 12 日消息，丹麦航运巨头马士基近期遭遇数据泄露，黑客入侵了该公司此前收购的一家子公司。\n\n马士基表示，公司网络安全团队发现问题后立刻展开调查，目前没有迹象表明其他马士基系统，或通过 API、EDI 等集成方式与马士基连接的客户及合作伙伴系统受到影响。\n\n同时马士基表示，本次事件不会对客户业务造成影响，他们仍可照常使用马士基平台管理货运业务。\n\n结合 BleepingComputer 报道，勒索软件团伙 WhiteArmor 声称对此次攻击负责。该团伙上周末在自己的数据泄露网站公布了马士基的名称，并索要 500 万美元（IT之家注：现汇率约合 3,342.9 万元人民币）赎金。\n\nWhiteArmor 进一步声称，他们掌握了从马士基 OCF / LF Logistics 平台窃取的约 100 GB 数据，其中包括：\n\n33 个超级管理员（SUPER_ADMIN）账户；\n\n14.44 万条库存记录，包含采购订单和预先发货通知（ASN）；\n\n27842 条移动设备日志，其中包含电话号码、电子邮件地址和 IMEI 号码。\n\n截至目前，马士基尚未证实勒索软件团伙提出的任何指控。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-12T03:06:51.860Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "57a40863afd1",
+    "title": "玄铁发布高吞吐互联 IP XL-300：支持 8 核异步连接，数据位宽 256bit",
+    "url": "https://www.ithome.com/1/025/902.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/902.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 12 日消息，阿里巴巴达摩院旗下 RISC-V 品牌玄铁 (XuanTie) 近日发布了高吞吐缓存一致性互联 IP 设计 XL-300 。\n\nXL-300 支持最多 8 个核心异步连接与 256bit 数据位宽，支持最大 32MB 可配 L3 Cache，8 核并发线性度达到 90% 以上，带宽上限相比前代 XL-200 提升约 1 倍。其新增 Direct Memory Transfer 支持，绕过传统路径，突破大容量 L3 与高总线延迟带来的吞吐瓶颈。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-12T03:06:51.858Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

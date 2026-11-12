@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d45fc9f30814",
+    "title": "英特尔 256 核至强 Diamond Rapids 处理器真身曝光，预计 2027 年推出",
+    "url": "https://www.ithome.com/1/025/878.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/878.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 12 日消息，科技媒体 Wccftech 昨日（11 月 11 日）发布博文，报道称代号 Diamond Rapids 的英特尔下一代至强 7 处理器实物样品被首次公开展示。这款面向数据中心的芯片最高配备 256 个性能核，采用 18A-P 制程工艺，预计于 2027 年推出。\n\n消息称 Diamond Rapids 采用 Panther Cove-X 核心架构，配备 1.28GB 末级缓存，支持 16 通道内存、最高 12,800 MT/s 的 MRDIMM 内存，以及 128 条 PCIe 6.0 通道。其升级方向不仅是增加核心数量，也包括扩大缓存、提高数据传输能力，为多任务并行处理提供支撑。\n\n英特尔将其定位为面向智能体 AI 基础设施的 CPU，强调高核心数、大容量缓存、高内存带宽，以及 AMX、AVX 10.2 等指令扩展支持。外观方面，展示样品采用大尺寸封装，配有新的散热顶盖和触点布局，适配 LGA 9324 插槽。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-12T03:06:51.861Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

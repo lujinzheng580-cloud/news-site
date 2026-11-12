@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "54fba19ed067",
+    "title": "日本运营商 NTT Docomo 完成修复 5G SA 通信故障：原因为交换机拥塞",
+    "url": "https://www.ithome.com/1/025/856.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/856.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 12 日消息，日本运营商 NTT Docomo 表示，公司已于日本时间 11 月 11 日 19:17（北京时间 18:17）完成 5G SA 通信故障修复。\n\nNTT Docomo 透露，本次故障的原因是承载 5G SA 用户的交换机发生拥塞。截至目前，尚没有证据表明此次故障由未授权访问或网络攻击引起。\n\n该公司提醒客户，如果仍然无法使用通信服务，可以尝试重启设备或开关飞行模式，以解决问题。\n\n《日本运营商 NTT Docomo 再度发生大规模通信故障，5G SA 通话、上网等受影响》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-12T03:06:51.862Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

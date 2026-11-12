@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ba8de836cb6d",
+    "title": "思特威推出安防应用 5MP CMOS 图像传感器 SC538HAI / SC536HAI，支持全时录像",
+    "url": "https://www.ithome.com/1/025/905.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/025/905.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 12 日消息，思特威今天宣布推出两款面向智能安防应用的 5MP 高分辨率 CMOS 图像传感器：SC538HAI 和 SC536HAI。新品基于 SmartClarity -3 工艺技术打造，兼具低功耗、低噪声、高动态范围等特性并支持全时录像（AOV）功能，满足安防设备的全天候运行需求。\n\n据介绍，SC538HAI 和 SC536HAI 均搭载思特威升级 SmartAOV 2.1 技术，支持全时录像（AOV，Always-On Video）功能。以 SC538HAI 为例：当检测到事件发生时，SC538HAI 能够快速切换至 60fps 常规帧率进行实时录制；无事件发生时，则切换至 1fps 超低帧率持续录像，有效降低设备运行功耗。\n\n同时，这两款传感器搭载 SFCPixel 与 Micro-Pillar 近红外增强技术，基于 BSI 像素架构设计，采用思特威 SFCPixel 技术，在 520nm 可见光波段下的量子效率（QE）可达 85%。并通过近红外增强结构优化，提升像素感光区域对红外光的吸收能力。在 850nm 近红外波段下，SC538HAI 和 SC536HAI 的量子效率可达 51%，相比前代提升 13%。\n\nIT之家注意到，SC538HAI 和 SC536HAI 采用 1/2.7\" 安防产品标准靶面，适配行业通用镜头。SC538HAI 采用 CSP-35pin 小封装引脚设计，SC536HAI 采用 CSP-30pin 小封装引脚设计。双封装版本方便客户 Pin2Pin 灵活切换，有助于精简摄像头模组空间。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-12T03:06:51.858Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
