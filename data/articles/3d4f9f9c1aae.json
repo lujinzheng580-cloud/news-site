@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "3d4f9f9c1aae",
+    "title": "爱好者为《我的世界》任天堂 New Nintendo 3DS 版推出非官方 1.10 更新：加入在线多人联机 / 无限世界功能",
+    "url": "https://www.ithome.com/1/026/293.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/026/293.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 12 日消息，据外媒 Tweaktown 报道，近期有爱好者为早已停更的任天堂 New Nintendo 3DS Edition 版《我的世界》推出非官方 1.10 更新，为游戏引入在线多人联机、无限世界、指令系统等功能，同时新增对初代 Nintendo 3DS 的支持。\n\n公开信息显示，《我的世界》New Nintendo 3DS Edition 于 2017 年 9 月推出，后续虽然加入了最多支持两名玩家的本地无线联机功能，但始终不支持在线多人游戏。Mojang 已于 2019 年 1 月停止维护 New Nintendo 3DS Edition 版本，最终官方版本为 1.9.19。\n\n而此次推出的非官方 1.10 版本允许玩家加入多人游戏服务器，并建立点对点连接。社区还专门搭建了一台跨平台生存多人游戏（SMP）服务器，支持 3DS 玩家与运行《我的世界》Java Edition 1.12 版及 Pocket Edition 1.1.5 版的玩家共同游戏。\n\n此外，此次更新还取消了原版游戏固定的地图尺寸限制。此前，游戏世界的最大范围仅为 2016 × 2016 格方块，而新版本不再受到这一限制。同时世界最大高度也从 128 格提升至 256 格，为玩家建造建筑和探索地图提供了更大空间。\n\n相应开发者还为游戏引入了初代 Nintendo 3DS 兼容支持。此前，官方版本仅支持性能更强的 New Nintendo 3DS 系列，初代 3DS 无法运行这款游戏。社区开发者表示，他们通过一系列性能优化，使游戏现在也能在初代 3DS 和 2DS 掌机上运行。\n\n下载安装方面，此次玩家自制的 1.10 更新通过 Minecraft 3DS Community 的 UniStore 分发，用户可以使用 Universal-Updater 获取，也可以通过相应社区 Discord 服务器下载。\n\n需要注意的是，安装该更新需要一台已经破解并启用自制程序环境的 Nintendo 3DS，并安装 Luma3DS 等自定义固件，同时开启游戏补丁功能。针对初代 3DS 和 2DS 机型，社区也提供了单独的运行教程，相关说明可在其 Discord 服务器中查看。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-12T11:22:28.841Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

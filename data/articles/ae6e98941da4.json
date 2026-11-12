@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "ae6e98941da4",
+    "title": "MTE 支持回归后，GrapheneOS 即将实现谷歌 Pixel 11 系列智能手机适配",
+    "url": "https://www.ithome.com/1/026/179.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/026/179.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 12 日消息，GrapheneOS 官方昨日表示，随着上游 Android 17 QPR2 为 Pixel 11 系列带回对 MTE 功能的支持，该第三方 Android 发行版也将正式适配谷歌最新一代智能手机。\n\nMTE 全称内存标记扩展，可实时检测内存错误，大幅降低漏洞被利用风险。这项安全功能在一般 Android 发行版中甚少被利用，但却是 GrapheneOS 这个主打安全性的版本的关键基石。\n\n此前的多代 Pixel 智能手机都支持 MTE，但 Pixel 11 系列在发售伊始缺乏该功能，导致 GrapheneOS 的适配工作遇到阻碍。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-12T11:22:28.844Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
