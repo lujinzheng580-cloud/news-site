@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "26ab6cea7391",
+    "title": "UCIe 4.0 规范发布，将芯粒互连扩展至系统级集成",
+    "url": "https://www.ithome.com/1/026/751.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/026/751.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 13 日消息，UCIe 联盟当地时间 12 日发布了该芯粒互连规范的 4.0 版本。最新的迭代将 UCIe 架构从芯片级接口设计扩展到满足将多个芯片集成到统一的封装系统的关键要求。\n\nUCIe 4.0 引入了标准的片上存储器链路，UCIe.mem 协议简化了 SoC 与存储器逻辑裸片间的集成，实现了高达 93.75% 的数据效率和约 2.5 TB/s/mm 的晶边带宽密度；新的功率优化配置文件可在 64GT/s 下实现 30~80% 的能效提升；面向标准封装 UCIe 的增强型凸块设计则改进了面积效率。\n\n此外，UCIe 4.0 包含一系列提升系统级安全性和可管理性的特性，包括可信芯片状态报告、双向完整性保护管理通道；其还扩展了 UCIe 互连在汽车应用场景中的系统级可靠性。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-13T07:12:47.409Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
