@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c83ec2ef40d9",
+    "title": "Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利",
+    "url": "https://www.ithome.com/1/026/464.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/026/464.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 13 日消息，当地时间 11 月 12 日，美国公司 Flinn Artificial Intelligence (AI) Technologies LLC（以下简称 Flinn AI）向美国特拉华州地区法院提起两起专利侵权诉讼，将 Anthropic PBC 和 OpenAI OpCo 共同列为被告，指控两家公司侵犯其持有的五项神经网络相关专利。\n\n与此同时，还有一群非营利组织也起诉了 OpenAI、Anthropico、Meta、谷歌和 SpaceXAI 等公司，试图进一步阻止这些企业开发先进 AI 模型。\n\nFlinn AI 两起诉讼分别为 Flinn AI Technologies LLC v. Anthropic PBC（案号：1:26-cv-01454）和 Flinn AI Technologies LLC v. OpenAI OpCo LLC（案号：1:26-cv-01455）。\n\nFlinn AI 指控，两家公司均侵犯了由计算机科学家史蒂文・弗林（Steven Flinn）和娜奥米・曼尼佩尼（Naomi Moneypenny）共同发明的五项专利。\n\n诉状称，相关发明可以追溯至 2015 年末和 2016 年初，当时弗林与曼尼佩尼提交了相关专利申请。这些专利涉及基于注意力机制的神经网络训练与处理技术，Flinn AI 认为，其为现代生成式人工智能系统中的相关功能提供了技术基础。\n\n据 Law360 披露，涉案五项美国专利的编号分别为 US 12,223,404、US 12,327,166、US 12,462,197、US 12,462,198 和 US 12,511,580，专利名称均涉及迭代式注意力神经网络训练与处理（Iterative attention-based neural network training and processing）。\n\n针对 Anthropic 的诉讼主要涉及 Claude 系列大语言模型。Flinn AI 在诉状中称，随着 Claude 模型及相关产品不断迭代和扩展，Anthropic 提供的注意力机制推理、检索、记忆、智能体以及多模态功能越来越先进，相关系统持续侵犯涉案专利。\n\n针对 OpenAI 的诉状也提出了类似指控，认为随着该公司的模型及相关功能不断升级，其专利侵权行为也在持续。\n\n此外，弗林还创立了 ManyWorlds Inc.，曼尼佩尼随后也加入该公司。IT之家注意到，今年以来，名称相近的 Many Worlds 2T Innovations LLC 也曾围绕专利问题起诉 OpenAI 和 Spotify。\n\n根据公开诉讼记录，该公司于 2026 年 4 月起诉 Spotify，8 月又在美国得克萨斯州东区联邦地区法院起诉 OpenAI，涉及另一组专利。\n\n《OpenAI 承诺不使用苹果所称被窃商业秘密，双方诉讼互指对方窃取机密》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-13T00:30:19.304Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

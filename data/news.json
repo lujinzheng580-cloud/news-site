@@ -2,248 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "1f8f1adda476",
-      "title": "AWS 首席 AI 和技术官马特 · 伍德：优秀的工程师要爱上问题，而非现成解法",
-      "url": "https://www.ithome.com/1/026/359.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.278Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "164dfdb0ac16",
-      "title": "法拉利 499P Modificata 首次公开拍卖：成交价近 6600 万元，不能上路也不能参赛",
-      "url": "https://www.ithome.com/1/026/360.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.277Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b690d8c1ec41",
-      "title": "2022 年 TGA 最佳独立游戏《迷失》实体版登陆任天堂 Switch 2，29.99 美元",
-      "url": "https://www.ithome.com/1/026/361.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.277Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "472a4b974724",
-      "title": "谷歌 14.9 亿欧元反垄断罚款案再起波澜：欧盟法院顾问认为撤销罚款的裁决有问题",
-      "url": "https://www.ithome.com/1/026/362.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.277Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "44f1d0da0e4e",
-      "title": "Epic CEO 斯威尼力挺黄仁勋：英伟达若罢免他，堪比当年苹果解雇乔布斯",
-      "url": "https://www.ithome.com/1/026/363.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.277Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "072e6ef886de",
-      "title": "消息称 2027 年安卓旗舰手机在重新评估双层 OLED 屏幕",
-      "url": "https://www.ithome.com/1/026/364.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.277Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a2a253b73073",
-      "title": "新加坡星展银行 PayLah! 电子钱包接入支付宝、微信，用户可双向扫码支付",
-      "url": "https://www.ithome.com/1/026/365.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.276Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "bb0701343b68",
-      "title": "上下水版 2999 → 678 元：科沃斯全能基站扫拖机器人“地宝 mini2”破冰新低",
-      "url": "https://www.ithome.com/1/026/367.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.276Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "df34de9f142e",
-      "title": "西门子 CEO 博乐仁：无论黄仁勋是否离职，与英伟达的合作都不会受影响",
-      "url": "https://www.ithome.com/1/026/374.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.276Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3758cd8ebd7d",
-      "title": "兼容维度最全面：中国银联与蚂蚁集团推出全功能融合终端，支付宝碰一下、境内外银行卡、扫码等都支持",
-      "url": "https://www.ithome.com/1/026/375.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.276Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "011cadfbbadd",
-      "title": "合作生存恐怖游戏《RADZIMA》Steam 抢先体验上线：首发特惠 ¥20.46，支持简体中文",
-      "url": "https://www.ithome.com/1/026/376.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.276Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ccb612d0eec4",
-      "title": "上汽大众“超能纯电 SUV”ID. ERA 5X 上市，限时 9.99 万-13.99 万元",
-      "url": "https://www.ithome.com/1/026/379.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.275Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0e6b9295bca1",
-      "title": "北汽集团张建勇与华为任正非等高层会谈：坚定深化战略合作，加码享界品牌投入",
-      "url": "https://www.ithome.com/1/026/380.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.275Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6515e4764e75",
-      "title": "出轨丑闻爆发前黄仁勋曾谈及接班安排：希望下一任 CEO 来自英伟达内部",
-      "url": "https://www.ithome.com/1/026/381.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.275Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0b31901bec66",
-      "title": "预售先享价 15.77 万元起，吉利星越 L PLUS 开启预售",
-      "url": "https://www.ithome.com/1/026/382.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.275Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "41fe2ea67dbe",
-      "title": "斯巴鲁新一代水平对置四缸发动机研发中，剑指 50% 热效率",
-      "url": "https://www.ithome.com/1/026/383.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.275Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "0ba53c76bd32",
-      "title": "2027 款奇瑞风云 T11 上市，限时置换价 17.99 万元起",
-      "url": "https://www.ithome.com/1/026/384.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.275Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5e190e4c9ad1",
-      "title": "广汽埃安 Ray 7 车型上市：华为 192 线激光雷达、搭文远知行 L4 级 Robotaxi 同源大模型，限时价 11.47 万元起",
-      "url": "https://www.ithome.com/1/026/385.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.275Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "9c17d96669bc",
-      "title": "科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言",
-      "url": "https://www.ithome.com/1/026/386.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.274Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3c6e34604c94",
-      "title": "R 星回应未来《侠盗猎车手》游戏舞台是否只有美国：凡事没有绝对",
-      "url": "https://www.ithome.com/1/026/388.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.274Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fc517e949a47",
-      "title": "比亚迪腾势 N8 正式上市：搭载 30 英寸全景屏 + 天际屏，售 26.99 万元起",
-      "url": "https://www.ithome.com/1/026/389.htm",
-      "source": "ithome",
-      "category": "business",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.274Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "94c97200d024",
-      "title": "AMD 拟入股量子计算公司 PsiQuantum，将扩大合作、共同开发基础设施",
-      "url": "https://www.ithome.com/1/026/390.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.274Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "980255a0fdc7",
       "title": "新华三发布全新国产双路旗舰服务器 R4930 G7，单线程 IPC 性能提升超 15%",
       "url": "https://www.ithome.com/1/026/391.htm",
@@ -251,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.274Z",
+      "publishedAt": "2026-11-13T00:30:19.313Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +20,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.273Z",
+      "publishedAt": "2026-11-13T00:30:19.312Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.273Z",
+      "publishedAt": "2026-11-13T00:30:19.312Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.273Z",
+      "publishedAt": "2026-11-13T00:30:19.312Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +53,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.273Z",
+      "publishedAt": "2026-11-13T00:30:19.312Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +64,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.273Z",
+      "publishedAt": "2026-11-13T00:30:19.311Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.272Z",
+      "publishedAt": "2026-11-13T00:30:19.311Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.272Z",
+      "publishedAt": "2026-11-13T00:30:19.311Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.272Z",
+      "publishedAt": "2026-11-13T00:30:19.311Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.272Z",
+      "publishedAt": "2026-11-13T00:30:19.311Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.272Z",
+      "publishedAt": "2026-11-13T00:30:19.310Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.271Z",
+      "publishedAt": "2026-11-13T00:30:19.310Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +141,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.271Z",
+      "publishedAt": "2026-11-13T00:30:19.310Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.271Z",
+      "publishedAt": "2026-11-13T00:30:19.310Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.271Z",
+      "publishedAt": "2026-11-13T00:30:19.309Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +174,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.270Z",
+      "publishedAt": "2026-11-13T00:30:19.309Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +185,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.270Z",
+      "publishedAt": "2026-11-13T00:30:19.309Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.270Z",
+      "publishedAt": "2026-11-13T00:30:19.309Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +207,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.269Z",
+      "publishedAt": "2026-11-13T00:30:19.309Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +218,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.269Z",
+      "publishedAt": "2026-11-13T00:30:19.308Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.269Z",
+      "publishedAt": "2026-11-13T00:30:19.308Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +240,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.268Z",
+      "publishedAt": "2026-11-13T00:30:19.308Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.268Z",
+      "publishedAt": "2026-11-13T00:30:19.308Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -504,7 +262,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.268Z",
+      "publishedAt": "2026-11-13T00:30:19.308Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -515,29 +273,293 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:03:59.267Z",
+      "publishedAt": "2026-11-13T00:30:19.307Z",
       "tags": "[\"ithome\"]"
     },
     {
-      "id": "448bfb663378",
-      "title": "刘欢安葬于北京 曾与膀胱癌斗争多年",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%AE%89%E8%91%AC%E4%BA%8E%E5%8C%97%E4%BA%AC+%E6%9B%BE%E4%B8%8E%E8%86%80%E8%83%B1%E7%99%8C%E6%96%97%E4%BA%89%E5%A4%9A%E5%B9%B4",
+      "id": "ea6027a08deb",
+      "title": "应用材料 2026 财年全年归母净利润 100.88 亿美元，同比增长 44%",
+      "url": "https://www.ithome.com/1/026/449.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.307Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3bd725f1f05a",
+      "title": "思科 2027 财年第一财季归母净利润 45.52 亿美元，同比增长 59%",
+      "url": "https://www.ithome.com/1/026/450.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.307Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "801fbff79365",
+      "title": "黄仁勋辞职后续：美国司法部对英伟达启动多项调查，包括反垄断调查",
+      "url": "https://www.ithome.com/1/026/451.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.307Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "e8783b074f3d",
+      "title": "曝马斯克推进 SpaceX 与特斯拉合并谈判：最快 12 月公布，有望成为全球规模最大企业合并交易之一",
+      "url": "https://www.ithome.com/1/026/452.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.306Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "24bff9d1c3bf",
+      "title": "SAG 报告 2026Q3 全球折叠手机出货量：三星 69% 份额傲视群雄，预估苹果改变 2027 市场格局",
+      "url": "https://www.ithome.com/1/026/453.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.306Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5c9b9087c8f1",
+      "title": "微软初代 Xbox 经典游戏登陆 PC：含《星球大战》《上古卷轴 3》等，兼容库扩至 25 款并首次引入成就系统",
+      "url": "https://www.ithome.com/1/026/454.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.306Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6e4e3b0c9829",
+      "title": "超 740 亿美元砸向 AI：马斯克的 SpaceX 不光造火箭，还要建超级算力帝国",
+      "url": "https://www.ithome.com/1/026/455.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.306Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "15a3aec02e94",
+      "title": "币安宣布 63.4 亿美元被盗资产已全部补足，不会将损失转嫁给用户",
+      "url": "https://www.ithome.com/1/026/456.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.306Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b6ec56cd42e6",
+      "title": "路透社：黄仁勋与不只一位公司员工存在亲密关系，英伟达拒绝置评",
+      "url": "https://www.ithome.com/1/026/457.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.305Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "0a3bac322282",
+      "title": "新能源渗透率达 74.9%，乘联分会公布 11 月 1-8 日全国零售数据",
+      "url": "https://www.ithome.com/1/026/459.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.305Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6380dd40bf16",
+      "title": "微软 365 核心服务全球性大规模瘫痪：Outlook、OneDrive、Teams 均受影响，正逐步重启恢复",
+      "url": "https://www.ithome.com/1/026/460.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.305Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "374ad1c75aa7",
+      "title": "“甜甜圈”实锤：人类首张黑洞照片通过新算法复核",
+      "url": "https://www.ithome.com/1/026/461.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.304Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "399f2e19891e",
+      "title": "抄底资金涌入，英伟达总市值重回 4 万亿美元上方",
+      "url": "https://www.ithome.com/1/026/462.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.304Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "17c438039ea3",
+      "title": "不止测体脂：三星 Galaxy Watch 智能手表新专利，可监测腹部脂肪",
+      "url": "https://www.ithome.com/1/026/463.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.304Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c83ec2ef40d9",
+      "title": "Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利",
+      "url": "https://www.ithome.com/1/026/464.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.304Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b58fb91e9f94",
+      "title": "消息称方程豹钛 9 车型 11 月 19 日上市，比亚迪闪充技术 + 二代刀片电池",
+      "url": "https://www.ithome.com/1/026/465.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.303Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d2378bebffb7",
+      "title": "边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini",
+      "url": "https://www.ithome.com/1/026/466.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.303Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "70873963d4d4",
+      "title": "有望改写人类火箭复用史：SpaceX 星舰明日第 15 次试飞，“筷子”首次挑战双级捕获",
+      "url": "https://www.ithome.com/1/026/467.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.303Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "df93318880cb",
+      "title": "华为智能门锁 2 系列全新升级鸿蒙 7.0：新增回家抓拍、通话变声等",
+      "url": "https://www.ithome.com/1/026/468.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.302Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6841bfffbc8f",
+      "title": "Hugging Face CEO 哀叹黄仁勋从英伟达离职：“令人无比难过的一天”，承诺继续力挺开源 AI",
+      "url": "https://www.ithome.com/1/026/469.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.302Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3b41241a14a3",
+      "title": "IT早报 1113：英伟达宣布 CEO 黄仁勋即刻辞职；腾讯公关总监辟谣公司裁员 50%；长安汽车拟挂牌转让阿维塔 10% 股权；演员赵丽颖起诉红果短剧侵犯肖像权...",
+      "url": "https://www.ithome.com/1/026/470.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.301Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "51e91c8cbc9b",
+      "title": "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
+      "url": "https://www.ithome.com/1/026/471.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.301Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "463a8f2223b2",
+      "title": "33 年执掌英伟达生涯戛然而止，黄仁勋的约 90 亿美元慈善版图恐面临巨变",
+      "url": "https://www.ithome.com/1/026/472.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.301Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "60be7ded9332",
+      "title": "时隔近九年《德军总部 3》官宣，由微软 Xbox 贝塞斯达旗下 MachineGames 工作室开发",
+      "url": "https://www.ithome.com/1/026/473.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:19.300Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a91047a9cfc4",
+      "title": "买来的副主任帽子 戴谁头上都是耻辱",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E6%9D%A5%E7%9A%84%E5%89%AF%E4%B8%BB%E4%BB%BB%E5%B8%BD%E5%AD%90+%E6%88%B4%E8%B0%81%E5%A4%B4%E4%B8%8A%E9%83%BD%E6%98%AF%E8%80%BB%E8%BE%B1",
       "source": "baidu",
       "category": "general",
-      "summary": "歌手刘欢于11月12日安葬在北京，长眠长城脚下。家属公开信息确认，他确诊膀胱原位癌，曾与病魔抗争十余年，最终于9月25日在上海病逝，享年63岁。",
+      "summary": "11月10日，中华儿童文化艺术促进会两弹一星科普教育工作委员会声明称，网售该会“副主任”名额系个人编造的虚假信息，已报警。评论指出，买来的“副主任”帽子是耻辱，买卖头衔衍生灰色产业链暴露监管缺位，呼吁从严查处并健全制度源头堵漏。",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "f1e918572080",
-      "title": "零元面馆周边商户：我们房贷都还不起",
-      "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E6%88%BF%E8%B4%B7%E9%83%BD%E8%BF%98%E4%B8%8D%E8%B5%B7",
+      "id": "617b2db4142f",
+      "title": "发悼念文配朴树图网友已设私密账号",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%82%BC%E5%BF%B5%E6%96%87%E9%85%8D%E6%9C%B4%E6%A0%91%E5%9B%BE%E7%BD%91%E5%8F%8B%E5%B7%B2%E8%AE%BE%E7%A7%81%E5%AF%86%E8%B4%A6%E5%8F%B7",
       "source": "baidu",
       "category": "general",
-      "summary": "近日，南京“零元面馆”引发周边商户叫苦。商户反映，受面馆影响，自家日营业额从一千多元锐减至五六百元，甚至通宵营业也仅赚几百元，连房租和房贷都难以支付。",
+      "summary": "此前，有网友发文称朴树去世引发关注。11月12日，记者致电朴树哥哥濮石求证，对方回应：“这不开玩笑吗，不可能。”随后原发网友澄清，配图是纪念别人并未说朴树去世，目前已下架视频并将账号设为私密。",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -548,29 +570,73 @@
       "category": "general",
       "summary": "2026年APEC领导人会议周新闻中心启用，新闻中心发布的媒体参访线路以“科技、文化、生态、城市”为主题，全方位、多角度展示深圳城市风貌与发展活力。",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "cebf401c2b22",
-      "title": "耐克中国不打“价格战”了",
-      "url": "https://www.baidu.com/s?wd=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%89%93%E2%80%9C%E4%BB%B7%E6%A0%BC%E6%88%98%E2%80%9D%E4%BA%86",
+      "id": "730e11aa16c6",
+      "title": "双11为何“无感”了",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%8C11%E4%B8%BA%E4%BD%95%E2%80%9C%E6%97%A0%E6%84%9F%E2%80%9D%E4%BA%86",
       "source": "baidu",
       "category": "general",
-      "summary": "今年双十一，耐克降低折扣力度，正式告别“岂止5折”的价格战，转向保卫终端售价与品牌调性。",
+      "summary": "进入收官之际的2026年“双11”，让不少消费者感到“无感”。其核心在于消费增长引擎已从单一低价转向创新、服务与体验的多维比拼。居民消费更趋理性，更看重品质与长期价值，供给创新与模式升级正持续激发新动能。",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "d6a2ce978951",
-      "title": "男子应聘司机干了6小时倒贴2万",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BA%94%E8%81%98%E5%8F%B8%E6%9C%BA%E5%B9%B2%E4%BA%866%E5%B0%8F%E6%97%B6%E5%80%92%E8%B4%B42%E4%B8%87",
+      "id": "fb5a3de91b17",
+      "title": "零元面馆称周边商家若受损失愿补偿",
+      "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E7%A7%B0%E5%91%A8%E8%BE%B9%E5%95%86%E5%AE%B6%E8%8B%A5%E5%8F%97%E6%8D%9F%E5%A4%B1%E6%84%BF%E8%A1%A5%E5%81%BF",
       "source": "baidu",
       "category": "general",
-      "summary": "日前，警方破获一起“高薪招聘变租车”诈骗案。一物流公司打着“月入过万”旗号招聘司机，诱导求职者签租车合同交押金，再通过苛刻条款和言语恐吓逼迫司机违约，骗取钱财。司机沈先生干了六个小时，结果到手仅140元，想要退出时发现自己反而还得倒贴两万多元。",
+      "summary": "11月12日，南京市江宁区市监局回应称，未发现“零元面馆”存在违规行为。创办人张先生回应称，若周边餐饮商家因此受损失愿补偿。经走访，多数周边商户表示无影响。此前，张先生于今年10月在南京开设两家免费供素面的“零元面馆”，引发部分商家投诉称客流被分流。",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "28f0f0c2ba89",
+      "title": "刘欢妻子发8000字长文",
+      "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%918000%E5%AD%97%E9%95%BF%E6%96%87",
+      "source": "baidu",
+      "category": "general",
+      "summary": "11月12日，音乐家刘欢在北京安葬。受其妻卢璐委托，水均益发布视频并转交卢璐的公开信悼念。8000字悼念信中透露刘欢患膀胱原位癌，与病魔斗争十几年后解脱。此前9月25日，刘欢在上海病逝，享年63岁。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "017d97b8bbb3",
+      "title": "3D打印6小时造一双鞋",
+      "url": "https://www.baidu.com/s?wd=3D%E6%89%93%E5%8D%B06%E5%B0%8F%E6%97%B6%E9%80%A0%E4%B8%80%E5%8F%8C%E9%9E%8B",
+      "source": "baidu",
+      "category": "general",
+      "summary": "3D打印正在破圈，扎根工厂车间，打破“只能打样”的刻板印象，落地小批量柔性制造。一双鞋6小时即可上脚，月产3000双。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "26052fbfaa8d",
+      "title": "新生抽中“免费吃食堂一年”特等奖",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%94%9F%E6%8A%BD%E4%B8%AD%E2%80%9C%E5%85%8D%E8%B4%B9%E5%90%83%E9%A3%9F%E5%A0%82%E4%B8%80%E5%B9%B4%E2%80%9D%E7%89%B9%E7%AD%89%E5%A5%96",
+      "source": "baidu",
+      "category": "general",
+      "summary": "近日，重庆水利电力职业技术学院迎新晚会上，一名新生抽中特等奖“免费吃食堂一年”。该奖项仅此一个名额，中奖学生每日可领取30元餐券，在食堂所有窗口消费，相关费用由食堂商家爱心赞助。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "6e08a224c935",
+      "title": "大衣哥和他的“流量往事”",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A1%A3%E5%93%A5%E5%92%8C%E4%BB%96%E7%9A%84%E2%80%9C%E6%B5%81%E9%87%8F%E5%BE%80%E4%BA%8B%E2%80%9D",
+      "source": "baidu",
+      "category": "general",
+      "summary": "10月底，大衣哥朱之文因被黑粉举报导致十几场商业演出取消，在山东菏泽老家录视频喊话黑粉要“干到底”。此前，他饱受网络造谣与围观骚扰。无论再遇到什么烦恼，他都觉得自己始终是幸运的。“不跟任何人比，我就跟以前比。”",
+      "imageUrl": "",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,51 +647,7 @@
       "category": "general",
       "summary": "近日，“年轻人不爱买皮鞋了”等话题引发热议，有网友调侃，皮鞋如今只出现在三种场景——婚礼、面试和皮鞋广告。从销售数据来看，网友的话并非全然戏言。",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c1be5233029d",
-      "title": "店老板为连吃7碗米饭母女放钱系摆拍",
-      "url": "https://www.baidu.com/s?wd=%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%BA%E8%BF%9E%E5%90%837%E7%A2%97%E7%B1%B3%E9%A5%AD%E6%AF%8D%E5%A5%B3%E6%94%BE%E9%92%B1%E7%B3%BB%E6%91%86%E6%8B%8D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，“店主悄悄给连吃七碗米饭的母女放钱” 的短视频引发热议。经多部门联合调查证实，该视频是餐馆运营人为博取流量策划的摆拍，内容虚假，造成不良影响。目前当事人已被立案调查，相关部门也提醒网民自觉抵制网络谣言。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "64fe15dc7d7a",
-      "title": "官方证实豆芽助人视频系摆拍",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E8%AF%81%E5%AE%9E%E8%B1%86%E8%8A%BD%E5%8A%A9%E4%BA%BA%E8%A7%86%E9%A2%91%E7%B3%BB%E6%91%86%E6%8B%8D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "c482dbe39a37",
-      "title": "这不是电影画面这里是深圳",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%94%B5%E5%BD%B1%E7%94%BB%E9%9D%A2%E8%BF%99%E9%87%8C%E6%98%AF%E6%B7%B1%E5%9C%B3",
-      "source": "baidu",
-      "category": "general",
-      "summary": "无人机送外卖、机器人巡逻、地铁站像星际枢纽，这不是科幻电影的布景，而是2026年11月深圳街头真实的日常。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "0c7a4aded4b5",
-      "title": "朴树哥哥否认朴树去世传闻",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%B4%E6%A0%91%E5%93%A5%E5%93%A5%E5%90%A6%E8%AE%A4%E6%9C%B4%E6%A0%91%E5%8E%BB%E4%B8%96%E4%BC%A0%E9%97%BB",
-      "source": "baidu",
-      "category": "general",
-      "summary": "近日，有网友发文称知名音乐人朴树去世。11月12日18时54分，朴树哥哥濮石回应：这不开玩笑吗，不可能。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -636,31 +658,9 @@
       "category": "general",
       "summary": "近日，网传商家扬言取消外卖的短视频实为MCN批量炮制的引流噱头，宜宾已开展调查，涉事商家正常承接外卖业务。",
       "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "b95302fb4525",
-      "title": "英伟达盘中市值跌破4万亿美元",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E4%B8%AD%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B44%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "9a952a39b84e",
-      "title": "拜登：若早知患癌 我会辞职",
-      "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%EF%BC%9A%E8%8B%A5%E6%97%A9%E7%9F%A5%E6%82%A3%E7%99%8C+%E6%88%91%E4%BC%9A%E8%BE%9E%E8%81%8C",
-      "source": "baidu",
-      "category": "general",
-      "summary": "当地时间11月11日，拜登接受美国《人物》杂志专访时表示，若当时知道身体不适是由癌症引起，自己会选择辞职，但仍认为有能力胜任总统职务。拜登于去年5月确诊前列腺癌，癌细胞已扩散至骨骼。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-12T19:04:00.114Z",
+      "publishedAt": "2026-11-13T00:30:20.058Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-11-12T19:04:02.133Z"
+  "generatedAt": "2026-11-13T00:30:21.973Z"
 }
