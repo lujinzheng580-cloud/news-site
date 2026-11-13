@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d66c0f5fc3ec",
+    "title": "DeepSeek 发布全家桶应用 API：开发者将能 1:1 复刻完整 DeepSeek App",
+    "url": "https://www.ithome.com/1/026/960.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/026/960.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 13 日消息，今天（13 日）晚间，DeepSeek 宣布正式开放全家桶应用 API：在原有 API 中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。\n\n开发者可以在自己的应用中轻松实现复杂的对话功能，甚至 1:1 复刻出完整的 DeepSeek App。\n\n本次更新将 DeepSeek App 的各项交互功能直接整合进原有 API。开启对应参数后，相关工具调用与上下文拼接均由服务端自动完成。\n\n目前，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持以下能力：\n\n联网搜索：在非思考模式下，打开 deepseek_web_search 工具后，模型可根据提问自动发起网页或图片搜索并附引用作答；\n\n深度思考搜索：在思考模式下，打开 deepseek_web_search 工具后，模型可在多步推理中自主联网搜索与阅读链接；\n\n文件输入：支持上传 PDF、Office、图片等格式的文件，完成纯文本提取或图文混排解析后，拼入对话上下文供模型作答；\n\n阅读链接：将 deepseek_read_url 工具打开后，模型可自动识别用户消息中的链接，抓取网页内容并结合上下文作答；\n\n模型安全：开启安全校验参数后，DeepSeek 将提供基础风控，审核模型输入输出，命中风险时返回拒答标识。如您对外提供应用服务，请务必开启该参数，并承担内容安全审核、大模型登记、AI 标识等义务。\n\n此外，为方便开发者更灵活地接入自有工作流，上述底层能力及语音能力均支持作为独立接口单独调用，包括：Search、Fetch、OCR、ASR、TTS。\n\n使用上述接口，开发者即可实现与 DeepSeek App 基本一致的功能。为直观演示这一效果，DeepSeek 基于新版 API 构建并开源了一份轻量的前端 Demo，支持直接导入 DeepSeek 历史对话。\n\nDemo 体验入口：https://cdn.deepseek.com/chat-demo\n\n示例代码入口：https://github.com/deepseek-ai/chat-demo\n\n据IT之家了解，用户调用 DeepSeek API 使用扩展能力时，除收取 Token 费用外，也将收取相关工具的调用费用。\n\n语音识别：限时 5 折，优惠后 0.39 元 / 小时\n\n语音合成：限时 5 折，优惠后 1.5 元 / 万字符\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-13T15:29:10.146Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
