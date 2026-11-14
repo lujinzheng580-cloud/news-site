@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "df55978b1c16",
+    "title": "苹果首款智能家居中枢 HomeView 开售：戴墨镜可能认不出你",
+    "url": "https://www.ithome.com/1/027/043.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/027/043.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 14 日消息，苹果首款智能家居中枢 HomeView 昨日（11 月 13 日）在美国等市场发售后，官方随后更新了多份支持文档，详细披露了该产品的诸多日常使用细节，涵盖照镜子、睡眠定时、访客权限及个人信息保护等功能。\n\n苹果表示，如果你戴着遮盖的脸，包括戴着墨镜，HomeView 很可能无法识别你。如果 HomeView 无法识别你，苹果建议移除所有阻碍摄像头看到你脸部的内容。\n\nHomeView 的屏幕需要朝向你的脸部，如果周围有其他人，你必须处于画面中心并靠近摄像头，而且 HomeView 不能被悬垂的架子和橱柜挡住。苹果表示 HomeView 需要正面且均匀的光线。\n\nHomeView 控制中心里有一个“镜子”，可以用摄像头看到自己。游戏中有一个选项可以开启边缘灯来照明面部，同时还有 1 倍和 2 倍变焦。\n\n针对家庭共用场景，机主可管理访客使用 Safari、Siri 及播放含露骨内容的权限，也能指定未识别用户使用的 Apple Music 订阅：\n\n机主可以设置开启或者关闭 Safari 浏览器，也可以设置屏蔽成人网站。\n\n默认情况下，宾客可以使用 Siri 进行常识、写作帮助和数学辅导，但机主可以关闭 Siri 功能。\n\n有一个选项可以选择哪个 Apple Music 订阅为未识别的用户提供音乐。\n\nHomeView 通过人脸识别和确保 iOS 设备在附近、最近解锁且与 HomeView 在同一 Wi-Fi 网络上来认证用户。如果发生 Wi-Fi 中断，苹果表示，只要内容在同一地点且最近上过 Wi-Fi 网络，蜂窝网络也可以用来解锁。\n\n用户可以在 HomeView 设置睡眠定时器，在定时器响时暂停正在播放的媒体。\n\n没有按钮可以开关 HomeView 或重启它。可以通过设置应用重启，或者短暂拔掉电源。\n\n用户可以像 Apple TV 一样，用 iPhone 登录网站和应用。\n\nHomeView 仅有电话和家庭设备的通知，并可切换关键通知。没有其他通知设置或选项。\n\nLiquid Glass 界面的透明度可以像 iPhone、iPad 和 Mac 一样从透明调节到不透明。\n\n如果有人反复尝试访问 HomeView 上的个人内容需要身份验证，摄像头的面部识别功能将被禁用，你需要用注册设备证明身份。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-14T01:51:45.713Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

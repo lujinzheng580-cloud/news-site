@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c82288bbf74a",
+    "title": "英特尔酷睿 Ultra 7 260K 低调上市：20 核处理器性能比肩 265K，但仅随整机销售",
+    "url": "https://www.ithome.com/1/027/014.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/027/014.htm",
+    "category": "business",
+    "summary": "",
+    "content": "IT之家 11 月 14 日消息，Tom's Hardware 发现英特尔近日悄悄推出了一款酷睿 Ultra 7 260K 处理器，搭载该 CPU 的整机已经出现在新蛋网（Newegg）中。\n\n这款处理器拥有 20 颗物理核心，但目前不提供独立零售，仅面向 ABS 品牌整机销售。新蛋网向该媒体确认，这款处理器为平台独占型号，只会通过旗下 ABS 品牌预装整机销售。\n\nTom's Hardware 后续更新称，英特尔已向该媒体确认，这是一款限量供应（limited-availability）的 SKU 型号，目前不会以盒装零售处理器的形式单独销售，相关规格预计将在随后几天公布。\n\n从目前已公开的信息来看，酷睿 Ultra 7 260K 配备 20 个核心，包括 8 个性能核（P-Core）和 12 个能效核（E-Core），P 核基础频率为 3.9GHz，最高睿频为 5.4GHz，配备 30MB 三级缓存，处理器基础功耗为 125W，支持最高 256GB 的 DDR5-6400 内存。\n\n与现有的酷睿 Ultra 7 265K 相比，两款处理器的核心数量、缓存容量、基础频率和内存支持规格基本一致，主要区别在于最高睿频。265K 的最高睿频为 5.5GHz，比 260K 高 100MHz。\n\n不过，目前零售页面存在参数不一致的情况：英特尔提供的规格资料显示 260K 最高睿频为 5.4GHz，但新蛋网部分商品页面标注为 5.2GHz。此外，部分配置选项还将其写作 U7-260KF，与完整商品页面上的 260K 名称不同，具体型号标识仍有待英特尔进一步确认。\n\n架构方面，酷睿 Ultra 7 260K 属于原版 Arrow Lake 系列，并非更新的 Arrow Lake Refresh 系列。相比之下，Arrow Lake Refresh 处理器最高支持 DDR5-7200 内存，并引入了硬件层面的改进以及 Intel Binary Optimization Tool 软件优化功能，后者可以提升部分游戏的运行表现。\n\n目前，酷睿 Ultra 7 260K 已出现在两款 ABS 游戏整机中，分别是搭载英伟达 GeForce RTX 5060 显卡的 ABS Kaze II，以及搭载 GeForce RTX 5070 显卡的 ABS Flux II Aqua。两款整机均配备 32GB DDR5-6000 内存和 1TB PCIe 4.0 NVMe 固态硬盘。\n\nTom's Hardware 表示，目前尚未对酷睿 Ultra 7 260K 进行独立性能测试，因此暂时无法确认其实际性能表现。根据已知规格推测，该处理器的性能预计与酷睿 Ultra 7 265K 接近。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-14T01:51:45.717Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "0e12abf6099b",
+    "title": "英特尔新一代酷睿露面：Razor Lake 台式机、笔记本型号标识获确认",
+    "url": "https://www.ithome.com/1/027/025.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/027/025.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 14 日消息，科技媒体 TechPowerUp 昨日（11 月 13 日）发布博文，报道称英特尔本月（2026 年 11 月）更新的《架构指令集扩展编程参考》（第 063 版）中，新增了 Razor Lake 消费级处理器与 Coral Rapids 至强服务器处理器的型号标识。\n\n第 063 版文档显示，Razor Lake 与 Nova Lake 同属编号为 18（十六进制 12H）的处理器家族。其中，12_06H、12_0AH 对应台式机，12_07H、12_09H 对应笔记本。这些是供软件识别处理器的底层标识，并非消费者购买时看到的商品型号。\n\n新功能方面，Razor Lake 新增一项与推测执行相关的控制能力，可能允许分别管理用户态与内核态的部分行为；它与 Coral Rapids 还共同加入了面向虚拟机的 APIC 定时器虚拟化功能。IT之家附上相关截图如下：\n\n报道援引英特尔近期提交的 GCC 编译器补丁称，Razor Lake 的指令集功能与 Nova Lake 一致，意味着有望延续 AVX10.2 和 APX 支持，但此次参考文档尚未在对应条目中列出 Razor Lake。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-14T01:51:45.716Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
