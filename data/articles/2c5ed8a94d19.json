@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2c5ed8a94d19",
+    "title": "DeepSeek算力不足",
+    "url": "https://www.baidu.com/s?wd=DeepSeek%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3",
+    "source": "baidu",
+    "sourceId": "https://www.baidu.com/s?wd=DeepSeek%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3",
+    "category": "general",
+    "summary": "16日，DeepSeek因算力不足，对App/网页版长对话限额使用。多名用户反馈，单次输入文字上限缩至4万字左右，且不再支持超7天不活跃的长对话。此外，每日对话额度受限，达上限时将提示服务器繁忙。",
+    "content": "16日，DeepSeek因算力不足，对App/网页版长对话限额使用。多名用户反馈，单次输入文字上限缩至4万字左右，且不再支持超7天不活跃的长对话。此外，每日对话额度受限，达上限时将提示服务器繁忙。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-16T05:59:46.293Z",
+    "tags": "[\"baidu\"]",
+    "viewCount": 0
+  }
+}
