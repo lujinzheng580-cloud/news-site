@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9e55ab4ebec4",
+    "title": "开发者让一个 ZIP 文件实现三种用途：支持解压、Multiboot 和 BIOS 启动",
+    "url": "https://www.ithome.com/1/028/248.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/028/248.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 17 日消息，开发者 David Oberhollenzer（网名 Goliath）制作了一个特殊的 ZIP 文件 boot.zip。\n\n这个文件既能通过常规解压软件正常读取和解压，也能作为操作系统启动镜像，通过传统 BIOS 启动兼容的老式 PC，还支持 GRUB、QEMU 等兼容 Multiboot 规范的引导程序加载。\n\nGoliath 并不是简单地将启动程序放进压缩包，而是通过精心安排 ZIP 文件结构，让同一组字节同时满足压缩文件格式和计算机启动规范的要求。\n\n实现这一效果的关键，是 ZIP 文件格式与 x86 处理器指令之间存在可以利用的字节重合。ZIP 文件通常以 PK 和 03 04 开头，随后是版本号、标志位、压缩方式、修改时间等文件头信息。开发者将第一个文件 ZIPHEAD.COM 设置为不压缩存储，把启动代码直接放在其数据区域中。\n\n在 Multiboot 启动方面，规范要求有效镜像在前 8 KiB 内包含魔数 0x1BADB002，并附带相应标志位和校验值。开发者将这些信息嵌入 ZIPHEAD.COM 的内容中，使其能够被 GRUB、QEMU 等兼容 Multiboot 的加载器识别。\n\n传统 BIOS 启动则需要满足另一项要求：BIOS 读取磁盘的第一个 512 字节扇区，并检查第 510、511 字节是否为 0x55AA。开发者将这一启动标记放在 ZIP 文件对应位置，同时调整文件头中的字段，使其既符合 ZIP 格式，又能被处理器当作 x86 指令执行。\n\n其中，ZIP 文件头中的修改时间字段发挥了关键作用。开发者利用该字段对应的字节编码一条 x86 相对跳转指令，让处理器执行文件开头的内容后，能够跳过 ZIP 文件头，直接进入后续启动代码。版本号和标志位等字段也经过精心设计，以避免执行时产生破坏性操作。\n\n开发者还在自己的博客中解释了后续启动流程：程序首先在 16 位实模式下运行，完成处理器检测、内存探测、磁盘参数读取以及 A20 地址线启用等工作，随后加载压缩包剩余内容，切换至 32 位保护模式，并跳转至 Multiboot 入口。整个启动代码连同相关文件头共计 817 字节。\n\n在实际测试中，David Oberhollenzer 表示，他将 boot.zip 写入软盘后，在 Pentium MMX、i486 DX2 和 Am386DX-40 等老式 PC 上进行了启动测试。\n\n成功启动后，屏幕会显示压缩包内 boot / MESSAGE.TXT 文件中的文字，证明程序不仅能够完成启动，还能读取自身 ZIP 档案中的文件。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-17T07:37:45.005Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

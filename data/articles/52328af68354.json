@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "52328af68354",
+    "title": "消息称三星电子为 Meta 开发基于 HBM4E 的定制 HBM，配备 2nm 基础裸片",
+    "url": "https://www.ithome.com/1/028/234.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/028/234.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 17 日消息，韩媒 the bell 当地时间本月 13 日报道称，三星电子正为 Meta 专有 ASIC 项目开发定制 HBM 内存。这一产品基于标准 HBM4E，但配备定制基础裸片 (Base Die)。\n\n三星电子直到 HBM5 才会在通用 HBM 上使用基于自家 2nm 工艺的基础裸片，而 Meta 的定制 HBM 将先行导入更先进的逻辑制程，为容纳 Meta 定制功能留出更多空间，释放 XPU 主芯片面积。\n\n报道指出，HBM 内存的定制前期将聚焦于 HBM 与 XPU 的通信接口。而为了响应 NVIDIA 等客户的需求，三星电子也正为自家 HBM DRAM Die 和台积电定制 HBM Base Die 的组合进行适配工作。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-17T07:37:45.007Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

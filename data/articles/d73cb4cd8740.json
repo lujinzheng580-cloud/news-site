@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d73cb4cd8740",
+    "title": "PFN 延续垂直堆叠逻辑与 DRAM 路线，MN-Core L2000 芯片目标倍增内存带宽",
+    "url": "https://www.ithome.com/1/028/240.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/028/240.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 17 日消息，日本人工智能初创企业 Preferred Networks (PFN) 当地时间今日宣布，其在 AI 推理加速器 MN-Core L2000 上将延续与芯片设计服务企业 SEMIFIVE、芯片合同制造服务商三星电子的合作，继续打造垂直堆叠逻辑芯片与 DRAM 内存的产品。\n\nPFN 的 MN-Core 系列初代产品 L1000 单芯片峰值 FP8 算力 200 TFLOPS，集成带宽超 10TB/s 的 32GB 片上内存。而此次官宣的二代产品 L2000 目标实现 L1000 系列 2 倍以上的内存带宽，进一步提升 AI 推理速率，改进 AI 工作负载能效。\n\nPFN 计划 2027 年正式发布 MN-Core L1000，提供单芯、四芯盒子和 16 芯工作站解决方案。MN-Core L2000 系列也将于 2027Q1 完成芯片设计。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-17T07:37:45.006Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
