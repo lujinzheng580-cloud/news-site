@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "c5e4189e5a38",
+    "title": "多家知名网站遭篡改，攻击者窃取加密货币并入侵 iPhone",
+    "url": "https://www.ithome.com/1/028/530.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/028/530.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 17 日消息，据路透社报道，全球访问量最高的一些网站遭到恶意代码攻击，涉及 Zoom、汇丰银行、益博睿（Equifax）、美国有线电视新闻网（CNN）、Salesforce 和宜家等知名企业。安全研究人员周一表示，攻击者试图借此窃取用户加密货币，并向 iPhone 植入恶意程序。\n\n安全研究人员斯科特 · 赫尔姆（Scott Helme）发现，攻击者通过网站优化平台 Optimizely，向来自不同行业的 178 家机构网站访客投放恶意 JavaScript 脚本。\n\n这些恶意脚本试图实施多种攻击：将用户支付加密货币时填写的收款地址替换为攻击者的钱包地址；在用户输入信用卡信息时窃取银行卡号；盗取浏览器 Cookie 和屏幕截图；以及向运行 iOS 系统的设备植入漏洞利用代码。\n\n网络安全公司 Hudson Rock 也表示，已经发现相关证据，证实这些网站曾向访问者提供恶意代码。\n\n不过，目前尚无法确认这些恶意代码是否在所有受影响网站上成功实施攻击，也无法确定由此造成的实际安全损失。\n\nSalesforce 表示，公司正在调查 Optimizely 脚本遭未经授权修改一事，并已出于预防考虑禁用相关脚本。\n\n益博睿也对此展开调查。该公司表示，已经停止使用 Optimizely，且目前没有发现自身系统遭到入侵的证据。\n\n宜家则表示，公司正在确认此次事件是否对其数字服务和客户造成潜在影响。\n\n截至IT之家发稿，Optimizely、苹果、Zoom、汇丰银行和 CNN 均未对此事做出回应。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-17T17:06:02.443Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
