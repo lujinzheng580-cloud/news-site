@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "0c35e2038b38",
+    "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费",
+    "url": "https://www.ithome.com/1/029/058.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/029/058.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 18 日消息，DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起，调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费。\n\n使用以下接口时会触发服务端搜索：联网工具、Anthropic API 的 web_search 工具、Responses API 的 web_search 工具。\n\n据IT之家此前报道，10 月 17 日，DeepSeek 官方宣布 Search / Fetch API 正式上线，两项接口均使用 DeepSeek 自研搜索引擎，为 Agent 与 RAG 应用提供实时网页内容，按请求次数计费，单价为每 1,000 次成功请求 5 元。\n\nSearch 接口按 query 搜索网页并返回结构化结果，Fetch 接口则抓取单个网页，以 Markdown 文本返回标题与正文。\n\n《DeepSeek 上线网页搜索与抓取 API》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-18T16:23:01.894Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

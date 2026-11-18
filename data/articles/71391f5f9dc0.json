@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "71391f5f9dc0",
+    "title": "安谋科技发布基于 Arm Cortex-M42 CPU 的“星辰 100e”AIoT 原型平台",
+    "url": "https://www.ithome.com/1/029/071.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/029/071.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 18 日消息，安谋科技（中国）有限公司今日举办 Arm Cortex-M CPU 新品说明会，解析 Arm Cortex-M42 CPU，并正式推出基于该产品的“星辰 100e”AIoT 原型平台。\n\n其中，Cortex-M42 处理器面向对成本和面积敏感的智能端点设备打造，基于 Armv8.1-M 架构，兼具三大核心能力：\n\nArm Helium 技术：加速向量处理，带来更强的机器学习（ML）和数字信号处理（DSP）性能。\n\nArm 自定义指令（ACI）：支持芯片合作伙伴实现专用指令，针对特定工作负载优化处理性能。\n\n基于 AHB 的紧凑设计：沿用成熟的微控制器（MCU）系统架构，无需复杂的内存子系统，可高效集成至现有设计中。\n\n官方表示，Cortex-M42 为芯片合作伙伴提供了一种比 Arm Cortex-M52 面积更小、功耗更低的方案，适用于不需要丰富内存子系统（包括可选缓存和紧耦合内存 TCM）的设计。在采用 TSMC 22ULL 工艺、150MHz 频率的配置中，与 Cortex-M52 相比，Cortex-M42 在提供相近的标量和向量性能的同时，硅片面积减少 10%、功耗降低 15%。\n\nIT之家获悉，该产品由安谋科技与 Arm 合作开发，在中国市场命名为“星辰”STAR-MC3，此次正式纳入 Arm Cortex-M 全球产品路线图。\n\n官方表示，新一代 AIoT 原型平台“星辰 100e”采用 Cortex-M42 + Ethos-U55。目前，安谋科技在 FPGA 平台上搭建了“星辰 100e”系统，已经跑通关键字检测、目标识别、语音识别等系列 AI 用例。\n\n实测数据显示，与单独使用 Cortex-M42 处理器相比，Cortex-M42 搭配 Ethos-U55 后，关键字检测推理性能提升 95 倍；目标识别推理性能提升超过 132 倍；自动语音识别性能提升更是超 340 倍。\n\n据介绍，第一代平台“星辰 300”选择 Cortex-M52（“星辰”STAR-MC2）和 Ethos-U55，已全面支持主流小模型；更高性能的下一代“星辰”原型平台将于 2027 年推出。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-18T16:23:01.893Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
