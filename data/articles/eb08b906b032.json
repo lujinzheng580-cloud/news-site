@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "eb08b906b032",
+    "title": "如何在苹果 macOS 27.3 Beta 2 关闭菜单栏“蓝色药丸”提示",
+    "url": "https://www.ithome.com/1/028/687.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/028/687.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 18 日消息，科技媒体 9to5Mac 主编扎克 · 霍尔（Zac Hall）昨日（11 月 17 日）在 X 平台发布推文，分享了一个终端命令，可以在 macOS 27.3 Beta 2 更新中，关闭菜单栏“蓝色药丸”提示。\n\nIT之家援引博文介绍，在 macOS 27.3 Beta 2 更新中，苹果在菜单中引入“透明度指示器”，当某个应用正在控制另一个应用时，屏幕顶部会出现蓝色提示。\n\n苹果称，该功能旨在让用户更清楚地了解系统与应用保护覆盖（System & App Protection Override）的使用情况，从而提升自动化操作的透明度。\n\n该媒体指出对于经常使用自动化工具、窗口管理器或系统增强软件的 Mac 用户而言，这个蓝色“药丸”状指示器可能长期占据菜单栏空间，带来视觉干扰。\n\n霍尔介绍了通过终端命令隐藏该“蓝色药丸”的方法，通过创建相关偏好目录，并写入关闭该指示器的配置；输入管理员密码并重启 Mac 后，蓝色提示即可消失。该操作仅隐藏指示器，并不会撤销相关应用已获得的控制权限，也不会将应用从权限列表中移除。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-18T06:59:46.566Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
