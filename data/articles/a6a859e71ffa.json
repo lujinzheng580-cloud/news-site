@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a6a859e71ffa",
+    "title": "微软宣布砍掉 To Do 待办应用，建议用户迁移到 Microsoft Planner",
+    "url": "https://www.ithome.com/1/029/182.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/029/182.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 19 日消息，据IT之家小伙伴反馈，微软官网发布公告，Microsoft To Do 将于 2027 年 6 月 30 日停用，包括网页版、Windows、Mac、iOS 和 Android 客户端。\n\n此外，底层的 To Do 服务、API 及相关同步支持将在后续停用。\n\n微软表示，对于工作或学校账户，Microsoft Planner 将成为管理个人工作任务与分配工作的最佳选择。更新后的“My tasks”体验将于 2026 年 12 月开始推出。\n\n对于个人账户用户，微软建议重新选择一款待办记录软件。\n\n对于用户现有的待办事项内容，微软表示无法自动迁移到 Microsoft Planner，不过会提供数据导出方法，当细节最终确定时，将提供说明、支持的数据、要求和限制。\n\nIT之家注意到，微软还称，导出的数据并不意味着内容可以导入到 Planner 或其他应用中。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-19T04:14:06.659Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
