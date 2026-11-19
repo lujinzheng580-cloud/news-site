@@ -8,10 +8,10 @@
     "sourceId": "https://www.ithome.com/1/029/674.htm",
     "category": "general",
     "summary": "",
-    "content": "IT之家 11 月 19 日消息，面壁智能官方今日宣布，截至 2026 年 11 月，MiniCPM 家族模型全球下载量已超 7000 万次。\n\nIT之家注：面壁智能于 2022 年 8 月在北京成立，孵化自清华大学自然语言处理实验室。联合创始人、CEO 李大海曾任知乎合伙人、CTO；联合创始人、首席科学家刘知远现任清华大学计算机系教授；联合创始人、CTO 曾国洋在 22 岁时作为核心工程负责人，训练了中国第一个大语言模型 CPM-1。\n\n今年 10 月，面壁智能宣布推出新一代端侧多模态大模型 MiniCPM-V 4.7，提供 35B-A3B 和 1B 两种规格，其中 35B-A3B 是 MiniCPM-V 系列首个 MoE 模型。\n\n据官方介绍，这款模型基于最新 LES（前瞻专家调度）推理加速技术，其中 35B-A3B 版本是首个支持端侧无损流畅运行的开源 MoE 模型，在 iPhone 17 Pro Max 上以仅 3GB 内存达到 13+ token/s 的解码速度。\n\n今年 7 月，三星全新折叠旗舰 —— Galaxy Z Fold8、Galaxy Z Fold8 Ultra 与 Galaxy Z Flip8 正式发布。面壁智能宣布，旗下 MiniCPM 系列端侧大模型，深度赋能三星 Galaxy AI。这是国产端侧大模型首次进入国际头部手机厂商的全球旗舰产品线。",
+    "content": "",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-11-19T13:29:42.912Z",
+    "publishedAt": "2026-11-19T21:46:03.519Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }

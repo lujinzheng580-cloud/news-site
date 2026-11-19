@@ -2,237 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "32b2803484c1",
-      "title": "全球限量 19 台：Caviar 推出《GTA6》系列高定手机，可选苹果 iPhone Duo、三星 Galaxy Z Fold8 Ultra 等",
-      "url": "https://www.ithome.com/1/029/545.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.917Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6599bf3fb041",
-      "title": "Gartner 预测：2027 年全球人工智能支出将突破 4 万亿美元",
-      "url": "https://www.ithome.com/1/029/546.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "3082575c6823",
-      "title": "大众确认北美硬派越野 Scout 新车起售低于 6 万美元，满配 10 万美元左右",
-      "url": "https://www.ithome.com/1/029/547.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "79d68aa6482b",
-      "title": "微软 XBOX 为蹭《GTA 6》热度煞费苦心，却始终不敢直接提游戏名字",
-      "url": "https://www.ithome.com/1/029/548.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fbe48ad24a0d",
-      "title": "荣耀 MagicOS 11 第三批内测机型今启全网升级尝鲜，含 Robot Phone、Magic5 系列等",
-      "url": "https://www.ithome.com/1/029/549.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "21d78a6ad6da",
-      "title": "LG Display 取消 3 万亿韩元 OLED 生产设施投资计划，电视市场增长放缓成主因",
-      "url": "https://www.ithome.com/1/029/550.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1a9376592fcf",
-      "title": "LG 公布 Smart Monitor Swing AI 可移动智能显示器，升级 AI 处理器",
-      "url": "https://www.ithome.com/1/029/562.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "b4ef11a4ea87",
-      "title": "英国金融业网络威胁加剧，监管机构 10 月接报事件数创 5 年来单月次高",
-      "url": "https://www.ithome.com/1/029/571.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d5ce705eb650",
-      "title": "李开复：企业 AI 转型只看“智能体数量”是荒谬笑话",
-      "url": "https://www.ithome.com/1/029/582.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "f7e97cd10591",
-      "title": "德国将网络威胁评估上调为“严峻至危急”：AI 智能体降低攻击门槛",
-      "url": "https://www.ithome.com/1/029/609.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6ce94060dcbf",
-      "title": "马斯克：预计未来 12-18 个月 Optimus 人形机器人能做家务劳动",
-      "url": "https://www.ithome.com/1/029/616.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.916Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "736abd967d87",
-      "title": "月之暗面 API 服务可用性低，官方调查中",
-      "url": "https://www.ithome.com/1/029/632.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.915Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "47e795d53ffa",
-      "title": "零刻上新龙芯 2K3000 版 ME Pro 四盘位 NAS，2015 元起",
-      "url": "https://www.ithome.com/1/029/636.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.915Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ca1e1b29cbbf",
-      "title": "摩尔线程 MDC 2026 海报暗藏玄机，暗示“庐山”显卡即将亮相",
-      "url": "https://www.ithome.com/1/029/638.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.915Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "d20d130a7757",
-      "title": "阿里巴巴 2027 财年上半年归母净利润 750.72 亿元，同比增长 17%",
-      "url": "https://www.ithome.com/1/029/639.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.915Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "ccd252cc639f",
-      "title": "消息称苹果重新评估 OLED 版 iMac：开发进度可能推迟，甚至直接砍掉",
-      "url": "https://www.ithome.com/1/029/640.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.915Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fd83d52810f0",
-      "title": "通体酒红色，全新比亚迪汉实车曝光",
-      "url": "https://www.ithome.com/1/029/643.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.915Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "a8e4fc6a3100",
-      "title": "苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装",
-      "url": "https://www.ithome.com/1/029/644.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.915Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "81e97c511680",
-      "title": "博帝推出 AI Matrix 系列 DDR5 内存、M.2 SSD，专为端侧 AI 设计",
-      "url": "https://www.ithome.com/1/029/645.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.914Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "e156a632ba35",
-      "title": "AI 智能体擅自转账、购物谁来负责？多家银行警告用户损失可能要自己承担",
-      "url": "https://www.ithome.com/1/029/646.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.914Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1187393b4901",
-      "title": "特斯拉 Cybercab 自动驾驶订阅费高昂，用车四年后总成本将超 Model 3",
-      "url": "https://www.ithome.com/1/029/647.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.914Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "e20f6d230470",
       "title": "国际货币基金组织总裁警告：AI 投资热情过高影响，金融市场或现进一步调整",
       "url": "https://www.ithome.com/1/029/648.htm",
@@ -240,7 +9,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.914Z",
+      "publishedAt": "2026-11-19T21:46:03.522Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +20,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.914Z",
+      "publishedAt": "2026-11-19T21:46:03.522Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +31,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.914Z",
+      "publishedAt": "2026-11-19T21:46:03.521Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.914Z",
+      "publishedAt": "2026-11-19T21:46:03.521Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.913Z",
+      "publishedAt": "2026-11-19T21:46:03.521Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.913Z",
+      "publishedAt": "2026-11-19T21:46:03.521Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.913Z",
+      "publishedAt": "2026-11-19T21:46:03.521Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +86,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.913Z",
+      "publishedAt": "2026-11-19T21:46:03.520Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.913Z",
+      "publishedAt": "2026-11-19T21:46:03.520Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.913Z",
+      "publishedAt": "2026-11-19T21:46:03.520Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +119,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.913Z",
+      "publishedAt": "2026-11-19T21:46:03.520Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +130,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.912Z",
+      "publishedAt": "2026-11-19T21:46:03.519Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +141,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.912Z",
+      "publishedAt": "2026-11-19T21:46:03.519Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.912Z",
+      "publishedAt": "2026-11-19T21:46:03.519Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.912Z",
+      "publishedAt": "2026-11-19T21:46:03.519Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +174,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.912Z",
+      "publishedAt": "2026-11-19T21:46:03.519Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +185,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.911Z",
+      "publishedAt": "2026-11-19T21:46:03.518Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +196,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.911Z",
+      "publishedAt": "2026-11-19T21:46:03.518Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +207,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.911Z",
+      "publishedAt": "2026-11-19T21:46:03.518Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +218,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.911Z",
+      "publishedAt": "2026-11-19T21:46:03.518Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.910Z",
+      "publishedAt": "2026-11-19T21:46:03.518Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.910Z",
+      "publishedAt": "2026-11-19T21:46:03.517Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -482,7 +251,282 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:42.909Z",
+      "publishedAt": "2026-11-19T21:46:03.517Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f8f674df3cd7",
+      "title": "27.99 万元起：比亚迪方程豹钛 9 上市，定位大六座方盒子",
+      "url": "https://www.ithome.com/1/029/684.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.517Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "4f396d9321eb",
+      "title": "快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景",
+      "url": "https://www.ithome.com/1/029/686.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.517Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c97b2fb2758c",
+      "title": "欧盟委员会证实遭到 AI 驱动的网络攻击，事态规模暂难判断",
+      "url": "https://www.ithome.com/1/029/687.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.516Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "c63944d9b530",
+      "title": "AI 模型大幅降低古籍数字化成本：识别 1000 页内容费用已不到 0.1 美元",
+      "url": "https://www.ithome.com/1/029/688.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.516Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "ee5892c83ab3",
+      "title": "威刚推出 XPG INVADER X MINI Chroma 系列机箱：四色可选，预装 5 把 ARGB 风扇",
+      "url": "https://www.ithome.com/1/029/689.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.516Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "725a209807cd",
+      "title": "Uber 前 CEO 卡兰尼克声援黄仁勋：若英伟达员工罢工要求其复职，愿亲自参与",
+      "url": "https://www.ithome.com/1/029/691.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.516Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3373de6cbe90",
+      "title": "尘封 21 年的宝马 E65 世代 L7 概念车重见天日：5.5 米车身，全球仅此一台",
+      "url": "https://www.ithome.com/1/029/692.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.516Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "42fc085b7983",
+      "title": "美国电玩零售商 GameStop CEO 批评游戏纯数字化：损害玩家和零售商利益",
+      "url": "https://www.ithome.com/1/029/693.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.515Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "22db8b2050d3",
+      "title": "R 星解释《GTA 6》为何取消虚拟网站：手机应用更符合当下的使用习惯",
+      "url": "https://www.ithome.com/1/029/694.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.515Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "df9bbf74a259",
+      "title": "谷歌与蓝色起源合作，计划 2029 年发射 AI 服务器卫星",
+      "url": "https://www.ithome.com/1/029/695.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.515Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b51ee953b2b5",
+      "title": "Newzoo：《GTA 6》首周收入有望超《星球大战》《指环王》《哈利 · 波特》各自最卖座影片总和",
+      "url": "https://www.ithome.com/1/029/696.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.515Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2d91a501c213",
+      "title": "江淮汽车注册“帝境”商标，消息称与江淮、华为、玛莎拉蒂未来合作关系密切",
+      "url": "https://www.ithome.com/1/029/697.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.514Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "5c55015aae25",
+      "title": "Audio Vivid 生态再进一步：理想汽车官宣上线菁彩声，支持声音对象精准空间定位与动态渲染",
+      "url": "https://www.ithome.com/1/029/698.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.514Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "213b6b0470c6",
+      "title": "瞒不住了：英国法院裁定政府必须承认曾要求苹果“开后门”",
+      "url": "https://www.ithome.com/1/029/699.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.514Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "2dbd2eec0e35",
+      "title": "微软官方 PyPI 包 Agent Framework 遭劫持，攻击者植入窃取登录凭据的恶意软件",
+      "url": "https://www.ithome.com/1/029/700.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.513Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "75a285606fdc",
+      "title": "R 星联合创始人谈《GTA》系列为何不用真实车型：授权成本、创作自由等因素",
+      "url": "https://www.ithome.com/1/029/701.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.513Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "984339c17720",
+      "title": "吴泳铭：阿里“2032 年全球数据中心规模超 20GW”目标或下调",
+      "url": "https://www.ithome.com/1/029/702.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.513Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "9eac54666b33",
+      "title": "今年 10 月，微软 XBOX Series X|S 游戏主机美国销量大幅增长 42%",
+      "url": "https://www.ithome.com/1/029/703.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.512Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "50798b7f2f03",
+      "title": "《GTA 6》藏有两个“简单模式”开关：降低敌人血量、减少车辆受损",
+      "url": "https://www.ithome.com/1/029/704.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.512Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "448aba5b09d7",
+      "title": "Nothing 首款 AI 设备外观流出：无屏设计，形似录音笔",
+      "url": "https://www.ithome.com/1/029/705.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.512Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f5878f997fad",
+      "title": "小米米家扫振电动牙刷 2 Pro 开售：动态彩屏交互、190 天长续航，199.75 元",
+      "url": "https://www.ithome.com/1/029/706.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.511Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "41fae67f469b",
+      "title": "ChatGPT 新增“实时听写”功能：对着麦克风说话，语音能即时变文字",
+      "url": "https://www.ithome.com/1/029/707.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.511Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a425b89ce6ea",
+      "title": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元",
+      "url": "https://www.ithome.com/1/029/708.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.510Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "90a0b9daa2b5",
+      "title": "Epic 喜加一：《深渊之印》免费领取",
+      "url": "https://www.ithome.com/1/029/710.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.510Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "aa83d68a722d",
+      "title": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低",
+      "url": "https://www.ithome.com/1/029/744.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:03.509Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -493,29 +537,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "df0b8cabf646",
-      "title": "中俄美元首和平宣言",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80",
-      "source": "baidu",
-      "category": "general",
-      "summary": "2026年11月19日，中国国家主席习近平与俄美元首在深圳举行会晤。三国元首发表和平宣言，就维护战略稳定和国际安全交换意见。三国重申核战争打不赢也打不得，计划增加精炼石油产品供应，并一致认为国际刑事法院不得滥用管辖权。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "ff21479f7076",
-      "title": "30年 第一次叫“倡议”",
-      "url": "https://www.baidu.com/s?wd=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "11月18日，2026年亚太经合组织工商领导人峰会发布了《2026年亚太经合组织工商领导人峰会深圳倡议》，这是峰会创办30年来首次以倡议形式发布成果文件。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -526,51 +548,73 @@
       "category": "general",
       "summary": "11月19日下午，习近平主席在深圳主持中俄美元首会晤。俄罗斯总统普京、美国总统特朗普先后发言。",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "3b6ffa27802c",
-      "title": "中俄美元首会晤高清大图",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE",
+      "id": "ff21479f7076",
+      "title": "30年 第一次叫“倡议”",
+      "url": "https://www.baidu.com/s?wd=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D",
       "source": "baidu",
       "category": "general",
-      "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。高清大图来了。",
+      "summary": "11月18日，2026年亚太经合组织工商领导人峰会发布了《2026年亚太经合组织工商领导人峰会深圳倡议》，这是峰会创办30年来首次以倡议形式发布成果文件。",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "71396f9a51d0",
-      "title": "特朗普离开深圳做标志性挥拳动作",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E6%B7%B1%E5%9C%B3%E5%81%9A%E6%A0%87%E5%BF%97%E6%80%A7%E6%8C%A5%E6%8B%B3%E5%8A%A8%E4%BD%9C",
+      "id": "4dfad8e8ad67",
+      "title": "普京：感谢中方",
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9",
       "source": "baidu",
       "category": "general",
-      "summary": "11月19日晚，特朗普登上“空军一号”，转身接连做出标志性挥拳动作，挥手告别。现场视频来了！",
+      "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。普京说：“我要感谢中方和习主席组织今天的俄中美元首会晤。我坚信，俄罗斯、中国和美国以及我们三国人民，如果能够在相互尊重、平等和遵守利益平衡的基础上开展建设性、伙伴式合作，便能为加强世界安全与稳定作出重要贡献。”",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "9d5838be0519",
-      "title": "应该全面禁止并彻底销毁核武器",
-      "url": "https://www.baidu.com/s?wd=%E5%BA%94%E8%AF%A5%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%B9%B6%E5%BD%BB%E5%BA%95%E9%94%80%E6%AF%81%E6%A0%B8%E6%AD%A6%E5%99%A8",
+      "id": "8bc1946ae3fb",
+      "title": "特朗普：我们创造了历史",
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E5%88%9B%E9%80%A0%E4%BA%86%E5%8E%86%E5%8F%B2",
       "source": "baidu",
       "category": "general",
-      "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。习近平就大国如何正确相处、共同为世界和平托底提出4点看法。习近平主席称：“核武器是悬在人类头上的‘达摩克利斯之剑’，应该全面禁止并彻底销毁，最终建立无核武器世界。核战争打不赢也打不得。”",
+      "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。特朗普说：“我要祝贺习主席成功举办此次APEC会议。非常成功，巨大的成功。我也很高兴，此次访问期间有机会出席历史上首次美中俄三方会晤。从这个角度来说，今天我们创造了历史。”",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
-      "id": "98dce7cd96b4",
-      "title": "还有30个国家GDP比深圳高",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%98%E6%9C%8930%E4%B8%AA%E5%9B%BD%E5%AE%B6GDP%E6%AF%94%E6%B7%B1%E5%9C%B3%E9%AB%98",
+      "id": "1a74c3af2edd",
+      "title": "普京笑着透露三方会晤细节",
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AC%91%E7%9D%80%E9%80%8F%E9%9C%B2%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4%E7%BB%86%E8%8A%82",
       "source": "baidu",
       "category": "general",
-      "summary": "11月18日至19日，2026年APEC领导人非正式会议在深圳举行。据公开数据，深圳2025年GDP达3.87万亿元，若与各国GDP比较位列全球第31位，仍有30个国家高于深圳。",
+      "summary": "11月19日，中俄美元首会晤结束后，普京笑着谈及本次会晤。他向习近平主席表达感谢，表示会晤十分成功，自由交流的氛围给他留下深刻印象。",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "ab7a726d6061",
+      "title": "韩国总统夫人被舞狮英歌舞表演圈粉",
+      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E8%A2%AB%E8%88%9E%E7%8B%AE%E8%8B%B1%E6%AD%8C%E8%88%9E%E8%A1%A8%E6%BC%94%E5%9C%88%E7%B2%89",
+      "source": "baidu",
+      "category": "general",
+      "summary": "11月19日，韩国总统夫人金惠景在深圳出席APEC相关活动时，被现场舞狮、英歌舞两项非遗表演吸引，还主动和表演的少年击掌互动。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
+      "tags": "[\"baidu\"]"
+    },
+    {
+      "id": "88e27a3c0f3f",
+      "title": "墨西哥总统弹奏中国名曲《茉莉花》",
+      "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E5%BC%B9%E5%A5%8F%E4%B8%AD%E5%9B%BD%E5%90%8D%E6%9B%B2%E3%80%8A%E8%8C%89%E8%8E%89%E8%8A%B1%E3%80%8B",
+      "source": "baidu",
+      "category": "general",
+      "summary": "11月18日，在深圳举行的APEC欢迎晚宴集体合影前，墨西哥总统辛鲍姆拿起一把智能吉他，弹奏中国名曲《茉莉花》。",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -581,7 +625,7 @@
       "category": "general",
       "summary": "19日上午，亚太经合组织第三十三次领导人非正式会议举行。会场特设互动体验区展示创新产品，其中会议礼物醒狮摆件未采用传统工艺，而是使用深圳自主研发的3D打印机一次性立体打印成型，让非遗技艺与智能制造相融合，别出心裁。",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -592,7 +636,7 @@
       "category": "general",
       "summary": "11月19日，在中俄美元首会晤现场，特朗普称：“能来到深圳深感荣幸。”特朗普指出，深圳在40年间崛起为大都市，大部分成就于过去20至25年内实现。他惊叹中国发展变化，高度评价深圳建设得近乎完美，称赞这是一项了不起的成就。",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -603,7 +647,7 @@
       "category": "ai",
       "summary": "网传 “监管要求上报产品AI敞口”为不实消息。证监会辟谣：公募基金投资遵循法规与基金合同自主决策，并未安排相关报送要求。",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     },
     {
@@ -614,53 +658,9 @@
       "category": "general",
       "summary": "11月19日，美国总统特朗普结束亚洲之行，启程返回美国。登上“空军一号”前，王毅外长到机场为其送别，二人进行了长时间交谈。",
       "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8969da2bfbde",
-      "title": "中俄美会晤为何选在麒麟山庄",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%BC%9A%E6%99%A4%E4%B8%BA%E4%BD%95%E9%80%89%E5%9C%A8%E9%BA%92%E9%BA%9F%E5%B1%B1%E5%BA%84",
-      "source": "baidu",
-      "category": "general",
-      "summary": "19日，中俄美三国元首在深圳实现历史首次面对面会晤，会晤地点就在麒麟山庄。麒麟山庄自1997年启用，凭借极高安保规格和私密环境，成为领导人常下榻会晤的场所。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "8c52a0579346",
-      "title": "APEC晚宴用荔枝冰酒销量暴增900倍",
-      "url": "https://www.baidu.com/s?wd=APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D",
-      "source": "baidu",
-      "category": "general",
-      "summary": "11月19日，广东荔枝冰酒生产厂家透露，其产品亮相APEC晚宴后网店营业额暴增900多倍。18日晚，亚太经合组织第三十三次领导人非正式会议欢迎晚宴在深圳国际交流中心举行，该荔枝冰酒入选晚宴酒水，随后随着晚宴菜单曝光引发销量激增。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "f3153396eb5f",
-      "title": "比跷二郎腿还伤身的姿势",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E8%B7%B7%E4%BA%8C%E9%83%8E%E8%85%BF%E8%BF%98%E4%BC%A4%E8%BA%AB%E7%9A%84%E5%A7%BF%E5%8A%BF",
-      "source": "baidu",
-      "category": "general",
-      "summary": "一只脚踩椅子的坐姿虽能让人暂时放松，但长时间保持会伤身。该不对称姿势会导致骨盆倾斜旋转，使腰背肌肉受力不均，易引发腰酸、臀部疼痛；同时抬高的膝盖受持续压力，也会酸胀发麻。",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
-      "tags": "[\"baidu\"]"
-    },
-    {
-      "id": "6cc87b9c0b8b",
-      "title": "俄罗斯记者惊呼在深圳谁还用现金啊",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%B0%E8%80%85%E6%83%8A%E5%91%BC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B0%81%E8%BF%98%E7%94%A8%E7%8E%B0%E9%87%91%E5%95%8A",
-      "source": "baidu",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-19T13:29:43.861Z",
+      "publishedAt": "2026-11-19T21:46:04.082Z",
       "tags": "[\"baidu\"]"
     }
   ],
-  "generatedAt": "2026-11-19T13:29:48.490Z"
+  "generatedAt": "2026-11-19T21:46:07.849Z"
 }
