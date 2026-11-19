@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "a8e4fc6a3100",
+    "title": "苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装",
+    "url": "https://www.ithome.com/1/029/644.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/029/644.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 19 日消息，一款名为“Andarium”软件现已上架苹果 App Store 平台。据介绍，这是一款安卓虚拟机软件，支持在 iPhone 和 iPad 上运行 Android 应用。\n\nIT之家从 App Store 获悉，Andarium 应用内直接包含基于 LineageOS 的 Android 17 系统，完全在设备本地运行，无需登录账号，无广告、无追踪。用户可直接从“文件”应用安装 APK 文件，内置“文件浏览器”，可浏览存储空间并导入或导出文件和文件夹。\n\n值得一提的是，该应用支持 3D 图形与视频播放，可自由调节显示分辨率；支持屏幕旋转，并支持运动与指南针传感器；支持多点触控，并提供可拖动的屏幕侧键菜单（电源、音量、返回、主页和设置）；在 iPad 上支持外接键盘、鼠标和触控板，并支持蓝牙与 MFi 控制器。\n\nAndarium 还可调节 CPU、内存、显示分辨率和存储大小，并可选择纳入 iCloud 或设备备份；支持保存“快照”，随时备份并恢复虚拟机状态；并提供相机、位置、麦克风和触感反馈开关，可按需开启。\n\n需要注意的是，Andarium 需要搭载 Apple A14 或更新芯片的设备（iPhone 12 或更新机型，或搭载 A14 或 M 系列芯片的 iPad）。首次设置建议预留至少 10GB 可用存储空间。虚拟机在 Andarium 处于前台时运行，切换应用时会自动暂停。\n\nIT之家实测，初次进入 Andarium 时，会提示对应用进行设置（CPU 和内存、分辨率、存储空间等）。进入应用后，系统内置软件仅设置、相机、图库等。如需安装软件需要自己提前准备。毕竟是在 iPhone 上运行安卓虚拟机，因此实际运行起来会存在卡顿掉帧的情况。\n\n当设备温度过高时，Andarium 会发出提示，并降低帧率。虚拟机默认运行内存设置为 4GB，如设置高于 4.19GB 会提示游戏可能耗尽显存；如设置超过 4.5GB，iOS 可能会关闭 Andarium。另外，在虚拟机刷IT之家依旧能流畅体验最新的液态玻璃效果。\n\n开发者表示，Andarium 不会收集任何个人数据、分析统计或遥测信息。源代码已在 GitHub 公布。\n\nhttps://github.com/imxieyi/Kernarium\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-19T13:29:42.915Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
