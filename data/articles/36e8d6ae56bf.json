@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "36e8d6ae56bf",
+    "title": "Win11 学院：如何在 Windows 11 26x00.10075 开启 WinUI 原生重构版搜索体验",
+    "url": "https://www.ithome.com/1/030/337.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/030/337.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 今天（11 月 21 日）发布博文，报道称在 11 月可选更新 KB5132057 中，微软邀请部分 Windows 11 用户体验原生重构的 Windows Search 搜索体验。\n\n底层架构方面，新版 Windows Search 搜索摆脱旧版对 WebView2 网页组件的依赖，采用 WinUI 3 原生 UI 框架打造。WinUI 3 属于 Windows App SDK，使用基于 XAML 的界面模型，支持 C++ 和 C# 开发。该框架提供原生控件、布局、输入处理以及现代 Windows 风格的视觉效果。\n\n在资源占用方面，由于原先由网页运行环境承担的界面工作，现在交给原生 UI 框架处理，从而减少与网页容器相关的资源和初始化开销。IT之家附上相关视频如下：\n\n微软官方表示具体取决于使用场景，新版搜索的内存占用约降低 15%~20%。而根据该媒体实测，新版 Windows Search 打开速度更快，而且相比较旧版，还减轻了输入时的轻微迟滞。\n\n界面上，微软 Windows 11 新版搜索取消了常驻的大面积右侧预览区，改用紧凑的单列结果，搜索框位于底部，窗口大小随结果数量调整。\n\n在功能方面，新版搜索还具备“动手”能力，用户不仅能查找应用和文件，还能直接在搜索结果中调节亮度、切换深色模式、开启蓝牙或静音，减少进入设置页面的步骤。\n\n推送方面，微软目前尚未向所有 Windows 11 用户开放该功能，不过安装 KB5132057 可选更新后，Windows 11 用户可以借助 ViveTool 工具启用。\n\n1.确保 Windows 11 系统版本号不低于 26200.10075 或 26300.10075 版本。\n\n2. 从 GitHub 页面下载 ViveTool 工具，然后解压缩到任意文件夹，但需要记住该文件夹路径（例如 C:\\Program Files (x86)\\ViVeTool-v0.3.4）。\n\n3. 按下 Win 键（或者使用鼠标）打开开始菜单，输入“cmd”，然后选择“以管理员权限”打开命令提示符。\n\n4. 使用 cd 命令跳转到 ViveTool 文件夹，例如“cd C:\\Program Files (x86)\\ViVeTool-v0.3.4”\n\n继续输入以下命令，第一个 ID 用于启用 11 月更新的功能包，第二个 ID 用于启用新的 Windows 搜索：\n\n《解锁微软 Win11 开发版隐藏新功能，开源命令行工具 ViveTool 使用指南》\n\n《微软推送 Win11 26x00.10075 可选更新：重构搜索体验，内存占用降低 15%~20%》\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-21T08:10:16.865Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
