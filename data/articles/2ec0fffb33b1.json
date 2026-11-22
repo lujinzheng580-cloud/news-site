@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "2ec0fffb33b1",
+    "title": "28 核英特尔 Nova Lake-S 处理器现身测试平台，最高运行频率达 5.2GHz",
+    "url": "https://www.ithome.com/1/030/522.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/030/522.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 22 日消息，据 TechPowerUp 11 月 22 日报道，OpenBenchmark 测试数据库中出现一颗 28 核英特尔 Nova Lake-S 处理器样品，报告频率为 5.2GHz。\n\n测试记录中的处理器名称为“Intel 0000”，标识包含“NVL”，表明采用该配置的 Nova Lake-S 型号确实存在。该处理器被识别为 Intel 0000，意味着传闻中的四位数命名方案已得到测试记录印证。\n\nIT之家注意到，系统信息列出 28 个 CPU 核心，推测配置为 8 个 P 核、16 个 E 核和 4 个 LPE 核。主板识别为英特尔 Nova Lake-S 参考平台，具体为 NVL-S UDIMM 1DPC CRB Fab2 配置，搭载早期 BIOS。\n\n本次测试平台配备 32GB 内存，运行 Ubuntu 26.04。提交信息还将核显识别为 Intel NVL-S，测试项目覆盖 Quake II RTX、Unigine 系列基准、Hashcat 及多项 OpenCL 负载。\n\n5.2GHz 并不是该处理器最终睿频的确认值。工程样品在固件、功耗限制和频率配置上与零售产品存在差异，测试记录也未说明该频率是持续运行频率还是观测到的最大值。\n\n据IT之家 10 月 27 日报道，PassMark 数据库中的同类“Intel 0000”记录显示，28 核 Nova Lake-S 样品单核最高 5210 分，记录中的睿频仅为 4.8GHz。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-22T01:40:06.049Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
