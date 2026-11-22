@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "9f9bad21f3b0",
+    "title": "博主成功让 2007 年的 64MB 显存 HD2350 老卡成功运行《GTA5》，序章场景约 15 帧",
+    "url": "https://www.ithome.com/1/030/598.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/030/598.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 22 日消息，据外媒 Notebook Check 报道，一名 YouTube 博主 Budget-Builds Official 成功在 ATI Radeon HD 2350 显卡上跑动《GTA 5》，该显卡仅配备 64MB DDR2 显存。\n\n公开信息显示，ATI Radeon HD 2350 显卡发布于 2007 年，这款显卡拥有 40 个流处理器、4 个纹理映射单元（TMU）、4 个光栅操作单元（ROP），配备 64MB DDR2 显存，最高核心频率约为 525MHz。\n\n为了让 GTA 5 成功启动，Budget-Builds Official 不得不将游戏画质设置降低到极其夸张的程度。成功进入游戏后，他又进一步调整各项参数，并对显卡进行超频，最终在游戏序章北洋克顿抢劫逃亡场景中实现了约 15 FPS 的帧率。\n\n当然，游戏运行过程中也出现了不少问题，部分场景素材根本无法正常加载。例如，四名角色原本应该乘坐逃离现场的汽车，但测试中这辆关键车辆却没有显示出来。在火车相撞的剧情场景中，火车本身同样完全消失。尽管如此，游戏仍然能够进行操作，键盘和控制器输入也都能正常响应。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-22T08:53:14.344Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
