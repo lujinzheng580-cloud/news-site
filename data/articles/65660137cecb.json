@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "65660137cecb",
+    "title": "腾讯发布混元翻译模型 HyMT3：翻译结果更准确、更完整、更遵循用户指令",
+    "url": "https://www.ithome.com/1/031/681.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/031/681.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 24 日消息，腾讯今天（24 日）下午宣布，第三代翻译模型 HyMT3 发布并开源。相比前代模型 HyMT2，能够带来更准确、更完整、更遵循用户指令的翻译结果。\n\n根据介绍，在真实场景数据上，误译样本比例降低 43%，漏译 / 增译比例降低 74%，指令遵循类错误降低 40%；支持语种从 38 种扩充到 102 种。\n\nHyMT3 包含 1.8B、7B 和 30B-A3B 三个尺寸，广泛适用于端侧例如 PC、手机、智能设备等各类场景。目前 HyMT3 模型已在腾讯 Hy 翻译 App 和小程序上线，开源模型支持自行下载部署。\n\n根据 Hy MT2 开源后使用者的反馈优化模型效果，在真实场景数据上，Hy MT3 相比 Hy MT2 在误译、漏译 / 增译、指令遵循、术语四类错误上均显著下降。\n\n在指令遵循能力上，Hy MT3 能更准确地遵循用户的翻译要求，包括只输出译文、保留原文格式与换行、保留专有名词与 HTML 标签等。\n\n效果方面，Hy MT3 紧跟前沿超大尺寸模型。横向测评数据显示，在所有快思考模式的模型中，Hy MT3-30B-A3B 取得最佳综合效果，超过 Qwen3.8-Max、Kimi-K3.1-Pro、DeepSeek-V4.1-Flash 等旗舰模型，接近 GPT-6.1-Sol、Gemini-4-Argon 等同期最强的闭源思考模型，并超过了推理计算量是自身 30 倍以上的模型。\n\n根据介绍，在效率上，Hy MT3 系列以极高的效率达到领先效果。\n\n在通用翻译之外，Hy MT3 针对两个场景做了重点优化。\n\n游戏本地化对输出格式和术语有严格要求，例如占位符和富文本标签必须原样保留，游戏术语必须翻译一致，任何脱靶输出都可能直接导致游戏客户端出错。腾讯混元携手王者荣耀团队，以优质的游戏垂类数据与专业评测体系，按文本长度、富文本、占位符等本地化特征分层采样，并纳入游戏中术语密度高的长文本，全面检验模型对游戏语境、专业术语和复杂文本结构的处理能力，全面提升游戏翻译质量。\n\n测评结果显示，Hy MT3-30B-A3B 的核心指标全面优于 Gemini 3.1 Pro 等强闭源模型；配合开源工具链，可无缝接入游戏研发流程，实现高质量、低成本的游戏本地化。\n\n王者荣耀团队还开源了一套游戏翻译工具链（https://github.com/Tencent/TiMiHOKGameTranslator），适配多翻译平台、多文件格式、可插拔流程及多种代码管理方式，可将 Hy MT3-30B-A3B 无缝嵌入游戏研发链路，打通从翻译到工程落地的上下游环节。接入后无需额外人工投入，为游戏行业本地化提供了可复用的标杆方案。\n\n图片翻译方面，Hy MT3 提升了上下文理解与纠错能力，更好地适应 OCR 识别错误，效果达到同尺寸模型最强。\n\nHy MT3 已在混元官网、腾讯 Hy 翻译小程序和 App 上线，海外用户同样可用。\n\n腾讯 Hy 翻译浏览器插件已上线 Chrome 与 Edge，侧边栏一键直达网页、文档、图片翻译，支持智能划词与 AI 答疑；也是目前唯一支持一键安装本地模型的插件，自动适配 NPU / GPU / CPU，数据不出设备、离线可用，并联合 AMD 基于 FastFlowLM 在 XDNA2 NPU 上实现本地翻译加速，AMD Ryzen AI 300/400/Max 系列 AI PC 用户可以直接使用。\n\nHy MT3 模型权重与代码同步开源。IT之家汇总链接如下：\n\nHugging Face：https://huggingface.co/collections/tencent/hy-mt3\n\nModelScope：https://www.modelscope.cn/collections/Tencent-Hunyuan/Hy-MT3\n\nGitHub：https://github.com/Tencent-Hunyuan/Hy-MT3\n\nAngelSlim：https://github.com/tencent/AngelSlim\n\nHy MT3 支持的语种（共 102 种）如下图：\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家包含外链的文章均包含本声明。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-24T10:28:39.369Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
