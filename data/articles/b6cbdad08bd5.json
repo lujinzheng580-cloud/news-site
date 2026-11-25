@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b6cbdad08bd5",
+    "title": "部分第三方产品不兼容 11 月微软 Win11 更新，导致身份验证故障",
+    "url": "https://www.ithome.com/1/032/421.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/032/421.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 25 日消息，科技媒体 bleepingcomputer 今天（11 月 25 日）发布博文，报道称微软确认由于部分第三方产品不兼容新的安全要求，导致部分 Windows 11 用户安装微软 11 月累积更新后，可能会出现登录或身份验证失败故障。\n\nIT之家曾于 11 月 12 日报道，微软为了降低中间人攻击和 NTLM 中继攻击风险，在 11 月发布的累积更新中修复高危远程代码执行漏洞 CVE-2026-118737，并通过 2 个阶段实施修复。\n\n该漏洞存在于 Windows 远程过程调用（RPC）运行时，源于一个与时间相关的身份验证缺陷。理论上未经身份验证的攻击者不需要用户交互，可以在未打补丁的设备上远程执行代码。\n\n为降低 NTLM 中继攻击风险，微软在 11 月更新中启用了 NTLM 消息签名改进的第一阶段：认证后的 NTLM 会话将建立加密会话密钥，并协商真正的消息签名。微软计划于 2027 年 5 月进入第二阶段，届时 Windows 服务器将默认拒绝未启用签名的 NTLM 客户端。中提供 NTLM 消息签名。\n\n不过部分第三方产品并不兼容新的安全要求，受影响的设备或应用可能在返回的 NTLMSSP_CHALLENGE 消息中设置 NTLMSSP_NEGOTIATE_TARGET_INFO 标志，却提供空缺或不完整的 TargetInfo 字段；Windows 因此会拒绝认证并返回 STATUS_LOGON_FAILURE。\n\n受影响场景包括认证代理服务器、SSO 方案，以及使用 NTLM 认证的应用打包解决方案。\n\n微软尚未提供正式修复，但建议受影响用户将注册表项 HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Lsa\\MSV1_0 下的 ClientAllowUnsignedNtlm 设为 1，作为临时兼容措施。\n\n微软强调，这只是短期方案，未来可能被移除；长期做法是升级受影响产品、固件，或改用 Kerberos 等兼容认证方式。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-25T14:28:28.741Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
