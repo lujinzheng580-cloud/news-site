@@ -8,10 +8,10 @@
     "sourceId": "https://www.ithome.com/1/032/481.htm",
     "category": "general",
     "summary": "",
-    "content": "",
+    "content": "IT之家 11 月 25 日消息，KIOXIA（铠侠）日本当地时间今日宣布，即将于明日的 KIOXIA Forum 上展出第 3 代 XL-FLASH 高性能 NAND 闪存的原型产品。铠侠计划于 2027 年 3 月向特定客户交付功能评估样品。\n\n第 3 代 XL-FLASH 采用 CBA 架构：分别制造存储和外围电路，最后将两部分键合在一起。其位密度较第 2 代 XL-FLASH 提升 70%，3μs 的平均读取延迟仅是 BiCS8 TLC 的 1/10，512B 读取操作的能效相较第 2 代 XL-FLASH 提升 135%。\n\n铠侠的 XL-FLASH 瞄准介于系统内存和一般闪存存储之间的 G3.5 存储器层级，可在一定程度上作为 DRAM 的补充或替代，具体应用场景包括超高 IOPS 固态硬盘、基于 NAND 的 CXL 内存扩展模块。",
     "imageUrl": "",
     "authorName": "",
-    "publishedAt": "2026-11-25T14:28:28.737Z",
+    "publishedAt": "2026-11-25T23:15:33.792Z",
     "tags": "[\"ithome\"]",
     "viewCount": 0
   }
