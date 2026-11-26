@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "b5b4a830dc52",
+    "title": "OpenAI 开始合并 ChatGPT 聊天 / 工作模式，重度用户可能更早触及限额",
+    "url": "https://www.ithome.com/1/032/599.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/032/599.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 26 日消息，OpenAICodex&ChatGPT 团队负责人蒂博 · 索蒂奥（IT之家注：Tibo）今天宣布，公司已开始向小部分 Pro 订阅用户推送 ChatGPT 聊天 / 工作模式合并。部分用户对此表示批评，担心此举可能会限制他们的使用额度。\n\nOpenAI 发言人向科技媒体 TechCrunch 表示，大多数用户预计不会因此更频繁地遇到使用额度重置。但少数用量较高的重度用户可能会更早触及额度上限。\n\n同时，虽然聊天 / 工作模式将共享额度系统。但使用 Instant 模型进行的对话将不计入用量，即使用户已经耗尽使用额度，仍然可以继续使用 Instant 模型。\n\nOpenAI 将于 12 月进一步扩大额度共享的覆盖范围。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-26T05:21:31.946Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
