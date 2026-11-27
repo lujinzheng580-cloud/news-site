@@ -2,149 +2,6 @@
   "success": true,
   "data": [
     {
-      "id": "1366e03820a2",
-      "title": "OTA 实现一机六投：华为 XSCENE 车载激光投影官宣再升级，行业首创椅背精灵功能",
-      "url": "https://www.ithome.com/1/033/069.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.483Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "54ef4cfa602c",
-      "title": "靳玉志：华为乾崑总搭载 26 个品牌 62 款车型",
-      "url": "https://www.ithome.com/1/033/070.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.483Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "97c3d436cb00",
-      "title": "华为乾崑 App 2.0 版本发布：新增一键智能报险功能、云瞰升级 3.0 支持双向实时对讲等",
-      "url": "https://www.ithome.com/1/033/072.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.483Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "6259050770c9",
-      "title": "《GTA 6》耗电实测：电视开 HDR 竟比主机还费电",
-      "url": "https://www.ithome.com/1/033/073.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.483Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "524e66f2b939",
-      "title": "未来汽车可以自己去换电池！华为乾崑智驾与宁德时代巧克力换电打通，智能补能解决方案发布",
-      "url": "https://www.ithome.com/1/033/074.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.483Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "809714c80baf",
-      "title": "全球首款搭载华为乾崑和宁德时代换电轿跑：东风奕派 EP7 官宣明日首发亮相",
-      "url": "https://www.ithome.com/1/033/075.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.482Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "1a151a9260c6",
-      "title": "JBL Tune Buds 3 耳机上架：10mm 动圈单元、48 小时续航，729 元",
-      "url": "https://www.ithome.com/1/033/077.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.482Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c1710742b771",
-      "title": "消息称育碧正大力推动将生成式 AI 深度融入游戏开发流程，项目若未引入 AI 需申报原因",
-      "url": "https://www.ithome.com/1/033/078.htm",
-      "source": "ithome",
-      "category": "ai",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.482Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "4017a1b8348f",
-      "title": "宾利首款纯电车型 Torcal 发光格栅细节公布：76 颗钻石元件 +202 颗 LED",
-      "url": "https://www.ithome.com/1/033/079.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.482Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "fc446d27912e",
-      "title": "雷神推出“CQ27F260”27 英寸显示器：2K 260Hz 超频，948.5 元",
-      "url": "https://www.ithome.com/1/033/080.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.481Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "5a7ba37bc60a",
-      "title": "华为乾崑 × 奕境汽车 × 宁德时代：全球首款智能换电车型官宣落地奕境品牌",
-      "url": "https://www.ithome.com/1/033/081.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.481Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "56dbfe6ef5be",
-      "title": "香港网约车驾驶许可证 11 月 30 日起接受当地民众申请，全年开放不设上限",
-      "url": "https://www.ithome.com/1/033/082.htm",
-      "source": "ithome",
-      "category": "general",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.481Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
-      "id": "c72781b425c5",
-      "title": "阿维塔 T09 旗舰 SUV 亮相华为乾崑生态大会，将于明日广州车展中国首秀",
-      "url": "https://www.ithome.com/1/033/086.htm",
-      "source": "ithome",
-      "category": "technology",
-      "summary": "",
-      "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.481Z",
-      "tags": "[\"ithome\"]"
-    },
-    {
       "id": "f136427ae003",
       "title": "设计时速 350 公里：安徽巢马、淮蚌、淮阜高铁明日集中开通运营",
       "url": "https://www.ithome.com/1/033/087.htm",
@@ -152,7 +9,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.481Z",
+      "publishedAt": "2026-11-27T00:03:13.441Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -163,7 +20,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.480Z",
+      "publishedAt": "2026-11-27T00:03:13.441Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -174,7 +31,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.480Z",
+      "publishedAt": "2026-11-27T00:03:13.441Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -185,7 +42,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.480Z",
+      "publishedAt": "2026-11-27T00:03:13.441Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -196,7 +53,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.480Z",
+      "publishedAt": "2026-11-27T00:03:13.441Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -207,7 +64,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.479Z",
+      "publishedAt": "2026-11-27T00:03:13.441Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -218,7 +75,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.479Z",
+      "publishedAt": "2026-11-27T00:03:13.441Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -229,7 +86,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.479Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -240,7 +97,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.478Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -251,7 +108,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.478Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -262,7 +119,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.478Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -273,7 +130,18 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.478Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "750de64daff9",
+      "title": "英伟达 GeForce NOW 黑五促销：半年会员七折，12 款游戏入库",
+      "url": "https://www.ithome.com/1/033/102.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -284,7 +152,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.478Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -295,7 +163,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.477Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -306,7 +174,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.477Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -317,7 +185,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.477Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -328,7 +196,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.476Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -339,7 +207,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.476Z",
+      "publishedAt": "2026-11-27T00:03:13.440Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -350,7 +218,7 @@
       "category": "business",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.476Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -361,7 +229,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.476Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -372,7 +240,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.475Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -383,7 +251,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.475Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -394,7 +262,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.475Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -405,7 +273,7 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.474Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -416,7 +284,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.474Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -427,7 +295,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.474Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -438,7 +306,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.473Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -449,7 +317,7 @@
       "category": "general",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.473Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -460,7 +328,7 @@
       "category": "technology",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.472Z",
+      "publishedAt": "2026-11-27T00:03:13.439Z",
       "tags": "[\"ithome\"]"
     },
     {
@@ -471,9 +339,196 @@
       "category": "ai",
       "summary": "",
       "imageUrl": "",
-      "publishedAt": "2026-11-26T15:39:49.472Z",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "501a51fd6143",
+      "title": "Epic 喜加一：《Bread and Fred》游戏免费领取",
+      "url": "https://www.ithome.com/1/033/132.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b40b380ac5f5",
+      "title": "Steam 黑色星期五促销持续至 11 月 30 日，特惠页面同步改版",
+      "url": "https://www.ithome.com/1/033/135.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "876574fa45eb",
+      "title": "三星 Galaxy S27 Pro / Ultra 手机机模再曝：矩阵相机岛设计",
+      "url": "https://www.ithome.com/1/033/136.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a970165287be",
+      "title": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%",
+      "url": "https://www.ithome.com/1/033/137.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "d8000f8c0bfd",
+      "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
+      "url": "https://www.ithome.com/1/033/138.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a712604a406b",
+      "title": "主播在视频里放火狐 Firefox 浏览器官方链接，竟被谷歌标记“垃圾信息”",
+      "url": "https://www.ithome.com/1/033/139.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "6b024724067a",
+      "title": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题",
+      "url": "https://www.ithome.com/1/033/140.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.438Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "a1f6435ff04f",
+      "title": "Anthropic 平台工程负责人莱斯：AI 改变工程师晋升标准，不再只看项目耗时",
+      "url": "https://www.ithome.com/1/033/141.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.437Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "30277b8e7fbc",
+      "title": "用户反馈英伟达 621.40 驱动“按下葫芦浮起瓢”：修复 SSD 写入后又出现黑屏",
+      "url": "https://www.ithome.com/1/033/143.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.437Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b9b91aefea10",
+      "title": "育碧：我们并没有在全公司范围强制推行 AI",
+      "url": "https://www.ithome.com/1/033/144.htm",
+      "source": "ithome",
+      "category": "ai",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.437Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "7f62aaa946f5",
+      "title": "IT早报 1127：全球首个乙肝功能性治愈新药在中国获批上市；华为星驰辅助驾驶发布；马斯克向全美孩子每人赠送 2 股 SpaceX 股票；微信上线 NFC 交通卡...",
+      "url": "https://www.ithome.com/1/033/145.htm",
+      "source": "ithome",
+      "category": "business",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.437Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "3dd8e24a3c05",
+      "title": "小米 12S、MIX Fold 2、Redmi Note 12 Pro 等多款机型终止软件支持",
+      "url": "https://www.ithome.com/1/033/146.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.437Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "82d4244ad43b",
+      "title": "新研究表明 5G 能干扰卫星“看天气”，影响天气预报精度",
+      "url": "https://www.ithome.com/1/033/147.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.437Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "b2c346ee73ac",
+      "title": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话",
+      "url": "https://www.ithome.com/1/033/148.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.436Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "66f2b7a82684",
+      "title": "5.4 升自吸混动大 V8 加持，福特全新 GT41 赛车亮相",
+      "url": "https://www.ithome.com/1/033/149.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.436Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "f0a8e6286011",
+      "title": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”",
+      "url": "https://www.ithome.com/1/033/150.htm",
+      "source": "ithome",
+      "category": "general",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.436Z",
+      "tags": "[\"ithome\"]"
+    },
+    {
+      "id": "397ed144cc6c",
+      "title": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等",
+      "url": "https://www.ithome.com/1/033/151.htm",
+      "source": "ithome",
+      "category": "technology",
+      "summary": "",
+      "imageUrl": "",
+      "publishedAt": "2026-11-27T00:03:13.435Z",
       "tags": "[\"ithome\"]"
     }
   ],
-  "generatedAt": "2026-11-26T15:39:55.113Z"
+  "generatedAt": "2026-11-27T00:03:17.241Z"
 }

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "6b024724067a",
+    "title": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题",
+    "url": "https://www.ithome.com/1/033/140.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/033/140.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 27 日消息，据 Wccftech 今日报道，NVIDIA Profile Inspector 开发者 Orbmu2k 发布了一款名为 NVIDIA G-SYNC Tweaks 的免费开源工具。\n\n这款工具可用于调整英伟达显卡驱动中未公开的 G-SYNC、可变刷新率（VRR）相关参数，重点解决部分高刷显示器在 60 FPS 时提前触发低帧率补偿（LFC），导致 OLED 屏幕亮度闪烁以及其他显示器出现卡顿的问题。\n\n可变刷新率技术能够让显示器刷新率与 GPU 实际输出帧率动态同步，从而减少画面撕裂和卡顿。当游戏帧率低于显示器支持的 VRR 范围时，低帧率补偿（LFC）会通过重复显示画面帧维持同步。\n\n不过，部分英伟达显卡驱动会在显示器达到其实际 VRR 最低刷新率之前提前启用 LFC。根据 Reddit 用户 PykeFeed 的研究，这一行为与英伟达驱动中一个未公开的参数 vrrFrameSplitBehavior 有关。\n\n在高刷显示器上，英伟达驱动默认可能在约 58-65 FPS 时启动帧倍增，即使显示器实际支持的 VRR 最低刷新率为 48Hz。此时，游戏运行在约 60 FPS 时，显示器可能在 60Hz 和 120Hz 之间反复切换，OLED 面板会因此出现明显的亮度闪烁，其他显示技术的显示器也可能出现卡顿。\n\nNVIDIA G-SYNC Tweaks 可以让用户调整 LFC 触发阈值，选择较低的刷新率倍增条件，将 LFC 启动时间推迟至显示器实际 VRR 下限附近，同时保留显示器的最高刷新率。用户无需手动修改 Windows 注册表，也不必通过降低显示器刷新率规避这一问题。\n\n除 LFC 调整外，该工具还提供多项隐藏驱动参数的控制功能，包括帧倍增阈值与迟滞设置、VRR 帧平滑及闪烁抑制、帧生成节奏控制、刷新率限制、画面撕裂策略、显示器检测，以及光标响应和渲染空闲行为调整等。\n\n开发者还提供了较为详细的逆向分析文档，介绍英伟达 VRR 驱动的相关工作机制，方便用户进一步调整画面流畅度与响应速度之间的平衡。\n\nNVIDIA G-SYNC Tweaks 目前已在 GitHub 免费开放下载，支持 64 位 Windows 10 和 Windows 11 系统，需要配备 NVIDIA GPU，并安装微软 Windows App Runtime 2.x。工具会在修改注册表设置前自动创建备份，也支持重新启动显卡驱动，无需完整重启电脑。\n\n需要注意的是，该工具并不能解决所有 OLED VRR 闪烁问题。如果将 LFC 触发阈值调整至 48 FPS，那么游戏帧率在这一阈值附近波动时，仍可能出现类似症状。\n\n此外，由于涉及英伟达尚未公开的驱动参数，未来驱动更新可能改变相关参数的行为，甚至导致部分设置失效。\n\nIT之家附 GitHub 开源地址：https://github.com/Orbmu2k/NvidiaGsyncTweaks",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-27T00:03:13.438Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d8000f8c0bfd",
+    "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
+    "url": "https://www.ithome.com/1/033/138.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/033/138.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误 —— 此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。\n\nOpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使用上限的速度将加快 40%，Sol 用户则将加快 25%。\n\nSottiaux 同时表示，尽管修复后两款模型的额度消耗速度有所增加，但与上一代 GPT-6 Astra 和 GPT-6.1 Sol 相比，GPT-6.2 Astra 和 Sol 的额度使用效率仍然更高。此次计费错误没有影响其他模型，OpenAI 也不会追溯收取此前少计的额度差额。\n\n作为补偿，OpenAI 将向 Go、Plus、Pro 和 Business 套餐用户各提供一次额外的额度重置机会。该重置额度可以留存，用户无需在获得后立即使用。\n\n此外，Sottiaux 还公布了面向 Business 用户的额外安排：在 2026 年 12 月 31 日之前，Business 套餐用户可以免费使用 Fast Mode（快速模式），无需额外付费。\n\nSottiaux 此前还确认，OpenAI 已开始向一小部分 Pro 用户测试 Chat（聊天）与 Work（工作）模式的合并体验，以收集用户反馈，并为后续扩大推送范围做准备。\n\n合并后的体验旨在减少用户在普通对话与智能体工作模式之间手动切换的需求。Work 模式能够处理更复杂的多步骤任务，包括执行操作、处理文件等，但相较于普通聊天，其任务执行过程通常更加复杂，资源消耗也可能更高。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-27T00:03:13.438Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
