@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "7dcf5e8aa692",
+    "title": "安全公司曝光黑客将窃密木马藏入动态壁纸应用，通过 Meta 广告平台分发以实现定向投毒",
+    "url": "https://www.ithome.com/1/033/422.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/033/422.htm",
+    "category": "general",
+    "summary": "",
+    "content": "IT之家 11 月 27 日消息，网络安全公司 Bitdefender 发文，透露有黑客将信息窃取木马 SYS01 打包进 Lively Wallpapers 、 Wallpaper Engine 等动态壁纸应用，之后在 Meta Ads 平台利用竞价排名方式刊载广告分发这些夹带私货的应用，以此暗中窃取用户个人信息。\n\nBitdefender 拆包发现，SYS01 木马能够在用户的 Chrome、Firefox 等浏览器中安装恶意插件，同时禁用开发者工具和安全问题报告功能，之后便会持续潜伏搜集用户浏览器会话 Cookie、读取用户 Gmail 和 Outlook 邮箱中的近期邮件，将此类内容发送给攻击者。\n\n针对这一攻击活动，Bitdefender 建议用户不要通过社交媒体广告下载来源不明的软件，也不要在缺乏明确理由的情况下向程序授予管理员权限。对于企业用户，该公司建议定期检查 Meta 广告账户的访问权限，及时移除不必要的授权，并留意账户中是否存在可疑活动。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-27T08:41:24.460Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

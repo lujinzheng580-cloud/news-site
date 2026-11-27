@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "d736b0271f74",
+    "title": "Ubuntu 新桌面启动器曝光：找应用、找文件、问 AI 一站完成",
+    "url": "https://www.ithome.com/1/033/525.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/033/525.htm",
+    "category": "ai",
+    "summary": "",
+    "content": "IT之家 11 月 27 日消息，Canonical 于 11 月 25 日发布帖子，表示在为 Ubuntu 开发全新的桌面启动器，计划在同一个界面中整合应用启动、文件搜索以及可选的 AI 辅助功能。首个可用的功能版本预计于 2027 年 1 月发布，届时 Canonical 也将公布相关技术架构细节。\n\n设计理念方面，IT之家援引帖子内容，Canonical 希望在更直接的口入中集成“找应用、找文件、问问题”等日常操作。用户既可以通过键盘快速启动应用、查找文件，也可以使用语音输入完成部分操作。\n\n在 AI 功能方面，Canonical 明确表示其不会成为强制选项。用户可以选择完全关闭 AI，把该启动器当作普通桌面启动器使用；只有主动开启后，相关 AI 功能才会生效。\n\n隐私和安全方面，Canonical 计划优先采用本地 AI 推理，尽量把个人数据保留在用户自己的电脑上。同时，Ubuntu 默认安装不会预装大型 AI 模型，用户需要时再自行选择或安装相关组件。在安全设计上，Canonical 表示将利用 Ubuntu 现有的沙箱和隔离机制，把负责 AI 功能的组件与系统主体隔离开来，降低潜在风险。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-27T08:41:24.457Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
