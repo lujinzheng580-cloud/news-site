@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "e8acd52e915a",
+    "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
+    "url": "https://www.ithome.com/1/033/778.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/033/778.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 28 日消息，科技媒体 MacRumors 昨日（11 月 27 日）报道，尽管 Rockstar Games 没有推出官方 Mac 版本，但社区开发者已通过非官方项目，成功在苹果芯片 Mac 上运行《侠盗猎车手 VI》（GTA 6）游戏。\n\n开发者把游戏的 XBOX Series 版本非官方地移植到 macOS，一些用户反映可以探索场景并控制视角。不过，这些项目仍处于实验阶段，运行速度太慢，无法正常游玩。\n\n其中，名为“Halfwave”的项目在配备 48GB 内存的 M4 Pro MacBook Pro 上，监狱场景的帧率约为每秒 3 帧，船上场景接近每秒 5 帧。另一项 1080p 输出测试中，船上场景达到每秒 6 帧。开发者称存档和自由探索功能可以使用，但仍存在光照错误、物体闪烁和场景加载缓慢等问题。IT之家附上相关截图如下：\n\nHalfwave 基于另一个社区项目“VIctory-macOS”开发。一名使用 M2 Pro Mac 的测试者称，自己可以进入开头的移动教程并控制视角，但帧率约为每两秒一帧。\n\n在实现方式上，这些项目借助多种转换工具运行游戏：Rosetta 2 处理处理器指令，CrossOver Wine 提供 Windows 兼容性，苹果的 D3DMetal 负责图形转换，并借助 AI 辅助完成相关移植工作。\n\n报道称 Rockstar 的母公司 Take-Two Interactive 已开始打击非官方移植行为。GitHub 上公布的一份版权投诉称，一个名为“Leonida”的类似项目侵犯了其版权。",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-28T01:38:08.461Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}

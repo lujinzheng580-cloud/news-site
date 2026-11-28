@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "id": "12b9f611b696",
+    "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
+    "url": "https://www.ithome.com/1/033/786.htm",
+    "source": "ithome",
+    "sourceId": "https://www.ithome.com/1/033/786.htm",
+    "category": "technology",
+    "summary": "",
+    "content": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称在海关舱单记录后，英特尔 Raptor Lake-S NEXT 处理器已在官方驱动文档中确认，该系列面向 LGA 1700 平台，属于桌面处理器产品。\n\n英特尔近日在其官方网站发布的 Windows Zero Copy 显示虚拟化驱动程序文档中，首次明确列出了“Raptor Lake-S NEXT PV”，从而在产品发布之前，悄然确认了 Raptor Lake-S NEXT 这一处理器系列的存在。\n\n文档显示，最新版 Windows Zero Copy 驱动支持 Bartlett Lake-S Hybrid MR4、12P MR2 以及 Raptor Lake-S NEXT PV 三个平台阶段。英特尔目前尚未对 Raptor Lake-S NEXT PV 作出详细说明。\n\nIT之家援引博文介绍，该驱动专为虚拟机环境设计，不适用于普通桌面使用。它基于微软 Windows 间接显示驱动程序模型，采用零拷贝设计，在 Windows 客户机与 Linux QEMU 主机之间传输显示帧。英特尔表示，SR-IOV、KVM 多操作系统等功能均需要该驱动，同时它也支持多显示器配置。\n\n文档中同时提到的 Bartlett Lake-S 同样受到关注。该处理器系列最多可配置 12 个 P 核心，最初面向嵌入式市场，后来有改装玩家通过变通方法使其在消费级 LGA 1700 平台上运行。近期有报道称，微星 Z690 与 Z790 主板已通过最新 BIOS 支持此类芯片。\n\n《英特尔多款 \"Raptor Lake Next\" 处理器现身海关舱单记录》\n\n《技嘉 Z790/B760/H610 全系主板获 BIOS 更新：支持英特尔新一代 LGA1700 处理器 Raptor Lake Next》\n\n《曝英特尔 \"Raptor Lake Next HX\" 移动端处理器使用“酷睿 2000 HX”命名》\n\n《曝英特尔 \"Raptor Lake Next\" 处理器移动端仅提供 \"HX\" 版本，至高 8P16E》",
+    "imageUrl": "",
+    "authorName": "",
+    "publishedAt": "2026-11-28T01:38:08.460Z",
+    "tags": "[\"ithome\"]",
+    "viewCount": 0
+  }
+}
